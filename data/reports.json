@@ -1,0 +1,3695 @@
+[
+  {
+    "id": "2026-11-02_evening",
+    "date": "2026-11-02",
+    "slot": "evening",
+    "label": "2026-11-02 晚场 (19:00)",
+    "breakouts": 15,
+    "new_breakouts": 2,
+    "leads": 27,
+    "max_velocity": 5315,
+    "max_velocity_repo": "deepseek-ai/dsh-superagent-prototype",
+    "repos": [
+      {
+        "repo": "deepseek-ai/dsh-superagent-prototype",
+        "owner": "deepseek-ai",
+        "name": "dsh-superagent-prototype",
+        "stars": 10953,
+        "velocity": 5315,
+        "delta": 3057,
+        "age_days": 2.1,
+        "description": "Towards a More Autonomous Agent System",
+        "new": false,
+        "zh_description": "迈向更自主的智能体系统",
+        "tags": [
+          "全部",
+          "超高爆发",
+          "智能体/Agent"
+        ]
+      },
+      {
+        "repo": "heydamir/unslop",
+        "owner": "heydamir",
+        "name": "unslop",
+        "stars": 5356,
+        "velocity": 1408,
+        "delta": 436,
+        "age_days": 3.8,
+        "description": "A Claude skill that turns vibecoded, AI-looking UI into a designed interface",
+        "new": false,
+        "zh_description": "一项 Claude 技能，可将氛围编程生成、风格像 AI 的界面改造为经过精心设计的界面",
+        "tags": [
+          "全部",
+          "超高爆发",
+          "智能体/Agent",
+          "视觉/UI"
+        ]
+      },
+      {
+        "repo": "wangzan101/Mika",
+        "owner": "wangzan101",
+        "name": "Mika",
+        "stars": 4759,
+        "velocity": 1236,
+        "delta": 825,
+        "age_days": 3.9,
+        "description": "An on-device AI agent for Android that operates apps and the web to get things done for you.",
+        "new": false,
+        "zh_description": "一款面向 Android 的端侧 AI 智能体，可操作应用和网页，替你完成各项任务",
+        "tags": [
+          "全部",
+          "超高爆发",
+          "智能体/Agent",
+          "移动/系统"
+        ]
+      },
+      {
+        "repo": "storytold/craft-anything",
+        "owner": "storytold",
+        "name": "craft-anything",
+        "stars": 2213,
+        "velocity": 1202,
+        "delta": 997,
+        "age_days": 1.8,
+        "description": "Craft Anything: understand how any software works, and craft your own.",
+        "new": false,
+        "zh_description": "创造一切：了解任何软件的工作原理，并亲手打造自己的软件",
+        "tags": [
+          "全部",
+          "超高爆发"
+        ]
+      },
+      {
+        "repo": "patch-gg/pixelfx",
+        "owner": "patch-gg",
+        "name": "pixelfx",
+        "stars": 3146,
+        "velocity": 990,
+        "delta": 498,
+        "age_days": 3.2,
+        "description": "244 pixel art effects, every one a small piece of code. Plus a Claude Code skill to make your own.",
+        "new": false,
+        "zh_description": "244 种像素艺术特效，每一种都是一小段代码。另有 Claude Code 技能可让你创作自己的特效",
+        "tags": [
+          "全部",
+          "智能体/Agent",
+          "视觉/UI"
+        ]
+      },
+      {
+        "repo": "anhao/ai-pose-gallery-zh",
+        "owner": "anhao",
+        "name": "ai-pose-gallery-zh",
+        "stars": 5378,
+        "velocity": 905,
+        "delta": 218,
+        "age_days": 5.9,
+        "description": "中文版 AI 姿势参考图库 · 1439 组 / 2878 张图片 / 完整汉化 · 零依赖静态画廊",
+        "new": false,
+        "zh_description": "中文版 AI 姿势参考图库 · 1439 组 / 2878 张图片 / 完整汉化 · 零依赖静态画廊",
+        "tags": [
+          "全部",
+          "视觉/UI"
+        ]
+      },
+      {
+        "repo": "valentderah/totk-pc-recomp",
+        "owner": "valentderah",
+        "name": "totk-pc-recomp",
+        "stars": 3504,
+        "velocity": 890,
+        "delta": 269,
+        "age_days": 3.9,
+        "description": "Static recompilation of The Legend of Zelda: Tears of the Kingdom to native Windows x86-64, with a Vulkan renderer. Game",
+        "new": false,
+        "zh_description": "将《塞尔达传说：王国之泪》静态重编译为原生 Windows x86-64 程序，并采用 Vulkan 渲染器。游戏",
+        "tags": [
+          "全部",
+          "视觉/UI",
+          "移动/系统"
+        ]
+      },
+      {
+        "repo": "unclebob/ub-mode",
+        "owner": "unclebob",
+        "name": "ub-mode",
+        "stars": 6425,
+        "velocity": 825,
+        "delta": 156,
+        "age_days": 7.8,
+        "description": "",
+        "new": false,
+        "zh_description": "暂无项目描述",
+        "tags": [
+          "全部"
+        ]
+      },
+      {
+        "repo": "l0ng-ai/openidea",
+        "owner": "l0ng-ai",
+        "name": "openidea",
+        "stars": 4423,
+        "velocity": 370,
+        "delta": 792,
+        "age_days": 11.9,
+        "description": "The IDE you know, rebuilt in Rust. IntelliJ IDEA–style keymap, tool windows and search-everywhere in a fast native app: ",
+        "new": false,
+        "zh_description": "以 Rust 重建你熟悉的 IDE。采用 IntelliJ IDEA 风格的快捷键映射、工具窗口和全局搜索，提供高速原生应用体验：",
+        "tags": [
+          "全部",
+          "视觉/UI"
+        ]
+      },
+      {
+        "repo": "pengchujin/aerial-tv",
+        "owner": "pengchujin",
+        "name": "aerial-tv",
+        "stars": 8907,
+        "velocity": 681,
+        "delta": 210,
+        "age_days": 13.1,
+        "description": "给国产电视的一块干净桌面：参照 tvOS 设计的开源 Android TV 桌面，没有广告，开机自动接管。A tvOS-style launcher for Xiaomi, TCL and other China-market TVs.",
+        "new": false,
+        "zh_description": "给国产电视的一块干净桌面：参照 tvOS 设计的开源 Android TV 桌面，没有广告，开机自动接管。A tvOS-style launcher for Xiaomi, TCL and other China-market TVs.",
+        "tags": [
+          "全部",
+          "移动/系统"
+        ]
+      },
+      {
+        "repo": "caru-ini/stack-diagram",
+        "owner": "caru-ini",
+        "name": "stack-diagram",
+        "stars": 834,
+        "velocity": 680,
+        "delta": 418,
+        "age_days": 1.2,
+        "description": "Agent skill: describe your stack in a sentence, get an architecture diagram with official logos",
+        "new": true,
+        "variants": [
+          "stack diagram",
+          "caru-ini stack diagram"
+        ],
+        "zh_description": "智能体技能：用一句话描述你的技术栈，即可生成带有官方 Logo 的架构图",
+        "tags": [
+          "全部",
+          "今日新入榜",
+          "智能体/Agent",
+          "视觉/UI"
+        ]
+      },
+      {
+        "repo": "ccch1mneyyy/dsh-Go",
+        "owner": "ccch1mneyyy",
+        "name": "dsh-Go",
+        "stars": 5377,
+        "velocity": 662,
+        "delta": 646,
+        "age_days": 8.1,
+        "description": "dsh-go — DeepSeek Harness 装进口袋：手机本机运行，也能遥控你的电脑。",
+        "new": false,
+        "zh_description": "dsh-go — DeepSeek Harness 装进口袋：手机本机运行，也能遥控你的电脑。",
+        "tags": [
+          "全部",
+          "智能体/Agent"
+        ]
+      },
+      {
+        "repo": "rddmwmddr/android-ad-cleaner",
+        "owner": "rddmwmddr",
+        "name": "android-ad-cleaner",
+        "stars": 5815,
+        "velocity": 630,
+        "delta": 155,
+        "age_days": 9.2,
+        "description": "关掉国产安卓手机系统里的广告、热搜、资讯推荐和营销推送。不 root，可还原，支持 AI 智能体一键执行。",
+        "new": false,
+        "zh_description": "关掉国产安卓手机系统里的广告、热搜、资讯推荐和营销推送。不 root，可还原，支持 AI 智能体一键执行。",
+        "tags": [
+          "全部",
+          "智能体/Agent",
+          "移动/系统"
+        ]
+      },
+      {
+        "repo": "modelflare-ai/AnyModelBot",
+        "owner": "modelflare-ai",
+        "name": "AnyModelBot",
+        "stars": 1064,
+        "velocity": 175,
+        "delta": 572,
+        "age_days": 6.1,
+        "description": "🤖 Open-source, local-first alternative to Grok Bot, OpenAI dots and Claude Duet. Your own AI bots on any model: GPT, Cla",
+        "new": true,
+        "variants": [
+          "anymodelbot",
+          "modelflare-ai anymodelbot",
+          "modelflare anymodelbot"
+        ],
+        "zh_description": "🤖 开源、本地优先的替代方案，可取代 Grok Bot、OpenAI dots 和 Claude Duet。支持在任意模型上创建自己的 AI 机器人：GPT、Cla",
+        "tags": [
+          "全部",
+          "今日新入榜",
+          "智能体/Agent"
+        ]
+      },
+      {
+        "repo": "interplains/Zero-Breach-Toolkit",
+        "owner": "interplains",
+        "name": "Zero-Breach-Toolkit",
+        "stars": 4210,
+        "velocity": 537,
+        "delta": 53,
+        "age_days": 7.8,
+        "description": "Free, open-source check for traces of mercenary spyware (Pegasus, Predator, Graphite, Candiru and more) on computers, An",
+        "new": false,
+        "zh_description": "免费、开源的工具，可检查计算机和 An 上是否存在雇佣间谍软件（Pegasus、Predator、Graphite、Candiru 等）留下的痕迹",
+        "tags": [
+          "全部"
+        ]
+      }
+    ],
+    "leads_data": [
+      {
+        "term": "stack diagram",
+        "kinds": [
+          "breakout"
+        ],
+        "signals": [
+          "GitHub breakout caru-ini/stack-diagram ★834 (680/day, +418 in a day)"
+        ],
+        "examples": [
+          "caru-ini/stack-diagram: Agent skill: describe your stack in a sentence, get an architecture diagram with official logos"
+        ],
+        "variants": [
+          "stack diagram",
+          "caru-ini stack diagram"
+        ],
+        "posts": [],
+        "repo": "caru-ini/stack-diagram",
+        "known": "",
+        "format": "image",
+        "one_click": null,
+        "zh_examples": [
+          "caru-ini/stack-diagram: 智能体技能：用一句话描述你的技术栈，即可生成带有官方 Logo 的架构图"
+        ]
+      },
+      {
+        "term": "anymodelbot",
+        "kinds": [
+          "breakout"
+        ],
+        "signals": [
+          "GitHub breakout modelflare-ai/AnyModelBot ★1064 (175/day, +572 in a day)"
+        ],
+        "examples": [
+          "modelflare-ai/AnyModelBot: 🤖 Open-source, local-first alternative to Grok Bot, OpenAI dots and Claude Duet. Your own AI bots on any model: GPT, Cla"
+        ],
+        "variants": [
+          "anymodelbot",
+          "modelflare-ai anymodelbot",
+          "modelflare anymodelbot"
+        ],
+        "posts": [],
+        "repo": "modelflare-ai/AnyModelBot",
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": [
+          "modelflare-ai/AnyModelBot: 🤖 开源、本地优先的替代方案，可取代 Grok Bot、OpenAI dots 和 Claude Duet。支持在任意模型上创建自己的 AI 机器人：GPT、Cla"
+        ]
+      },
+      {
+        "term": "cloudcorprecords",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 48 places (×37.4)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "records",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 48 places (×35.3)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "corp",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 48 places (×33.6)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "co.civai.nova",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 28 places (×26.5)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "connectors co.civai.nova",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 28 places (×26.5)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "genpark personal",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 23 places (×19.5)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "cloud",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 49 places (×16.8)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "connectors io.github.theluckystrike",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 20 places (×14.3)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "bgpt",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 12 places (×11.9)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "theluckystrike",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 12 places (×11.6)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "calculator",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 16 places (×11.1)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "app.tuper",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 7 places (×7.0)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "connectors app.tuper",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 7 places (×7.0)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "alpha park",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 12 places (×6.8)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "park genpark",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 12 places (×6.8)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "alpha",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 13 places (×6.4)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "alphaparkinc genpark",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 11 places (×5.9)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "io.github.kriton",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 5 places (×4.7)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "connectors io.github.kriton",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 5 places (×4.7)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "io.github.kriton dev",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 5 places (×4.7)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "loan",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 5 places (×4.7)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "deduction calculator",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 4 places (×4.0)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "port",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 4 places (×3.4)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "tax",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 4 places (×3.3)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "com.diogenesgateway diogenes",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 3 places (×3.0)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      }
+    ]
+  },
+  {
+    "id": "2026-11-02_morning",
+    "date": "2026-11-02",
+    "slot": "morning",
+    "label": "2026-11-02 早场 (10:00)",
+    "breakouts": 15,
+    "new_breakouts": 4,
+    "leads": 32,
+    "max_velocity": 4684,
+    "max_velocity_repo": "deepseek-ai/dsh-superagent-prototype",
+    "repos": [
+      {
+        "repo": "deepseek-ai/dsh-superagent-prototype",
+        "owner": "deepseek-ai",
+        "name": "dsh-superagent-prototype",
+        "stars": 7896,
+        "velocity": 4684,
+        "delta": 2922,
+        "age_days": 1.7,
+        "description": "Towards a More Autonomous Agent System",
+        "new": false,
+        "zh_description": "迈向更自主的智能体系统",
+        "tags": [
+          "全部",
+          "超高爆发",
+          "智能体/Agent"
+        ]
+      },
+      {
+        "repo": "heydamir/unslop",
+        "owner": "heydamir",
+        "name": "unslop",
+        "stars": 4920,
+        "velocity": 1434,
+        "delta": 851,
+        "age_days": 3.4,
+        "description": "A Claude skill that turns vibecoded, AI-looking UI into a designed interface",
+        "new": false,
+        "zh_description": "一项 Claude 技能，可将氛围编程生成、风格像 AI 的界面改造为经过精心设计的界面",
+        "tags": [
+          "全部",
+          "超高爆发",
+          "智能体/Agent",
+          "视觉/UI"
+        ]
+      },
+      {
+        "repo": "l0ng-ai/openidea",
+        "owner": "l0ng-ai",
+        "name": "openidea",
+        "stars": 3631,
+        "velocity": 314,
+        "delta": 1429,
+        "age_days": 11.6,
+        "description": "The IDE you know, rebuilt in Rust. IntelliJ IDEA–style keymap, tool windows and search-everywhere in a fast native app: ",
+        "new": true,
+        "variants": [
+          "openidea",
+          "l0ng-ai openidea"
+        ],
+        "zh_description": "以 Rust 重建你熟悉的 IDE。采用 IntelliJ IDEA 风格的快捷键映射、工具窗口和全局搜索，提供高速原生应用体验：",
+        "tags": [
+          "全部",
+          "今日新入榜",
+          "视觉/UI"
+        ]
+      },
+      {
+        "repo": "wangzan101/Mika",
+        "owner": "wangzan101",
+        "name": "Mika",
+        "stars": 3934,
+        "velocity": 1132,
+        "delta": 679,
+        "age_days": 3.5,
+        "description": "An on-device AI agent for Android that operates apps and the web to get things done for you.",
+        "new": false,
+        "zh_description": "一款面向 Android 的端侧 AI 智能体，可操作应用和网页，替你完成各项任务",
+        "tags": [
+          "全部",
+          "超高爆发",
+          "智能体/Agent",
+          "移动/系统"
+        ]
+      },
+      {
+        "repo": "patch-gg/pixelfx",
+        "owner": "patch-gg",
+        "name": "pixelfx",
+        "stars": 2648,
+        "velocity": 945,
+        "delta": 713,
+        "age_days": 2.8,
+        "description": "244 pixel art effects, every one a small piece of code. Plus a Claude Code skill to make your own.",
+        "new": false,
+        "zh_description": "244 种像素艺术特效，每一种都是一小段代码。另有 Claude Code 技能可让你创作自己的特效",
+        "tags": [
+          "全部",
+          "智能体/Agent",
+          "视觉/UI"
+        ]
+      },
+      {
+        "repo": "anhao/ai-pose-gallery-zh",
+        "owner": "anhao",
+        "name": "ai-pose-gallery-zh",
+        "stars": 5160,
+        "velocity": 927,
+        "delta": 190,
+        "age_days": 5.6,
+        "description": "中文版 AI 姿势参考图库 · 1439 组 / 2878 张图片 / 完整汉化 · 零依赖静态画廊",
+        "new": false,
+        "zh_description": "中文版 AI 姿势参考图库 · 1439 组 / 2878 张图片 / 完整汉化 · 零依赖静态画廊",
+        "tags": [
+          "全部",
+          "视觉/UI"
+        ]
+      },
+      {
+        "repo": "valentderah/totk-pc-recomp",
+        "owner": "valentderah",
+        "name": "totk-pc-recomp",
+        "stars": 3235,
+        "velocity": 909,
+        "delta": 378,
+        "age_days": 3.6,
+        "description": "Static recompilation of The Legend of Zelda: Tears of the Kingdom to native Windows x86-64, with a Vulkan renderer. Game",
+        "new": false,
+        "zh_description": "将《塞尔达传说：王国之泪》静态重编译为原生 Windows x86-64 程序，并采用 Vulkan 渲染器。游戏",
+        "tags": [
+          "全部",
+          "视觉/UI",
+          "移动/系统"
+        ]
+      },
+      {
+        "repo": "unclebob/ub-mode",
+        "owner": "unclebob",
+        "name": "ub-mode",
+        "stars": 6269,
+        "velocity": 846,
+        "delta": 230,
+        "age_days": 7.4,
+        "description": "",
+        "new": false,
+        "zh_description": "暂无项目描述",
+        "tags": [
+          "全部"
+        ]
+      },
+      {
+        "repo": "storytold/craft-anything",
+        "owner": "storytold",
+        "name": "craft-anything",
+        "stars": 1216,
+        "velocity": 830,
+        "delta": null,
+        "age_days": 1.5,
+        "description": "Craft Anything: understand how any software works, and craft your own.",
+        "new": true,
+        "variants": [
+          "craft anything",
+          "storytold craft anything",
+          "artcraft craft anything"
+        ],
+        "zh_description": "创造一切：了解任何软件的工作原理，并亲手打造自己的软件",
+        "tags": [
+          "全部",
+          "今日新入榜"
+        ]
+      },
+      {
+        "repo": "haydenschmitty/floorplan",
+        "owner": "haydenschmitty",
+        "name": "floorplan",
+        "stars": 1813,
+        "velocity": 325,
+        "delta": 714,
+        "age_days": 5.6,
+        "description": "See how your app actually fits together. An interactive, plain-English map of your codebase, drawn by Claude or Codex.",
+        "new": true,
+        "variants": [
+          "floorplan",
+          "haydenschmitty floorplan",
+          "hayden floorplan"
+        ],
+        "zh_description": "直观了解你的应用是如何组合而成的。由 Claude 或 Codex 绘制，以通俗易懂的方式呈现代码库交互式关系图。",
+        "tags": [
+          "全部",
+          "今日新入榜"
+        ]
+      },
+      {
+        "repo": "pengchujin/aerial-tv",
+        "owner": "pengchujin",
+        "name": "aerial-tv",
+        "stars": 8697,
+        "velocity": 685,
+        "delta": 189,
+        "age_days": 12.7,
+        "description": "给国产电视的一块干净桌面：参照 tvOS 设计的开源 Android TV 桌面，没有广告，开机自动接管。A tvOS-style launcher for Xiaomi, TCL and other China-market TVs.",
+        "new": false,
+        "zh_description": "给国产电视的一块干净桌面：参照 tvOS 设计的开源 Android TV 桌面，没有广告，开机自动接管。A tvOS-style launcher for Xiaomi, TCL and other China-market TVs.",
+        "tags": [
+          "全部",
+          "移动/系统"
+        ]
+      },
+      {
+        "repo": "rddmwmddr/android-ad-cleaner",
+        "owner": "rddmwmddr",
+        "name": "android-ad-cleaner",
+        "stars": 5660,
+        "velocity": 640,
+        "delta": 136,
+        "age_days": 8.9,
+        "description": "关掉国产安卓手机系统里的广告、热搜、资讯推荐和营销推送。不 root，可还原，支持 AI 智能体一键执行。",
+        "new": false,
+        "zh_description": "关掉国产安卓手机系统里的广告、热搜、资讯推荐和营销推送。不 root，可还原，支持 AI 智能体一键执行。",
+        "tags": [
+          "全部",
+          "智能体/Agent",
+          "移动/系统"
+        ]
+      },
+      {
+        "repo": "ccch1mneyyy/dsh-Go",
+        "owner": "ccch1mneyyy",
+        "name": "dsh-Go",
+        "stars": 4731,
+        "velocity": 611,
+        "delta": 581,
+        "age_days": 7.7,
+        "description": "dsh-go — DeepSeek Harness 装进口袋：手机本机运行，也能遥控你的电脑。",
+        "new": false,
+        "zh_description": "dsh-go — DeepSeek Harness 装进口袋：手机本机运行，也能遥控你的电脑。",
+        "tags": [
+          "全部",
+          "智能体/Agent"
+        ]
+      },
+      {
+        "repo": "interplains/Zero-Breach-Toolkit",
+        "owner": "interplains",
+        "name": "Zero-Breach-Toolkit",
+        "stars": 4157,
+        "velocity": 556,
+        "delta": 114,
+        "age_days": 7.5,
+        "description": "Free, open-source check for traces of mercenary spyware (Pegasus, Predator, Graphite, Candiru and more) on computers, An",
+        "new": false,
+        "zh_description": "免费、开源的工具，可检查计算机和 An 上是否存在雇佣间谍软件（Pegasus、Predator、Graphite、Candiru 等）留下的痕迹",
+        "tags": [
+          "全部"
+        ]
+      },
+      {
+        "repo": "Arjun-Ingole/hop",
+        "owner": "Arjun-Ingole",
+        "name": "hop",
+        "stars": 1222,
+        "velocity": 540,
+        "delta": 314,
+        "age_days": 2.3,
+        "description": "Install Linux next to Windows without a USB stick",
+        "new": true,
+        "variants": [
+          "hop",
+          "arjun-ingole hop",
+          "arjun hop"
+        ],
+        "zh_description": "无需 U 盘，即可在 Windows 旁安装 Linux",
+        "tags": [
+          "全部",
+          "今日新入榜"
+        ]
+      }
+    ],
+    "leads_data": [
+      {
+        "term": "numbat",
+        "kinds": [
+          "hf"
+        ],
+        "signals": [
+          "Hugging Face: new at #21"
+        ],
+        "examples": [
+          "burner22/numbat (?, ♥204)"
+        ],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": [
+          "burner22/numbat (?, ♥204)"
+        ]
+      },
+      {
+        "term": "krea 2 v2",
+        "kinds": [
+          "hf"
+        ],
+        "signals": [
+          "Hugging Face Spaces: new at #47"
+        ],
+        "examples": [
+          "Intruzo/Krea-2-Turbo_v2 (gradio, ♥23)"
+        ],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": [
+          "Intruzo/Krea-2-Turbo_v2 (gradio, ♥23)"
+        ]
+      },
+      {
+        "term": "ava",
+        "kinds": [
+          "hf"
+        ],
+        "signals": [
+          "Hugging Face Spaces: new at #48"
+        ],
+        "examples": [
+          "townbox/ava (static, ♥17)"
+        ],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": [
+          "townbox/ava (static, ♥17)"
+        ]
+      },
+      {
+        "term": "openidea",
+        "kinds": [
+          "breakout"
+        ],
+        "signals": [
+          "GitHub breakout l0ng-ai/openidea ★3631 (314/day, +1429 in a day)"
+        ],
+        "examples": [
+          "l0ng-ai/openidea: The IDE you know, rebuilt in Rust. IntelliJ IDEA–style keymap, tool windows and search-everywhere in a fast native app: "
+        ],
+        "variants": [
+          "openidea",
+          "l0ng-ai openidea"
+        ],
+        "posts": [],
+        "repo": "l0ng-ai/openidea",
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": [
+          "l0ng-ai/openidea: 以 Rust 重建你熟悉的 IDE。采用 IntelliJ IDEA 风格的快捷键映射、工具窗口和全局搜索，提供高速原生应用体验："
+        ]
+      },
+      {
+        "term": "craft anything",
+        "kinds": [
+          "breakout"
+        ],
+        "signals": [
+          "GitHub breakout storytold/craft-anything ★1216 (830/day)"
+        ],
+        "examples": [
+          "storytold/craft-anything: Craft Anything: understand how any software works, and craft your own."
+        ],
+        "variants": [
+          "craft anything",
+          "storytold craft anything",
+          "artcraft craft anything"
+        ],
+        "posts": [],
+        "repo": "storytold/craft-anything",
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": [
+          "storytold/craft-anything: 创造一切：了解任何软件的工作原理，并亲手打造自己的软件"
+        ]
+      },
+      {
+        "term": "floorplan",
+        "kinds": [
+          "breakout"
+        ],
+        "signals": [
+          "GitHub breakout haydenschmitty/floorplan ★1813 (325/day, +714 in a day)"
+        ],
+        "examples": [
+          "haydenschmitty/floorplan: See how your app actually fits together. An interactive, plain-English map of your codebase, drawn by Claude or Codex."
+        ],
+        "variants": [
+          "floorplan",
+          "haydenschmitty floorplan",
+          "hayden floorplan"
+        ],
+        "posts": [],
+        "repo": "haydenschmitty/floorplan",
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": [
+          "haydenschmitty/floorplan: 直观了解你的应用是如何组合而成的。由 Claude 或 Codex 绘制，以通俗易懂的方式呈现代码库交互式关系图。"
+        ]
+      },
+      {
+        "term": "hop",
+        "kinds": [
+          "breakout"
+        ],
+        "signals": [
+          "GitHub breakout Arjun-Ingole/hop ★1222 (540/day, +314 in a day)"
+        ],
+        "examples": [
+          "Arjun-Ingole/hop: Install Linux next to Windows without a USB stick"
+        ],
+        "variants": [
+          "hop",
+          "arjun-ingole hop",
+          "arjun hop"
+        ],
+        "posts": [],
+        "repo": "Arjun-Ingole/hop",
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": [
+          "Arjun-Ingole/hop: 无需 U 盘，即可在 Windows 旁安装 Linux"
+        ]
+      },
+      {
+        "term": "connectors io.usefulapi",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 116 places (×34.8)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "cloudcorprecords",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 40 places (×30.7)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "records",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 40 places (×28.0)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "corp",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 40 places (×26.0)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "product catalog",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 12 places (×11.7)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "cloud",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 41 places (×10.4)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "loans",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 10 places (×9.9)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "loan",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 10 places (×9.4)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "genpark personal",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 11 places (×8.8)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "catalog",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 13 places (×6.6)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "port",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 7 places (×5.6)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "directory",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 7 places (×4.1)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "multifamily",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 4 places (×4.0)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "connectors io.sslip.2",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 4 places (×4.0)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "emperor",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 4 places (×4.0)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "yarenty emperor",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 4 places (×4.0)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "connectors io.github.nero",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 5 places (×3.9)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "io.github.nero engine",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 5 places (×3.9)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "radar",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 5 places (×3.1)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "connectors",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 448 places (×3.0)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "app.payperwork",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 3 places (×3.0)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "connectors app.payperwork",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 3 places (×3.0)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "beats",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 3 places (×3.0)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "com.photoprintagent",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 3 places (×3.0)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "connectors com.photoprintagent",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 3 places (×3.0)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      }
+    ]
+  },
+  {
+    "id": "2026-11-01_evening",
+    "date": "2026-11-01",
+    "slot": "evening",
+    "label": "2026-11-01 晚场 (19:00)",
+    "breakouts": 15,
+    "new_breakouts": 2,
+    "leads": 27,
+    "max_velocity": 4689,
+    "max_velocity_repo": "deepseek-ai/dsh-superagent-prototype",
+    "repos": [
+      {
+        "repo": "deepseek-ai/dsh-superagent-prototype",
+        "owner": "deepseek-ai",
+        "name": "dsh-superagent-prototype",
+        "stars": 4974,
+        "velocity": 4689,
+        "delta": 3708,
+        "age_days": 1.1,
+        "description": "Towards a More Autonomous Agent System",
+        "new": false,
+        "zh_description": "迈向更自主的智能体系统",
+        "tags": [
+          "全部",
+          "超高爆发",
+          "智能体/Agent"
+        ]
+      },
+      {
+        "repo": "heydamir/unslop",
+        "owner": "heydamir",
+        "name": "unslop",
+        "stars": 4069,
+        "velocity": 1451,
+        "delta": 1205,
+        "age_days": 2.8,
+        "description": "A Claude skill that turns vibecoded, AI-looking UI into a designed interface",
+        "new": false,
+        "zh_description": "一项 Claude 技能，可将氛围编程生成、风格像 AI 的界面改造为经过精心设计的界面",
+        "tags": [
+          "全部",
+          "超高爆发",
+          "智能体/Agent",
+          "视觉/UI"
+        ]
+      },
+      {
+        "repo": "wangzan101/Mika",
+        "owner": "wangzan101",
+        "name": "Mika",
+        "stars": 3255,
+        "velocity": 1142,
+        "delta": 810,
+        "age_days": 2.9,
+        "description": "An on-device AI agent for Android that operates apps and the web to get things done for you.",
+        "new": false,
+        "zh_description": "一款面向 Android 的端侧 AI 智能体，可操作应用和网页，替你完成各项任务",
+        "tags": [
+          "全部",
+          "超高爆发",
+          "智能体/Agent",
+          "移动/系统"
+        ]
+      },
+      {
+        "repo": "anhao/ai-pose-gallery-zh",
+        "owner": "anhao",
+        "name": "ai-pose-gallery-zh",
+        "stars": 4970,
+        "velocity": 1006,
+        "delta": 404,
+        "age_days": 4.9,
+        "description": "中文版 AI 姿势参考图库 · 1439 组 / 2878 张图片 / 完整汉化 · 零依赖静态画廊",
+        "new": false,
+        "zh_description": "中文版 AI 姿势参考图库 · 1439 组 / 2878 张图片 / 完整汉化 · 零依赖静态画廊",
+        "tags": [
+          "全部",
+          "超高爆发",
+          "视觉/UI"
+        ]
+      },
+      {
+        "repo": "valentderah/totk-pc-recomp",
+        "owner": "valentderah",
+        "name": "totk-pc-recomp",
+        "stars": 2857,
+        "velocity": 973,
+        "delta": 550,
+        "age_days": 2.9,
+        "description": "Static recompilation of The Legend of Zelda: Tears of the Kingdom to native Windows x86-64, with a Vulkan renderer. Game",
+        "new": false,
+        "zh_description": "将《塞尔达传说：王国之泪》静态重编译为原生 Windows x86-64 程序，并采用 Vulkan 渲染器。游戏",
+        "tags": [
+          "全部",
+          "视觉/UI",
+          "移动/系统"
+        ]
+      },
+      {
+        "repo": "Zagitta/gpu-unlock",
+        "owner": "Zagitta",
+        "name": "gpu-unlock",
+        "stars": 13969,
+        "velocity": 970,
+        "delta": 248,
+        "age_days": 14.4,
+        "description": "Your GeForce runs AI at half speed. This fixes it for 20/30/40 series cards. Up to 2× FP16 / BF16 / TF32 tensor throughp",
+        "new": false,
+        "zh_description": "你的 GeForce 运行 AI 的速度只有一半。此项目可为 20/30/40 系列显卡修复这一问题，FP16 / BF16 / TF32 张量吞吐量最高提升至 2 倍",
+        "tags": [
+          "全部"
+        ]
+      },
+      {
+        "repo": "unclebob/ub-mode",
+        "owner": "unclebob",
+        "name": "ub-mode",
+        "stars": 6039,
+        "velocity": 890,
+        "delta": 459,
+        "age_days": 6.8,
+        "description": "",
+        "new": false,
+        "zh_description": "暂无项目描述",
+        "tags": [
+          "全部"
+        ]
+      },
+      {
+        "repo": "patch-gg/pixelfx",
+        "owner": "patch-gg",
+        "name": "pixelfx",
+        "stars": 1935,
+        "velocity": 888,
+        "delta": 868,
+        "age_days": 2.2,
+        "description": "244 pixel art effects, every one a small piece of code. Plus a Claude Code skill to make your own.",
+        "new": false,
+        "zh_description": "244 种像素艺术特效，每一种都是一小段代码。另有 Claude Code 技能可让你创作自己的特效",
+        "tags": [
+          "全部",
+          "智能体/Agent",
+          "视觉/UI"
+        ]
+      },
+      {
+        "repo": "ccch1mneyyy/dsh-Go",
+        "owner": "ccch1mneyyy",
+        "name": "dsh-Go",
+        "stars": 4150,
+        "velocity": 583,
+        "delta": 723,
+        "age_days": 7.1,
+        "description": "dsh-go — DeepSeek Harness 装进口袋：手机本机运行，也能遥控你的电脑。",
+        "new": true,
+        "variants": [
+          "dsh go",
+          "ccch1mneyyy dsh go",
+          "chimney dsh go"
+        ],
+        "zh_description": "dsh-go — DeepSeek Harness 装进口袋：手机本机运行，也能遥控你的电脑。",
+        "tags": [
+          "全部",
+          "今日新入榜",
+          "智能体/Agent"
+        ]
+      },
+      {
+        "repo": "pengchujin/aerial-tv",
+        "owner": "pengchujin",
+        "name": "aerial-tv",
+        "stars": 8508,
+        "velocity": 705,
+        "delta": 217,
+        "age_days": 12.1,
+        "description": "给国产电视的一块干净桌面：参照 tvOS 设计的开源 Android TV 桌面，没有广告，开机自动接管。A tvOS-style launcher for Xiaomi, TCL and other China-market TVs.",
+        "new": false,
+        "zh_description": "给国产电视的一块干净桌面：参照 tvOS 设计的开源 Android TV 桌面，没有广告，开机自动接管。A tvOS-style launcher for Xiaomi, TCL and other China-market TVs.",
+        "tags": [
+          "全部",
+          "移动/系统"
+        ]
+      },
+      {
+        "repo": "rddmwmddr/android-ad-cleaner",
+        "owner": "rddmwmddr",
+        "name": "android-ad-cleaner",
+        "stars": 5524,
+        "velocity": 672,
+        "delta": 206,
+        "age_days": 8.2,
+        "description": "关掉国产安卓手机系统里的广告、热搜、资讯推荐和营销推送。不 root，可还原，支持 AI 智能体一键执行。",
+        "new": false,
+        "zh_description": "关掉国产安卓手机系统里的广告、热搜、资讯推荐和营销推送。不 root，可还原，支持 AI 智能体一键执行。",
+        "tags": [
+          "全部",
+          "智能体/Agent",
+          "移动/系统"
+        ]
+      },
+      {
+        "repo": "Djihads80/Eglantine",
+        "owner": "Djihads80",
+        "name": "Eglantine",
+        "stars": 1540,
+        "velocity": 448,
+        "delta": 608,
+        "age_days": 3.4,
+        "description": "VERY experimental Nintendo Switch 2 emulator",
+        "new": true,
+        "variants": [
+          "eglantine",
+          "djihads80 eglantine",
+          "djihad eglantine"
+        ],
+        "zh_description": "非常实验性的 Nintendo Switch 2 模拟器",
+        "tags": [
+          "全部",
+          "今日新入榜",
+          "移动/系统"
+        ]
+      },
+      {
+        "repo": "interplains/Zero-Breach-Toolkit",
+        "owner": "interplains",
+        "name": "Zero-Breach-Toolkit",
+        "stars": 4043,
+        "velocity": 591,
+        "delta": 75,
+        "age_days": 6.8,
+        "description": "Free, open-source, offline checks for traces of known mercenary spyware. Works on Windows, macOS and Linux, Android phon",
+        "new": false,
+        "zh_description": "免费、开源、可离线运行的检测工具，可排查已知雇佣兵间谍软件的痕迹。支持 Windows、macOS、Linux 和 Android 手机",
+        "tags": [
+          "全部",
+          "移动/系统"
+        ]
+      },
+      {
+        "repo": "paipiange/nvzhuang",
+        "owner": "paipiange",
+        "name": "nvzhuang",
+        "stars": 1823,
+        "velocity": 569,
+        "delta": 191,
+        "age_days": 3.2,
+        "description": "1407 张 AI 女装参考图集与虚拟试穿网站，支持中英检索、OpenAI Images / Gemini / 豆包及自定义 Base URL、API Key、模型。https://github.com/paipiange/nvzhuang",
+        "new": false,
+        "zh_description": "1407 张 AI 女装参考图集与虚拟试穿网站，支持中英文检索、OpenAI Images / Gemini / 豆包，以及自定义 Base URL、API Key 和模型。https://github.com/paipiange/nvzhuang",
+        "tags": [
+          "全部",
+          "视觉/UI"
+        ]
+      },
+      {
+        "repo": "kevinraymond/florilegium",
+        "owner": "kevinraymond",
+        "name": "florilegium",
+        "stars": 1207,
+        "velocity": 566,
+        "delta": 143,
+        "age_days": 2.1,
+        "description": "Procedurally generated Delft-blue floral page margins for LuaLaTeX, drawn in Lua",
+        "new": false,
+        "zh_description": "使用 Lua 为 LuaLaTeX 程序化生成代尔夫特蓝花卉样式的页边装饰",
+        "tags": [
+          "全部",
+          "视觉/UI"
+        ]
+      }
+    ],
+    "leads_data": [
+      {
+        "term": "dsh go",
+        "kinds": [
+          "breakout"
+        ],
+        "signals": [
+          "GitHub breakout ccch1mneyyy/dsh-Go ★4150 (583/day, +723 in a day)"
+        ],
+        "examples": [
+          "ccch1mneyyy/dsh-Go: dsh-go — DeepSeek Harness 装进口袋：手机本机运行，也能遥控你的电脑。"
+        ],
+        "variants": [
+          "dsh go",
+          "ccch1mneyyy dsh go",
+          "chimney dsh go"
+        ],
+        "posts": [],
+        "repo": "ccch1mneyyy/dsh-Go",
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": [
+          "ccch1mneyyy/dsh-Go: dsh-go — DeepSeek Harness 装进口袋：手机本机运行，也能遥控你的电脑。"
+        ]
+      },
+      {
+        "term": "eglantine",
+        "kinds": [
+          "breakout"
+        ],
+        "signals": [
+          "GitHub breakout Djihads80/Eglantine ★1540 (448/day, +608 in a day)"
+        ],
+        "examples": [
+          "Djihads80/Eglantine: VERY experimental Nintendo Switch 2 emulator"
+        ],
+        "variants": [
+          "eglantine",
+          "djihads80 eglantine",
+          "djihad eglantine"
+        ],
+        "posts": [],
+        "repo": "Djihads80/Eglantine",
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": [
+          "Djihads80/Eglantine: 非常实验性的 Nintendo Switch 2 模拟器"
+        ]
+      },
+      {
+        "term": "sepehr071",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 29 places (×25.5)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "connectors io.github.bumiatlas",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 24 places (×23.2)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "io.github.bumi",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 24 places (×23.2)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "llc cyan",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 23 places (×23.0)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "cyan eclipse",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 23 places (×21.8)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "eclipse technologies",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 23 places (×21.6)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "technologies llc",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 23 places (×21.5)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "parcels",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 17 places (×16.9)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "zovo",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 16 places (×15.7)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "llc",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 24 places (×15.4)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "atlas",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 28 places (×15.1)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "land",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 16 places (×14.1)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "land parcels",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 11 places (×11.0)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "connectors tech.noahsarch",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 9 places (×9.0)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "records",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 12 places (×8.8)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "genpark personal",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 10 places (×8.3)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "connectors io.usefulapi",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 25 places (×8.0)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "cloudcorprecords",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 10 places (×8.0)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "corp",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 10 places (×6.8)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "cadastral parcels",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 6 places (×6.0)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "ai.homouniversalis",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 5 places (×5.0)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "connectors ai.homouniversalis",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 5 places (×5.0)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "thiagojacoblannes",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 5 places (×5.0)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "lannes",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 5 places (×5.0)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "thiago",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 5 places (×4.9)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      }
+    ]
+  },
+  {
+    "id": "2026-11-01_morning",
+    "date": "2026-11-01",
+    "slot": "morning",
+    "label": "2026-11-01 早场 (10:00)",
+    "breakouts": 15,
+    "new_breakouts": 0,
+    "leads": 9,
+    "max_velocity": 1413,
+    "max_velocity_repo": "heydamir/unslop",
+    "repos": [
+      {
+        "repo": "heydamir/unslop",
+        "owner": "heydamir",
+        "name": "unslop",
+        "stars": 2864,
+        "velocity": 1413,
+        "delta": 106,
+        "age_days": 2.0,
+        "description": "A Claude skill that turns vibecoded, AI-looking UI into a designed interface",
+        "new": false,
+        "zh_description": "一项 Claude 技能，可将氛围编程生成、风格像 AI 的界面改造为经过精心设计的界面",
+        "tags": [
+          "全部",
+          "超高爆发",
+          "智能体/Agent",
+          "视觉/UI"
+        ]
+      },
+      {
+        "repo": "deepseek-ai/dsh-superagent-prototype",
+        "owner": "deepseek-ai",
+        "name": "dsh-superagent-prototype",
+        "stars": 1266,
+        "velocity": 1266,
+        "delta": 353,
+        "age_days": 1.0,
+        "description": "Towards a More Autonomous Agent System",
+        "new": false,
+        "zh_description": "迈向更自主的智能体系统",
+        "tags": [
+          "全部",
+          "超高爆发",
+          "智能体/Agent"
+        ]
+      },
+      {
+        "repo": "wangzan101/Mika",
+        "owner": "wangzan101",
+        "name": "Mika",
+        "stars": 2445,
+        "velocity": 1179,
+        "delta": 74,
+        "age_days": 2.1,
+        "description": "Mika — 你手机上的私人 AI 助理，替你操作 App、上网、把事办成。An on-device AI agent for Android that operates apps and the web to get things don",
+        "new": false,
+        "zh_description": "Mika——你手机上的私人 AI 助理，替你操作 App、上网，把事情办妥。面向 Android 的端侧 AI 智能体，可操作应用和网页，帮你完成各项任务",
+        "tags": [
+          "全部",
+          "超高爆发",
+          "智能体/Agent",
+          "移动/系统"
+        ]
+      },
+      {
+        "repo": "anhao/ai-pose-gallery-zh",
+        "owner": "anhao",
+        "name": "ai-pose-gallery-zh",
+        "stars": 4566,
+        "velocity": 1097,
+        "delta": 32,
+        "age_days": 4.2,
+        "description": "中文版 AI 姿势参考图库 · 1439 组 / 2878 张图片 / 完整汉化 · 零依赖静态画廊",
+        "new": false,
+        "zh_description": "中文版 AI 姿势参考图库 · 1439 组 / 2878 张图片 / 完整汉化 · 零依赖静态画廊",
+        "tags": [
+          "全部",
+          "超高爆发",
+          "视觉/UI"
+        ]
+      },
+      {
+        "repo": "valentderah/totk-pc-recomp",
+        "owner": "valentderah",
+        "name": "totk-pc-recomp",
+        "stars": 2307,
+        "velocity": 1069,
+        "delta": 51,
+        "age_days": 2.2,
+        "description": "Static recompilation of The Legend of Zelda: Tears of the Kingdom to native Windows x86-64, with a Vulkan renderer. Game",
+        "new": false,
+        "zh_description": "将《塞尔达传说：王国之泪》静态重编译为原生 Windows x86-64 程序，并采用 Vulkan 渲染器。游戏",
+        "tags": [
+          "全部",
+          "超高爆发",
+          "视觉/UI",
+          "移动/系统"
+        ]
+      },
+      {
+        "repo": "Zagitta/gpu-unlock",
+        "owner": "Zagitta",
+        "name": "gpu-unlock",
+        "stars": 13721,
+        "velocity": 1008,
+        "delta": 17,
+        "age_days": 13.6,
+        "description": "Your GeForce runs AI at half speed. This fixes it for 20/30/40 series cards. Up to 2× FP16 / BF16 / TF32 tensor throughp",
+        "new": false,
+        "zh_description": "你的 GeForce 运行 AI 的速度只有一半。此项目可为 20/30/40 系列显卡修复这一问题，FP16 / BF16 / TF32 张量吞吐量最高提升至 2 倍",
+        "tags": [
+          "全部",
+          "超高爆发"
+        ]
+      },
+      {
+        "repo": "unclebob/ub-mode",
+        "owner": "unclebob",
+        "name": "ub-mode",
+        "stars": 5580,
+        "velocity": 928,
+        "delta": 25,
+        "age_days": 6.0,
+        "description": "",
+        "new": false,
+        "zh_description": "暂无项目描述",
+        "tags": [
+          "全部"
+        ]
+      },
+      {
+        "repo": "kevinraymond/florilegium",
+        "owner": "kevinraymond",
+        "name": "florilegium",
+        "stars": 1064,
+        "velocity": 786,
+        "delta": 22,
+        "age_days": 1.4,
+        "description": "Procedurally generated Delft-blue floral page margins for LuaLaTeX, drawn in Lua",
+        "new": false,
+        "zh_description": "使用 Lua 为 LuaLaTeX 程序化生成代尔夫特蓝花卉样式的页边装饰",
+        "tags": [
+          "全部",
+          "视觉/UI"
+        ]
+      },
+      {
+        "repo": "patch-gg/pixelfx",
+        "owner": "patch-gg",
+        "name": "pixelfx",
+        "stars": 1067,
+        "velocity": 762,
+        "delta": 82,
+        "age_days": 1.4,
+        "description": "232 pixel art effects, every one a small piece of code. Plus a Claude Code skill to make your own.",
+        "new": false,
+        "zh_description": "232 种像素艺术特效，每种都是一小段代码。另附 Claude Code 技能，便于创作自定义特效",
+        "tags": [
+          "全部",
+          "智能体/Agent",
+          "视觉/UI"
+        ]
+      },
+      {
+        "repo": "pengchujin/aerial-tv",
+        "owner": "pengchujin",
+        "name": "aerial-tv",
+        "stars": 8291,
+        "velocity": 734,
+        "delta": 21,
+        "age_days": 11.3,
+        "description": "给国产电视的一块干净桌面：参照 tvOS 设计的开源 Android TV 桌面，没有广告，开机自动接管。A tvOS-style launcher for Xiaomi, TCL and other China-market TVs.",
+        "new": false,
+        "zh_description": "给国产电视的一块干净桌面：参照 tvOS 设计的开源 Android TV 桌面，没有广告，开机自动接管。A tvOS-style launcher for Xiaomi, TCL and other China-market TVs.",
+        "tags": [
+          "全部",
+          "移动/系统"
+        ]
+      },
+      {
+        "repo": "rddmwmddr/android-ad-cleaner",
+        "owner": "rddmwmddr",
+        "name": "android-ad-cleaner",
+        "stars": 5318,
+        "velocity": 714,
+        "delta": 7,
+        "age_days": 7.4,
+        "description": "关掉国产安卓手机系统里的广告、热搜、资讯推荐和营销推送。不 root，可还原，支持 AI 智能体一键执行。",
+        "new": false,
+        "zh_description": "关掉国产安卓手机系统里的广告、热搜、资讯推荐和营销推送。不 root，可还原，支持 AI 智能体一键执行。",
+        "tags": [
+          "全部",
+          "智能体/Agent",
+          "移动/系统"
+        ]
+      },
+      {
+        "repo": "paipiange/nvzhuang",
+        "owner": "paipiange",
+        "name": "nvzhuang",
+        "stars": 1632,
+        "velocity": 673,
+        "delta": 40,
+        "age_days": 2.4,
+        "description": "1407 张 AI 女装参考图集与虚拟试穿网站，支持中英检索、OpenAI Images / Gemini / 豆包及自定义 Base URL、API Key、模型。https://github.com/paipiange/nvzhuang",
+        "new": false,
+        "zh_description": "1407 张 AI 女装参考图集与虚拟试穿网站，支持中英文检索、OpenAI Images / Gemini / 豆包，以及自定义 Base URL、API Key 和模型。https://github.com/paipiange/nvzhuang",
+        "tags": [
+          "全部",
+          "视觉/UI"
+        ]
+      },
+      {
+        "repo": "interplains/Zero-Breach-Toolkit",
+        "owner": "interplains",
+        "name": "Zero-Breach-Toolkit",
+        "stars": 3968,
+        "velocity": 654,
+        "delta": 6,
+        "age_days": 6.1,
+        "description": "Free, open-source, offline checks for traces of known mercenary spyware. Works on Windows, macOS and Linux, Android phon",
+        "new": false,
+        "zh_description": "免费、开源、可离线运行的检测工具，可排查已知雇佣兵间谍软件的痕迹。支持 Windows、macOS、Linux 和 Android 手机",
+        "tags": [
+          "全部",
+          "移动/系统"
+        ]
+      },
+      {
+        "repo": "JustAResearcher/gpu-unlock-ada",
+        "owner": "JustAResearcher",
+        "name": "gpu-unlock-ada",
+        "stars": 4618,
+        "velocity": 592,
+        "delta": 3,
+        "age_days": 7.8,
+        "description": "GPU tensor unlock source for RTX 4090 and experimental RTX 4070 Ti SUPER; firmware generated locally",
+        "new": false,
+        "zh_description": "用于解锁 RTX 4090 以及实验性支持 RTX 4070 Ti SUPER GPU 张量核心的源代码，固件在本地生成",
+        "tags": [
+          "全部"
+        ]
+      },
+      {
+        "repo": "designfuchen/word-atlas",
+        "owner": "designfuchen",
+        "name": "word-atlas",
+        "stars": 3527,
+        "velocity": 557,
+        "delta": 10,
+        "age_days": 6.3,
+        "description": "词光 · Word Atlas — Illustrated IELTS vocabulary with 7,298 words, UK/US audio and FSRS review. Open-source app + CC BY 4.",
+        "new": false,
+        "zh_description": "词光 · Word Atlas——带插图的 IELTS 词汇学习应用，收录 7298 个单词，提供英式/美式发音和 FSRS 复习功能。开源应用，采用 CC BY 4.0 许可",
+        "tags": [
+          "全部"
+        ]
+      }
+    ],
+    "leads_data": [
+      {
+        "term": "video",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 10 places (×3.2)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "video",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "music",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 3 places (×2.0)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "voice",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "image",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 3 places (×0.9)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "image",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "connectors io.usefulapi",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 17 places (×9.4)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "everygen",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 3 places (×3.0)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "seedream",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 3 places (×2.9)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "remover",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 3 places (×2.5)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "studio",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 5 places (×2.3)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "connectors",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 37 places (×0.7)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      }
+    ]
+  },
+  {
+    "id": "2026-10-31",
+    "date": "2026-10-31",
+    "slot": "daily",
+    "label": "2026-10-31 全天综合榜",
+    "breakouts": 15,
+    "new_breakouts": 7,
+    "leads": 38,
+    "max_velocity": 3324,
+    "max_velocity_repo": "Gathin23/cleanyourtv",
+    "repos": [
+      {
+        "repo": "Gathin23/cleanyourtv",
+        "owner": "Gathin23",
+        "name": "cleanyourtv",
+        "stars": 47524,
+        "velocity": 3324,
+        "delta": 1901,
+        "age_days": 14.3,
+        "description": "Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home.",
+        "new": false,
+        "zh_description": "通过 Wi-Fi 精简任意 Android 或 Google TV 设备，打造 Apple TV 风格的家庭主页。",
+        "tags": [
+          "全部",
+          "超高爆发",
+          "移动/系统"
+        ]
+      },
+      {
+        "repo": "valentderah/totk-pc-recomp",
+        "owner": "valentderah",
+        "name": "totk-pc-recomp",
+        "stars": 2256,
+        "velocity": 1065,
+        "delta": 1627,
+        "age_days": 2.1,
+        "description": "Static recompilation of The Legend of Zelda: Tears of the Kingdom to native Windows x86-64, with a Vulkan renderer. Game",
+        "new": false,
+        "zh_description": "将《塞尔达传说：王国之泪》静态重编译为原生 Windows x86-64 程序，并采用 Vulkan 渲染器。游戏",
+        "tags": [
+          "全部",
+          "超高爆发",
+          "视觉/UI",
+          "移动/系统"
+        ]
+      },
+      {
+        "repo": "heydamir/unslop",
+        "owner": "heydamir",
+        "name": "unslop",
+        "stars": 2758,
+        "velocity": 1388,
+        "delta": null,
+        "age_days": 2.0,
+        "description": "A Claude skill that turns vibecoded, AI-looking UI into a designed interface",
+        "new": true,
+        "variants": [
+          "unslop",
+          "heydamir unslop",
+          "damir unslop"
+        ],
+        "zh_description": "一项 Claude 技能，可将氛围编程生成、风格像 AI 的界面改造为经过精心设计的界面",
+        "tags": [
+          "全部",
+          "今日新入榜",
+          "超高爆发",
+          "智能体/Agent",
+          "视觉/UI"
+        ]
+      },
+      {
+        "repo": "anhao/ai-pose-gallery-zh",
+        "owner": "anhao",
+        "name": "ai-pose-gallery-zh",
+        "stars": 4534,
+        "velocity": 1099,
+        "delta": 1218,
+        "age_days": 4.1,
+        "description": "中文版 AI 姿势参考图库 · 1439 组 / 2878 张图片 / 完整汉化 · 零依赖静态画廊",
+        "new": false,
+        "zh_description": "中文版 AI 姿势参考图库 · 1439 组 / 2878 张图片 / 完整汉化 · 零依赖静态画廊",
+        "tags": [
+          "全部",
+          "超高爆发",
+          "视觉/UI"
+        ]
+      },
+      {
+        "repo": "paipiange/nvzhuang",
+        "owner": "paipiange",
+        "name": "nvzhuang",
+        "stars": 1592,
+        "velocity": 667,
+        "delta": 1215,
+        "age_days": 2.4,
+        "description": "1407 张 AI 女装参考图集与虚拟试穿网站，支持中英检索、OpenAI Images / Gemini / 豆包及自定义 Base URL、API Key、模型。https://github.com/paipiange/nvzhuang",
+        "new": true,
+        "variants": [
+          "nvzhuang",
+          "paipiange nvzhuang"
+        ],
+        "zh_description": "1407 张 AI 女装参考图集与虚拟试穿网站，支持中英文检索、OpenAI Images / Gemini / 豆包，以及自定义 Base URL、API Key 和模型。https://github.com/paipiange/nvzhuang",
+        "tags": [
+          "全部",
+          "今日新入榜",
+          "视觉/UI"
+        ]
+      },
+      {
+        "repo": "wangzan101/Mika",
+        "owner": "wangzan101",
+        "name": "Mika",
+        "stars": 2371,
+        "velocity": 1166,
+        "delta": null,
+        "age_days": 2.0,
+        "description": "Mika — 你手机上的私人 AI 助理，替你操作 App、上网、把事办成。An on-device AI agent for Android that operates apps and the web to get things don",
+        "new": true,
+        "variants": [
+          "mika",
+          "wangzan101 mika",
+          "wangzan mika"
+        ],
+        "zh_description": "Mika——你手机上的私人 AI 助理，替你操作 App、上网，把事情办妥。面向 Android 的端侧 AI 智能体，可操作应用和网页，帮你完成各项任务",
+        "tags": [
+          "全部",
+          "今日新入榜",
+          "超高爆发",
+          "智能体/Agent",
+          "移动/系统"
+        ]
+      },
+      {
+        "repo": "Zagitta/gpu-unlock",
+        "owner": "Zagitta",
+        "name": "gpu-unlock",
+        "stars": 13704,
+        "velocity": 1009,
+        "delta": 542,
+        "age_days": 13.6,
+        "description": "Your GeForce runs AI at half speed. This fixes it for 20/30/40 series cards. Up to 2× FP16 / BF16 / TF32 tensor throughp",
+        "new": false,
+        "zh_description": "你的 GeForce 运行 AI 的速度只有一半。此项目可为 20/30/40 系列显卡修复这一问题，FP16 / BF16 / TF32 张量吞吐量最高提升至 2 倍",
+        "tags": [
+          "全部",
+          "超高爆发"
+        ]
+      },
+      {
+        "repo": "unclebob/ub-mode",
+        "owner": "unclebob",
+        "name": "ub-mode",
+        "stars": 5555,
+        "velocity": 930,
+        "delta": 733,
+        "age_days": 6.0,
+        "description": "",
+        "new": false,
+        "zh_description": "暂无项目描述",
+        "tags": [
+          "全部"
+        ]
+      },
+      {
+        "repo": "deepseek-ai/dsh-superagent-prototype",
+        "owner": "deepseek-ai",
+        "name": "dsh-superagent-prototype",
+        "stars": 913,
+        "velocity": 913,
+        "delta": null,
+        "age_days": 1.0,
+        "description": "Towards a More Autonomous Agent System",
+        "new": true,
+        "variants": [
+          "dsh superagent prototype",
+          "deepseek-ai dsh superagent prototype",
+          "deepseek dsh superagent prototype"
+        ],
+        "zh_description": "迈向更自主的智能体系统",
+        "tags": [
+          "全部",
+          "今日新入榜",
+          "智能体/Agent"
+        ]
+      },
+      {
+        "repo": "kevinraymond/florilegium",
+        "owner": "kevinraymond",
+        "name": "florilegium",
+        "stars": 1042,
+        "velocity": 792,
+        "delta": null,
+        "age_days": 1.3,
+        "description": "Procedurally generated Delft-blue floral page margins for LuaLaTeX, drawn in Lua",
+        "new": true,
+        "variants": [
+          "florilegium",
+          "kevinraymond florilegium",
+          "kevin florilegium"
+        ],
+        "zh_description": "使用 Lua 为 LuaLaTeX 程序化生成代尔夫特蓝花卉样式的页边装饰",
+        "tags": [
+          "全部",
+          "今日新入榜",
+          "视觉/UI"
+        ]
+      },
+      {
+        "repo": "qybaihe/bla",
+        "owner": "qybaihe",
+        "name": "bla",
+        "stars": 1651,
+        "velocity": 257,
+        "delta": 748,
+        "age_days": 6.4,
+        "description": "🛡️ BLA (Blind LLM Agents) — Adversarial defense shield that protects binaries, Electron apps, JS bundles, Python, and We",
+        "new": true,
+        "variants": [
+          "bla",
+          "qybaihe bla",
+          "timo bla"
+        ],
+        "zh_description": "🛡️ BLA（盲智能体）——一种对抗式防御屏障，可保护二进制文件、Electron 应用、JS 打包文件、Python 及 We。",
+        "tags": [
+          "全部",
+          "今日新入榜",
+          "智能体/Agent"
+        ]
+      },
+      {
+        "repo": "pengchujin/aerial-tv",
+        "owner": "pengchujin",
+        "name": "aerial-tv",
+        "stars": 8270,
+        "velocity": 735,
+        "delta": 469,
+        "age_days": 11.3,
+        "description": "给国产电视的一块干净桌面：参照 tvOS 设计的开源 Android TV 桌面，没有广告，开机自动接管。A tvOS-style launcher for Xiaomi, TCL and other China-market TVs.",
+        "new": false,
+        "zh_description": "给国产电视的一块干净桌面：参照 tvOS 设计的开源 Android TV 桌面，没有广告，开机自动接管。A tvOS-style launcher for Xiaomi, TCL and other China-market TVs.",
+        "tags": [
+          "全部",
+          "移动/系统"
+        ]
+      },
+      {
+        "repo": "patch-gg/pixelfx",
+        "owner": "patch-gg",
+        "name": "pixelfx",
+        "stars": 985,
+        "velocity": 724,
+        "delta": null,
+        "age_days": 1.4,
+        "description": "232 pixel art effects, every one a small piece of code. Plus a Claude Code skill to make your own.",
+        "new": true,
+        "variants": [
+          "pixelfx",
+          "patch-gg pixelfx",
+          "patch pixelfx"
+        ],
+        "zh_description": "232 种像素艺术特效，每种都是一小段代码。另附 Claude Code 技能，便于创作自定义特效",
+        "tags": [
+          "全部",
+          "今日新入榜",
+          "智能体/Agent",
+          "视觉/UI"
+        ]
+      },
+      {
+        "repo": "rddmwmddr/android-ad-cleaner",
+        "owner": "rddmwmddr",
+        "name": "android-ad-cleaner",
+        "stars": 5311,
+        "velocity": 717,
+        "delta": 520,
+        "age_days": 7.4,
+        "description": "关掉国产安卓手机系统里的广告、热搜、资讯推荐和营销推送。不 root，可还原，支持 AI 智能体一键执行。",
+        "new": false,
+        "zh_description": "关掉国产安卓手机系统里的广告、热搜、资讯推荐和营销推送。不 root，可还原，支持 AI 智能体一键执行。",
+        "tags": [
+          "全部",
+          "智能体/Agent",
+          "移动/系统"
+        ]
+      },
+      {
+        "repo": "interplains/Zero-Breach-Toolkit",
+        "owner": "interplains",
+        "name": "Zero-Breach-Toolkit",
+        "stars": 3962,
+        "velocity": 657,
+        "delta": 316,
+        "age_days": 6.0,
+        "description": "Free, open-source, offline checks for traces of known mercenary spyware. Works on Windows, macOS and Linux, Android phon",
+        "new": false,
+        "zh_description": "免费、开源、可离线运行的检测工具，可排查已知雇佣兵间谍软件的痕迹。支持 Windows、macOS、Linux 和 Android 手机",
+        "tags": [
+          "全部",
+          "移动/系统"
+        ]
+      }
+    ],
+    "leads_data": [
+      {
+        "term": "audio8 tts realistic",
+        "kinds": [
+          "hf"
+        ],
+        "signals": [
+          "Hugging Face: new at #32"
+        ],
+        "examples": [
+          "Edge0/Audio8-TTS-Realistic-0.6b (text-to-speech, ♥141)"
+        ],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "voice",
+        "one_click": null,
+        "zh_examples": [
+          "Edge0/Audio8-TTS-Realistic-0.6b (text-to-speech, ♥141)"
+        ]
+      },
+      {
+        "term": "idol",
+        "kinds": [
+          "hf"
+        ],
+        "signals": [
+          "Hugging Face: new at #19"
+        ],
+        "examples": [
+          "speridlabs/idol (image-to-3d, ♥187)",
+          "speridlabs/idol (gradio, ♥32)"
+        ],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "image",
+        "one_click": null,
+        "zh_examples": [
+          "speridlabs/idol (image-to-3d, ♥187)",
+          "speridlabs/idol (gradio, ♥32)"
+        ]
+      },
+      {
+        "term": "deepseek v4.1 flash 1017",
+        "kinds": [
+          "hf"
+        ],
+        "signals": [
+          "Hugging Face: new at #43"
+        ],
+        "examples": [
+          "unsloth/DeepSeek-V4.1-Flash-1017-GGUF (image-text-to-text, ♥255)"
+        ],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "image",
+        "one_click": null,
+        "zh_examples": [
+          "unsloth/DeepSeek-V4.1-Flash-1017-GGUF (image-text-to-text, ♥255)"
+        ]
+      },
+      {
+        "term": "protectbirds",
+        "kinds": [
+          "hf"
+        ],
+        "signals": [
+          "Hugging Face Spaces: new at #9"
+        ],
+        "examples": [
+          "AimeeBingmouQu/ProtectBirds (docker, ♥1317)"
+        ],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": [
+          "AimeeBingmouQu/ProtectBirds (docker, ♥1317)"
+        ]
+      },
+      {
+        "term": "lfm3 omni",
+        "kinds": [
+          "hf"
+        ],
+        "signals": [
+          "Hugging Face Spaces: new at #25"
+        ],
+        "examples": [
+          "LiquidAI/LFM3-Omni-2B-WebGPU (static, ♥31)"
+        ],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": [
+          "LiquidAI/LFM3-Omni-2B-WebGPU (static, ♥31)"
+        ]
+      },
+      {
+        "term": "harness lens",
+        "kinds": [
+          "hf"
+        ],
+        "signals": [
+          "Hugging Face Spaces: new at #42"
+        ],
+        "examples": [
+          "harness-hub/harness-lens (docker, ♥42)"
+        ],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": [
+          "harness-hub/harness-lens (docker, ♥42)"
+        ]
+      },
+      {
+        "term": "nvzhuang",
+        "kinds": [
+          "breakout"
+        ],
+        "signals": [
+          "GitHub breakout paipiange/nvzhuang ★1592 (667/day, +1215 in a day)"
+        ],
+        "examples": [
+          "paipiange/nvzhuang: 1407 张 AI 女装参考图集与虚拟试穿网站，支持中英检索、OpenAI Images / Gemini / 豆包及自定义 Base URL、API Key、模型。https://github.com/paipiange/nvzhuang"
+        ],
+        "variants": [
+          "nvzhuang",
+          "paipiange nvzhuang"
+        ],
+        "posts": [],
+        "repo": "paipiange/nvzhuang",
+        "known": "",
+        "format": "image",
+        "one_click": null,
+        "zh_examples": [
+          "paipiange/nvzhuang: 1407 张 AI 女装参考图集与虚拟试穿网站，支持中英文检索、OpenAI Images / Gemini / 豆包，以及自定义 Base URL、API Key 和模型。https://github.com/paipiange/nvzhuang"
+        ]
+      },
+      {
+        "term": "pixelfx",
+        "kinds": [
+          "breakout"
+        ],
+        "signals": [
+          "GitHub breakout patch-gg/pixelfx ★985 (724/day)"
+        ],
+        "examples": [
+          "patch-gg/pixelfx: 232 pixel art effects, every one a small piece of code. Plus a Claude Code skill to make your own."
+        ],
+        "variants": [
+          "pixelfx",
+          "patch-gg pixelfx",
+          "patch pixelfx"
+        ],
+        "posts": [],
+        "repo": "patch-gg/pixelfx",
+        "known": "",
+        "format": "image",
+        "one_click": null,
+        "zh_examples": [
+          "patch-gg/pixelfx: 232 种像素艺术特效，每种都是一小段代码。另附 Claude Code 技能，便于创作自定义特效"
+        ]
+      },
+      {
+        "term": "unslop",
+        "kinds": [
+          "breakout"
+        ],
+        "signals": [
+          "GitHub breakout heydamir/unslop ★2758 (1388/day)"
+        ],
+        "examples": [
+          "heydamir/unslop: A Claude skill that turns vibecoded, AI-looking UI into a designed interface"
+        ],
+        "variants": [
+          "unslop",
+          "heydamir unslop",
+          "damir unslop"
+        ],
+        "posts": [],
+        "repo": "heydamir/unslop",
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": [
+          "heydamir/unslop: 一项 Claude 技能，可将氛围编程生成、风格像 AI 的界面改造为经过精心设计的界面"
+        ]
+      },
+      {
+        "term": "mika",
+        "kinds": [
+          "breakout"
+        ],
+        "signals": [
+          "GitHub breakout wangzan101/Mika ★2371 (1166/day)"
+        ],
+        "examples": [
+          "wangzan101/Mika: Mika — 你手机上的私人 AI 助理，替你操作 App、上网、把事办成。An on-device AI agent for Android that operates apps and the web to get things don"
+        ],
+        "variants": [
+          "mika",
+          "wangzan101 mika",
+          "wangzan mika"
+        ],
+        "posts": [],
+        "repo": "wangzan101/Mika",
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": [
+          "wangzan101/Mika: Mika——你手机上的私人 AI 助理，替你操作 App、上网，把事情办妥。面向 Android 的端侧 AI 智能体，可操作应用和网页，帮你完成各项任务"
+        ]
+      },
+      {
+        "term": "dsh superagent prototype",
+        "kinds": [
+          "breakout"
+        ],
+        "signals": [
+          "GitHub breakout deepseek-ai/dsh-superagent-prototype ★913 (913/day)"
+        ],
+        "examples": [
+          "deepseek-ai/dsh-superagent-prototype: Towards a More Autonomous Agent System"
+        ],
+        "variants": [
+          "dsh superagent prototype",
+          "deepseek-ai dsh superagent prototype",
+          "deepseek dsh superagent prototype"
+        ],
+        "posts": [],
+        "repo": "deepseek-ai/dsh-superagent-prototype",
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": [
+          "deepseek-ai/dsh-superagent-prototype: 迈向更自主的智能体系统"
+        ]
+      },
+      {
+        "term": "florilegium",
+        "kinds": [
+          "breakout"
+        ],
+        "signals": [
+          "GitHub breakout kevinraymond/florilegium ★1042 (792/day)"
+        ],
+        "examples": [
+          "kevinraymond/florilegium: Procedurally generated Delft-blue floral page margins for LuaLaTeX, drawn in Lua"
+        ],
+        "variants": [
+          "florilegium",
+          "kevinraymond florilegium",
+          "kevin florilegium"
+        ],
+        "posts": [],
+        "repo": "kevinraymond/florilegium",
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": [
+          "kevinraymond/florilegium: 使用 Lua 为 LuaLaTeX 程序化生成代尔夫特蓝花卉样式的页边装饰"
+        ]
+      },
+      {
+        "term": "bla",
+        "kinds": [
+          "breakout"
+        ],
+        "signals": [
+          "GitHub breakout qybaihe/bla ★1651 (257/day, +748 in a day)"
+        ],
+        "examples": [
+          "qybaihe/bla: 🛡️ BLA (Blind LLM Agents) — Adversarial defense shield that protects binaries, Electron apps, JS bundles, Python, and We"
+        ],
+        "variants": [
+          "bla",
+          "qybaihe bla",
+          "timo bla"
+        ],
+        "posts": [],
+        "repo": "qybaihe/bla",
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": [
+          "qybaihe/bla: 🛡️ BLA（盲智能体）——一种对抗式防御屏障，可保护二进制文件、Electron 应用、JS 打包文件、Python 及 We。"
+        ]
+      },
+      {
+        "term": "io.github.kriton",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 26 places (×26.0)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "io.github.kriton dev",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 26 places (×26.0)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "connectors io.github.kriton",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 26 places (×26.0)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "cloudcorprecords",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 33 places (×24.8)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "records",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 33 places (×20.1)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "corp",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 33 places (×17.0)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "connectors io.github.theguysaccount",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 15 places (×14.9)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "genpark personal",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 19 places (×14.0)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "io.usefulapi",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 78 places (×13.3)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "connectors io.usefulapi",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 78 places (×13.3)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "io.github.finddatatechnology",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 11 places (×11.0)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "connectors io.github.finddatatechnology",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 11 places (×11.0)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "io.github.find",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 11 places (×11.0)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "technology",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 12 places (×8.0)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "personal",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 25 places (×7.5)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "connectors io.github.sircharan",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 7 places (×7.0)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "io.github.sir",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 7 places (×7.0)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "charan",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 7 places (×6.7)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "connectors io.github.devx",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 6 places (×6.0)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "macedo",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 6 places (×6.0)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "gillmacedo",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 6 places (×6.0)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "gill",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 6 places (×5.8)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "devx",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 6 places (×5.8)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "cloud",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 37 places (×5.4)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "aeo",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 6 places (×4.9)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      }
+    ]
+  }
+]
