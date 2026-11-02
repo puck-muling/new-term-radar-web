@@ -1,5 +1,41 @@
 [
   {
+    "id": "2026-11-02_evening",
+    "date": "2026-11-02",
+    "slot": "evening",
+    "label": "2026-11-02 晚场 (19:00)",
+    "breakouts": 2,
+    "new_breakouts": 1,
+    "leads": 1,
+    "max_velocity": 0,
+    "max_velocity_repo": "",
+    "repos": [
+      {
+        "repo": "a/b",
+        "new": true,
+        "zh_description": "暂无项目描述",
+        "tags": [
+          "全部",
+          "今日新入榜"
+        ]
+      },
+      {
+        "repo": "c/d",
+        "new": false,
+        "zh_description": "暂无项目描述",
+        "tags": [
+          "全部"
+        ]
+      }
+    ],
+    "leads_data": [
+      {
+        "name": "lead1",
+        "zh_examples": []
+      }
+    ]
+  },
+  {
     "id": "2026-11-02_morning",
     "date": "2026-11-02",
     "slot": "morning",
