@@ -1,5 +1,33 @@
 [
   {
+    "id": "2026-11-05_morning",
+    "date": "2026-11-05",
+    "slot": "morning",
+    "label": "2026-11-05 早场 (10:00)",
+    "breakouts": 1,
+    "new_breakouts": 1,
+    "leads": 1,
+    "max_velocity": 0,
+    "max_velocity_repo": "",
+    "repos": [
+      {
+        "repo": "feishu/test",
+        "new": true,
+        "zh_description": "暂无项目描述",
+        "tags": [
+          "全部",
+          "今日新入榜"
+        ]
+      }
+    ],
+    "leads_data": [
+      {
+        "name": "feishu_lead",
+        "zh_examples": []
+      }
+    ]
+  },
+  {
     "id": "2026-11-04_morning",
     "date": "2026-11-04",
     "slot": "morning",
