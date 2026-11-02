@@ -880,7 +880,7 @@
             <div class="header-actions">
                 <div class="archive-select-wrapper">
                     <select class="archive-select" onchange="if(this.value) window.location.href=this.value;">
-                        <option value="../index.html" >2026-11-05 早场 (10:00) (1黑马 / 1新入榜)</option><option value="2026-11-04_morning.html" >2026-11-04 早场 (10:00) (1黑马 / 1新入榜)</option><option value="2026-11-02_evening.html" >2026-11-02 晚场 (19:00) (2黑马 / 1新入榜)</option><option value="2026-11-02_morning.html" selected>2026-11-02 早场 (10:00) (2黑马 / 1新入榜)</option>
+                        <option value="../index.html" >2026-11-02 晚场 (19:00) (15黑马 / 2新入榜)</option><option value="2026-11-02_morning.html" selected>2026-11-02 早场 (10:00) (15黑马 / 4新入榜)</option><option value="2026-11-01_evening.html" >2026-11-01 晚场 (19:00) (15黑马 / 2新入榜)</option><option value="2026-11-01_morning.html" >2026-11-01 早场 (10:00) (15黑马 / 0新入榜)</option><option value="2026-10-31.html" >2026-10-31 全天综合榜 (15黑马 / 7新入榜)</option>
                     </select>
                 </div>
                 <a href="https://github.com/puck-muling/new-term-radar-web" target="_blank" rel="noopener noreferrer" class="gh-btn-header" title="GitHub 源码仓库">
@@ -910,7 +910,7 @@
             <!-- 时段快捷切换 Pills -->
             <div class="archive-pills-bar">
                 <span style="font-size: 0.8rem; color: var(--text-muted); margin-right: 4px;">📅 时段归档:</span>
-                <a href="../index.html" class="archive-pill ">11-05 早场 (10:00)</a><a href="2026-11-04_morning.html" class="archive-pill ">11-04 早场 (10:00)</a><a href="2026-11-02_evening.html" class="archive-pill ">11-02 晚场 (19:00)</a><a href="2026-11-02_morning.html" class="archive-pill active">11-02 早场 (10:00)</a>
+                <a href="../index.html" class="archive-pill ">11-02 晚场 (19:00)</a><a href="2026-11-02_morning.html" class="archive-pill active">11-02 早场 (10:00)</a><a href="2026-11-01_evening.html" class="archive-pill ">11-01 晚场 (19:00)</a><a href="2026-11-01_morning.html" class="archive-pill ">11-01 早场 (10:00)</a><a href="2026-10-31.html" class="archive-pill ">10-31 全天综合榜</a>
             </div>
         </div>
 
@@ -921,23 +921,23 @@
                     <span>🔥 爆发项目总数</span>
                     <span>Breakouts</span>
                 </div>
-                <div class="kpi-value kpi-val-brand">2</div>
-                <div class="kpi-subtext">含 <strong style="color: #34d399;">1</strong> 个今日新入榜项目</div>
+                <div class="kpi-value kpi-val-brand">15</div>
+                <div class="kpi-subtext">含 <strong style="color: #34d399;">4</strong> 个今日新入榜项目</div>
             </div>
             <div class="kpi-card">
                 <div class="kpi-header">
                     <span>⚡ 最高单日增速</span>
                     <span>Max Velocity</span>
                 </div>
-                <div class="kpi-value kpi-val-rose">+0</div>
-                <div class="kpi-subtext" title="">— ★/天</div>
+                <div class="kpi-value kpi-val-rose">+4,684</div>
+                <div class="kpi-subtext" title="deepseek-ai/dsh-superagent-prototype">dsh-superagent-prototype ★/天</div>
             </div>
             <div class="kpi-card">
                 <div class="kpi-header">
                     <span>💡 捕获有效线索</span>
                     <span>Leads Extracted</span>
                 </div>
-                <div class="kpi-value kpi-val-gold">1</div>
+                <div class="kpi-value kpi-val-gold">32</div>
                 <div class="kpi-subtext">含新词变体与意图挖掘词</div>
             </div>
             <div class="kpi-card">
@@ -945,8 +945,8 @@
                     <span>🌐 监控站点地图</span>
                     <span>Sitemaps Scanned</span>
                 </div>
-                <div class="kpi-value kpi-val-green">0</div>
-                <div class="kpi-subtext">新增巡航 0 个新页面</div>
+                <div class="kpi-value kpi-val-green">12</div>
+                <div class="kpi-subtext">新增巡航 805 个新页面</div>
             </div>
         </div>
 
@@ -960,8 +960,8 @@
                 <input type="text" id="searchInput" class="search-input" placeholder="🔍 快速搜索项目名称、作者、中文简介或技术关键词..." autocomplete="off">
             </div>
             <div class="tags-row" id="tagChips">
-                <button class="tag-chip active" data-filter="all">全部 (2)</button>
-                <button class="tag-chip" data-filter="new">🆕 今日新入榜 (1)</button>
+                <button class="tag-chip active" data-filter="all">全部 (15)</button>
+                <button class="tag-chip" data-filter="new">🆕 今日新入榜 (4)</button>
                 <button class="tag-chip" data-filter="high_velocity">⚡ 极速爆发 (>1000/天)</button>
                 <button class="tag-chip" data-filter="agent">🤖 智能体 / Agent</button>
                 <button class="tag-chip" data-filter="ui">🎨 视觉 / UI</button>
@@ -972,7 +972,7 @@
         <!-- 模块一：开源黑马爆发榜 -->
         <div class="section-header">
             <h3>🔥 ② 开源黑马爆发榜 <span style="font-size: 0.85rem; font-weight: normal; color: var(--text-secondary);">(创建 14 天内高增速开源项目)</span></h3>
-            <span class="section-counter" id="repoCountDisplay">共 2 个项目</span>
+            <span class="section-counter" id="repoCountDisplay">共 15 个项目</span>
         </div>
 
         <!-- 桌面表格视图 -->
@@ -989,65 +989,481 @@
                 </thead>
                 <tbody>
                     
-        <tr class="repo-row" data-name="" data-owner="" data-desc="暂无项目描述 " data-velocity="0" data-new="true">
+        <tr class="repo-row" data-name="dsh-superagent-prototype" data-owner="deepseek-ai" data-desc="迈向更自主的智能体系统 towards a more autonomous agent system" data-velocity="4684" data-new="false">
             <td class="col-rank">
                 <span class="rank-num">#1</span>
             </td>
             <td class="col-repo">
                 <div class="repo-header-line">
-                    <a href="https://github.com/a/b" target="_blank" rel="noopener noreferrer" class="repo-link">
+                    <a href="https://github.com/deepseek-ai/dsh-superagent-prototype" target="_blank" rel="noopener noreferrer" class="repo-link">
                         <svg class="gh-icon" viewBox="0 0 16 16" width="16" height="16" fill="currentColor">
                             <path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z"/>
                         </svg>
-                        <span class="repo-full-name"><span class="repo-owner">/</span><strong class="repo-name"></strong></span>
+                        <span class="repo-full-name"><span class="repo-owner">deepseek-ai/</span><strong class="repo-name">dsh-superagent-prototype</strong></span>
                     </a>
-                    <span class="badge badge-new"><span class="badge-dot"></span>今日新入榜</span>
-                    <span class="badge badge-age" title="首次创建于 0.0 天前">⏱ 0.0 天</span>
+                    
+                    <span class="badge badge-age" title="首次创建于 1.7 天前">⏱ 1.7 天</span>
                 </div>
-                <div class="repo-desc-zh">暂无项目描述</div>
-                
+                <div class="repo-desc-zh">迈向更自主的智能体系统</div>
+                <div class="repo-desc-en">Towards a More Autonomous Agent System</div>
             </td>
             <td class="col-stars">
-                <span class="badge badge-star">★ 0</span>
+                <span class="badge badge-star">★ 7,896</span>
             </td>
             <td class="col-velocity">
-                <span class="badge badge-velocity">⚡ +0 /天</span>
-                <div class="delta-subtext">24h净增 +0</div>
+                <span class="badge badge-velocity">⚡ +4,684 /天</span>
+                <div class="delta-subtext">24h净增 +2,922</div>
             </td>
             <td class="col-action">
-                <a href="https://github.com/a/b" target="_blank" rel="noopener noreferrer" class="btn-github-view" title="在 GitHub 查看">
+                <a href="https://github.com/deepseek-ai/dsh-superagent-prototype" target="_blank" rel="noopener noreferrer" class="btn-github-view" title="在 GitHub 查看">
                     访问 ↗
                 </a>
             </td>
         </tr>
         
-        <tr class="repo-row" data-name="" data-owner="" data-desc="暂无项目描述 " data-velocity="0" data-new="false">
+        <tr class="repo-row" data-name="unslop" data-owner="heydamir" data-desc="一项 claude 技能，可将氛围编程生成、风格像 ai 的界面改造为经过精心设计的界面 a claude skill that turns vibecoded, ai-looking ui into a designed interface" data-velocity="1434" data-new="false">
             <td class="col-rank">
                 <span class="rank-num">#2</span>
             </td>
             <td class="col-repo">
                 <div class="repo-header-line">
-                    <a href="https://github.com/c/d" target="_blank" rel="noopener noreferrer" class="repo-link">
+                    <a href="https://github.com/heydamir/unslop" target="_blank" rel="noopener noreferrer" class="repo-link">
                         <svg class="gh-icon" viewBox="0 0 16 16" width="16" height="16" fill="currentColor">
                             <path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z"/>
                         </svg>
-                        <span class="repo-full-name"><span class="repo-owner">/</span><strong class="repo-name"></strong></span>
+                        <span class="repo-full-name"><span class="repo-owner">heydamir/</span><strong class="repo-name">unslop</strong></span>
                     </a>
                     
-                    <span class="badge badge-age" title="首次创建于 0.0 天前">⏱ 0.0 天</span>
+                    <span class="badge badge-age" title="首次创建于 3.4 天前">⏱ 3.4 天</span>
+                </div>
+                <div class="repo-desc-zh">一项 Claude 技能，可将氛围编程生成、风格像 AI 的界面改造为经过精心设计的界面</div>
+                <div class="repo-desc-en">A Claude skill that turns vibecoded, AI-looking UI into a designed interface</div>
+            </td>
+            <td class="col-stars">
+                <span class="badge badge-star">★ 4,920</span>
+            </td>
+            <td class="col-velocity">
+                <span class="badge badge-velocity">⚡ +1,434 /天</span>
+                <div class="delta-subtext">24h净增 +851</div>
+            </td>
+            <td class="col-action">
+                <a href="https://github.com/heydamir/unslop" target="_blank" rel="noopener noreferrer" class="btn-github-view" title="在 GitHub 查看">
+                    访问 ↗
+                </a>
+            </td>
+        </tr>
+        
+        <tr class="repo-row" data-name="openidea" data-owner="l0ng-ai" data-desc="以 rust 重建你熟悉的 ide。采用 intellij idea 风格的快捷键映射、工具窗口和全局搜索，提供高速原生应用体验： the ide you know, rebuilt in rust. intellij idea–style keymap, tool windows and search-everywhere in a fast native app: " data-velocity="314" data-new="true">
+            <td class="col-rank">
+                <span class="rank-num">#3</span>
+            </td>
+            <td class="col-repo">
+                <div class="repo-header-line">
+                    <a href="https://github.com/l0ng-ai/openidea" target="_blank" rel="noopener noreferrer" class="repo-link">
+                        <svg class="gh-icon" viewBox="0 0 16 16" width="16" height="16" fill="currentColor">
+                            <path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z"/>
+                        </svg>
+                        <span class="repo-full-name"><span class="repo-owner">l0ng-ai/</span><strong class="repo-name">openidea</strong></span>
+                    </a>
+                    <span class="badge badge-new"><span class="badge-dot"></span>今日新入榜</span>
+                    <span class="badge badge-age" title="首次创建于 11.6 天前">⏱ 11.6 天</span>
+                </div>
+                <div class="repo-desc-zh">以 Rust 重建你熟悉的 IDE。采用 IntelliJ IDEA 风格的快捷键映射、工具窗口和全局搜索，提供高速原生应用体验：</div>
+                <div class="repo-desc-en">The IDE you know, rebuilt in Rust. IntelliJ IDEA–style keymap, tool windows and search-everywhere in a fast native app: </div>
+            </td>
+            <td class="col-stars">
+                <span class="badge badge-star">★ 3,631</span>
+            </td>
+            <td class="col-velocity">
+                <span class="badge badge-velocity">⚡ +314 /天</span>
+                <div class="delta-subtext">24h净增 +1,429</div>
+            </td>
+            <td class="col-action">
+                <a href="https://github.com/l0ng-ai/openidea" target="_blank" rel="noopener noreferrer" class="btn-github-view" title="在 GitHub 查看">
+                    访问 ↗
+                </a>
+            </td>
+        </tr>
+        
+        <tr class="repo-row" data-name="mika" data-owner="wangzan101" data-desc="一款面向 android 的端侧 ai 智能体，可操作应用和网页，替你完成各项任务 an on-device ai agent for android that operates apps and the web to get things done for you." data-velocity="1132" data-new="false">
+            <td class="col-rank">
+                <span class="rank-num">#4</span>
+            </td>
+            <td class="col-repo">
+                <div class="repo-header-line">
+                    <a href="https://github.com/wangzan101/Mika" target="_blank" rel="noopener noreferrer" class="repo-link">
+                        <svg class="gh-icon" viewBox="0 0 16 16" width="16" height="16" fill="currentColor">
+                            <path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z"/>
+                        </svg>
+                        <span class="repo-full-name"><span class="repo-owner">wangzan101/</span><strong class="repo-name">Mika</strong></span>
+                    </a>
+                    
+                    <span class="badge badge-age" title="首次创建于 3.5 天前">⏱ 3.5 天</span>
+                </div>
+                <div class="repo-desc-zh">一款面向 Android 的端侧 AI 智能体，可操作应用和网页，替你完成各项任务</div>
+                <div class="repo-desc-en">An on-device AI agent for Android that operates apps and the web to get things done for you.</div>
+            </td>
+            <td class="col-stars">
+                <span class="badge badge-star">★ 3,934</span>
+            </td>
+            <td class="col-velocity">
+                <span class="badge badge-velocity">⚡ +1,132 /天</span>
+                <div class="delta-subtext">24h净增 +679</div>
+            </td>
+            <td class="col-action">
+                <a href="https://github.com/wangzan101/Mika" target="_blank" rel="noopener noreferrer" class="btn-github-view" title="在 GitHub 查看">
+                    访问 ↗
+                </a>
+            </td>
+        </tr>
+        
+        <tr class="repo-row" data-name="pixelfx" data-owner="patch-gg" data-desc="244 种像素艺术特效，每一种都是一小段代码。另有 claude code 技能可让你创作自己的特效 244 pixel art effects, every one a small piece of code. plus a claude code skill to make your own." data-velocity="945" data-new="false">
+            <td class="col-rank">
+                <span class="rank-num">#5</span>
+            </td>
+            <td class="col-repo">
+                <div class="repo-header-line">
+                    <a href="https://github.com/patch-gg/pixelfx" target="_blank" rel="noopener noreferrer" class="repo-link">
+                        <svg class="gh-icon" viewBox="0 0 16 16" width="16" height="16" fill="currentColor">
+                            <path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z"/>
+                        </svg>
+                        <span class="repo-full-name"><span class="repo-owner">patch-gg/</span><strong class="repo-name">pixelfx</strong></span>
+                    </a>
+                    
+                    <span class="badge badge-age" title="首次创建于 2.8 天前">⏱ 2.8 天</span>
+                </div>
+                <div class="repo-desc-zh">244 种像素艺术特效，每一种都是一小段代码。另有 Claude Code 技能可让你创作自己的特效</div>
+                <div class="repo-desc-en">244 pixel art effects, every one a small piece of code. Plus a Claude Code skill to make your own.</div>
+            </td>
+            <td class="col-stars">
+                <span class="badge badge-star">★ 2,648</span>
+            </td>
+            <td class="col-velocity">
+                <span class="badge badge-velocity">⚡ +945 /天</span>
+                <div class="delta-subtext">24h净增 +713</div>
+            </td>
+            <td class="col-action">
+                <a href="https://github.com/patch-gg/pixelfx" target="_blank" rel="noopener noreferrer" class="btn-github-view" title="在 GitHub 查看">
+                    访问 ↗
+                </a>
+            </td>
+        </tr>
+        
+        <tr class="repo-row" data-name="ai-pose-gallery-zh" data-owner="anhao" data-desc="中文版 ai 姿势参考图库 · 1439 组 / 2878 张图片 / 完整汉化 · 零依赖静态画廊 中文版 ai 姿势参考图库 · 1439 组 / 2878 张图片 / 完整汉化 · 零依赖静态画廊" data-velocity="927" data-new="false">
+            <td class="col-rank">
+                <span class="rank-num">#6</span>
+            </td>
+            <td class="col-repo">
+                <div class="repo-header-line">
+                    <a href="https://github.com/anhao/ai-pose-gallery-zh" target="_blank" rel="noopener noreferrer" class="repo-link">
+                        <svg class="gh-icon" viewBox="0 0 16 16" width="16" height="16" fill="currentColor">
+                            <path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z"/>
+                        </svg>
+                        <span class="repo-full-name"><span class="repo-owner">anhao/</span><strong class="repo-name">ai-pose-gallery-zh</strong></span>
+                    </a>
+                    
+                    <span class="badge badge-age" title="首次创建于 5.6 天前">⏱ 5.6 天</span>
+                </div>
+                <div class="repo-desc-zh">中文版 AI 姿势参考图库 · 1439 组 / 2878 张图片 / 完整汉化 · 零依赖静态画廊</div>
+                
+            </td>
+            <td class="col-stars">
+                <span class="badge badge-star">★ 5,160</span>
+            </td>
+            <td class="col-velocity">
+                <span class="badge badge-velocity">⚡ +927 /天</span>
+                <div class="delta-subtext">24h净增 +190</div>
+            </td>
+            <td class="col-action">
+                <a href="https://github.com/anhao/ai-pose-gallery-zh" target="_blank" rel="noopener noreferrer" class="btn-github-view" title="在 GitHub 查看">
+                    访问 ↗
+                </a>
+            </td>
+        </tr>
+        
+        <tr class="repo-row" data-name="totk-pc-recomp" data-owner="valentderah" data-desc="将《塞尔达传说：王国之泪》静态重编译为原生 windows x86-64 程序，并采用 vulkan 渲染器。游戏 static recompilation of the legend of zelda: tears of the kingdom to native windows x86-64, with a vulkan renderer. game" data-velocity="909" data-new="false">
+            <td class="col-rank">
+                <span class="rank-num">#7</span>
+            </td>
+            <td class="col-repo">
+                <div class="repo-header-line">
+                    <a href="https://github.com/valentderah/totk-pc-recomp" target="_blank" rel="noopener noreferrer" class="repo-link">
+                        <svg class="gh-icon" viewBox="0 0 16 16" width="16" height="16" fill="currentColor">
+                            <path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z"/>
+                        </svg>
+                        <span class="repo-full-name"><span class="repo-owner">valentderah/</span><strong class="repo-name">totk-pc-recomp</strong></span>
+                    </a>
+                    
+                    <span class="badge badge-age" title="首次创建于 3.6 天前">⏱ 3.6 天</span>
+                </div>
+                <div class="repo-desc-zh">将《塞尔达传说：王国之泪》静态重编译为原生 Windows x86-64 程序，并采用 Vulkan 渲染器。游戏</div>
+                <div class="repo-desc-en">Static recompilation of The Legend of Zelda: Tears of the Kingdom to native Windows x86-64, with a Vulkan renderer. Game</div>
+            </td>
+            <td class="col-stars">
+                <span class="badge badge-star">★ 3,235</span>
+            </td>
+            <td class="col-velocity">
+                <span class="badge badge-velocity">⚡ +909 /天</span>
+                <div class="delta-subtext">24h净增 +378</div>
+            </td>
+            <td class="col-action">
+                <a href="https://github.com/valentderah/totk-pc-recomp" target="_blank" rel="noopener noreferrer" class="btn-github-view" title="在 GitHub 查看">
+                    访问 ↗
+                </a>
+            </td>
+        </tr>
+        
+        <tr class="repo-row" data-name="ub-mode" data-owner="unclebob" data-desc="暂无项目描述 " data-velocity="846" data-new="false">
+            <td class="col-rank">
+                <span class="rank-num">#8</span>
+            </td>
+            <td class="col-repo">
+                <div class="repo-header-line">
+                    <a href="https://github.com/unclebob/ub-mode" target="_blank" rel="noopener noreferrer" class="repo-link">
+                        <svg class="gh-icon" viewBox="0 0 16 16" width="16" height="16" fill="currentColor">
+                            <path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z"/>
+                        </svg>
+                        <span class="repo-full-name"><span class="repo-owner">unclebob/</span><strong class="repo-name">ub-mode</strong></span>
+                    </a>
+                    
+                    <span class="badge badge-age" title="首次创建于 7.4 天前">⏱ 7.4 天</span>
                 </div>
                 <div class="repo-desc-zh">暂无项目描述</div>
                 
             </td>
             <td class="col-stars">
-                <span class="badge badge-star">★ 0</span>
+                <span class="badge badge-star">★ 6,269</span>
             </td>
             <td class="col-velocity">
-                <span class="badge badge-velocity">⚡ +0 /天</span>
-                <div class="delta-subtext">24h净增 +0</div>
+                <span class="badge badge-velocity">⚡ +846 /天</span>
+                <div class="delta-subtext">24h净增 +230</div>
             </td>
             <td class="col-action">
-                <a href="https://github.com/c/d" target="_blank" rel="noopener noreferrer" class="btn-github-view" title="在 GitHub 查看">
+                <a href="https://github.com/unclebob/ub-mode" target="_blank" rel="noopener noreferrer" class="btn-github-view" title="在 GitHub 查看">
+                    访问 ↗
+                </a>
+            </td>
+        </tr>
+        
+        <tr class="repo-row" data-name="craft-anything" data-owner="storytold" data-desc="创造一切：了解任何软件的工作原理，并亲手打造自己的软件 craft anything: understand how any software works, and craft your own." data-velocity="830" data-new="true">
+            <td class="col-rank">
+                <span class="rank-num">#9</span>
+            </td>
+            <td class="col-repo">
+                <div class="repo-header-line">
+                    <a href="https://github.com/storytold/craft-anything" target="_blank" rel="noopener noreferrer" class="repo-link">
+                        <svg class="gh-icon" viewBox="0 0 16 16" width="16" height="16" fill="currentColor">
+                            <path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z"/>
+                        </svg>
+                        <span class="repo-full-name"><span class="repo-owner">storytold/</span><strong class="repo-name">craft-anything</strong></span>
+                    </a>
+                    <span class="badge badge-new"><span class="badge-dot"></span>今日新入榜</span>
+                    <span class="badge badge-age" title="首次创建于 1.5 天前">⏱ 1.5 天</span>
+                </div>
+                <div class="repo-desc-zh">创造一切：了解任何软件的工作原理，并亲手打造自己的软件</div>
+                <div class="repo-desc-en">Craft Anything: understand how any software works, and craft your own.</div>
+            </td>
+            <td class="col-stars">
+                <span class="badge badge-star">★ 1,216</span>
+            </td>
+            <td class="col-velocity">
+                <span class="badge badge-velocity">⚡ +830 /天</span>
+                <div class="delta-subtext">24h净增 +None</div>
+            </td>
+            <td class="col-action">
+                <a href="https://github.com/storytold/craft-anything" target="_blank" rel="noopener noreferrer" class="btn-github-view" title="在 GitHub 查看">
+                    访问 ↗
+                </a>
+            </td>
+        </tr>
+        
+        <tr class="repo-row" data-name="floorplan" data-owner="haydenschmitty" data-desc="直观了解你的应用是如何组合而成的。由 claude 或 codex 绘制，以通俗易懂的方式呈现代码库交互式关系图。 see how your app actually fits together. an interactive, plain-english map of your codebase, drawn by claude or codex." data-velocity="325" data-new="true">
+            <td class="col-rank">
+                <span class="rank-num">#10</span>
+            </td>
+            <td class="col-repo">
+                <div class="repo-header-line">
+                    <a href="https://github.com/haydenschmitty/floorplan" target="_blank" rel="noopener noreferrer" class="repo-link">
+                        <svg class="gh-icon" viewBox="0 0 16 16" width="16" height="16" fill="currentColor">
+                            <path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z"/>
+                        </svg>
+                        <span class="repo-full-name"><span class="repo-owner">haydenschmitty/</span><strong class="repo-name">floorplan</strong></span>
+                    </a>
+                    <span class="badge badge-new"><span class="badge-dot"></span>今日新入榜</span>
+                    <span class="badge badge-age" title="首次创建于 5.6 天前">⏱ 5.6 天</span>
+                </div>
+                <div class="repo-desc-zh">直观了解你的应用是如何组合而成的。由 Claude 或 Codex 绘制，以通俗易懂的方式呈现代码库交互式关系图。</div>
+                <div class="repo-desc-en">See how your app actually fits together. An interactive, plain-English map of your codebase, drawn by Claude or Codex.</div>
+            </td>
+            <td class="col-stars">
+                <span class="badge badge-star">★ 1,813</span>
+            </td>
+            <td class="col-velocity">
+                <span class="badge badge-velocity">⚡ +325 /天</span>
+                <div class="delta-subtext">24h净增 +714</div>
+            </td>
+            <td class="col-action">
+                <a href="https://github.com/haydenschmitty/floorplan" target="_blank" rel="noopener noreferrer" class="btn-github-view" title="在 GitHub 查看">
+                    访问 ↗
+                </a>
+            </td>
+        </tr>
+        
+        <tr class="repo-row" data-name="aerial-tv" data-owner="pengchujin" data-desc="给国产电视的一块干净桌面：参照 tvos 设计的开源 android tv 桌面，没有广告，开机自动接管。a tvos-style launcher for xiaomi, tcl and other china-market tvs. 给国产电视的一块干净桌面：参照 tvos 设计的开源 android tv 桌面，没有广告，开机自动接管。a tvos-style launcher for xiaomi, tcl and other china-market tvs." data-velocity="685" data-new="false">
+            <td class="col-rank">
+                <span class="rank-num">#11</span>
+            </td>
+            <td class="col-repo">
+                <div class="repo-header-line">
+                    <a href="https://github.com/pengchujin/aerial-tv" target="_blank" rel="noopener noreferrer" class="repo-link">
+                        <svg class="gh-icon" viewBox="0 0 16 16" width="16" height="16" fill="currentColor">
+                            <path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z"/>
+                        </svg>
+                        <span class="repo-full-name"><span class="repo-owner">pengchujin/</span><strong class="repo-name">aerial-tv</strong></span>
+                    </a>
+                    
+                    <span class="badge badge-age" title="首次创建于 12.7 天前">⏱ 12.7 天</span>
+                </div>
+                <div class="repo-desc-zh">给国产电视的一块干净桌面：参照 tvOS 设计的开源 Android TV 桌面，没有广告，开机自动接管。A tvOS-style launcher for Xiaomi, TCL and other China-market TVs.</div>
+                
+            </td>
+            <td class="col-stars">
+                <span class="badge badge-star">★ 8,697</span>
+            </td>
+            <td class="col-velocity">
+                <span class="badge badge-velocity">⚡ +685 /天</span>
+                <div class="delta-subtext">24h净增 +189</div>
+            </td>
+            <td class="col-action">
+                <a href="https://github.com/pengchujin/aerial-tv" target="_blank" rel="noopener noreferrer" class="btn-github-view" title="在 GitHub 查看">
+                    访问 ↗
+                </a>
+            </td>
+        </tr>
+        
+        <tr class="repo-row" data-name="android-ad-cleaner" data-owner="rddmwmddr" data-desc="关掉国产安卓手机系统里的广告、热搜、资讯推荐和营销推送。不 root，可还原，支持 ai 智能体一键执行。 关掉国产安卓手机系统里的广告、热搜、资讯推荐和营销推送。不 root，可还原，支持 ai 智能体一键执行。" data-velocity="640" data-new="false">
+            <td class="col-rank">
+                <span class="rank-num">#12</span>
+            </td>
+            <td class="col-repo">
+                <div class="repo-header-line">
+                    <a href="https://github.com/rddmwmddr/android-ad-cleaner" target="_blank" rel="noopener noreferrer" class="repo-link">
+                        <svg class="gh-icon" viewBox="0 0 16 16" width="16" height="16" fill="currentColor">
+                            <path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z"/>
+                        </svg>
+                        <span class="repo-full-name"><span class="repo-owner">rddmwmddr/</span><strong class="repo-name">android-ad-cleaner</strong></span>
+                    </a>
+                    
+                    <span class="badge badge-age" title="首次创建于 8.9 天前">⏱ 8.9 天</span>
+                </div>
+                <div class="repo-desc-zh">关掉国产安卓手机系统里的广告、热搜、资讯推荐和营销推送。不 root，可还原，支持 AI 智能体一键执行。</div>
+                
+            </td>
+            <td class="col-stars">
+                <span class="badge badge-star">★ 5,660</span>
+            </td>
+            <td class="col-velocity">
+                <span class="badge badge-velocity">⚡ +640 /天</span>
+                <div class="delta-subtext">24h净增 +136</div>
+            </td>
+            <td class="col-action">
+                <a href="https://github.com/rddmwmddr/android-ad-cleaner" target="_blank" rel="noopener noreferrer" class="btn-github-view" title="在 GitHub 查看">
+                    访问 ↗
+                </a>
+            </td>
+        </tr>
+        
+        <tr class="repo-row" data-name="dsh-go" data-owner="ccch1mneyyy" data-desc="dsh-go — deepseek harness 装进口袋：手机本机运行，也能遥控你的电脑。 dsh-go — deepseek harness 装进口袋：手机本机运行，也能遥控你的电脑。" data-velocity="611" data-new="false">
+            <td class="col-rank">
+                <span class="rank-num">#13</span>
+            </td>
+            <td class="col-repo">
+                <div class="repo-header-line">
+                    <a href="https://github.com/ccch1mneyyy/dsh-Go" target="_blank" rel="noopener noreferrer" class="repo-link">
+                        <svg class="gh-icon" viewBox="0 0 16 16" width="16" height="16" fill="currentColor">
+                            <path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z"/>
+                        </svg>
+                        <span class="repo-full-name"><span class="repo-owner">ccch1mneyyy/</span><strong class="repo-name">dsh-Go</strong></span>
+                    </a>
+                    
+                    <span class="badge badge-age" title="首次创建于 7.7 天前">⏱ 7.7 天</span>
+                </div>
+                <div class="repo-desc-zh">dsh-go — DeepSeek Harness 装进口袋：手机本机运行，也能遥控你的电脑。</div>
+                
+            </td>
+            <td class="col-stars">
+                <span class="badge badge-star">★ 4,731</span>
+            </td>
+            <td class="col-velocity">
+                <span class="badge badge-velocity">⚡ +611 /天</span>
+                <div class="delta-subtext">24h净增 +581</div>
+            </td>
+            <td class="col-action">
+                <a href="https://github.com/ccch1mneyyy/dsh-Go" target="_blank" rel="noopener noreferrer" class="btn-github-view" title="在 GitHub 查看">
+                    访问 ↗
+                </a>
+            </td>
+        </tr>
+        
+        <tr class="repo-row" data-name="zero-breach-toolkit" data-owner="interplains" data-desc="免费、开源的工具，可检查计算机和 an 上是否存在雇佣间谍软件（pegasus、predator、graphite、candiru 等）留下的痕迹 free, open-source check for traces of mercenary spyware (pegasus, predator, graphite, candiru and more) on computers, an" data-velocity="556" data-new="false">
+            <td class="col-rank">
+                <span class="rank-num">#14</span>
+            </td>
+            <td class="col-repo">
+                <div class="repo-header-line">
+                    <a href="https://github.com/interplains/Zero-Breach-Toolkit" target="_blank" rel="noopener noreferrer" class="repo-link">
+                        <svg class="gh-icon" viewBox="0 0 16 16" width="16" height="16" fill="currentColor">
+                            <path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z"/>
+                        </svg>
+                        <span class="repo-full-name"><span class="repo-owner">interplains/</span><strong class="repo-name">Zero-Breach-Toolkit</strong></span>
+                    </a>
+                    
+                    <span class="badge badge-age" title="首次创建于 7.5 天前">⏱ 7.5 天</span>
+                </div>
+                <div class="repo-desc-zh">免费、开源的工具，可检查计算机和 An 上是否存在雇佣间谍软件（Pegasus、Predator、Graphite、Candiru 等）留下的痕迹</div>
+                <div class="repo-desc-en">Free, open-source check for traces of mercenary spyware (Pegasus, Predator, Graphite, Candiru and more) on computers, An</div>
+            </td>
+            <td class="col-stars">
+                <span class="badge badge-star">★ 4,157</span>
+            </td>
+            <td class="col-velocity">
+                <span class="badge badge-velocity">⚡ +556 /天</span>
+                <div class="delta-subtext">24h净增 +114</div>
+            </td>
+            <td class="col-action">
+                <a href="https://github.com/interplains/Zero-Breach-Toolkit" target="_blank" rel="noopener noreferrer" class="btn-github-view" title="在 GitHub 查看">
+                    访问 ↗
+                </a>
+            </td>
+        </tr>
+        
+        <tr class="repo-row" data-name="hop" data-owner="arjun-ingole" data-desc="无需 u 盘，即可在 windows 旁安装 linux install linux next to windows without a usb stick" data-velocity="540" data-new="true">
+            <td class="col-rank">
+                <span class="rank-num">#15</span>
+            </td>
+            <td class="col-repo">
+                <div class="repo-header-line">
+                    <a href="https://github.com/Arjun-Ingole/hop" target="_blank" rel="noopener noreferrer" class="repo-link">
+                        <svg class="gh-icon" viewBox="0 0 16 16" width="16" height="16" fill="currentColor">
+                            <path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z"/>
+                        </svg>
+                        <span class="repo-full-name"><span class="repo-owner">Arjun-Ingole/</span><strong class="repo-name">hop</strong></span>
+                    </a>
+                    <span class="badge badge-new"><span class="badge-dot"></span>今日新入榜</span>
+                    <span class="badge badge-age" title="首次创建于 2.3 天前">⏱ 2.3 天</span>
+                </div>
+                <div class="repo-desc-zh">无需 U 盘，即可在 Windows 旁安装 Linux</div>
+                <div class="repo-desc-en">Install Linux next to Windows without a USB stick</div>
+            </td>
+            <td class="col-stars">
+                <span class="badge badge-star">★ 1,222</span>
+            </td>
+            <td class="col-velocity">
+                <span class="badge badge-velocity">⚡ +540 /天</span>
+                <div class="delta-subtext">24h净增 +314</div>
+            </td>
+            <td class="col-action">
+                <a href="https://github.com/Arjun-Ingole/hop" target="_blank" rel="noopener noreferrer" class="btn-github-view" title="在 GitHub 查看">
                     访问 ↗
                 </a>
             </td>
@@ -1060,58 +1476,422 @@
         <!-- 移动端卡片视图 -->
         <div class="mobile-cards-container" id="mobileCards">
             
-        <div class="repo-card" data-name="" data-owner="" data-desc="暂无项目描述 " data-velocity="0" data-new="true">
+        <div class="repo-card" data-name="dsh-superagent-prototype" data-owner="deepseek-ai" data-desc="迈向更自主的智能体系统 towards a more autonomous agent system" data-velocity="4684" data-new="false">
             <div class="card-top-bar">
                 <span class="card-rank">#1</span>
                 <div class="card-badges">
-                    <span class="badge badge-new"><span class="badge-dot"></span>今日新入榜</span>
-                    <span class="badge badge-age" title="首次创建于 0.0 天前">⏱ 0.0 天</span>
+                    
+                    <span class="badge badge-age" title="首次创建于 1.7 天前">⏱ 1.7 天</span>
                 </div>
             </div>
-            <a href="https://github.com/a/b" target="_blank" rel="noopener noreferrer" class="card-repo-title">
+            <a href="https://github.com/deepseek-ai/dsh-superagent-prototype" target="_blank" rel="noopener noreferrer" class="card-repo-title">
                 <svg class="gh-icon" viewBox="0 0 16 16" width="18" height="18" fill="currentColor">
                     <path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z"/>
                 </svg>
-                <span class="card-repo-name">a/b</span>
+                <span class="card-repo-name">deepseek-ai/dsh-superagent-prototype</span>
             </a>
             <div class="card-metrics-row">
-                <span class="badge badge-star">★ 0</span>
-                <span class="badge badge-velocity">⚡ +0 /天</span>
-                <span class="badge badge-delta">📈 +0 今日</span>
+                <span class="badge badge-star">★ 7,896</span>
+                <span class="badge badge-velocity">⚡ +4,684 /天</span>
+                <span class="badge badge-delta">📈 +2,922 今日</span>
             </div>
-            <div class="card-desc-zh">暂无项目描述</div>
-            
+            <div class="card-desc-zh">迈向更自主的智能体系统</div>
+            <div class="card-desc-en">Towards a More Autonomous Agent System</div>
             <div class="card-footer">
-                <a href="https://github.com/a/b" target="_blank" rel="noopener noreferrer" class="card-github-btn">
-                    在 GitHub 仓库查看 (★ 0) ↗
+                <a href="https://github.com/deepseek-ai/dsh-superagent-prototype" target="_blank" rel="noopener noreferrer" class="card-github-btn">
+                    在 GitHub 仓库查看 (★ 7,896) ↗
                 </a>
             </div>
         </div>
         
-        <div class="repo-card" data-name="" data-owner="" data-desc="暂无项目描述 " data-velocity="0" data-new="false">
+        <div class="repo-card" data-name="unslop" data-owner="heydamir" data-desc="一项 claude 技能，可将氛围编程生成、风格像 ai 的界面改造为经过精心设计的界面 a claude skill that turns vibecoded, ai-looking ui into a designed interface" data-velocity="1434" data-new="false">
             <div class="card-top-bar">
                 <span class="card-rank">#2</span>
                 <div class="card-badges">
                     
-                    <span class="badge badge-age" title="首次创建于 0.0 天前">⏱ 0.0 天</span>
+                    <span class="badge badge-age" title="首次创建于 3.4 天前">⏱ 3.4 天</span>
                 </div>
             </div>
-            <a href="https://github.com/c/d" target="_blank" rel="noopener noreferrer" class="card-repo-title">
+            <a href="https://github.com/heydamir/unslop" target="_blank" rel="noopener noreferrer" class="card-repo-title">
                 <svg class="gh-icon" viewBox="0 0 16 16" width="18" height="18" fill="currentColor">
                     <path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z"/>
                 </svg>
-                <span class="card-repo-name">c/d</span>
+                <span class="card-repo-name">heydamir/unslop</span>
             </a>
             <div class="card-metrics-row">
-                <span class="badge badge-star">★ 0</span>
-                <span class="badge badge-velocity">⚡ +0 /天</span>
-                <span class="badge badge-delta">📈 +0 今日</span>
+                <span class="badge badge-star">★ 4,920</span>
+                <span class="badge badge-velocity">⚡ +1,434 /天</span>
+                <span class="badge badge-delta">📈 +851 今日</span>
+            </div>
+            <div class="card-desc-zh">一项 Claude 技能，可将氛围编程生成、风格像 AI 的界面改造为经过精心设计的界面</div>
+            <div class="card-desc-en">A Claude skill that turns vibecoded, AI-looking UI into a designed interface</div>
+            <div class="card-footer">
+                <a href="https://github.com/heydamir/unslop" target="_blank" rel="noopener noreferrer" class="card-github-btn">
+                    在 GitHub 仓库查看 (★ 4,920) ↗
+                </a>
+            </div>
+        </div>
+        
+        <div class="repo-card" data-name="openidea" data-owner="l0ng-ai" data-desc="以 rust 重建你熟悉的 ide。采用 intellij idea 风格的快捷键映射、工具窗口和全局搜索，提供高速原生应用体验： the ide you know, rebuilt in rust. intellij idea–style keymap, tool windows and search-everywhere in a fast native app: " data-velocity="314" data-new="true">
+            <div class="card-top-bar">
+                <span class="card-rank">#3</span>
+                <div class="card-badges">
+                    <span class="badge badge-new"><span class="badge-dot"></span>今日新入榜</span>
+                    <span class="badge badge-age" title="首次创建于 11.6 天前">⏱ 11.6 天</span>
+                </div>
+            </div>
+            <a href="https://github.com/l0ng-ai/openidea" target="_blank" rel="noopener noreferrer" class="card-repo-title">
+                <svg class="gh-icon" viewBox="0 0 16 16" width="18" height="18" fill="currentColor">
+                    <path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z"/>
+                </svg>
+                <span class="card-repo-name">l0ng-ai/openidea</span>
+            </a>
+            <div class="card-metrics-row">
+                <span class="badge badge-star">★ 3,631</span>
+                <span class="badge badge-velocity">⚡ +314 /天</span>
+                <span class="badge badge-delta">📈 +1,429 今日</span>
+            </div>
+            <div class="card-desc-zh">以 Rust 重建你熟悉的 IDE。采用 IntelliJ IDEA 风格的快捷键映射、工具窗口和全局搜索，提供高速原生应用体验：</div>
+            <div class="card-desc-en">The IDE you know, rebuilt in Rust. IntelliJ IDEA–style keymap, tool windows and search-everywhere in a fast native app: </div>
+            <div class="card-footer">
+                <a href="https://github.com/l0ng-ai/openidea" target="_blank" rel="noopener noreferrer" class="card-github-btn">
+                    在 GitHub 仓库查看 (★ 3,631) ↗
+                </a>
+            </div>
+        </div>
+        
+        <div class="repo-card" data-name="mika" data-owner="wangzan101" data-desc="一款面向 android 的端侧 ai 智能体，可操作应用和网页，替你完成各项任务 an on-device ai agent for android that operates apps and the web to get things done for you." data-velocity="1132" data-new="false">
+            <div class="card-top-bar">
+                <span class="card-rank">#4</span>
+                <div class="card-badges">
+                    
+                    <span class="badge badge-age" title="首次创建于 3.5 天前">⏱ 3.5 天</span>
+                </div>
+            </div>
+            <a href="https://github.com/wangzan101/Mika" target="_blank" rel="noopener noreferrer" class="card-repo-title">
+                <svg class="gh-icon" viewBox="0 0 16 16" width="18" height="18" fill="currentColor">
+                    <path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z"/>
+                </svg>
+                <span class="card-repo-name">wangzan101/Mika</span>
+            </a>
+            <div class="card-metrics-row">
+                <span class="badge badge-star">★ 3,934</span>
+                <span class="badge badge-velocity">⚡ +1,132 /天</span>
+                <span class="badge badge-delta">📈 +679 今日</span>
+            </div>
+            <div class="card-desc-zh">一款面向 Android 的端侧 AI 智能体，可操作应用和网页，替你完成各项任务</div>
+            <div class="card-desc-en">An on-device AI agent for Android that operates apps and the web to get things done for you.</div>
+            <div class="card-footer">
+                <a href="https://github.com/wangzan101/Mika" target="_blank" rel="noopener noreferrer" class="card-github-btn">
+                    在 GitHub 仓库查看 (★ 3,934) ↗
+                </a>
+            </div>
+        </div>
+        
+        <div class="repo-card" data-name="pixelfx" data-owner="patch-gg" data-desc="244 种像素艺术特效，每一种都是一小段代码。另有 claude code 技能可让你创作自己的特效 244 pixel art effects, every one a small piece of code. plus a claude code skill to make your own." data-velocity="945" data-new="false">
+            <div class="card-top-bar">
+                <span class="card-rank">#5</span>
+                <div class="card-badges">
+                    
+                    <span class="badge badge-age" title="首次创建于 2.8 天前">⏱ 2.8 天</span>
+                </div>
+            </div>
+            <a href="https://github.com/patch-gg/pixelfx" target="_blank" rel="noopener noreferrer" class="card-repo-title">
+                <svg class="gh-icon" viewBox="0 0 16 16" width="18" height="18" fill="currentColor">
+                    <path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z"/>
+                </svg>
+                <span class="card-repo-name">patch-gg/pixelfx</span>
+            </a>
+            <div class="card-metrics-row">
+                <span class="badge badge-star">★ 2,648</span>
+                <span class="badge badge-velocity">⚡ +945 /天</span>
+                <span class="badge badge-delta">📈 +713 今日</span>
+            </div>
+            <div class="card-desc-zh">244 种像素艺术特效，每一种都是一小段代码。另有 Claude Code 技能可让你创作自己的特效</div>
+            <div class="card-desc-en">244 pixel art effects, every one a small piece of code. Plus a Claude Code skill to make your own.</div>
+            <div class="card-footer">
+                <a href="https://github.com/patch-gg/pixelfx" target="_blank" rel="noopener noreferrer" class="card-github-btn">
+                    在 GitHub 仓库查看 (★ 2,648) ↗
+                </a>
+            </div>
+        </div>
+        
+        <div class="repo-card" data-name="ai-pose-gallery-zh" data-owner="anhao" data-desc="中文版 ai 姿势参考图库 · 1439 组 / 2878 张图片 / 完整汉化 · 零依赖静态画廊 中文版 ai 姿势参考图库 · 1439 组 / 2878 张图片 / 完整汉化 · 零依赖静态画廊" data-velocity="927" data-new="false">
+            <div class="card-top-bar">
+                <span class="card-rank">#6</span>
+                <div class="card-badges">
+                    
+                    <span class="badge badge-age" title="首次创建于 5.6 天前">⏱ 5.6 天</span>
+                </div>
+            </div>
+            <a href="https://github.com/anhao/ai-pose-gallery-zh" target="_blank" rel="noopener noreferrer" class="card-repo-title">
+                <svg class="gh-icon" viewBox="0 0 16 16" width="18" height="18" fill="currentColor">
+                    <path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z"/>
+                </svg>
+                <span class="card-repo-name">anhao/ai-pose-gallery-zh</span>
+            </a>
+            <div class="card-metrics-row">
+                <span class="badge badge-star">★ 5,160</span>
+                <span class="badge badge-velocity">⚡ +927 /天</span>
+                <span class="badge badge-delta">📈 +190 今日</span>
+            </div>
+            <div class="card-desc-zh">中文版 AI 姿势参考图库 · 1439 组 / 2878 张图片 / 完整汉化 · 零依赖静态画廊</div>
+            
+            <div class="card-footer">
+                <a href="https://github.com/anhao/ai-pose-gallery-zh" target="_blank" rel="noopener noreferrer" class="card-github-btn">
+                    在 GitHub 仓库查看 (★ 5,160) ↗
+                </a>
+            </div>
+        </div>
+        
+        <div class="repo-card" data-name="totk-pc-recomp" data-owner="valentderah" data-desc="将《塞尔达传说：王国之泪》静态重编译为原生 windows x86-64 程序，并采用 vulkan 渲染器。游戏 static recompilation of the legend of zelda: tears of the kingdom to native windows x86-64, with a vulkan renderer. game" data-velocity="909" data-new="false">
+            <div class="card-top-bar">
+                <span class="card-rank">#7</span>
+                <div class="card-badges">
+                    
+                    <span class="badge badge-age" title="首次创建于 3.6 天前">⏱ 3.6 天</span>
+                </div>
+            </div>
+            <a href="https://github.com/valentderah/totk-pc-recomp" target="_blank" rel="noopener noreferrer" class="card-repo-title">
+                <svg class="gh-icon" viewBox="0 0 16 16" width="18" height="18" fill="currentColor">
+                    <path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z"/>
+                </svg>
+                <span class="card-repo-name">valentderah/totk-pc-recomp</span>
+            </a>
+            <div class="card-metrics-row">
+                <span class="badge badge-star">★ 3,235</span>
+                <span class="badge badge-velocity">⚡ +909 /天</span>
+                <span class="badge badge-delta">📈 +378 今日</span>
+            </div>
+            <div class="card-desc-zh">将《塞尔达传说：王国之泪》静态重编译为原生 Windows x86-64 程序，并采用 Vulkan 渲染器。游戏</div>
+            <div class="card-desc-en">Static recompilation of The Legend of Zelda: Tears of the Kingdom to native Windows x86-64, with a Vulkan renderer. Game</div>
+            <div class="card-footer">
+                <a href="https://github.com/valentderah/totk-pc-recomp" target="_blank" rel="noopener noreferrer" class="card-github-btn">
+                    在 GitHub 仓库查看 (★ 3,235) ↗
+                </a>
+            </div>
+        </div>
+        
+        <div class="repo-card" data-name="ub-mode" data-owner="unclebob" data-desc="暂无项目描述 " data-velocity="846" data-new="false">
+            <div class="card-top-bar">
+                <span class="card-rank">#8</span>
+                <div class="card-badges">
+                    
+                    <span class="badge badge-age" title="首次创建于 7.4 天前">⏱ 7.4 天</span>
+                </div>
+            </div>
+            <a href="https://github.com/unclebob/ub-mode" target="_blank" rel="noopener noreferrer" class="card-repo-title">
+                <svg class="gh-icon" viewBox="0 0 16 16" width="18" height="18" fill="currentColor">
+                    <path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z"/>
+                </svg>
+                <span class="card-repo-name">unclebob/ub-mode</span>
+            </a>
+            <div class="card-metrics-row">
+                <span class="badge badge-star">★ 6,269</span>
+                <span class="badge badge-velocity">⚡ +846 /天</span>
+                <span class="badge badge-delta">📈 +230 今日</span>
             </div>
             <div class="card-desc-zh">暂无项目描述</div>
             
             <div class="card-footer">
-                <a href="https://github.com/c/d" target="_blank" rel="noopener noreferrer" class="card-github-btn">
-                    在 GitHub 仓库查看 (★ 0) ↗
+                <a href="https://github.com/unclebob/ub-mode" target="_blank" rel="noopener noreferrer" class="card-github-btn">
+                    在 GitHub 仓库查看 (★ 6,269) ↗
+                </a>
+            </div>
+        </div>
+        
+        <div class="repo-card" data-name="craft-anything" data-owner="storytold" data-desc="创造一切：了解任何软件的工作原理，并亲手打造自己的软件 craft anything: understand how any software works, and craft your own." data-velocity="830" data-new="true">
+            <div class="card-top-bar">
+                <span class="card-rank">#9</span>
+                <div class="card-badges">
+                    <span class="badge badge-new"><span class="badge-dot"></span>今日新入榜</span>
+                    <span class="badge badge-age" title="首次创建于 1.5 天前">⏱ 1.5 天</span>
+                </div>
+            </div>
+            <a href="https://github.com/storytold/craft-anything" target="_blank" rel="noopener noreferrer" class="card-repo-title">
+                <svg class="gh-icon" viewBox="0 0 16 16" width="18" height="18" fill="currentColor">
+                    <path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z"/>
+                </svg>
+                <span class="card-repo-name">storytold/craft-anything</span>
+            </a>
+            <div class="card-metrics-row">
+                <span class="badge badge-star">★ 1,216</span>
+                <span class="badge badge-velocity">⚡ +830 /天</span>
+                <span class="badge badge-delta">📈 +None 今日</span>
+            </div>
+            <div class="card-desc-zh">创造一切：了解任何软件的工作原理，并亲手打造自己的软件</div>
+            <div class="card-desc-en">Craft Anything: understand how any software works, and craft your own.</div>
+            <div class="card-footer">
+                <a href="https://github.com/storytold/craft-anything" target="_blank" rel="noopener noreferrer" class="card-github-btn">
+                    在 GitHub 仓库查看 (★ 1,216) ↗
+                </a>
+            </div>
+        </div>
+        
+        <div class="repo-card" data-name="floorplan" data-owner="haydenschmitty" data-desc="直观了解你的应用是如何组合而成的。由 claude 或 codex 绘制，以通俗易懂的方式呈现代码库交互式关系图。 see how your app actually fits together. an interactive, plain-english map of your codebase, drawn by claude or codex." data-velocity="325" data-new="true">
+            <div class="card-top-bar">
+                <span class="card-rank">#10</span>
+                <div class="card-badges">
+                    <span class="badge badge-new"><span class="badge-dot"></span>今日新入榜</span>
+                    <span class="badge badge-age" title="首次创建于 5.6 天前">⏱ 5.6 天</span>
+                </div>
+            </div>
+            <a href="https://github.com/haydenschmitty/floorplan" target="_blank" rel="noopener noreferrer" class="card-repo-title">
+                <svg class="gh-icon" viewBox="0 0 16 16" width="18" height="18" fill="currentColor">
+                    <path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z"/>
+                </svg>
+                <span class="card-repo-name">haydenschmitty/floorplan</span>
+            </a>
+            <div class="card-metrics-row">
+                <span class="badge badge-star">★ 1,813</span>
+                <span class="badge badge-velocity">⚡ +325 /天</span>
+                <span class="badge badge-delta">📈 +714 今日</span>
+            </div>
+            <div class="card-desc-zh">直观了解你的应用是如何组合而成的。由 Claude 或 Codex 绘制，以通俗易懂的方式呈现代码库交互式关系图。</div>
+            <div class="card-desc-en">See how your app actually fits together. An interactive, plain-English map of your codebase, drawn by Claude or Codex.</div>
+            <div class="card-footer">
+                <a href="https://github.com/haydenschmitty/floorplan" target="_blank" rel="noopener noreferrer" class="card-github-btn">
+                    在 GitHub 仓库查看 (★ 1,813) ↗
+                </a>
+            </div>
+        </div>
+        
+        <div class="repo-card" data-name="aerial-tv" data-owner="pengchujin" data-desc="给国产电视的一块干净桌面：参照 tvos 设计的开源 android tv 桌面，没有广告，开机自动接管。a tvos-style launcher for xiaomi, tcl and other china-market tvs. 给国产电视的一块干净桌面：参照 tvos 设计的开源 android tv 桌面，没有广告，开机自动接管。a tvos-style launcher for xiaomi, tcl and other china-market tvs." data-velocity="685" data-new="false">
+            <div class="card-top-bar">
+                <span class="card-rank">#11</span>
+                <div class="card-badges">
+                    
+                    <span class="badge badge-age" title="首次创建于 12.7 天前">⏱ 12.7 天</span>
+                </div>
+            </div>
+            <a href="https://github.com/pengchujin/aerial-tv" target="_blank" rel="noopener noreferrer" class="card-repo-title">
+                <svg class="gh-icon" viewBox="0 0 16 16" width="18" height="18" fill="currentColor">
+                    <path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z"/>
+                </svg>
+                <span class="card-repo-name">pengchujin/aerial-tv</span>
+            </a>
+            <div class="card-metrics-row">
+                <span class="badge badge-star">★ 8,697</span>
+                <span class="badge badge-velocity">⚡ +685 /天</span>
+                <span class="badge badge-delta">📈 +189 今日</span>
+            </div>
+            <div class="card-desc-zh">给国产电视的一块干净桌面：参照 tvOS 设计的开源 Android TV 桌面，没有广告，开机自动接管。A tvOS-style launcher for Xiaomi, TCL and other China-market TVs.</div>
+            
+            <div class="card-footer">
+                <a href="https://github.com/pengchujin/aerial-tv" target="_blank" rel="noopener noreferrer" class="card-github-btn">
+                    在 GitHub 仓库查看 (★ 8,697) ↗
+                </a>
+            </div>
+        </div>
+        
+        <div class="repo-card" data-name="android-ad-cleaner" data-owner="rddmwmddr" data-desc="关掉国产安卓手机系统里的广告、热搜、资讯推荐和营销推送。不 root，可还原，支持 ai 智能体一键执行。 关掉国产安卓手机系统里的广告、热搜、资讯推荐和营销推送。不 root，可还原，支持 ai 智能体一键执行。" data-velocity="640" data-new="false">
+            <div class="card-top-bar">
+                <span class="card-rank">#12</span>
+                <div class="card-badges">
+                    
+                    <span class="badge badge-age" title="首次创建于 8.9 天前">⏱ 8.9 天</span>
+                </div>
+            </div>
+            <a href="https://github.com/rddmwmddr/android-ad-cleaner" target="_blank" rel="noopener noreferrer" class="card-repo-title">
+                <svg class="gh-icon" viewBox="0 0 16 16" width="18" height="18" fill="currentColor">
+                    <path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z"/>
+                </svg>
+                <span class="card-repo-name">rddmwmddr/android-ad-cleaner</span>
+            </a>
+            <div class="card-metrics-row">
+                <span class="badge badge-star">★ 5,660</span>
+                <span class="badge badge-velocity">⚡ +640 /天</span>
+                <span class="badge badge-delta">📈 +136 今日</span>
+            </div>
+            <div class="card-desc-zh">关掉国产安卓手机系统里的广告、热搜、资讯推荐和营销推送。不 root，可还原，支持 AI 智能体一键执行。</div>
+            
+            <div class="card-footer">
+                <a href="https://github.com/rddmwmddr/android-ad-cleaner" target="_blank" rel="noopener noreferrer" class="card-github-btn">
+                    在 GitHub 仓库查看 (★ 5,660) ↗
+                </a>
+            </div>
+        </div>
+        
+        <div class="repo-card" data-name="dsh-go" data-owner="ccch1mneyyy" data-desc="dsh-go — deepseek harness 装进口袋：手机本机运行，也能遥控你的电脑。 dsh-go — deepseek harness 装进口袋：手机本机运行，也能遥控你的电脑。" data-velocity="611" data-new="false">
+            <div class="card-top-bar">
+                <span class="card-rank">#13</span>
+                <div class="card-badges">
+                    
+                    <span class="badge badge-age" title="首次创建于 7.7 天前">⏱ 7.7 天</span>
+                </div>
+            </div>
+            <a href="https://github.com/ccch1mneyyy/dsh-Go" target="_blank" rel="noopener noreferrer" class="card-repo-title">
+                <svg class="gh-icon" viewBox="0 0 16 16" width="18" height="18" fill="currentColor">
+                    <path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z"/>
+                </svg>
+                <span class="card-repo-name">ccch1mneyyy/dsh-Go</span>
+            </a>
+            <div class="card-metrics-row">
+                <span class="badge badge-star">★ 4,731</span>
+                <span class="badge badge-velocity">⚡ +611 /天</span>
+                <span class="badge badge-delta">📈 +581 今日</span>
+            </div>
+            <div class="card-desc-zh">dsh-go — DeepSeek Harness 装进口袋：手机本机运行，也能遥控你的电脑。</div>
+            
+            <div class="card-footer">
+                <a href="https://github.com/ccch1mneyyy/dsh-Go" target="_blank" rel="noopener noreferrer" class="card-github-btn">
+                    在 GitHub 仓库查看 (★ 4,731) ↗
+                </a>
+            </div>
+        </div>
+        
+        <div class="repo-card" data-name="zero-breach-toolkit" data-owner="interplains" data-desc="免费、开源的工具，可检查计算机和 an 上是否存在雇佣间谍软件（pegasus、predator、graphite、candiru 等）留下的痕迹 free, open-source check for traces of mercenary spyware (pegasus, predator, graphite, candiru and more) on computers, an" data-velocity="556" data-new="false">
+            <div class="card-top-bar">
+                <span class="card-rank">#14</span>
+                <div class="card-badges">
+                    
+                    <span class="badge badge-age" title="首次创建于 7.5 天前">⏱ 7.5 天</span>
+                </div>
+            </div>
+            <a href="https://github.com/interplains/Zero-Breach-Toolkit" target="_blank" rel="noopener noreferrer" class="card-repo-title">
+                <svg class="gh-icon" viewBox="0 0 16 16" width="18" height="18" fill="currentColor">
+                    <path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z"/>
+                </svg>
+                <span class="card-repo-name">interplains/Zero-Breach-Toolkit</span>
+            </a>
+            <div class="card-metrics-row">
+                <span class="badge badge-star">★ 4,157</span>
+                <span class="badge badge-velocity">⚡ +556 /天</span>
+                <span class="badge badge-delta">📈 +114 今日</span>
+            </div>
+            <div class="card-desc-zh">免费、开源的工具，可检查计算机和 An 上是否存在雇佣间谍软件（Pegasus、Predator、Graphite、Candiru 等）留下的痕迹</div>
+            <div class="card-desc-en">Free, open-source check for traces of mercenary spyware (Pegasus, Predator, Graphite, Candiru and more) on computers, An</div>
+            <div class="card-footer">
+                <a href="https://github.com/interplains/Zero-Breach-Toolkit" target="_blank" rel="noopener noreferrer" class="card-github-btn">
+                    在 GitHub 仓库查看 (★ 4,157) ↗
+                </a>
+            </div>
+        </div>
+        
+        <div class="repo-card" data-name="hop" data-owner="arjun-ingole" data-desc="无需 u 盘，即可在 windows 旁安装 linux install linux next to windows without a usb stick" data-velocity="540" data-new="true">
+            <div class="card-top-bar">
+                <span class="card-rank">#15</span>
+                <div class="card-badges">
+                    <span class="badge badge-new"><span class="badge-dot"></span>今日新入榜</span>
+                    <span class="badge badge-age" title="首次创建于 2.3 天前">⏱ 2.3 天</span>
+                </div>
+            </div>
+            <a href="https://github.com/Arjun-Ingole/hop" target="_blank" rel="noopener noreferrer" class="card-repo-title">
+                <svg class="gh-icon" viewBox="0 0 16 16" width="18" height="18" fill="currentColor">
+                    <path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z"/>
+                </svg>
+                <span class="card-repo-name">Arjun-Ingole/hop</span>
+            </a>
+            <div class="card-metrics-row">
+                <span class="badge badge-star">★ 1,222</span>
+                <span class="badge badge-velocity">⚡ +540 /天</span>
+                <span class="badge badge-delta">📈 +314 今日</span>
+            </div>
+            <div class="card-desc-zh">无需 U 盘，即可在 Windows 旁安装 Linux</div>
+            <div class="card-desc-en">Install Linux next to Windows without a USB stick</div>
+            <div class="card-footer">
+                <a href="https://github.com/Arjun-Ingole/hop" target="_blank" rel="noopener noreferrer" class="card-github-btn">
+                    在 GitHub 仓库查看 (★ 1,222) ↗
                 </a>
             </div>
         </div>
@@ -1121,16 +1901,357 @@
         <!-- 模块二：潜在新词与高频信号 -->
         <div class="section-header">
             <h3>💡 潜在新词与意图线索 <span style="font-size: 0.85rem; font-weight: normal; color: var(--text-secondary);">(GitHub 爆发词 & 竞品站点地图高倍率词)</span></h3>
-            <span class="section-counter">共 1 条线索</span>
+            <span class="section-counter">共 32 条线索</span>
         </div>
         <div class="leads-grid" id="leadsGrid">
             
-        <div class="lead-card" data-term="">
+        <div class="lead-card" data-term="numbat">
             <div class="lead-header">
-                <span class="lead-term"></span>
-                <span class="lead-kind"></span>
+                <span class="lead-term">numbat</span>
+                <span class="lead-kind">hf</span>
             </div>
-            <div class="lead-signals"></div>
+            <div class="lead-signals"><div class="signal-tag">Hugging Face: new at #21</div></div>
+            <div class="lead-example">💡 burner22/numbat (?, ♥204)</div>
+            
+            
+        </div>
+        
+        <div class="lead-card" data-term="krea 2 v2">
+            <div class="lead-header">
+                <span class="lead-term">krea 2 v2</span>
+                <span class="lead-kind">hf</span>
+            </div>
+            <div class="lead-signals"><div class="signal-tag">Hugging Face Spaces: new at #47</div></div>
+            <div class="lead-example">💡 Intruzo/Krea-2-Turbo_v2 (gradio, ♥23)</div>
+            
+            
+        </div>
+        
+        <div class="lead-card" data-term="ava">
+            <div class="lead-header">
+                <span class="lead-term">ava</span>
+                <span class="lead-kind">hf</span>
+            </div>
+            <div class="lead-signals"><div class="signal-tag">Hugging Face Spaces: new at #48</div></div>
+            <div class="lead-example">💡 townbox/ava (static, ♥17)</div>
+            
+            
+        </div>
+        
+        <div class="lead-card" data-term="openidea">
+            <div class="lead-header">
+                <span class="lead-term">openidea</span>
+                <span class="lead-kind">breakout</span>
+            </div>
+            <div class="lead-signals"><div class="signal-tag">GitHub breakout l0ng-ai/openidea ★3631 (314/day, +1429 in a day)</div></div>
+            <div class="lead-example">💡 l0ng-ai/openidea: 以 Rust 重建你熟悉的 IDE。采用 IntelliJ IDEA 风格的快捷键映射、工具窗口和全局搜索，提供高速原生应用体验：</div>
+            <div class="lead-variants">🔍 搜索变体: openidea / l0ng-ai openidea</div>
+            <a href="https://github.com/l0ng-ai/openidea" target="_blank" class="lead-repo-btn">关联项目: l0ng-ai/openidea ↗</a>
+        </div>
+        
+        <div class="lead-card" data-term="craft anything">
+            <div class="lead-header">
+                <span class="lead-term">craft anything</span>
+                <span class="lead-kind">breakout</span>
+            </div>
+            <div class="lead-signals"><div class="signal-tag">GitHub breakout storytold/craft-anything ★1216 (830/day)</div></div>
+            <div class="lead-example">💡 storytold/craft-anything: 创造一切：了解任何软件的工作原理，并亲手打造自己的软件</div>
+            <div class="lead-variants">🔍 搜索变体: craft anything / storytold craft anything / artcraft craft anything</div>
+            <a href="https://github.com/storytold/craft-anything" target="_blank" class="lead-repo-btn">关联项目: storytold/craft-anything ↗</a>
+        </div>
+        
+        <div class="lead-card" data-term="floorplan">
+            <div class="lead-header">
+                <span class="lead-term">floorplan</span>
+                <span class="lead-kind">breakout</span>
+            </div>
+            <div class="lead-signals"><div class="signal-tag">GitHub breakout haydenschmitty/floorplan ★1813 (325/day, +714 in a day)</div></div>
+            <div class="lead-example">💡 haydenschmitty/floorplan: 直观了解你的应用是如何组合而成的。由 Claude 或 Codex 绘制，以通俗易懂的方式呈现代码库交互式关系图。</div>
+            <div class="lead-variants">🔍 搜索变体: floorplan / haydenschmitty floorplan / hayden floorplan</div>
+            <a href="https://github.com/haydenschmitty/floorplan" target="_blank" class="lead-repo-btn">关联项目: haydenschmitty/floorplan ↗</a>
+        </div>
+        
+        <div class="lead-card" data-term="hop">
+            <div class="lead-header">
+                <span class="lead-term">hop</span>
+                <span class="lead-kind">breakout</span>
+            </div>
+            <div class="lead-signals"><div class="signal-tag">GitHub breakout Arjun-Ingole/hop ★1222 (540/day, +314 in a day)</div></div>
+            <div class="lead-example">💡 Arjun-Ingole/hop: 无需 U 盘，即可在 Windows 旁安装 Linux</div>
+            <div class="lead-variants">🔍 搜索变体: hop / arjun-ingole hop / arjun hop</div>
+            <a href="https://github.com/Arjun-Ingole/hop" target="_blank" class="lead-repo-btn">关联项目: Arjun-Ingole/hop ↗</a>
+        </div>
+        
+        <div class="lead-card" data-term="connectors io.usefulapi">
+            <div class="lead-header">
+                <span class="lead-term">connectors io.usefulapi</span>
+                <span class="lead-kind">sitemap</span>
+            </div>
+            <div class="lead-signals"><div class="signal-tag">③ sitemaps: 116 places (×34.8)</div></div>
+            
+            
+            
+        </div>
+        
+        <div class="lead-card" data-term="cloudcorprecords">
+            <div class="lead-header">
+                <span class="lead-term">cloudcorprecords</span>
+                <span class="lead-kind">sitemap</span>
+            </div>
+            <div class="lead-signals"><div class="signal-tag">③ sitemaps: 40 places (×30.7)</div></div>
+            
+            
+            
+        </div>
+        
+        <div class="lead-card" data-term="records">
+            <div class="lead-header">
+                <span class="lead-term">records</span>
+                <span class="lead-kind">sitemap</span>
+            </div>
+            <div class="lead-signals"><div class="signal-tag">③ sitemaps: 40 places (×28.0)</div></div>
+            
+            
+            
+        </div>
+        
+        <div class="lead-card" data-term="corp">
+            <div class="lead-header">
+                <span class="lead-term">corp</span>
+                <span class="lead-kind">sitemap</span>
+            </div>
+            <div class="lead-signals"><div class="signal-tag">③ sitemaps: 40 places (×26.0)</div></div>
+            
+            
+            
+        </div>
+        
+        <div class="lead-card" data-term="product catalog">
+            <div class="lead-header">
+                <span class="lead-term">product catalog</span>
+                <span class="lead-kind">sitemap</span>
+            </div>
+            <div class="lead-signals"><div class="signal-tag">③ sitemaps: 12 places (×11.7)</div></div>
+            
+            
+            
+        </div>
+        
+        <div class="lead-card" data-term="cloud">
+            <div class="lead-header">
+                <span class="lead-term">cloud</span>
+                <span class="lead-kind">sitemap</span>
+            </div>
+            <div class="lead-signals"><div class="signal-tag">③ sitemaps: 41 places (×10.4)</div></div>
+            
+            
+            
+        </div>
+        
+        <div class="lead-card" data-term="loans">
+            <div class="lead-header">
+                <span class="lead-term">loans</span>
+                <span class="lead-kind">sitemap</span>
+            </div>
+            <div class="lead-signals"><div class="signal-tag">③ sitemaps: 10 places (×9.9)</div></div>
+            
+            
+            
+        </div>
+        
+        <div class="lead-card" data-term="loan">
+            <div class="lead-header">
+                <span class="lead-term">loan</span>
+                <span class="lead-kind">sitemap</span>
+            </div>
+            <div class="lead-signals"><div class="signal-tag">③ sitemaps: 10 places (×9.4)</div></div>
+            
+            
+            
+        </div>
+        
+        <div class="lead-card" data-term="genpark personal">
+            <div class="lead-header">
+                <span class="lead-term">genpark personal</span>
+                <span class="lead-kind">sitemap</span>
+            </div>
+            <div class="lead-signals"><div class="signal-tag">③ sitemaps: 11 places (×8.8)</div></div>
+            
+            
+            
+        </div>
+        
+        <div class="lead-card" data-term="catalog">
+            <div class="lead-header">
+                <span class="lead-term">catalog</span>
+                <span class="lead-kind">sitemap</span>
+            </div>
+            <div class="lead-signals"><div class="signal-tag">③ sitemaps: 13 places (×6.6)</div></div>
+            
+            
+            
+        </div>
+        
+        <div class="lead-card" data-term="port">
+            <div class="lead-header">
+                <span class="lead-term">port</span>
+                <span class="lead-kind">sitemap</span>
+            </div>
+            <div class="lead-signals"><div class="signal-tag">③ sitemaps: 7 places (×5.6)</div></div>
+            
+            
+            
+        </div>
+        
+        <div class="lead-card" data-term="directory">
+            <div class="lead-header">
+                <span class="lead-term">directory</span>
+                <span class="lead-kind">sitemap</span>
+            </div>
+            <div class="lead-signals"><div class="signal-tag">③ sitemaps: 7 places (×4.1)</div></div>
+            
+            
+            
+        </div>
+        
+        <div class="lead-card" data-term="multifamily">
+            <div class="lead-header">
+                <span class="lead-term">multifamily</span>
+                <span class="lead-kind">sitemap</span>
+            </div>
+            <div class="lead-signals"><div class="signal-tag">③ sitemaps: 4 places (×4.0)</div></div>
+            
+            
+            
+        </div>
+        
+        <div class="lead-card" data-term="connectors io.sslip.2">
+            <div class="lead-header">
+                <span class="lead-term">connectors io.sslip.2</span>
+                <span class="lead-kind">sitemap</span>
+            </div>
+            <div class="lead-signals"><div class="signal-tag">③ sitemaps: 4 places (×4.0)</div></div>
+            
+            
+            
+        </div>
+        
+        <div class="lead-card" data-term="emperor">
+            <div class="lead-header">
+                <span class="lead-term">emperor</span>
+                <span class="lead-kind">sitemap</span>
+            </div>
+            <div class="lead-signals"><div class="signal-tag">③ sitemaps: 4 places (×4.0)</div></div>
+            
+            
+            
+        </div>
+        
+        <div class="lead-card" data-term="yarenty emperor">
+            <div class="lead-header">
+                <span class="lead-term">yarenty emperor</span>
+                <span class="lead-kind">sitemap</span>
+            </div>
+            <div class="lead-signals"><div class="signal-tag">③ sitemaps: 4 places (×4.0)</div></div>
+            
+            
+            
+        </div>
+        
+        <div class="lead-card" data-term="connectors io.github.nero">
+            <div class="lead-header">
+                <span class="lead-term">connectors io.github.nero</span>
+                <span class="lead-kind">sitemap</span>
+            </div>
+            <div class="lead-signals"><div class="signal-tag">③ sitemaps: 5 places (×3.9)</div></div>
+            
+            
+            
+        </div>
+        
+        <div class="lead-card" data-term="io.github.nero engine">
+            <div class="lead-header">
+                <span class="lead-term">io.github.nero engine</span>
+                <span class="lead-kind">sitemap</span>
+            </div>
+            <div class="lead-signals"><div class="signal-tag">③ sitemaps: 5 places (×3.9)</div></div>
+            
+            
+            
+        </div>
+        
+        <div class="lead-card" data-term="radar">
+            <div class="lead-header">
+                <span class="lead-term">radar</span>
+                <span class="lead-kind">sitemap</span>
+            </div>
+            <div class="lead-signals"><div class="signal-tag">③ sitemaps: 5 places (×3.1)</div></div>
+            
+            
+            
+        </div>
+        
+        <div class="lead-card" data-term="connectors">
+            <div class="lead-header">
+                <span class="lead-term">connectors</span>
+                <span class="lead-kind">sitemap</span>
+            </div>
+            <div class="lead-signals"><div class="signal-tag">③ sitemaps: 448 places (×3.0)</div></div>
+            
+            
+            
+        </div>
+        
+        <div class="lead-card" data-term="app.payperwork">
+            <div class="lead-header">
+                <span class="lead-term">app.payperwork</span>
+                <span class="lead-kind">sitemap</span>
+            </div>
+            <div class="lead-signals"><div class="signal-tag">③ sitemaps: 3 places (×3.0)</div></div>
+            
+            
+            
+        </div>
+        
+        <div class="lead-card" data-term="connectors app.payperwork">
+            <div class="lead-header">
+                <span class="lead-term">connectors app.payperwork</span>
+                <span class="lead-kind">sitemap</span>
+            </div>
+            <div class="lead-signals"><div class="signal-tag">③ sitemaps: 3 places (×3.0)</div></div>
+            
+            
+            
+        </div>
+        
+        <div class="lead-card" data-term="beats">
+            <div class="lead-header">
+                <span class="lead-term">beats</span>
+                <span class="lead-kind">sitemap</span>
+            </div>
+            <div class="lead-signals"><div class="signal-tag">③ sitemaps: 3 places (×3.0)</div></div>
+            
+            
+            
+        </div>
+        
+        <div class="lead-card" data-term="com.photoprintagent">
+            <div class="lead-header">
+                <span class="lead-term">com.photoprintagent</span>
+                <span class="lead-kind">sitemap</span>
+            </div>
+            <div class="lead-signals"><div class="signal-tag">③ sitemaps: 3 places (×3.0)</div></div>
+            
+            
+            
+        </div>
+        
+        <div class="lead-card" data-term="connectors com.photoprintagent">
+            <div class="lead-header">
+                <span class="lead-term">connectors com.photoprintagent</span>
+                <span class="lead-kind">sitemap</span>
+            </div>
+            <div class="lead-signals"><div class="signal-tag">③ sitemaps: 3 places (×3.0)</div></div>
             
             
             
@@ -1149,6 +2270,78 @@
             </div>
             <div class="sources-grid">
                 
+            <div class="source-item">
+                <span class="source-name">glama</span>
+                <span class="source-stat">152,890 URLs</span>
+                <span class="source-new source-highlight">+784 新增</span>
+            </div>
+            
+            <div class="source-item">
+                <span class="source-name">mcp.so</span>
+                <span class="source-stat">19,804 URLs</span>
+                <span class="source-new source-highlight">+13 新增</span>
+            </div>
+            
+            <div class="source-item">
+                <span class="source-name">lobehub-mcp</span>
+                <span class="source-stat">200 URLs</span>
+                <span class="source-new ">+0 新增</span>
+            </div>
+            
+            <div class="source-item">
+                <span class="source-name">lobehub-skills</span>
+                <span class="source-stat">200 URLs</span>
+                <span class="source-new ">+0 新增</span>
+            </div>
+            
+            <div class="source-item">
+                <span class="source-name">toolify</span>
+                <span class="source-stat">927 URLs</span>
+                <span class="source-new ">+0 新增</span>
+            </div>
+            
+            <div class="source-item">
+                <span class="source-name">aixploria</span>
+                <span class="source-stat">613 URLs</span>
+                <span class="source-new ">+0 新增</span>
+            </div>
+            
+            <div class="source-item">
+                <span class="source-name">ai-bot.cn</span>
+                <span class="source-stat">5,068 URLs</span>
+                <span class="source-new source-highlight">+2 新增</span>
+            </div>
+            
+            <div class="source-item">
+                <span class="source-name">opentools</span>
+                <span class="source-stat">7,012 URLs</span>
+                <span class="source-new ">+0 新增</span>
+            </div>
+            
+            <div class="source-item">
+                <span class="source-name">dang</span>
+                <span class="source-stat">7,814 URLs</span>
+                <span class="source-new source-highlight">+4 新增</span>
+            </div>
+            
+            <div class="source-item">
+                <span class="source-name">clipfly</span>
+                <span class="source-stat">281 URLs</span>
+                <span class="source-new ">+0 新增</span>
+            </div>
+            
+            <div class="source-item">
+                <span class="source-name">aitoptools</span>
+                <span class="source-stat">11,873 URLs</span>
+                <span class="source-new source-highlight">+2 新增</span>
+            </div>
+            
+            <div class="source-item">
+                <span class="source-name">futurepedia</span>
+                <span class="source-stat">2,499 URLs</span>
+                <span class="source-new ">+0 新增</span>
+            </div>
+            
             </div>
         </div>
     </main>
@@ -1166,7 +2359,7 @@
                 <span>·</span>
                 <span>飞书机器人：皮妞妞</span>
             </div>
-            <p style="font-size: 0.75rem; color: #475569;">数据生成时间: 2026-11-02 22:02:46 · 运行成本: $0.000</p>
+            <p style="font-size: 0.75rem; color: #475569;">数据生成时间: 2026-11-02 22:08:22 · 运行成本: $0.000</p>
         </div>
     </footer>
 
