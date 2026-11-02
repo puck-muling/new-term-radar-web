@@ -25,6 +25,11 @@
           "全部",
           "超高爆发",
           "智能体/Agent"
+        ],
+        "tag_keys": [
+          "all",
+          "high_velocity",
+          "agent"
         ]
       },
       {
@@ -43,6 +48,12 @@
           "超高爆发",
           "智能体/Agent",
           "视觉/UI"
+        ],
+        "tag_keys": [
+          "all",
+          "high_velocity",
+          "agent",
+          "ui"
         ]
       },
       {
@@ -61,6 +72,12 @@
           "超高爆发",
           "智能体/Agent",
           "移动/系统"
+        ],
+        "tag_keys": [
+          "all",
+          "high_velocity",
+          "agent",
+          "mobile"
         ]
       },
       {
@@ -77,6 +94,10 @@
         "tags": [
           "全部",
           "超高爆发"
+        ],
+        "tag_keys": [
+          "all",
+          "high_velocity"
         ]
       },
       {
@@ -94,6 +115,11 @@
           "全部",
           "智能体/Agent",
           "视觉/UI"
+        ],
+        "tag_keys": [
+          "all",
+          "agent",
+          "ui"
         ]
       },
       {
@@ -110,6 +136,10 @@
         "tags": [
           "全部",
           "视觉/UI"
+        ],
+        "tag_keys": [
+          "all",
+          "ui"
         ]
       },
       {
@@ -127,6 +157,11 @@
           "全部",
           "视觉/UI",
           "移动/系统"
+        ],
+        "tag_keys": [
+          "all",
+          "ui",
+          "mobile"
         ]
       },
       {
@@ -142,6 +177,9 @@
         "zh_description": "暂无项目描述",
         "tags": [
           "全部"
+        ],
+        "tag_keys": [
+          "all"
         ]
       },
       {
@@ -158,6 +196,10 @@
         "tags": [
           "全部",
           "视觉/UI"
+        ],
+        "tag_keys": [
+          "all",
+          "ui"
         ]
       },
       {
@@ -174,6 +216,10 @@
         "tags": [
           "全部",
           "移动/系统"
+        ],
+        "tag_keys": [
+          "all",
+          "mobile"
         ]
       },
       {
@@ -196,6 +242,12 @@
           "今日新入榜",
           "智能体/Agent",
           "视觉/UI"
+        ],
+        "tag_keys": [
+          "all",
+          "new",
+          "agent",
+          "ui"
         ]
       },
       {
@@ -212,6 +264,10 @@
         "tags": [
           "全部",
           "智能体/Agent"
+        ],
+        "tag_keys": [
+          "all",
+          "agent"
         ]
       },
       {
@@ -229,6 +285,11 @@
           "全部",
           "智能体/Agent",
           "移动/系统"
+        ],
+        "tag_keys": [
+          "all",
+          "agent",
+          "mobile"
         ]
       },
       {
@@ -251,6 +312,11 @@
           "全部",
           "今日新入榜",
           "智能体/Agent"
+        ],
+        "tag_keys": [
+          "all",
+          "new",
+          "agent"
         ]
       },
       {
@@ -266,6 +332,9 @@
         "zh_description": "免费、开源的工具，可检查计算机和 An 上是否存在雇佣间谍软件（Pegasus、Predator、Graphite、Candiru 等）留下的痕迹",
         "tags": [
           "全部"
+        ],
+        "tag_keys": [
+          "all"
         ]
       }
     ],
@@ -747,6 +816,11 @@
           "全部",
           "超高爆发",
           "智能体/Agent"
+        ],
+        "tag_keys": [
+          "all",
+          "high_velocity",
+          "agent"
         ]
       },
       {
@@ -765,6 +839,12 @@
           "超高爆发",
           "智能体/Agent",
           "视觉/UI"
+        ],
+        "tag_keys": [
+          "all",
+          "high_velocity",
+          "agent",
+          "ui"
         ]
       },
       {
@@ -786,6 +866,11 @@
           "全部",
           "今日新入榜",
           "视觉/UI"
+        ],
+        "tag_keys": [
+          "all",
+          "new",
+          "ui"
         ]
       },
       {
@@ -804,6 +889,12 @@
           "超高爆发",
           "智能体/Agent",
           "移动/系统"
+        ],
+        "tag_keys": [
+          "all",
+          "high_velocity",
+          "agent",
+          "mobile"
         ]
       },
       {
@@ -821,6 +912,11 @@
           "全部",
           "智能体/Agent",
           "视觉/UI"
+        ],
+        "tag_keys": [
+          "all",
+          "agent",
+          "ui"
         ]
       },
       {
@@ -837,6 +933,10 @@
         "tags": [
           "全部",
           "视觉/UI"
+        ],
+        "tag_keys": [
+          "all",
+          "ui"
         ]
       },
       {
@@ -854,6 +954,11 @@
           "全部",
           "视觉/UI",
           "移动/系统"
+        ],
+        "tag_keys": [
+          "all",
+          "ui",
+          "mobile"
         ]
       },
       {
@@ -869,6 +974,9 @@
         "zh_description": "暂无项目描述",
         "tags": [
           "全部"
+        ],
+        "tag_keys": [
+          "all"
         ]
       },
       {
@@ -890,6 +998,10 @@
         "tags": [
           "全部",
           "今日新入榜"
+        ],
+        "tag_keys": [
+          "all",
+          "new"
         ]
       },
       {
@@ -911,6 +1023,10 @@
         "tags": [
           "全部",
           "今日新入榜"
+        ],
+        "tag_keys": [
+          "all",
+          "new"
         ]
       },
       {
@@ -927,6 +1043,10 @@
         "tags": [
           "全部",
           "移动/系统"
+        ],
+        "tag_keys": [
+          "all",
+          "mobile"
         ]
       },
       {
@@ -944,6 +1064,11 @@
           "全部",
           "智能体/Agent",
           "移动/系统"
+        ],
+        "tag_keys": [
+          "all",
+          "agent",
+          "mobile"
         ]
       },
       {
@@ -960,6 +1085,10 @@
         "tags": [
           "全部",
           "智能体/Agent"
+        ],
+        "tag_keys": [
+          "all",
+          "agent"
         ]
       },
       {
@@ -975,6 +1104,9 @@
         "zh_description": "免费、开源的工具，可检查计算机和 An 上是否存在雇佣间谍软件（Pegasus、Predator、Graphite、Candiru 等）留下的痕迹",
         "tags": [
           "全部"
+        ],
+        "tag_keys": [
+          "all"
         ]
       },
       {
@@ -996,6 +1128,10 @@
         "tags": [
           "全部",
           "今日新入榜"
+        ],
+        "tag_keys": [
+          "all",
+          "new"
         ]
       }
     ],
@@ -1587,6 +1723,11 @@
           "全部",
           "超高爆发",
           "智能体/Agent"
+        ],
+        "tag_keys": [
+          "all",
+          "high_velocity",
+          "agent"
         ]
       },
       {
@@ -1605,6 +1746,12 @@
           "超高爆发",
           "智能体/Agent",
           "视觉/UI"
+        ],
+        "tag_keys": [
+          "all",
+          "high_velocity",
+          "agent",
+          "ui"
         ]
       },
       {
@@ -1623,6 +1770,12 @@
           "超高爆发",
           "智能体/Agent",
           "移动/系统"
+        ],
+        "tag_keys": [
+          "all",
+          "high_velocity",
+          "agent",
+          "mobile"
         ]
       },
       {
@@ -1640,6 +1793,11 @@
           "全部",
           "超高爆发",
           "视觉/UI"
+        ],
+        "tag_keys": [
+          "all",
+          "high_velocity",
+          "ui"
         ]
       },
       {
@@ -1657,6 +1815,11 @@
           "全部",
           "视觉/UI",
           "移动/系统"
+        ],
+        "tag_keys": [
+          "all",
+          "ui",
+          "mobile"
         ]
       },
       {
@@ -1672,6 +1835,9 @@
         "zh_description": "你的 GeForce 运行 AI 的速度只有一半。此项目可为 20/30/40 系列显卡修复这一问题，FP16 / BF16 / TF32 张量吞吐量最高提升至 2 倍",
         "tags": [
           "全部"
+        ],
+        "tag_keys": [
+          "all"
         ]
       },
       {
@@ -1687,6 +1853,9 @@
         "zh_description": "暂无项目描述",
         "tags": [
           "全部"
+        ],
+        "tag_keys": [
+          "all"
         ]
       },
       {
@@ -1704,6 +1873,11 @@
           "全部",
           "智能体/Agent",
           "视觉/UI"
+        ],
+        "tag_keys": [
+          "all",
+          "agent",
+          "ui"
         ]
       },
       {
@@ -1726,6 +1900,11 @@
           "全部",
           "今日新入榜",
           "智能体/Agent"
+        ],
+        "tag_keys": [
+          "all",
+          "new",
+          "agent"
         ]
       },
       {
@@ -1742,6 +1921,10 @@
         "tags": [
           "全部",
           "移动/系统"
+        ],
+        "tag_keys": [
+          "all",
+          "mobile"
         ]
       },
       {
@@ -1759,6 +1942,11 @@
           "全部",
           "智能体/Agent",
           "移动/系统"
+        ],
+        "tag_keys": [
+          "all",
+          "agent",
+          "mobile"
         ]
       },
       {
@@ -1781,6 +1969,11 @@
           "全部",
           "今日新入榜",
           "移动/系统"
+        ],
+        "tag_keys": [
+          "all",
+          "new",
+          "mobile"
         ]
       },
       {
@@ -1797,6 +1990,10 @@
         "tags": [
           "全部",
           "移动/系统"
+        ],
+        "tag_keys": [
+          "all",
+          "mobile"
         ]
       },
       {
@@ -1813,6 +2010,10 @@
         "tags": [
           "全部",
           "视觉/UI"
+        ],
+        "tag_keys": [
+          "all",
+          "ui"
         ]
       },
       {
@@ -1829,6 +2030,10 @@
         "tags": [
           "全部",
           "视觉/UI"
+        ],
+        "tag_keys": [
+          "all",
+          "ui"
         ]
       }
     ],
@@ -2312,6 +2517,12 @@
           "超高爆发",
           "智能体/Agent",
           "视觉/UI"
+        ],
+        "tag_keys": [
+          "all",
+          "high_velocity",
+          "agent",
+          "ui"
         ]
       },
       {
@@ -2329,6 +2540,11 @@
           "全部",
           "超高爆发",
           "智能体/Agent"
+        ],
+        "tag_keys": [
+          "all",
+          "high_velocity",
+          "agent"
         ]
       },
       {
@@ -2347,6 +2563,12 @@
           "超高爆发",
           "智能体/Agent",
           "移动/系统"
+        ],
+        "tag_keys": [
+          "all",
+          "high_velocity",
+          "agent",
+          "mobile"
         ]
       },
       {
@@ -2364,6 +2586,11 @@
           "全部",
           "超高爆发",
           "视觉/UI"
+        ],
+        "tag_keys": [
+          "all",
+          "high_velocity",
+          "ui"
         ]
       },
       {
@@ -2382,6 +2609,12 @@
           "超高爆发",
           "视觉/UI",
           "移动/系统"
+        ],
+        "tag_keys": [
+          "all",
+          "high_velocity",
+          "ui",
+          "mobile"
         ]
       },
       {
@@ -2398,6 +2631,10 @@
         "tags": [
           "全部",
           "超高爆发"
+        ],
+        "tag_keys": [
+          "all",
+          "high_velocity"
         ]
       },
       {
@@ -2413,6 +2650,9 @@
         "zh_description": "暂无项目描述",
         "tags": [
           "全部"
+        ],
+        "tag_keys": [
+          "all"
         ]
       },
       {
@@ -2429,6 +2669,10 @@
         "tags": [
           "全部",
           "视觉/UI"
+        ],
+        "tag_keys": [
+          "all",
+          "ui"
         ]
       },
       {
@@ -2446,6 +2690,11 @@
           "全部",
           "智能体/Agent",
           "视觉/UI"
+        ],
+        "tag_keys": [
+          "all",
+          "agent",
+          "ui"
         ]
       },
       {
@@ -2462,6 +2711,10 @@
         "tags": [
           "全部",
           "移动/系统"
+        ],
+        "tag_keys": [
+          "all",
+          "mobile"
         ]
       },
       {
@@ -2479,6 +2732,11 @@
           "全部",
           "智能体/Agent",
           "移动/系统"
+        ],
+        "tag_keys": [
+          "all",
+          "agent",
+          "mobile"
         ]
       },
       {
@@ -2495,6 +2753,10 @@
         "tags": [
           "全部",
           "视觉/UI"
+        ],
+        "tag_keys": [
+          "all",
+          "ui"
         ]
       },
       {
@@ -2511,6 +2773,10 @@
         "tags": [
           "全部",
           "移动/系统"
+        ],
+        "tag_keys": [
+          "all",
+          "mobile"
         ]
       },
       {
@@ -2526,6 +2792,9 @@
         "zh_description": "用于解锁 RTX 4090 以及实验性支持 RTX 4070 Ti SUPER GPU 张量核心的源代码，固件在本地生成",
         "tags": [
           "全部"
+        ],
+        "tag_keys": [
+          "all"
         ]
       },
       {
@@ -2541,6 +2810,9 @@
         "zh_description": "词光 · Word Atlas——带插图的 IELTS 词汇学习应用，收录 7298 个单词，提供英式/美式发音和 FSRS 复习功能。开源应用，采用 CC BY 4.0 许可",
         "tags": [
           "全部"
+        ],
+        "tag_keys": [
+          "all"
         ]
       }
     ],
@@ -2717,6 +2989,11 @@
           "全部",
           "超高爆发",
           "移动/系统"
+        ],
+        "tag_keys": [
+          "all",
+          "high_velocity",
+          "mobile"
         ]
       },
       {
@@ -2735,6 +3012,12 @@
           "超高爆发",
           "视觉/UI",
           "移动/系统"
+        ],
+        "tag_keys": [
+          "all",
+          "high_velocity",
+          "ui",
+          "mobile"
         ]
       },
       {
@@ -2759,6 +3042,13 @@
           "超高爆发",
           "智能体/Agent",
           "视觉/UI"
+        ],
+        "tag_keys": [
+          "all",
+          "new",
+          "high_velocity",
+          "agent",
+          "ui"
         ]
       },
       {
@@ -2776,6 +3066,11 @@
           "全部",
           "超高爆发",
           "视觉/UI"
+        ],
+        "tag_keys": [
+          "all",
+          "high_velocity",
+          "ui"
         ]
       },
       {
@@ -2797,6 +3092,11 @@
           "全部",
           "今日新入榜",
           "视觉/UI"
+        ],
+        "tag_keys": [
+          "all",
+          "new",
+          "ui"
         ]
       },
       {
@@ -2821,6 +3121,13 @@
           "超高爆发",
           "智能体/Agent",
           "移动/系统"
+        ],
+        "tag_keys": [
+          "all",
+          "new",
+          "high_velocity",
+          "agent",
+          "mobile"
         ]
       },
       {
@@ -2837,6 +3144,10 @@
         "tags": [
           "全部",
           "超高爆发"
+        ],
+        "tag_keys": [
+          "all",
+          "high_velocity"
         ]
       },
       {
@@ -2852,6 +3163,9 @@
         "zh_description": "暂无项目描述",
         "tags": [
           "全部"
+        ],
+        "tag_keys": [
+          "all"
         ]
       },
       {
@@ -2874,6 +3188,11 @@
           "全部",
           "今日新入榜",
           "智能体/Agent"
+        ],
+        "tag_keys": [
+          "all",
+          "new",
+          "agent"
         ]
       },
       {
@@ -2896,6 +3215,11 @@
           "全部",
           "今日新入榜",
           "视觉/UI"
+        ],
+        "tag_keys": [
+          "all",
+          "new",
+          "ui"
         ]
       },
       {
@@ -2918,6 +3242,11 @@
           "全部",
           "今日新入榜",
           "智能体/Agent"
+        ],
+        "tag_keys": [
+          "all",
+          "new",
+          "agent"
         ]
       },
       {
@@ -2934,6 +3263,10 @@
         "tags": [
           "全部",
           "移动/系统"
+        ],
+        "tag_keys": [
+          "all",
+          "mobile"
         ]
       },
       {
@@ -2957,6 +3290,12 @@
           "今日新入榜",
           "智能体/Agent",
           "视觉/UI"
+        ],
+        "tag_keys": [
+          "all",
+          "new",
+          "agent",
+          "ui"
         ]
       },
       {
@@ -2974,6 +3313,11 @@
           "全部",
           "智能体/Agent",
           "移动/系统"
+        ],
+        "tag_keys": [
+          "all",
+          "agent",
+          "mobile"
         ]
       },
       {
@@ -2990,6 +3334,10 @@
         "tags": [
           "全部",
           "移动/系统"
+        ],
+        "tag_keys": [
+          "all",
+          "mobile"
         ]
       }
     ],
