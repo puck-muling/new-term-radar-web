@@ -1,5 +1,916 @@
 [
   {
+    "id": "2026-11-04_evening",
+    "date": "2026-11-04",
+    "slot": "evening",
+    "label": "2026-11-04 晚场 (19:00)",
+    "breakouts": 15,
+    "new_breakouts": 4,
+    "leads": 32,
+    "max_velocity": 4449,
+    "max_velocity_repo": "deepseek-ai/dsh-superagent-prototype",
+    "repos": [
+      {
+        "repo": "deepseek-ai/dsh-superagent-prototype",
+        "owner": "deepseek-ai",
+        "name": "dsh-superagent-prototype",
+        "stars": 18068,
+        "velocity": 4449,
+        "delta": 2696,
+        "age_days": 4.1,
+        "description": "Towards a More Autonomous Agent System",
+        "new": false,
+        "zh_description": "迈向更自主的智能体系统",
+        "tags": [
+          "全部",
+          "超高爆发",
+          "智能体/Agent"
+        ],
+        "tag_keys": [
+          "all",
+          "high_velocity",
+          "agent"
+        ]
+      },
+      {
+        "repo": "storytold/craft-anything",
+        "owner": "storytold",
+        "name": "craft-anything",
+        "stars": 9790,
+        "velocity": 2549,
+        "delta": 3919,
+        "age_days": 3.8,
+        "description": "Craft Anything: understand how any software works, and craft your own.",
+        "new": false,
+        "zh_description": "创造一切：了解任何软件的工作原理，并亲手打造自己的软件",
+        "tags": [
+          "全部",
+          "超高爆发"
+        ],
+        "tag_keys": [
+          "all",
+          "high_velocity"
+        ]
+      },
+      {
+        "repo": "ccch1mneyyy/dsh-Go",
+        "owner": "ccch1mneyyy",
+        "name": "dsh-Go",
+        "stars": 8663,
+        "velocity": 856,
+        "delta": 2103,
+        "age_days": 10.1,
+        "description": "dsh-go — DeepSeek Harness 装进口袋：手机本机运行，也能遥控你的电脑。",
+        "new": false,
+        "zh_description": "dsh-go — DeepSeek Harness 装进口袋：手机本机运行，也能遥控你的电脑。",
+        "tags": [
+          "全部",
+          "智能体/Agent"
+        ],
+        "tag_keys": [
+          "all",
+          "agent"
+        ]
+      },
+      {
+        "repo": "KKKKhazix/agent-autoloop",
+        "owner": "KKKKhazix",
+        "name": "agent-autoloop",
+        "stars": 1861,
+        "velocity": 1656,
+        "delta": null,
+        "age_days": 1.1,
+        "description": "让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。",
+        "new": true,
+        "variants": [
+          "agent autoloop",
+          "kkkkhazix agent autoloop",
+          "khazix agent autoloop"
+        ],
+        "zh_description": "让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。",
+        "tags": [
+          "全部",
+          "今日新入榜",
+          "超高爆发",
+          "智能体/Agent"
+        ],
+        "tag_keys": [
+          "all",
+          "new",
+          "high_velocity",
+          "agent"
+        ]
+      },
+      {
+        "repo": "heydamir/unslop",
+        "owner": "heydamir",
+        "name": "unslop",
+        "stars": 7938,
+        "velocity": 1367,
+        "delta": 1110,
+        "age_days": 5.8,
+        "description": "A Claude skill that turns vibecoded, AI-looking UI into a designed interface",
+        "new": false,
+        "zh_description": "一项 Claude 技能，可将氛围编程生成、风格像 AI 的界面改造为经过精心设计的界面",
+        "tags": [
+          "全部",
+          "超高爆发",
+          "智能体/Agent",
+          "视觉/UI"
+        ],
+        "tag_keys": [
+          "all",
+          "high_velocity",
+          "agent",
+          "ui"
+        ]
+      },
+      {
+        "repo": "wangzan101/Mika",
+        "owner": "wangzan101",
+        "name": "Mika",
+        "stars": 6342,
+        "velocity": 1084,
+        "delta": 517,
+        "age_days": 5.9,
+        "description": "An on-device AI agent for Android that operates apps and the web to get things done for you.",
+        "new": false,
+        "zh_description": "一款面向 Android 的端侧 AI 智能体，可操作应用和网页，替你完成各项任务",
+        "tags": [
+          "全部",
+          "超高爆发",
+          "智能体/Agent",
+          "移动/系统"
+        ],
+        "tag_keys": [
+          "all",
+          "high_velocity",
+          "agent",
+          "mobile"
+        ]
+      },
+      {
+        "repo": "BryceYuuu/RUN",
+        "owner": "BryceYuuu",
+        "name": "RUN",
+        "stars": 3459,
+        "velocity": 578,
+        "delta": 938,
+        "age_days": 6.0,
+        "description": "RUN · 润：海外移居手册（欧洲 36 国 · 110 条路线 · 主要移民地区）",
+        "new": false,
+        "zh_description": "RUN · 润：海外移居手册（欧洲 36 国 · 110 条路线 · 主要移民地区）",
+        "tags": [
+          "全部"
+        ],
+        "tag_keys": [
+          "all"
+        ]
+      },
+      {
+        "repo": "patch-gg/pixelfx",
+        "owner": "patch-gg",
+        "name": "pixelfx",
+        "stars": 4450,
+        "velocity": 859,
+        "delta": 636,
+        "age_days": 5.2,
+        "description": "244 pixel art effects, every one a small piece of code. Plus a Claude Code skill to make your own.",
+        "new": false,
+        "zh_description": "244 种像素艺术特效，每一种都是一小段代码。另有 Claude Code 技能可让你创作自己的特效",
+        "tags": [
+          "全部",
+          "智能体/Agent",
+          "视觉/UI"
+        ],
+        "tag_keys": [
+          "all",
+          "agent",
+          "ui"
+        ]
+      },
+      {
+        "repo": "Pika-Labs/Pika-H3-Flex",
+        "owner": "Pika-Labs",
+        "name": "Pika-H3-Flex",
+        "stars": 1519,
+        "velocity": 264,
+        "delta": 821,
+        "age_days": 5.7,
+        "description": "Pika H3 Flex: video and audio generation inference",
+        "new": true,
+        "variants": [
+          "pika h3 flex",
+          "pika-labs pika h3 flex",
+          "pika pika h3 flex"
+        ],
+        "zh_description": "Pika H3 Flex：视频​​和音频生成推理",
+        "tags": [
+          "全部",
+          "今日新入榜"
+        ],
+        "tag_keys": [
+          "all",
+          "new"
+        ]
+      },
+      {
+        "repo": "valentderah/totk-pc-recomp",
+        "owner": "valentderah",
+        "name": "totk-pc-recomp",
+        "stars": 4664,
+        "velocity": 786,
+        "delta": 402,
+        "age_days": 5.9,
+        "description": "Static recompilation of The Legend of Zelda: Tears of the Kingdom to native Windows and Linux x86-64, with a Vulkan rend",
+        "new": false,
+        "zh_description": "将《塞尔达传说：王国之泪》静态重编译为原生 Windows 和 Linux x86-64 版本，并采用 Vulkan 渲染。",
+        "tags": [
+          "全部",
+          "视觉/UI",
+          "移动/系统"
+        ],
+        "tag_keys": [
+          "all",
+          "ui",
+          "mobile"
+        ]
+      },
+      {
+        "repo": "anhao/ai-pose-gallery-zh",
+        "owner": "anhao",
+        "name": "ai-pose-gallery-zh",
+        "stars": 5871,
+        "velocity": 739,
+        "delta": 164,
+        "age_days": 7.9,
+        "description": "中文版 AI 姿势参考图库 · 1439 组 / 2878 张图片 / 完整汉化 · 零依赖静态画廊",
+        "new": false,
+        "zh_description": "中文版 AI 姿势参考图库 · 1439 组 / 2878 张图片 / 完整汉化 · 零依赖静态画廊",
+        "tags": [
+          "全部",
+          "视觉/UI"
+        ],
+        "tag_keys": [
+          "all",
+          "ui"
+        ]
+      },
+      {
+        "repo": "unclebob/ub-mode",
+        "owner": "unclebob",
+        "name": "ub-mode",
+        "stars": 6878,
+        "velocity": 703,
+        "delta": 187,
+        "age_days": 9.8,
+        "description": "",
+        "new": false,
+        "zh_description": "暂无项目描述",
+        "tags": [
+          "全部"
+        ],
+        "tag_keys": [
+          "all"
+        ]
+      },
+      {
+        "repo": "govijr/terminal-mac",
+        "owner": "govijr",
+        "name": "terminal-mac",
+        "stars": 863,
+        "velocity": 655,
+        "delta": null,
+        "age_days": 1.3,
+        "description": "Entire MacOS running in your terminal.",
+        "new": true,
+        "variants": [
+          "terminal mac",
+          "govijr terminal mac"
+        ],
+        "zh_description": "整个 MacOS 在您的终端中运行。",
+        "tags": [
+          "全部",
+          "今日新入榜"
+        ],
+        "tag_keys": [
+          "all",
+          "new"
+        ]
+      },
+      {
+        "repo": "benjitaylor/skills",
+        "owner": "benjitaylor",
+        "name": "skills",
+        "stars": 1697,
+        "velocity": 184,
+        "delta": 569,
+        "age_days": 9.2,
+        "description": "Skills for AI coding agents.",
+        "new": true,
+        "variants": [
+          "skills",
+          "benjitaylor skills",
+          "benji skills"
+        ],
+        "zh_description": "AI 编码代理的技能。",
+        "tags": [
+          "全部",
+          "今日新入榜",
+          "智能体/Agent"
+        ],
+        "tag_keys": [
+          "all",
+          "new",
+          "agent"
+        ]
+      },
+      {
+        "repo": "rddmwmddr/android-ad-cleaner",
+        "owner": "rddmwmddr",
+        "name": "android-ad-cleaner",
+        "stars": 6229,
+        "velocity": 555,
+        "delta": 222,
+        "age_days": 11.2,
+        "description": "关掉国产安卓手机系统里的广告、热搜、资讯推荐和营销推送。不 root，可还原，支持 AI 智能体一键执行。",
+        "new": false,
+        "zh_description": "关掉国产安卓手机系统里的广告、热搜、资讯推荐和营销推送。不 root，可还原，支持 AI 智能体一键执行。",
+        "tags": [
+          "全部",
+          "智能体/Agent",
+          "移动/系统"
+        ],
+        "tag_keys": [
+          "all",
+          "agent",
+          "mobile"
+        ]
+      }
+    ],
+    "leads_data": [
+      {
+        "term": "qwen image 2.1 quantized",
+        "kinds": [
+          "hf"
+        ],
+        "signals": [
+          "Hugging Face: new at #12"
+        ],
+        "examples": [
+          "abenzerps/Qwen-Image-2.1-Turbo-Quantized (text-to-image, ♥5633)"
+        ],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "image",
+        "one_click": null,
+        "zh_examples": [
+          "abenzerps/Qwen-Image-2.1-Turbo-Quantized (text-to-image, ♥5633)"
+        ]
+      },
+      {
+        "term": "p h3 image",
+        "kinds": [
+          "hf"
+        ],
+        "signals": [
+          "Hugging Face Spaces: new at #35"
+        ],
+        "examples": [
+          "PrunaAI/P-H3-Image (gradio, ♥22)"
+        ],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "image",
+        "one_click": null,
+        "zh_examples": [
+          "PrunaAI/P-H3-Image (gradio, ♥22)"
+        ]
+      },
+      {
+        "term": "weight programming",
+        "kinds": [
+          "hf"
+        ],
+        "signals": [
+          "Hugging Face Spaces: new at #47"
+        ],
+        "examples": [
+          "ML-Intern-lab/weight-space-programming-demo (gradio, ♥19)"
+        ],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": [
+          "ML-Intern-lab/weight-space-programming-demo (gradio, ♥19)"
+        ]
+      },
+      {
+        "term": "pika h3 flex",
+        "kinds": [
+          "breakout"
+        ],
+        "signals": [
+          "GitHub breakout Pika-Labs/Pika-H3-Flex ★1519 (264/day, +821 in a day)"
+        ],
+        "examples": [
+          "Pika-Labs/Pika-H3-Flex: Pika H3 Flex: video and audio generation inference"
+        ],
+        "variants": [
+          "pika h3 flex",
+          "pika-labs pika h3 flex",
+          "pika pika h3 flex"
+        ],
+        "posts": [],
+        "repo": "Pika-Labs/Pika-H3-Flex",
+        "known": "",
+        "format": "video",
+        "one_click": null,
+        "zh_examples": [
+          "Pika-Labs/Pika-H3-Flex: Pika H3 Flex：视频​​和音频生成推理"
+        ]
+      },
+      {
+        "term": "agent autoloop",
+        "kinds": [
+          "breakout"
+        ],
+        "signals": [
+          "GitHub breakout KKKKhazix/agent-autoloop ★1861 (1656/day)"
+        ],
+        "examples": [
+          "KKKKhazix/agent-autoloop: 让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。"
+        ],
+        "variants": [
+          "agent autoloop",
+          "kkkkhazix agent autoloop",
+          "khazix agent autoloop"
+        ],
+        "posts": [],
+        "repo": "KKKKhazix/agent-autoloop",
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": [
+          "KKKKhazix/agent-autoloop: 让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。"
+        ]
+      },
+      {
+        "term": "terminal mac",
+        "kinds": [
+          "breakout"
+        ],
+        "signals": [
+          "GitHub breakout govijr/terminal-mac ★863 (655/day)"
+        ],
+        "examples": [
+          "govijr/terminal-mac: Entire MacOS running in your terminal."
+        ],
+        "variants": [
+          "terminal mac",
+          "govijr terminal mac"
+        ],
+        "posts": [],
+        "repo": "govijr/terminal-mac",
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": [
+          "govijr/terminal-mac: 整个 MacOS 在您的终端中运行。"
+        ]
+      },
+      {
+        "term": "skills",
+        "kinds": [
+          "breakout"
+        ],
+        "signals": [
+          "GitHub breakout benjitaylor/skills ★1697 (184/day, +569 in a day)"
+        ],
+        "examples": [
+          "benjitaylor/skills: Skills for AI coding agents."
+        ],
+        "variants": [
+          "skills",
+          "benjitaylor skills",
+          "benji skills"
+        ],
+        "posts": [],
+        "repo": "benjitaylor/skills",
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": [
+          "benjitaylor/skills: AI 编码代理的技能。"
+        ]
+      },
+      {
+        "term": "art search",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 8 places (×7.9)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "image",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "sites",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 691 places (×572.7)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "connectors uk.co.reliness",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 30 places (×30.0)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "cloudcorprecords",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 55 places (×15.4)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "records",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 55 places (×14.0)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "corp",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 56 places (×13.5)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "connectors com.forevenza.services",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 12 places (×12.0)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "nabuxai",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 11 places (×11.0)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "nabux",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 11 places (×11.0)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "l50",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 7 places (×7.0)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "connectors com.pagespool",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 7 places (×7.0)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "cloud",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 60 places (×6.0)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "connectors io.github.lewisororke",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 6 places (×6.0)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "io.github.lewisororke l50",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 6 places (×6.0)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "io.webz",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 6 places (×5.9)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "connectors io.webz",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 6 places (×5.9)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "llc cyan",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 7 places (×5.6)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "cyan eclipse",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 7 places (×5.2)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "eclipse technologies",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 7 places (×5.1)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "technologies llc",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 7 places (×5.0)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "com.agentfirststack",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 5 places (×5.0)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "connectors com.agentfirststack",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 5 places (×5.0)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "dev.moneytools",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 5 places (×5.0)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "connectors dev.moneytools",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 5 places (×5.0)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "connectors dev.workers.manhliemcn4euwlu.llmrt",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 5 places (×5.0)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      }
+    ]
+  },
+  {
     "id": "2026-11-03_evening",
     "date": "2026-11-03",
     "slot": "evening",
