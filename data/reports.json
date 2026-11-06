@@ -1,5 +1,820 @@
 [
   {
+    "id": "2026-11-06_morning",
+    "date": "2026-11-06",
+    "slot": "morning",
+    "label": "2026-11-06 早场 (10:00)",
+    "breakouts": 15,
+    "new_breakouts": 1,
+    "leads": 29,
+    "max_velocity": 3438,
+    "max_velocity_repo": "deepseek-ai/dsh-superagent-prototype",
+    "repos": [
+      {
+        "repo": "deepseek-ai/dsh-superagent-prototype",
+        "owner": "deepseek-ai",
+        "name": "dsh-superagent-prototype",
+        "stars": 19547,
+        "velocity": 3438,
+        "delta": 413,
+        "age_days": 5.7,
+        "description": "Towards a More Autonomous Agent System",
+        "new": false,
+        "zh_description": "迈向更自主的智能体系统",
+        "tags": [
+          "全部",
+          "超高爆发",
+          "智能体/Agent"
+        ],
+        "tag_keys": [
+          "all",
+          "high_velocity",
+          "agent"
+        ]
+      },
+      {
+        "repo": "storytold/craft-anything",
+        "owner": "storytold",
+        "name": "craft-anything",
+        "stars": 15190,
+        "velocity": 2779,
+        "delta": 1507,
+        "age_days": 5.5,
+        "description": "Craft Anything: understand how any software works, and craft your own.",
+        "new": false,
+        "zh_description": "创造一切：了解任何软件的工作原理，并亲手打造自己的软件",
+        "tags": [
+          "全部",
+          "超高爆发"
+        ],
+        "tag_keys": [
+          "all",
+          "high_velocity"
+        ]
+      },
+      {
+        "repo": "worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto",
+        "owner": "worldonlyu",
+        "name": "Google_AI_Pro_2Year_ZeroCost_Auto",
+        "stars": 2412,
+        "velocity": 1650,
+        "delta": 969,
+        "age_days": 1.5,
+        "description": "Google_AI_Pro_2Year_ZeroCost_Auto",
+        "new": false,
+        "zh_description": "Google AI Pro 两年期零费用自动续订",
+        "tags": [
+          "全部",
+          "超高爆发"
+        ],
+        "tag_keys": [
+          "all",
+          "high_velocity"
+        ]
+      },
+      {
+        "repo": "heydamir/unslop",
+        "owner": "heydamir",
+        "name": "unslop",
+        "stars": 9847,
+        "velocity": 1325,
+        "delta": 762,
+        "age_days": 7.4,
+        "description": "A Claude skill that turns vibecoded, AI-looking UI into a designed interface",
+        "new": false,
+        "zh_description": "一项 Claude 技能，可将氛围编程生成、风格像 AI 的界面改造为经过精心设计的界面",
+        "tags": [
+          "全部",
+          "超高爆发",
+          "智能体/Agent",
+          "视觉/UI"
+        ],
+        "tag_keys": [
+          "all",
+          "high_velocity",
+          "agent",
+          "ui"
+        ]
+      },
+      {
+        "repo": "KKKKhazix/agent-autoloop",
+        "owner": "KKKKhazix",
+        "name": "agent-autoloop",
+        "stars": 3271,
+        "velocity": 1190,
+        "delta": 265,
+        "age_days": 2.7,
+        "description": "让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。",
+        "new": false,
+        "zh_description": "让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。",
+        "tags": [
+          "全部",
+          "超高爆发",
+          "智能体/Agent"
+        ],
+        "tag_keys": [
+          "all",
+          "high_velocity",
+          "agent"
+        ]
+      },
+      {
+        "repo": "zortos293/Lichii",
+        "owner": "zortos293",
+        "name": "Lichii",
+        "stars": 2360,
+        "velocity": 430,
+        "delta": 1071,
+        "age_days": 5.5,
+        "description": "VERY experimental Nintendo Switch 2 emulator",
+        "new": true,
+        "variants": [
+          "lichii",
+          "zortos293 lichii",
+          "zortos lichii"
+        ],
+        "zh_description": "非常实验性的 Nintendo Switch 2 模拟器",
+        "tags": [
+          "全部",
+          "今日新入榜",
+          "移动/系统"
+        ],
+        "tag_keys": [
+          "all",
+          "new",
+          "mobile"
+        ]
+      },
+      {
+        "repo": "ccch1mneyyy/dsh-Go",
+        "owner": "ccch1mneyyy",
+        "name": "dsh-Go",
+        "stars": 11547,
+        "velocity": 983,
+        "delta": 863,
+        "age_days": 11.7,
+        "description": "dsh-go — DeepSeek Harness 装进口袋：手机本机运行，也能遥控你的电脑。",
+        "new": false,
+        "zh_description": "dsh-go — DeepSeek Harness 装进口袋：手机本机运行，也能遥控你的电脑。",
+        "tags": [
+          "全部",
+          "智能体/Agent"
+        ],
+        "tag_keys": [
+          "all",
+          "agent"
+        ]
+      },
+      {
+        "repo": "wangzan101/Mika",
+        "owner": "wangzan101",
+        "name": "Mika",
+        "stars": 7119,
+        "velocity": 952,
+        "delta": 201,
+        "age_days": 7.5,
+        "description": "An on-device AI agent for Android that operates apps and the web to get things done for you.",
+        "new": false,
+        "zh_description": "一款面向 Android 的端侧 AI 智能体，可操作应用和网页，替你完成各项任务",
+        "tags": [
+          "全部",
+          "智能体/Agent",
+          "移动/系统"
+        ],
+        "tag_keys": [
+          "all",
+          "agent",
+          "mobile"
+        ]
+      },
+      {
+        "repo": "patch-gg/pixelfx",
+        "owner": "patch-gg",
+        "name": "pixelfx",
+        "stars": 5288,
+        "velocity": 777,
+        "delta": 239,
+        "age_days": 6.8,
+        "description": "244 pixel art effects, every one a small piece of code. Plus a Claude Code skill to make your own.",
+        "new": false,
+        "zh_description": "244 种像素艺术特效，每一种都是一小段代码。另有 Claude Code 技能可让你创作自己的特效",
+        "tags": [
+          "全部",
+          "智能体/Agent",
+          "视觉/UI"
+        ],
+        "tag_keys": [
+          "all",
+          "agent",
+          "ui"
+        ]
+      },
+      {
+        "repo": "valentderah/totk-pc-recomp",
+        "owner": "valentderah",
+        "name": "totk-pc-recomp",
+        "stars": 5168,
+        "velocity": 684,
+        "delta": 185,
+        "age_days": 7.6,
+        "description": "Static recompilation of The Legend of Zelda: Tears of the Kingdom to native Windows and Linux x86-64, with a Vulkan rend",
+        "new": false,
+        "zh_description": "将《塞尔达传说：王国之泪》静态重编译为原生 Windows 和 Linux x86-64 版本，并采用 Vulkan 渲染。",
+        "tags": [
+          "全部",
+          "视觉/UI",
+          "移动/系统"
+        ],
+        "tag_keys": [
+          "all",
+          "ui",
+          "mobile"
+        ]
+      },
+      {
+        "repo": "govijr/terminal-mac",
+        "owner": "govijr",
+        "name": "terminal-mac",
+        "stars": 1972,
+        "velocity": 670,
+        "delta": 208,
+        "age_days": 2.9,
+        "description": "Entire MacOS running in your terminal.",
+        "new": false,
+        "zh_description": "整个 MacOS 在您的终端中运行。",
+        "tags": [
+          "全部"
+        ],
+        "tag_keys": [
+          "all"
+        ]
+      },
+      {
+        "repo": "anhao/ai-pose-gallery-zh",
+        "owner": "anhao",
+        "name": "ai-pose-gallery-zh",
+        "stars": 6097,
+        "velocity": 637,
+        "delta": 66,
+        "age_days": 9.6,
+        "description": "中文版 AI 姿势参考图库 · 1439 组 / 2878 张图片 / 完整汉化 · 零依赖静态画廊",
+        "new": false,
+        "zh_description": "中文版 AI 姿势参考图库 · 1439 组 / 2878 张图片 / 完整汉化 · 零依赖静态画廊",
+        "tags": [
+          "全部",
+          "视觉/UI"
+        ],
+        "tag_keys": [
+          "all",
+          "ui"
+        ]
+      },
+      {
+        "repo": "unclebob/ub-mode",
+        "owner": "unclebob",
+        "name": "ub-mode",
+        "stars": 7107,
+        "velocity": 623,
+        "delta": 57,
+        "age_days": 11.4,
+        "description": "",
+        "new": false,
+        "zh_description": "暂无项目描述",
+        "tags": [
+          "全部"
+        ],
+        "tag_keys": [
+          "all"
+        ]
+      },
+      {
+        "repo": "Djihads80/Eglantine",
+        "owner": "Djihads80",
+        "name": "Eglantine",
+        "stars": 4443,
+        "velocity": 551,
+        "delta": 425,
+        "age_days": 8.1,
+        "description": "VERY experimental Nintendo Switch 2 emulator",
+        "new": false,
+        "zh_description": "非常实验性的 Nintendo Switch 2 模拟器",
+        "tags": [
+          "全部",
+          "移动/系统"
+        ],
+        "tag_keys": [
+          "all",
+          "mobile"
+        ]
+      },
+      {
+        "repo": "BryceYuuu/RUN",
+        "owner": "BryceYuuu",
+        "name": "RUN",
+        "stars": 3956,
+        "velocity": 520,
+        "delta": 88,
+        "age_days": 7.6,
+        "description": "RUN · 润：海外移居手册（欧洲 36 国 · 110 条路线 · 主要移民地区）",
+        "new": false,
+        "zh_description": "RUN · 润：海外移居手册（欧洲 36 国 · 110 条路线 · 主要移民地区）",
+        "tags": [
+          "全部"
+        ],
+        "tag_keys": [
+          "all"
+        ]
+      }
+    ],
+    "leads_data": [
+      {
+        "term": "qwen3.8 flash next e384 fp4 v2",
+        "kinds": [
+          "hf"
+        ],
+        "signals": [
+          "Hugging Face: new at #48"
+        ],
+        "examples": [
+          "autotrust/Qwen3.8-Flash-Next-E384-FP4-V2 (image-text-to-text, ♥1848)"
+        ],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "image",
+        "one_click": null,
+        "zh_examples": [
+          "autotrust/Qwen3.8-Flash-Next-E384-FP4-V2 (image-text-to-text, ♥1848)"
+        ]
+      },
+      {
+        "term": "ernie 5.5 flash",
+        "kinds": [
+          "hf"
+        ],
+        "signals": [
+          "Hugging Face: new at #36"
+        ],
+        "examples": [
+          "baidu/ERNIE-5.5-Flash-Base (text-generation, ♥183)"
+        ],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": [
+          "baidu/ERNIE-5.5-Flash-Base (text-generation, ♥183)"
+        ]
+      },
+      {
+        "term": "moe blogpost",
+        "kinds": [
+          "hf"
+        ],
+        "signals": [
+          "Hugging Face Spaces: new at #10"
+        ],
+        "examples": [
+          "huggingface/moe-blogpost (docker, ♥69)"
+        ],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": [
+          "huggingface/moe-blogpost (docker, ♥69)"
+        ]
+      },
+      {
+        "term": "lichii",
+        "kinds": [
+          "breakout"
+        ],
+        "signals": [
+          "GitHub breakout zortos293/Lichii ★2360 (430/day, +1071 in a day)"
+        ],
+        "examples": [
+          "zortos293/Lichii: VERY experimental Nintendo Switch 2 emulator"
+        ],
+        "variants": [
+          "lichii",
+          "zortos293 lichii",
+          "zortos lichii"
+        ],
+        "posts": [],
+        "repo": "zortos293/Lichii",
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": [
+          "zortos293/Lichii: 非常实验性的 Nintendo Switch 2 模拟器"
+        ]
+      },
+      {
+        "term": "connectors io.ceadigital",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 21 places (×21.0)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "theluckystrike",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 9 places (×8.1)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "io.github.theluckystrike",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 9 places (×5.4)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "connectors io.github.theluckystrike",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 9 places (×5.4)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "sandraschi",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 6 places (×4.8)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "prices",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 6 places (×4.6)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "pandadad0214",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 4 places (×4.0)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "pandadad0214 panda",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 4 places (×4.0)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "stamp",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 4 places (×3.8)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "today",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 4 places (×3.7)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "registry",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 6 places (×3.3)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "red",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 4 places (×3.1)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "prompt flow",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 3 places (×3.0)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "piratex",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 3 places (×3.0)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "faxbeep",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 3 places (×3.0)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "arceedev",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 3 places (×3.0)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "arcee",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 3 places (×3.0)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "choppa",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 3 places (×3.0)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "chinn choppa",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 3 places (×3.0)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "dnntminh",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 3 places (×3.0)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "elliothimmelfarb",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 3 places (×3.0)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "nodes",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 3 places (×2.8)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "io.usefulapi",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 9 places (×2.5)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "connectors io.usefulapi",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 9 places (×2.5)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "rates",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 3 places (×2.5)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      }
+    ]
+  },
+  {
     "id": "2026-11-05_evening",
     "date": "2026-11-05",
     "slot": "evening",
