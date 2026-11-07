@@ -1,5 +1,750 @@
 [
   {
+    "id": "2026-11-07_evening",
+    "date": "2026-11-07",
+    "slot": "evening",
+    "label": "2026-11-07 晚场 (19:00)",
+    "breakouts": 15,
+    "new_breakouts": 0,
+    "leads": 26,
+    "max_velocity": 2911,
+    "max_velocity_repo": "deepseek-ai/dsh-superagent-prototype",
+    "repos": [
+      {
+        "repo": "deepseek-ai/dsh-superagent-prototype",
+        "owner": "deepseek-ai",
+        "name": "dsh-superagent-prototype",
+        "stars": 20552,
+        "velocity": 2911,
+        "delta": 276,
+        "age_days": 7.1,
+        "description": "Towards a More Autonomous Agent System",
+        "new": false,
+        "zh_description": "迈向更自主的智能体系统",
+        "tags": [
+          "全部",
+          "超高爆发",
+          "智能体/Agent"
+        ],
+        "tag_keys": [
+          "all",
+          "high_velocity",
+          "agent"
+        ]
+      },
+      {
+        "repo": "storytold/craft-anything",
+        "owner": "storytold",
+        "name": "craft-anything",
+        "stars": 19251,
+        "velocity": 2814,
+        "delta": 1035,
+        "age_days": 6.8,
+        "description": "Craft Anything: understand how any software works, and craft your own.",
+        "new": false,
+        "zh_description": "创造一切：了解任何软件的工作原理，并亲手打造自己的软件",
+        "tags": [
+          "全部",
+          "超高爆发"
+        ],
+        "tag_keys": [
+          "all",
+          "high_velocity"
+        ]
+      },
+      {
+        "repo": "heydamir/unslop",
+        "owner": "heydamir",
+        "name": "unslop",
+        "stars": 11033,
+        "velocity": 1253,
+        "delta": 272,
+        "age_days": 8.8,
+        "description": "A Claude skill that turns vibecoded, AI-looking UI into a designed interface",
+        "new": false,
+        "zh_description": "一项 Claude 技能，可将氛围编程生成、风格像 AI 的界面改造为经过精心设计的界面",
+        "tags": [
+          "全部",
+          "超高爆发",
+          "智能体/Agent",
+          "视觉/UI"
+        ],
+        "tag_keys": [
+          "all",
+          "high_velocity",
+          "agent",
+          "ui"
+        ]
+      },
+      {
+        "repo": "JenkinWoo/sheeridVerify",
+        "owner": "JenkinWoo",
+        "name": "sheeridVerify",
+        "stars": 1319,
+        "velocity": 1240,
+        "delta": 485,
+        "age_days": 1.1,
+        "description": "",
+        "new": false,
+        "zh_description": "暂无项目描述",
+        "tags": [
+          "全部",
+          "超高爆发"
+        ],
+        "tag_keys": [
+          "all",
+          "high_velocity"
+        ]
+      },
+      {
+        "repo": "worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto",
+        "owner": "worldonlyu",
+        "name": "Google_AI_Pro_2Year_ZeroCost_Auto",
+        "stars": 2979,
+        "velocity": 1050,
+        "delta": 82,
+        "age_days": 2.8,
+        "description": "Google_AI_Pro_2Year_ZeroCost_Auto",
+        "new": false,
+        "zh_description": "Google AI Pro 两年期零费用自动续订",
+        "tags": [
+          "全部",
+          "超高爆发"
+        ],
+        "tag_keys": [
+          "all",
+          "high_velocity"
+        ]
+      },
+      {
+        "repo": "ccch1mneyyy/dsh-Go",
+        "owner": "ccch1mneyyy",
+        "name": "dsh-Go",
+        "stars": 13426,
+        "velocity": 1023,
+        "delta": 430,
+        "age_days": 13.1,
+        "description": "dsh-go — DeepSeek Harness 装进口袋：手机本机运行，也能遥控你的电脑。",
+        "new": false,
+        "zh_description": "dsh-go — DeepSeek Harness 装进口袋：手机本机运行，也能遥控你的电脑。",
+        "tags": [
+          "全部",
+          "超高爆发",
+          "智能体/Agent"
+        ],
+        "tag_keys": [
+          "all",
+          "high_velocity",
+          "agent"
+        ]
+      },
+      {
+        "repo": "KKKKhazix/agent-autoloop",
+        "owner": "KKKKhazix",
+        "name": "agent-autoloop",
+        "stars": 3848,
+        "velocity": 933,
+        "delta": 145,
+        "age_days": 4.1,
+        "description": "让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。",
+        "new": false,
+        "zh_description": "让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。",
+        "tags": [
+          "全部",
+          "智能体/Agent"
+        ],
+        "tag_keys": [
+          "all",
+          "agent"
+        ]
+      },
+      {
+        "repo": "wangzan101/Mika",
+        "owner": "wangzan101",
+        "name": "Mika",
+        "stars": 7495,
+        "velocity": 847,
+        "delta": 86,
+        "age_days": 8.9,
+        "description": "An on-device AI agent for Android that operates apps and the web to get things done for you.",
+        "new": false,
+        "zh_description": "一款面向 Android 的端侧 AI 智能体，可操作应用和网页，替你完成各项任务",
+        "tags": [
+          "全部",
+          "智能体/Agent",
+          "移动/系统"
+        ],
+        "tag_keys": [
+          "all",
+          "agent",
+          "mobile"
+        ]
+      },
+      {
+        "repo": "patch-gg/pixelfx",
+        "owner": "patch-gg",
+        "name": "pixelfx",
+        "stars": 5715,
+        "velocity": 699,
+        "delta": 114,
+        "age_days": 8.2,
+        "description": "244 pixel art effects, every one a small piece of code. Plus a Claude Code skill to make your own.",
+        "new": false,
+        "zh_description": "244 种像素艺术特效，每一种都是一小段代码。另有 Claude Code 技能可让你创作自己的特效",
+        "tags": [
+          "全部",
+          "智能体/Agent",
+          "视觉/UI"
+        ],
+        "tag_keys": [
+          "all",
+          "agent",
+          "ui"
+        ]
+      },
+      {
+        "repo": "zortos293/Lichii",
+        "owner": "zortos293",
+        "name": "Lichii",
+        "stars": 4460,
+        "velocity": 650,
+        "delta": 433,
+        "age_days": 6.9,
+        "description": "VERY experimental Nintendo Switch 2 emulator",
+        "new": false,
+        "zh_description": "非常实验性的 Nintendo Switch 2 模拟器",
+        "tags": [
+          "全部",
+          "移动/系统"
+        ],
+        "tag_keys": [
+          "all",
+          "mobile"
+        ]
+      },
+      {
+        "repo": "valentderah/totk-pc-recomp",
+        "owner": "valentderah",
+        "name": "totk-pc-recomp",
+        "stars": 5536,
+        "velocity": 620,
+        "delta": 109,
+        "age_days": 8.9,
+        "description": "Static recompilation of The Legend of Zelda: Tears of the Kingdom to native Windows and Linux x86-64, with a Vulkan rend",
+        "new": false,
+        "zh_description": "将《塞尔达传说：王国之泪》静态重编译为原生 Windows 和 Linux x86-64 版本，并采用 Vulkan 渲染。",
+        "tags": [
+          "全部",
+          "视觉/UI",
+          "移动/系统"
+        ],
+        "tag_keys": [
+          "all",
+          "ui",
+          "mobile"
+        ]
+      },
+      {
+        "repo": "anhao/ai-pose-gallery-zh",
+        "owner": "anhao",
+        "name": "ai-pose-gallery-zh",
+        "stars": 6316,
+        "velocity": 577,
+        "delta": 57,
+        "age_days": 10.9,
+        "description": "中文版 AI 姿势参考图库 · 1439 组 / 2878 张图片 / 完整汉化 · 零依赖静态画廊",
+        "new": false,
+        "zh_description": "中文版 AI 姿势参考图库 · 1439 组 / 2878 张图片 / 完整汉化 · 零依赖静态画廊",
+        "tags": [
+          "全部",
+          "视觉/UI"
+        ],
+        "tag_keys": [
+          "all",
+          "ui"
+        ]
+      },
+      {
+        "repo": "unclebob/ub-mode",
+        "owner": "unclebob",
+        "name": "ub-mode",
+        "stars": 7227,
+        "velocity": 565,
+        "delta": 16,
+        "age_days": 12.8,
+        "description": "",
+        "new": false,
+        "zh_description": "暂无项目描述",
+        "tags": [
+          "全部"
+        ],
+        "tag_keys": [
+          "all"
+        ]
+      },
+      {
+        "repo": "Djihads80/Eglantine",
+        "owner": "Djihads80",
+        "name": "Eglantine",
+        "stars": 5018,
+        "velocity": 532,
+        "delta": 111,
+        "age_days": 9.4,
+        "description": "VERY experimental Nintendo Switch 2 emulator",
+        "new": false,
+        "zh_description": "非常实验性的 Nintendo Switch 2 模拟器",
+        "tags": [
+          "全部",
+          "移动/系统"
+        ],
+        "tag_keys": [
+          "all",
+          "mobile"
+        ]
+      },
+      {
+        "repo": "govijr/terminal-mac",
+        "owner": "govijr",
+        "name": "terminal-mac",
+        "stars": 2201,
+        "velocity": 510,
+        "delta": 45,
+        "age_days": 4.3,
+        "description": "Entire MacOS running in your terminal.",
+        "new": false,
+        "zh_description": "整个 MacOS 在您的终端中运行。",
+        "tags": [
+          "全部"
+        ],
+        "tag_keys": [
+          "all"
+        ]
+      }
+    ],
+    "leads_data": [
+      {
+        "term": "deepseek v4 pro qwen3.5 heretic",
+        "kinds": [
+          "hf"
+        ],
+        "signals": [
+          "Hugging Face: new at #16"
+        ],
+        "examples": [
+          "xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic (text-generation, ♥246)"
+        ],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": [
+          "xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic (text-generation, ♥246)"
+        ]
+      },
+      {
+        "term": "tts",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 6 places (×3.7)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "voice",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "tutorials deepseek",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 16 places (×15.9)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "tutorials",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 27 places (×15.3)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "deepseek",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 24 places (×12.2)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "r1",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 10 places (×8.9)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "io.usefulapi",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 23 places (×4.9)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "connectors io.usefulapi",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 23 places (×4.9)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "step",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 5 places (×4.0)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "zhejiang",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 4 places (×4.0)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "32b",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 4 places (×3.9)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "manus",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 4 places (×3.6)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "unpkg",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 3 places (×3.0)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "connectors io.github.jrhite",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 3 places (×3.0)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "tusiart",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 3 places (×3.0)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "courseware",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 3 places (×3.0)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "courseware series",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 3 places (×3.0)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "deepseek courseware",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 3 places (×3.0)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "zhejiang deepseek",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 3 places (×3.0)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "com.brainonbnb",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 3 places (×2.9)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "connectors com.brainonbnb",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 3 places (×2.9)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "deepseek r1",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 3 places (×2.9)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "4o",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 3 places (×2.9)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "aigc",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 3 places (×2.8)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "mistral",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 3 places (×2.5)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "light",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 3 places (×2.3)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      }
+    ]
+  },
+  {
     "id": "2026-11-07_morning",
     "date": "2026-11-07",
     "slot": "morning",
