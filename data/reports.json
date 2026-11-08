@@ -1,5 +1,810 @@
 [
   {
+    "id": "2026-11-08_morning",
+    "date": "2026-11-08",
+    "slot": "morning",
+    "label": "2026-11-08 早场 (10:00)",
+    "breakouts": 15,
+    "new_breakouts": 2,
+    "leads": 28,
+    "max_velocity": 2776,
+    "max_velocity_repo": "storytold/craft-anything",
+    "repos": [
+      {
+        "repo": "storytold/craft-anything",
+        "owner": "storytold",
+        "name": "craft-anything",
+        "stars": 20724,
+        "velocity": 2776,
+        "delta": 1473,
+        "age_days": 7.5,
+        "description": "Craft Anything: understand how any software works, and craft your own.",
+        "new": false,
+        "zh_description": "创造一切：了解任何软件的工作原理，并亲手打造自己的软件",
+        "tags": [
+          "全部",
+          "超高爆发"
+        ],
+        "tag_keys": [
+          "all",
+          "high_velocity"
+        ]
+      },
+      {
+        "repo": "deepseek-ai/dsh-superagent-prototype",
+        "owner": "deepseek-ai",
+        "name": "dsh-superagent-prototype",
+        "stars": 20840,
+        "velocity": 2711,
+        "delta": 288,
+        "age_days": 7.7,
+        "description": "Towards a More Autonomous Agent System",
+        "new": false,
+        "zh_description": "迈向更自主的智能体系统",
+        "tags": [
+          "全部",
+          "超高爆发",
+          "智能体/Agent"
+        ],
+        "tag_keys": [
+          "all",
+          "high_velocity",
+          "agent"
+        ]
+      },
+      {
+        "repo": "zortos293/Lichii",
+        "owner": "zortos293",
+        "name": "Lichii",
+        "stars": 5706,
+        "velocity": 762,
+        "delta": 1246,
+        "age_days": 7.5,
+        "description": "VERY experimental Nintendo Switch 2 emulator",
+        "new": false,
+        "zh_description": "非常实验性的 Nintendo Switch 2 模拟器",
+        "tags": [
+          "全部",
+          "移动/系统"
+        ],
+        "tag_keys": [
+          "all",
+          "mobile"
+        ]
+      },
+      {
+        "repo": "heydamir/unslop",
+        "owner": "heydamir",
+        "name": "unslop",
+        "stars": 11398,
+        "velocity": 1209,
+        "delta": 365,
+        "age_days": 9.4,
+        "description": "A Claude skill that turns vibecoded, AI-looking UI into a designed interface",
+        "new": false,
+        "zh_description": "一项 Claude 技能，可将氛围编程生成、风格像 AI 的界面改造为经过精心设计的界面",
+        "tags": [
+          "全部",
+          "超高爆发",
+          "智能体/Agent",
+          "视觉/UI"
+        ],
+        "tag_keys": [
+          "all",
+          "high_velocity",
+          "agent",
+          "ui"
+        ]
+      },
+      {
+        "repo": "NotRexed/Hookshot",
+        "owner": "NotRexed",
+        "name": "Hookshot",
+        "stars": 1883,
+        "velocity": 733,
+        "delta": 1067,
+        "age_days": 2.6,
+        "description": "A Native Recompilation Of The Legend Of Zelda: Ocarina Of Time Nintendo Switch 2 Remake",
+        "new": true,
+        "variants": [
+          "hookshot",
+          "notrexed hookshot"
+        ],
+        "zh_description": "《塞尔达传说：时之笛》Nintendo Switch 2 原生重制版",
+        "tags": [
+          "全部",
+          "今日新入榜",
+          "移动/系统"
+        ],
+        "tag_keys": [
+          "all",
+          "new",
+          "mobile"
+        ]
+      },
+      {
+        "repo": "ccch1mneyyy/dsh-Go",
+        "owner": "ccch1mneyyy",
+        "name": "dsh-Go",
+        "stars": 14460,
+        "velocity": 1052,
+        "delta": 1034,
+        "age_days": 13.7,
+        "description": "dsh-go — DeepSeek Harness 装进口袋：手机本机运行，也能遥控你的电脑。",
+        "new": false,
+        "zh_description": "dsh-go — DeepSeek Harness 装进口袋：手机本机运行，也能遥控你的电脑。",
+        "tags": [
+          "全部",
+          "超高爆发",
+          "智能体/Agent"
+        ],
+        "tag_keys": [
+          "all",
+          "high_velocity",
+          "agent"
+        ]
+      },
+      {
+        "repo": "JenkinWoo/sheeridVerify",
+        "owner": "JenkinWoo",
+        "name": "sheeridVerify",
+        "stars": 1675,
+        "velocity": 992,
+        "delta": 356,
+        "age_days": 1.7,
+        "description": "",
+        "new": false,
+        "zh_description": "暂无项目描述",
+        "tags": [
+          "全部"
+        ],
+        "tag_keys": [
+          "all"
+        ]
+      },
+      {
+        "repo": "worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto",
+        "owner": "worldonlyu",
+        "name": "Google_AI_Pro_2Year_ZeroCost_Auto",
+        "stars": 3062,
+        "velocity": 884,
+        "delta": 83,
+        "age_days": 3.5,
+        "description": "Google_AI_Pro_2Year_ZeroCost_Auto",
+        "new": false,
+        "zh_description": "Google AI Pro 两年期零费用自动续订",
+        "tags": [
+          "全部"
+        ],
+        "tag_keys": [
+          "all"
+        ]
+      },
+      {
+        "repo": "KKKKhazix/agent-autoloop",
+        "owner": "KKKKhazix",
+        "name": "agent-autoloop",
+        "stars": 3968,
+        "velocity": 836,
+        "delta": 120,
+        "age_days": 4.7,
+        "description": "让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。",
+        "new": false,
+        "zh_description": "让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。",
+        "tags": [
+          "全部",
+          "智能体/Agent"
+        ],
+        "tag_keys": [
+          "all",
+          "agent"
+        ]
+      },
+      {
+        "repo": "wangzan101/Mika",
+        "owner": "wangzan101",
+        "name": "Mika",
+        "stars": 7615,
+        "velocity": 804,
+        "delta": 120,
+        "age_days": 9.5,
+        "description": "An on-device AI agent for Android that operates apps and the web to get things done for you.",
+        "new": false,
+        "zh_description": "一款面向 Android 的端侧 AI 智能体，可操作应用和网页，替你完成各项任务",
+        "tags": [
+          "全部",
+          "智能体/Agent",
+          "移动/系统"
+        ],
+        "tag_keys": [
+          "all",
+          "agent",
+          "mobile"
+        ]
+      },
+      {
+        "repo": "sostenesfreitas/ocarina-recomp",
+        "owner": "sostenesfreitas",
+        "name": "ocarina-recomp",
+        "stars": 811,
+        "velocity": 705,
+        "delta": 360,
+        "age_days": 1.2,
+        "description": "Ocarina of Time running natively on Windows, no emulator. Built on your PC from your own copy. No game files included.",
+        "new": true,
+        "variants": [
+          "ocarina recomp",
+          "sostenesfreitas ocarina recomp"
+        ],
+        "zh_description": "《时之笛》原生运行于 Windows，无需模拟器。基于你在自己电脑上拥有的正版游戏进行构建，不包含任何游戏文件。",
+        "tags": [
+          "全部",
+          "今日新入榜",
+          "视觉/UI",
+          "移动/系统"
+        ],
+        "tag_keys": [
+          "all",
+          "new",
+          "ui",
+          "mobile"
+        ]
+      },
+      {
+        "repo": "patch-gg/pixelfx",
+        "owner": "patch-gg",
+        "name": "pixelfx",
+        "stars": 5852,
+        "velocity": 665,
+        "delta": 137,
+        "age_days": 8.8,
+        "description": "244 pixel art effects, every one a small piece of code. Plus a Claude Code skill to make your own.",
+        "new": false,
+        "zh_description": "244 种像素艺术特效，每一种都是一小段代码。另有 Claude Code 技能可让你创作自己的特效",
+        "tags": [
+          "全部",
+          "智能体/Agent",
+          "视觉/UI"
+        ],
+        "tag_keys": [
+          "all",
+          "agent",
+          "ui"
+        ]
+      },
+      {
+        "repo": "valentderah/totk-pc-recomp",
+        "owner": "valentderah",
+        "name": "totk-pc-recomp",
+        "stars": 5699,
+        "velocity": 596,
+        "delta": 163,
+        "age_days": 9.6,
+        "description": "Static recompilation of The Legend of Zelda: Tears of the Kingdom to native Windows and Linux x86-64, with a Vulkan rend",
+        "new": false,
+        "zh_description": "将《塞尔达传说：王国之泪》静态重编译为原生 Windows 和 Linux x86-64 版本，并采用 Vulkan 渲染。",
+        "tags": [
+          "全部",
+          "视觉/UI",
+          "移动/系统"
+        ],
+        "tag_keys": [
+          "all",
+          "ui",
+          "mobile"
+        ]
+      },
+      {
+        "repo": "anhao/ai-pose-gallery-zh",
+        "owner": "anhao",
+        "name": "ai-pose-gallery-zh",
+        "stars": 6375,
+        "velocity": 551,
+        "delta": 59,
+        "age_days": 11.6,
+        "description": "中文版 AI 姿势参考图库 · 1439 组 / 2878 张图片 / 完整汉化 · 零依赖静态画廊",
+        "new": false,
+        "zh_description": "中文版 AI 姿势参考图库 · 1439 组 / 2878 张图片 / 完整汉化 · 零依赖静态画廊",
+        "tags": [
+          "全部",
+          "视觉/UI"
+        ],
+        "tag_keys": [
+          "all",
+          "ui"
+        ]
+      },
+      {
+        "repo": "unclebob/ub-mode",
+        "owner": "unclebob",
+        "name": "ub-mode",
+        "stars": 7260,
+        "velocity": 541,
+        "delta": 33,
+        "age_days": 13.4,
+        "description": "",
+        "new": false,
+        "zh_description": "暂无项目描述",
+        "tags": [
+          "全部"
+        ],
+        "tag_keys": [
+          "all"
+        ]
+      }
+    ],
+    "leads_data": [
+      {
+        "term": "qwen image 21",
+        "kinds": [
+          "hf"
+        ],
+        "signals": [
+          "Hugging Face Spaces: new at #34"
+        ],
+        "examples": [
+          "FelyaHuhing/qwen-image-21-uncensored (gradio, ♥34)"
+        ],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "image",
+        "one_click": null,
+        "zh_examples": [
+          "FelyaHuhing/qwen-image-21-uncensored (gradio, ♥34)"
+        ]
+      },
+      {
+        "term": "hookshot",
+        "kinds": [
+          "breakout"
+        ],
+        "signals": [
+          "GitHub breakout NotRexed/Hookshot ★1883 (733/day, +1067 in a day)"
+        ],
+        "examples": [
+          "NotRexed/Hookshot: A Native Recompilation Of The Legend Of Zelda: Ocarina Of Time Nintendo Switch 2 Remake"
+        ],
+        "variants": [
+          "hookshot",
+          "notrexed hookshot"
+        ],
+        "posts": [],
+        "repo": "NotRexed/Hookshot",
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": [
+          "NotRexed/Hookshot: 《塞尔达传说：时之笛》Nintendo Switch 2 原生重制版"
+        ]
+      },
+      {
+        "term": "ocarina recomp",
+        "kinds": [
+          "breakout"
+        ],
+        "signals": [
+          "GitHub breakout sostenesfreitas/ocarina-recomp ★811 (705/day, +360 in a day)"
+        ],
+        "examples": [
+          "sostenesfreitas/ocarina-recomp: Ocarina of Time running natively on Windows, no emulator. Built on your PC from your own copy. No game files included."
+        ],
+        "variants": [
+          "ocarina recomp",
+          "sostenesfreitas ocarina recomp"
+        ],
+        "posts": [],
+        "repo": "sostenesfreitas/ocarina-recomp",
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": [
+          "sostenesfreitas/ocarina-recomp: 《时之笛》原生运行于 Windows，无需模拟器。基于你在自己电脑上拥有的正版游戏进行构建，不包含任何游戏文件。"
+        ]
+      },
+      {
+        "term": "sites",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 691 places (×588.2)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "io.github.itsryanarmani",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 41 places (×41.0)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "connectors io.github.itsryanarmani",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 41 places (×41.0)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "itsryanarmani",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 20 places (×20.0)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "itsryanarmani benchmark",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 14 places (×14.0)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "connectors io.usefulapi",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 66 places (×10.5)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "connectors io.github.miradero",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 10 places (×10.0)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "cotlet connect",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 10 places (×9.4)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "mohammad abbasi",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 9 places (×8.5)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "com.yazilimkocu",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 6 places (×6.0)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "connectors com.yazilimkocu",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 6 places (×6.0)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "codesphere",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 6 places (×6.0)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "projects atlasrearden8",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 5 places (×4.8)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "rearden8",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 5 places (×4.8)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "opencode projects",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 5 places (×4.8)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "io.github.justice",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 5 places (×4.7)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "connectors io.github.justiceua",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 5 places (×4.7)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "company check",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 5 places (×4.6)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "connect",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 11 places (×4.3)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "uk.co.reliness",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 6 places (×4.3)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "connectors uk.co.reliness",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 6 places (×4.3)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "pingstack",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 4 places (×4.0)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "getlarkwright",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 4 places (×4.0)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "projects",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 6 places (×3.7)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "agentswarm",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 3 places (×3.0)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      }
+    ]
+  },
+  {
     "id": "2026-11-07_evening",
     "date": "2026-11-07",
     "slot": "evening",
