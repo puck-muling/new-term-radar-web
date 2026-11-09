@@ -1,5 +1,776 @@
 [
   {
+    "id": "2026-11-09_evening",
+    "date": "2026-11-09",
+    "slot": "evening",
+    "label": "2026-11-09 晚场 (19:00)",
+    "breakouts": 15,
+    "new_breakouts": 1,
+    "leads": 27,
+    "max_velocity": 2673,
+    "max_velocity_repo": "storytold/craft-anything",
+    "repos": [
+      {
+        "repo": "storytold/craft-anything",
+        "owner": "storytold",
+        "name": "craft-anything",
+        "stars": 23633,
+        "velocity": 2673,
+        "delta": 870,
+        "age_days": 8.8,
+        "description": "Craft Anything: understand how any software works, and craft your own.",
+        "new": false,
+        "zh_description": "创造一切：了解任何软件的工作原理，并亲手打造自己的软件",
+        "tags": [
+          "全部",
+          "超高爆发"
+        ],
+        "tag_keys": [
+          "all",
+          "high_velocity"
+        ]
+      },
+      {
+        "repo": "deepseek-ai/dsh-superagent-prototype",
+        "owner": "deepseek-ai",
+        "name": "dsh-superagent-prototype",
+        "stars": 21554,
+        "velocity": 2379,
+        "delta": 328,
+        "age_days": 9.1,
+        "description": "Towards a More Autonomous Agent System",
+        "new": false,
+        "zh_description": "迈向更自主的智能体系统",
+        "tags": [
+          "全部",
+          "超高爆发",
+          "智能体/Agent"
+        ],
+        "tag_keys": [
+          "all",
+          "high_velocity",
+          "agent"
+        ]
+      },
+      {
+        "repo": "Minireel/HGhub",
+        "owner": "Minireel",
+        "name": "HGhub",
+        "stars": 4650,
+        "velocity": 792,
+        "delta": 1245,
+        "age_days": 5.9,
+        "description": "YellowFruit third-party client",
+        "new": false,
+        "zh_description": "YellowFruit 第三方客户端",
+        "tags": [
+          "全部",
+          "视觉/UI"
+        ],
+        "tag_keys": [
+          "all",
+          "ui"
+        ]
+      },
+      {
+        "repo": "heydamir/unslop",
+        "owner": "heydamir",
+        "name": "unslop",
+        "stars": 12334,
+        "velocity": 1142,
+        "delta": 304,
+        "age_days": 10.8,
+        "description": "A Claude skill that turns vibecoded, AI-looking UI into a designed interface",
+        "new": false,
+        "zh_description": "一项 Claude 技能，可将氛围编程生成、风格像 AI 的界面改造为经过精心设计的界面",
+        "tags": [
+          "全部",
+          "超高爆发",
+          "智能体/Agent",
+          "视觉/UI"
+        ],
+        "tag_keys": [
+          "all",
+          "high_velocity",
+          "agent",
+          "ui"
+        ]
+      },
+      {
+        "repo": "anefzaoui/misterdownloadmanager",
+        "owner": "anefzaoui",
+        "name": "misterdownloadmanager",
+        "stars": 2743,
+        "velocity": 241,
+        "delta": 1079,
+        "age_days": 11.4,
+        "description": "misterdownloadmanager: The ultimate open-source, clean-room download manager written from scratch in pure Rust for Windo",
+        "new": false,
+        "zh_description": "misterdownloadmanager：终极开源、洁净室（clean-room）下载管理器，完全使用纯 Rust 从零开发，支持 Windo",
+        "tags": [
+          "全部"
+        ],
+        "tag_keys": [
+          "all"
+        ]
+      },
+      {
+        "repo": "jhaizhou-ops/S2Arm",
+        "owner": "jhaizhou-ops",
+        "name": "S2Arm",
+        "stars": 1237,
+        "velocity": 1018,
+        "delta": 767,
+        "age_days": 1.2,
+        "description": "Run your own Switch games natively on iPhone, iPad and Mac: game code rewritten to ARM64, graphics direct to Metal, one ",
+        "new": true,
+        "variants": [
+          "s2arm",
+          "jhaizhou-ops s2arm"
+        ],
+        "zh_description": "在 iPhone、iPad 和 Mac 上原生运行自己的 Switch 游戏：游戏代码重写为 ARM64，图形直接通过 Metal 渲染，",
+        "tags": [
+          "全部",
+          "今日新入榜",
+          "超高爆发",
+          "移动/系统"
+        ],
+        "tag_keys": [
+          "all",
+          "new",
+          "high_velocity",
+          "mobile"
+        ]
+      },
+      {
+        "repo": "NotRexed/Hookshot",
+        "owner": "NotRexed",
+        "name": "Hookshot",
+        "stars": 3662,
+        "velocity": 928,
+        "delta": 489,
+        "age_days": 3.9,
+        "description": "A Native Recompilation Of The Legend Of Zelda: Ocarina Of Time Nintendo Switch 2 Remake",
+        "new": false,
+        "zh_description": "《塞尔达传说：时之笛》Nintendo Switch 2 原生重制版",
+        "tags": [
+          "全部",
+          "移动/系统"
+        ],
+        "tag_keys": [
+          "all",
+          "mobile"
+        ]
+      },
+      {
+        "repo": "tangerineturtle1/NX2navi",
+        "owner": "tangerineturtle1",
+        "name": "NX2navi",
+        "stars": 1751,
+        "velocity": 858,
+        "delta": 401,
+        "age_days": 2.0,
+        "description": "",
+        "new": false,
+        "zh_description": "暂无项目描述",
+        "tags": [
+          "全部"
+        ],
+        "tag_keys": [
+          "all"
+        ]
+      },
+      {
+        "repo": "zortos293/Lichii",
+        "owner": "zortos293",
+        "name": "Lichii",
+        "stars": 7152,
+        "velocity": 807,
+        "delta": 260,
+        "age_days": 8.9,
+        "description": "VERY experimental Nintendo Switch 2 emulator",
+        "new": false,
+        "zh_description": "非常实验性的 Nintendo Switch 2 模拟器",
+        "tags": [
+          "全部",
+          "移动/系统"
+        ],
+        "tag_keys": [
+          "all",
+          "mobile"
+        ]
+      },
+      {
+        "repo": "wangzan101/Mika",
+        "owner": "wangzan101",
+        "name": "Mika",
+        "stars": 7843,
+        "velocity": 723,
+        "delta": 89,
+        "age_days": 10.9,
+        "description": "An on-device AI agent for Android that operates apps and the web to get things done for you.",
+        "new": false,
+        "zh_description": "一款面向 Android 的端侧 AI 智能体，可操作应用和网页，替你完成各项任务",
+        "tags": [
+          "全部",
+          "智能体/Agent",
+          "移动/系统"
+        ],
+        "tag_keys": [
+          "all",
+          "agent",
+          "mobile"
+        ]
+      },
+      {
+        "repo": "KKKKhazix/agent-autoloop",
+        "owner": "KKKKhazix",
+        "name": "agent-autoloop",
+        "stars": 4228,
+        "velocity": 690,
+        "delta": 113,
+        "age_days": 6.1,
+        "description": "让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。",
+        "new": false,
+        "zh_description": "让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。",
+        "tags": [
+          "全部",
+          "智能体/Agent"
+        ],
+        "tag_keys": [
+          "all",
+          "agent"
+        ]
+      },
+      {
+        "repo": "JenkinWoo/sheeridVerify",
+        "owner": "JenkinWoo",
+        "name": "sheeridVerify",
+        "stars": 1898,
+        "velocity": 619,
+        "delta": 33,
+        "age_days": 3.1,
+        "description": "",
+        "new": false,
+        "zh_description": "暂无项目描述",
+        "tags": [
+          "全部"
+        ],
+        "tag_keys": [
+          "all"
+        ]
+      },
+      {
+        "repo": "patch-gg/pixelfx",
+        "owner": "patch-gg",
+        "name": "pixelfx",
+        "stars": 6214,
+        "velocity": 611,
+        "delta": 119,
+        "age_days": 10.2,
+        "description": "244 pixel art effects, every one a small piece of code. Plus a Claude Code skill to make your own.",
+        "new": false,
+        "zh_description": "244 种像素艺术特效，每一种都是一小段代码。另有 Claude Code 技能可让你创作自己的特效",
+        "tags": [
+          "全部",
+          "智能体/Agent",
+          "视觉/UI"
+        ],
+        "tag_keys": [
+          "all",
+          "agent",
+          "ui"
+        ]
+      },
+      {
+        "repo": "valentderah/totk-pc-recomp",
+        "owner": "valentderah",
+        "name": "totk-pc-recomp",
+        "stars": 6054,
+        "velocity": 554,
+        "delta": 113,
+        "age_days": 10.9,
+        "description": "Static recompilation of The Legend of Zelda: Tears of the Kingdom to native Windows and Linux x86-64, with a Vulkan rend",
+        "new": false,
+        "zh_description": "将《塞尔达传说：王国之泪》静态重编译为原生 Windows 和 Linux x86-64 版本，并采用 Vulkan 渲染。",
+        "tags": [
+          "全部",
+          "视觉/UI",
+          "移动/系统"
+        ],
+        "tag_keys": [
+          "all",
+          "ui",
+          "mobile"
+        ]
+      },
+      {
+        "repo": "Th0rgal/satmux",
+        "owner": "Th0rgal",
+        "name": "satmux",
+        "stars": 976,
+        "velocity": 547,
+        "delta": 38,
+        "age_days": 1.8,
+        "description": "Accelerate high-latency GEO inflight Wi-Fi via warm BBR TCP multiplexing + 1-RTT Ground-TLS + zlib (zero dependencies)",
+        "new": false,
+        "zh_description": "通过预热 BBR TCP 多路复用、1-RTT Ground-TLS 与 zlib（零依赖），加速高延迟 GEO 客机 Wi-Fi 网络",
+        "tags": [
+          "全部"
+        ],
+        "tag_keys": [
+          "all"
+        ]
+      }
+    ],
+    "leads_data": [
+      {
+        "term": "minimax h3 flashgen 4step",
+        "kinds": [
+          "hf"
+        ],
+        "signals": [
+          "Hugging Face Spaces: new at #40"
+        ],
+        "examples": [
+          "hugging-apps/minimax-h3-flashgen-4step (gradio, ♥209)"
+        ],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": [
+          "hugging-apps/minimax-h3-flashgen-4step (gradio, ♥209)"
+        ]
+      },
+      {
+        "term": "s2arm",
+        "kinds": [
+          "breakout"
+        ],
+        "signals": [
+          "GitHub breakout jhaizhou-ops/S2Arm ★1237 (1018/day, +767 in a day)"
+        ],
+        "examples": [
+          "jhaizhou-ops/S2Arm: Run your own Switch games natively on iPhone, iPad and Mac: game code rewritten to ARM64, graphics direct to Metal, one "
+        ],
+        "variants": [
+          "s2arm",
+          "jhaizhou-ops s2arm"
+        ],
+        "posts": [],
+        "repo": "jhaizhou-ops/S2Arm",
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": [
+          "jhaizhou-ops/S2Arm: 在 iPhone、iPad 和 Mac 上原生运行自己的 Switch 游戏：游戏代码重写为 ARM64，图形直接通过 Metal 渲染，"
+        ]
+      },
+      {
+        "term": "jannikco",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 70 places (×57.5)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "dev.cotlet",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 46 places (×43.9)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "connectors dev.cotlet",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 46 places (×43.9)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "jurisatlas legal",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 42 places (×42.0)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "legal",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 43 places (×25.4)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "cotlet connect",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 16 places (×14.7)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "assignment",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 7 places (×6.7)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "saledream",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 5 places (×5.0)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "garmin",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 7 places (×3.8)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "mambalabsdev",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 5 places (×3.5)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "workshop",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 4 places (×3.4)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "slashml",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 3 places (×3.0)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "trips druk",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 3 places (×3.0)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "bhutan trips",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 3 places (×3.0)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "druk asia",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 3 places (×3.0)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "com.postthisdeal",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 3 places (×3.0)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "connectors com.postthisdeal",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 3 places (×3.0)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "io.github.rafi siddiq",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 3 places (×3.0)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "connectors io.github.rafi",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 3 places (×3.0)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "arhancanli canli",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 3 places (×3.0)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "heist1337",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 3 places (×3.0)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "ship",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 4 places (×2.9)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "mohammad abbasi",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 3 places (×2.8)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "mail",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 6 places (×2.6)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "rea",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 3 places (×2.6)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      }
+    ]
+  },
+  {
     "id": "2026-11-09_morning",
     "date": "2026-11-09",
     "slot": "morning",
