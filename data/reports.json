@@ -1,5 +1,750 @@
 [
   {
+    "id": "2026-11-09_morning",
+    "date": "2026-11-09",
+    "slot": "morning",
+    "label": "2026-11-09 早场 (10:00)",
+    "breakouts": 15,
+    "new_breakouts": 1,
+    "leads": 26,
+    "max_velocity": 2689,
+    "max_velocity_repo": "storytold/craft-anything",
+    "repos": [
+      {
+        "repo": "storytold/craft-anything",
+        "owner": "storytold",
+        "name": "craft-anything",
+        "stars": 22763,
+        "velocity": 2689,
+        "delta": 1135,
+        "age_days": 8.5,
+        "description": "Craft Anything: understand how any software works, and craft your own.",
+        "new": false,
+        "zh_description": "创造一切：了解任何软件的工作原理，并亲手打造自己的软件",
+        "tags": [
+          "全部",
+          "超高爆发"
+        ],
+        "tag_keys": [
+          "all",
+          "high_velocity"
+        ]
+      },
+      {
+        "repo": "deepseek-ai/dsh-superagent-prototype",
+        "owner": "deepseek-ai",
+        "name": "dsh-superagent-prototype",
+        "stars": 21226,
+        "velocity": 2444,
+        "delta": 214,
+        "age_days": 8.7,
+        "description": "Towards a More Autonomous Agent System",
+        "new": false,
+        "zh_description": "迈向更自主的智能体系统",
+        "tags": [
+          "全部",
+          "超高爆发",
+          "智能体/Agent"
+        ],
+        "tag_keys": [
+          "all",
+          "high_velocity",
+          "agent"
+        ]
+      },
+      {
+        "repo": "anefzaoui/misterdownloadmanager",
+        "owner": "anefzaoui",
+        "name": "misterdownloadmanager",
+        "stars": 1664,
+        "velocity": 151,
+        "delta": 1228,
+        "age_days": 11.0,
+        "description": "misterdownloadmanager: The ultimate open-source, clean-room download manager written from scratch in pure Rust for Windo",
+        "new": true,
+        "variants": [
+          "misterdownloadmanager",
+          "anefzaoui misterdownloadmanager",
+          "ahmed misterdownloadmanager"
+        ],
+        "zh_description": "misterdownloadmanager：终极开源、洁净室（clean-room）下载管理器，完全使用纯 Rust 从零开发，支持 Windo",
+        "tags": [
+          "全部",
+          "今日新入榜"
+        ],
+        "tag_keys": [
+          "all",
+          "new"
+        ]
+      },
+      {
+        "repo": "heydamir/unslop",
+        "owner": "heydamir",
+        "name": "unslop",
+        "stars": 12030,
+        "velocity": 1153,
+        "delta": 453,
+        "age_days": 10.4,
+        "description": "A Claude skill that turns vibecoded, AI-looking UI into a designed interface",
+        "new": false,
+        "zh_description": "一项 Claude 技能，可将氛围编程生成、风格像 AI 的界面改造为经过精心设计的界面",
+        "tags": [
+          "全部",
+          "超高爆发",
+          "智能体/Agent",
+          "视觉/UI"
+        ],
+        "tag_keys": [
+          "all",
+          "high_velocity",
+          "agent",
+          "ui"
+        ]
+      },
+      {
+        "repo": "NotRexed/Hookshot",
+        "owner": "NotRexed",
+        "name": "Hookshot",
+        "stars": 3173,
+        "velocity": 889,
+        "delta": 941,
+        "age_days": 3.6,
+        "description": "A Native Recompilation Of The Legend Of Zelda: Ocarina Of Time Nintendo Switch 2 Remake",
+        "new": false,
+        "zh_description": "《塞尔达传说：时之笛》Nintendo Switch 2 原生重制版",
+        "tags": [
+          "全部",
+          "移动/系统"
+        ],
+        "tag_keys": [
+          "all",
+          "mobile"
+        ]
+      },
+      {
+        "repo": "zortos293/Lichii",
+        "owner": "zortos293",
+        "name": "Lichii",
+        "stars": 6892,
+        "velocity": 812,
+        "delta": 653,
+        "age_days": 8.5,
+        "description": "VERY experimental Nintendo Switch 2 emulator",
+        "new": false,
+        "zh_description": "非常实验性的 Nintendo Switch 2 模拟器",
+        "tags": [
+          "全部",
+          "移动/系统"
+        ],
+        "tag_keys": [
+          "all",
+          "mobile"
+        ]
+      },
+      {
+        "repo": "tangerineturtle1/NX2navi",
+        "owner": "tangerineturtle1",
+        "name": "NX2navi",
+        "stars": 1350,
+        "velocity": 810,
+        "delta": 770,
+        "age_days": 1.7,
+        "description": "",
+        "new": false,
+        "zh_description": "暂无项目描述",
+        "tags": [
+          "全部"
+        ],
+        "tag_keys": [
+          "all"
+        ]
+      },
+      {
+        "repo": "wangzan101/Mika",
+        "owner": "wangzan101",
+        "name": "Mika",
+        "stars": 7754,
+        "velocity": 740,
+        "delta": 77,
+        "age_days": 10.5,
+        "description": "An on-device AI agent for Android that operates apps and the web to get things done for you.",
+        "new": false,
+        "zh_description": "一款面向 Android 的端侧 AI 智能体，可操作应用和网页，替你完成各项任务",
+        "tags": [
+          "全部",
+          "智能体/Agent",
+          "移动/系统"
+        ],
+        "tag_keys": [
+          "all",
+          "agent",
+          "mobile"
+        ]
+      },
+      {
+        "repo": "worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto",
+        "owner": "worldonlyu",
+        "name": "Google_AI_Pro_2Year_ZeroCost_Auto",
+        "stars": 3267,
+        "velocity": 732,
+        "delta": 95,
+        "age_days": 4.5,
+        "description": "Google_AI_Pro_2Year_ZeroCost_Auto",
+        "new": false,
+        "zh_description": "Google AI Pro 两年期零费用自动续订",
+        "tags": [
+          "全部"
+        ],
+        "tag_keys": [
+          "all"
+        ]
+      },
+      {
+        "repo": "Minireel/HGhub",
+        "owner": "Minireel",
+        "name": "HGhub",
+        "stars": 3405,
+        "velocity": 619,
+        "delta": 730,
+        "age_days": 5.5,
+        "description": "YellowFruit third-party client",
+        "new": false,
+        "zh_description": "YellowFruit 第三方客户端",
+        "tags": [
+          "全部",
+          "视觉/UI"
+        ],
+        "tag_keys": [
+          "all",
+          "ui"
+        ]
+      },
+      {
+        "repo": "KKKKhazix/agent-autoloop",
+        "owner": "KKKKhazix",
+        "name": "agent-autoloop",
+        "stars": 4115,
+        "velocity": 716,
+        "delta": 77,
+        "age_days": 5.7,
+        "description": "让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。",
+        "new": false,
+        "zh_description": "让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。",
+        "tags": [
+          "全部",
+          "智能体/Agent"
+        ],
+        "tag_keys": [
+          "all",
+          "agent"
+        ]
+      },
+      {
+        "repo": "JenkinWoo/sheeridVerify",
+        "owner": "JenkinWoo",
+        "name": "sheeridVerify",
+        "stars": 1865,
+        "velocity": 694,
+        "delta": 65,
+        "age_days": 2.7,
+        "description": "",
+        "new": false,
+        "zh_description": "暂无项目描述",
+        "tags": [
+          "全部"
+        ],
+        "tag_keys": [
+          "all"
+        ]
+      },
+      {
+        "repo": "Th0rgal/satmux",
+        "owner": "Th0rgal",
+        "name": "satmux",
+        "stars": 938,
+        "velocity": 665,
+        "delta": 233,
+        "age_days": 1.4,
+        "description": "Accelerate high-latency GEO inflight Wi-Fi via warm BBR TCP multiplexing + 1-RTT Ground-TLS + zlib (zero dependencies)",
+        "new": false,
+        "zh_description": "通过预热 BBR TCP 多路复用、1-RTT Ground-TLS 与 zlib（零依赖），加速高延迟 GEO 客机 Wi-Fi 网络",
+        "tags": [
+          "全部"
+        ],
+        "tag_keys": [
+          "all"
+        ]
+      },
+      {
+        "repo": "JuneYaooo/rea-video",
+        "owner": "JuneYaooo",
+        "name": "rea-video",
+        "stars": 4550,
+        "velocity": 437,
+        "delta": 655,
+        "age_days": 10.4,
+        "description": "Reverse-engineer any video, shot by shot: filmed, AI-generated or coded, and how to remake it. 逆向一切视频，逐个镜头看是拍的、AI 生成的还是代",
+        "new": false,
+        "zh_description": "逐镜头逆向解析任何视频，判断其是实拍、AI 生成还是编码制作，并了解如何复刻。",
+        "tags": [
+          "全部"
+        ],
+        "tag_keys": [
+          "all"
+        ]
+      },
+      {
+        "repo": "patch-gg/pixelfx",
+        "owner": "patch-gg",
+        "name": "pixelfx",
+        "stars": 6095,
+        "velocity": 622,
+        "delta": 127,
+        "age_days": 9.8,
+        "description": "244 pixel art effects, every one a small piece of code. Plus a Claude Code skill to make your own.",
+        "new": false,
+        "zh_description": "244 种像素艺术特效，每一种都是一小段代码。另有 Claude Code 技能可让你创作自己的特效",
+        "tags": [
+          "全部",
+          "智能体/Agent",
+          "视觉/UI"
+        ],
+        "tag_keys": [
+          "all",
+          "agent",
+          "ui"
+        ]
+      }
+    ],
+    "leads_data": [
+      {
+        "term": "misterdownloadmanager",
+        "kinds": [
+          "breakout"
+        ],
+        "signals": [
+          "GitHub breakout anefzaoui/misterdownloadmanager ★1664 (151/day, +1228 in a day)"
+        ],
+        "examples": [
+          "anefzaoui/misterdownloadmanager: misterdownloadmanager: The ultimate open-source, clean-room download manager written from scratch in pure Rust for Windo"
+        ],
+        "variants": [
+          "misterdownloadmanager",
+          "anefzaoui misterdownloadmanager",
+          "ahmed misterdownloadmanager"
+        ],
+        "posts": [],
+        "repo": "anefzaoui/misterdownloadmanager",
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": [
+          "anefzaoui/misterdownloadmanager: misterdownloadmanager：终极开源、洁净室（clean-room）下载管理器，完全使用纯 Rust 从零开发，支持 Windo"
+        ]
+      },
+      {
+        "term": "jannikco",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 55 places (×55.0)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "com.a2awire benchmark",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 12 places (×10.7)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "connectors com.a2awire",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 13 places (×10.1)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "io.github.morvanvivien",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 7 places (×7.0)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "io.github.morvanvivien bibian",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 7 places (×7.0)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "connectors io.github.morvanvivien",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 7 places (×7.0)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "connectors com.tidewellsoftware",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 6 places (×6.0)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "jannikco google",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 5 places (×5.0)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "jobs",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 7 places (×4.3)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "io.github.bosco",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 4 places (×4.0)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "io.github.bosco labs",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 4 places (×4.0)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "connectors io.github.bosco",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 4 places (×4.0)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "cotlet connect",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 4 places (×3.8)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "connect",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 5 places (×3.2)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "yandex",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 4 places (×3.1)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "shortfall",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 3 places (×3.0)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "pr1002r2",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 3 places (×3.0)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "prize",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 3 places (×3.0)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "benchmark pr1002r2",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 3 places (×3.0)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "io.github.byteblisk",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 3 places (×3.0)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "connectors io.github.byteblisk",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 3 places (×3.0)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "blisk",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 3 places (×3.0)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "io.github.byte",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 3 places (×3.0)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "connectors io.github.mcpkit",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 3 places (×3.0)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "io.github.mcpkit yandex",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 3 places (×3.0)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      }
+    ]
+  },
+  {
     "id": "2026-11-08_evening",
     "date": "2026-11-08",
     "slot": "evening",
