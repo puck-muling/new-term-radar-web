@@ -1,5 +1,808 @@
 [
   {
+    "id": "2026-11-14_morning",
+    "date": "2026-11-14",
+    "slot": "morning",
+    "label": "2026-11-14 早场 (10:00)",
+    "breakouts": 15,
+    "new_breakouts": 3,
+    "leads": 28,
+    "max_velocity": 2336,
+    "max_velocity_repo": "storytold/craft-anything",
+    "repos": [
+      {
+        "repo": "storytold/craft-anything",
+        "owner": "storytold",
+        "name": "craft-anything",
+        "stars": 31461,
+        "velocity": 2336,
+        "delta": 632,
+        "age_days": 13.5,
+        "description": "Craft Anything: understand how any software works, and craft your own.",
+        "new": false,
+        "zh_description": "创造一切：了解任何软件的工作原理，并亲手打造自己的软件",
+        "tags": [
+          "全部",
+          "超高爆发"
+        ],
+        "tag_keys": [
+          "all",
+          "high_velocity"
+        ]
+      },
+      {
+        "repo": "deepseek-ai/dsh-superagent-prototype",
+        "owner": "deepseek-ai",
+        "name": "dsh-superagent-prototype",
+        "stars": 23027,
+        "velocity": 1682,
+        "delta": 96,
+        "age_days": 13.7,
+        "description": "Towards a More Autonomous Agent System",
+        "new": false,
+        "zh_description": "迈向更自主的智能体系统",
+        "tags": [
+          "全部",
+          "超高爆发",
+          "智能体/Agent"
+        ],
+        "tag_keys": [
+          "all",
+          "high_velocity",
+          "agent"
+        ]
+      },
+      {
+        "repo": "huamidev/GestaltX",
+        "owner": "huamidev",
+        "name": "GestaltX",
+        "stars": 7339,
+        "velocity": 1509,
+        "delta": 202,
+        "age_days": 4.9,
+        "description": "An MobileGestalt editor for iOS 27.x, featuring region-code tweaks, device presets, backups.",
+        "new": false,
+        "zh_description": "一款面向 iOS 27.x 的 MobileGestalt 编辑器，支持地区代码调整、设备预设和备份。",
+        "tags": [
+          "全部",
+          "超高爆发",
+          "移动/系统"
+        ],
+        "tag_keys": [
+          "all",
+          "high_velocity",
+          "mobile"
+        ]
+      },
+      {
+        "repo": "Minireel/HGhub",
+        "owner": "Minireel",
+        "name": "HGhub",
+        "stars": 8822,
+        "velocity": 840,
+        "delta": 57,
+        "age_days": 10.5,
+        "description": "YellowFruit third-party client",
+        "new": false,
+        "zh_description": "YellowFruit 第三方客户端",
+        "tags": [
+          "全部",
+          "视觉/UI"
+        ],
+        "tag_keys": [
+          "all",
+          "ui"
+        ]
+      },
+      {
+        "repo": "janestreet/agent_skills",
+        "owner": "janestreet",
+        "name": "agent_skills",
+        "stars": 8295,
+        "velocity": 799,
+        "delta": 287,
+        "age_days": 10.4,
+        "description": "Agent skills",
+        "new": false,
+        "zh_description": "智能体技能",
+        "tags": [
+          "全部",
+          "智能体/Agent"
+        ],
+        "tag_keys": [
+          "all",
+          "agent"
+        ]
+      },
+      {
+        "repo": "zortos293/Lichii",
+        "owner": "zortos293",
+        "name": "Lichii",
+        "stars": 9001,
+        "velocity": 667,
+        "delta": 151,
+        "age_days": 13.5,
+        "description": "VERY experimental Nintendo Switch 2 emulator",
+        "new": false,
+        "zh_description": "非常实验性的 Nintendo Switch 2 模拟器",
+        "tags": [
+          "全部",
+          "移动/系统"
+        ],
+        "tag_keys": [
+          "all",
+          "mobile"
+        ]
+      },
+      {
+        "repo": "tangerineturtle1/NX2navi",
+        "owner": "tangerineturtle1",
+        "name": "NX2navi",
+        "stars": 3906,
+        "velocity": 586,
+        "delta": 232,
+        "age_days": 6.7,
+        "description": "",
+        "new": false,
+        "zh_description": "暂无项目描述",
+        "tags": [
+          "全部"
+        ],
+        "tag_keys": [
+          "all"
+        ]
+      },
+      {
+        "repo": "apex-compute/ANR",
+        "owner": "apex-compute",
+        "name": "ANR",
+        "stars": 1492,
+        "velocity": 515,
+        "delta": 297,
+        "age_days": 2.9,
+        "description": "Apex Neural Rendering (ANR) by Apex Compute",
+        "new": false,
+        "zh_description": "Apex Compute 推出的 Apex Neural Rendering（ANR）",
+        "tags": [
+          "全部"
+        ],
+        "tag_keys": [
+          "all"
+        ]
+      },
+      {
+        "repo": "jhaizhou-ops/S2Arm",
+        "owner": "jhaizhou-ops",
+        "name": "S2Arm",
+        "stars": 2871,
+        "velocity": 492,
+        "delta": 40,
+        "age_days": 5.8,
+        "description": "Run your own Switch games natively on iPhone, iPad and Mac: game code rewritten to ARM64, graphics direct to Metal, one ",
+        "new": false,
+        "zh_description": "在 iPhone、iPad 和 Mac 上原生运行自己的 Switch 游戏：游戏代码重写为 ARM64，图形直接通过 Metal 渲染，",
+        "tags": [
+          "全部",
+          "移动/系统"
+        ],
+        "tag_keys": [
+          "all",
+          "mobile"
+        ]
+      },
+      {
+        "repo": "Kianuni/Erosion-CN",
+        "owner": "Kianuni",
+        "name": "Erosion-CN",
+        "stars": 1929,
+        "velocity": 485,
+        "delta": 100,
+        "age_days": 4.0,
+        "description": "iOS / iPadOS 系统配置与 MobileGestalt 研究工具箱（简体中文防白苹果安全加固版）",
+        "new": false,
+        "zh_description": "iOS / iPadOS 系统配置与 MobileGestalt 研究工具箱（简体中文防白苹果安全加固版）",
+        "tags": [
+          "全部",
+          "移动/系统"
+        ],
+        "tag_keys": [
+          "all",
+          "mobile"
+        ]
+      },
+      {
+        "repo": "KKKKhazix/agent-autoloop",
+        "owner": "KKKKhazix",
+        "name": "agent-autoloop",
+        "stars": 5133,
+        "velocity": 478,
+        "delta": 96,
+        "age_days": 10.7,
+        "description": "让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。",
+        "new": false,
+        "zh_description": "让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。",
+        "tags": [
+          "全部",
+          "智能体/Agent"
+        ],
+        "tag_keys": [
+          "all",
+          "agent"
+        ]
+      },
+      {
+        "repo": "deepseek-ai/chat-demo",
+        "owner": "deepseek-ai",
+        "name": "chat-demo",
+        "stars": 797,
+        "velocity": 457,
+        "delta": null,
+        "age_days": 1.7,
+        "description": "Chat Demo",
+        "new": true,
+        "variants": [
+          "chat demo",
+          "deepseek-ai chat demo",
+          "deepseek chat demo"
+        ],
+        "zh_description": "聊天演示",
+        "tags": [
+          "全部",
+          "今日新入榜"
+        ],
+        "tag_keys": [
+          "all",
+          "new"
+        ]
+      },
+      {
+        "repo": "DevedevT/FFmpeg-GUI-Editor-Windows",
+        "owner": "DevedevT",
+        "name": "FFmpeg-GUI-Editor-Windows",
+        "stars": 541,
+        "velocity": 445,
+        "delta": null,
+        "age_days": 1.2,
+        "description": "Lightweight portable FFmpeg GUI & lossless video trimmer for Windows (ready-to-use .exe). Supports English, Russian, Chi",
+        "new": true,
+        "variants": [
+          "ffmpeg gui editor windows",
+          "devedevt ffmpeg gui editor windows"
+        ],
+        "zh_description": "轻量级便携的 FFmpeg 图形界面及无损视频剪辑工具（提供开箱即用的 .exe）。支持英语、俄语、中",
+        "tags": [
+          "全部",
+          "今日新入榜",
+          "视觉/UI"
+        ],
+        "tag_keys": [
+          "all",
+          "new",
+          "ui"
+        ]
+      },
+      {
+        "repo": "HybridRobotics/supermimic",
+        "owner": "HybridRobotics",
+        "name": "supermimic",
+        "stars": 1439,
+        "velocity": 396,
+        "delta": 44,
+        "age_days": 3.6,
+        "description": "Humanoid whole-body motion tracking with one differentiable world model.",
+        "new": false,
+        "zh_description": "借助单一可微分世界模型，实现人形机器人的全身动作追踪。",
+        "tags": [
+          "全部"
+        ],
+        "tag_keys": [
+          "all"
+        ]
+      },
+      {
+        "repo": "FrigadeHQ/yogurt",
+        "owner": "FrigadeHQ",
+        "name": "yogurt",
+        "stars": 1282,
+        "velocity": 394,
+        "delta": 180,
+        "age_days": 3.2,
+        "description": "Private AI meeting notes that stay on your computer. A free, open-source alternative to Granola for Mac, Windows and Lin",
+        "new": true,
+        "variants": [
+          "yogurt",
+          "frigadehq yogurt",
+          "frigade yogurt"
+        ],
+        "zh_description": "隐私优先的 AI 会议记录工具，所有数据均保存在你的电脑上。是一款面向 Mac、Windows 和 Linux 的免费开源 Granola 替代方案",
+        "tags": [
+          "全部",
+          "今日新入榜"
+        ],
+        "tag_keys": [
+          "all",
+          "new"
+        ]
+      }
+    ],
+    "leads_data": [
+      {
+        "term": "ffmpeg gui editor windows",
+        "kinds": [
+          "breakout"
+        ],
+        "signals": [
+          "GitHub breakout DevedevT/FFmpeg-GUI-Editor-Windows ★541 (445/day)"
+        ],
+        "examples": [
+          "DevedevT/FFmpeg-GUI-Editor-Windows: Lightweight portable FFmpeg GUI & lossless video trimmer for Windows (ready-to-use .exe). Supports English, Russian, Chi"
+        ],
+        "variants": [
+          "ffmpeg gui editor windows",
+          "devedevt ffmpeg gui editor windows"
+        ],
+        "posts": [],
+        "repo": "DevedevT/FFmpeg-GUI-Editor-Windows",
+        "known": "",
+        "format": "video",
+        "one_click": null,
+        "zh_examples": [
+          "DevedevT/FFmpeg-GUI-Editor-Windows: 轻量级便携的 FFmpeg 图形界面及无损视频剪辑工具（提供开箱即用的 .exe）。支持英语、俄语、中"
+        ]
+      },
+      {
+        "term": "chat demo",
+        "kinds": [
+          "breakout"
+        ],
+        "signals": [
+          "GitHub breakout deepseek-ai/chat-demo ★797 (457/day)"
+        ],
+        "examples": [
+          "deepseek-ai/chat-demo: Chat Demo"
+        ],
+        "variants": [
+          "chat demo",
+          "deepseek-ai chat demo",
+          "deepseek chat demo"
+        ],
+        "posts": [],
+        "repo": "deepseek-ai/chat-demo",
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": [
+          "deepseek-ai/chat-demo: 聊天演示"
+        ]
+      },
+      {
+        "term": "yogurt",
+        "kinds": [
+          "breakout"
+        ],
+        "signals": [
+          "GitHub breakout FrigadeHQ/yogurt ★1282 (394/day, +180 in a day)"
+        ],
+        "examples": [
+          "FrigadeHQ/yogurt: Private AI meeting notes that stay on your computer. A free, open-source alternative to Granola for Mac, Windows and Lin"
+        ],
+        "variants": [
+          "yogurt",
+          "frigadehq yogurt",
+          "frigade yogurt"
+        ],
+        "posts": [],
+        "repo": "FrigadeHQ/yogurt",
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": [
+          "FrigadeHQ/yogurt: 隐私优先的 AI 会议记录工具，所有数据均保存在你的电脑上。是一款面向 Mac、Windows 和 Linux 的免费开源 Granola 替代方案"
+        ]
+      },
+      {
+        "term": "cotlet",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 17 places (×14.1)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "cotlet connect",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 17 places (×14.1)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "connect",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 19 places (×9.4)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "ai.saifs",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 5 places (×4.7)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "connectors ai.saifs",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 5 places (×4.7)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "connectors com.jobiba",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 4 places (×4.0)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "connectors io.github.stellalytics",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 4 places (×3.9)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "kivel",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 3 places (×3.0)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "k11 software",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 3 places (×3.0)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "solutions k11techlab",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 3 places (×3.0)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "software solutions",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 3 places (×3.0)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "dondirechristian",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 3 places (×3.0)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "qilaidev",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 3 places (×3.0)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "check",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 7 places (×2.9)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "sudo",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 4 places (×2.9)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "solutions",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 4 places (×2.7)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "company check",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 3 places (×2.7)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "connectors io.github.justiceua",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 3 places (×2.7)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "io.github.justice",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 3 places (×2.7)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "connectors io.github.johnisanerd",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 3 places (×2.6)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "catalog",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 5 places (×2.4)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "llc",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 4 places (×2.4)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "vibe",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 4 places (×2.4)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "connectors io.usefulapi",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 10 places (×2.3)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "broker",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 3 places (×2.3)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      }
+    ]
+  },
+  {
     "id": "2026-11-13_evening",
     "date": "2026-11-13",
     "slot": "evening",
