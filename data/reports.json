@@ -1,5 +1,802 @@
 [
   {
+    "id": "2026-11-15_evening",
+    "date": "2026-11-15",
+    "slot": "evening",
+    "label": "2026-11-15 晚场 (19:00)",
+    "breakouts": 15,
+    "new_breakouts": 1,
+    "leads": 28,
+    "max_velocity": 1228,
+    "max_velocity_repo": "huamidev/GestaltX",
+    "repos": [
+      {
+        "repo": "huamidev/GestaltX",
+        "owner": "huamidev",
+        "name": "GestaltX",
+        "stars": 7662,
+        "velocity": 1228,
+        "delta": 86,
+        "age_days": 6.2,
+        "description": "An MobileGestalt editor for iOS 27.x, featuring region-code tweaks, device presets, backups.",
+        "new": false,
+        "zh_description": "一款面向 iOS 27.x 的 MobileGestalt 编辑器，支持地区代码调整、设备预设和备份。",
+        "tags": [
+          "全部",
+          "超高爆发",
+          "移动/系统"
+        ],
+        "tag_keys": [
+          "all",
+          "high_velocity",
+          "mobile"
+        ]
+      },
+      {
+        "repo": "Minireel/HGhub",
+        "owner": "Minireel",
+        "name": "HGhub",
+        "stars": 8886,
+        "velocity": 748,
+        "delta": 35,
+        "age_days": 11.9,
+        "description": "Plug-in media player",
+        "new": false,
+        "zh_description": "插件媒体播放器",
+        "tags": [
+          "全部"
+        ],
+        "tag_keys": [
+          "all"
+        ]
+      },
+      {
+        "repo": "janestreet/agent_skills",
+        "owner": "janestreet",
+        "name": "agent_skills",
+        "stars": 8752,
+        "velocity": 744,
+        "delta": 109,
+        "age_days": 11.8,
+        "description": "Agent skills",
+        "new": false,
+        "zh_description": "智能体技能",
+        "tags": [
+          "全部",
+          "智能体/Agent"
+        ],
+        "tag_keys": [
+          "all",
+          "agent"
+        ]
+      },
+      {
+        "repo": "libracoder/kiri",
+        "owner": "libracoder",
+        "name": "kiri",
+        "stars": 4531,
+        "velocity": 354,
+        "delta": 710,
+        "age_days": 12.8,
+        "description": "A small, fast container runtime for macOS, Windows and Linux with free Ngrok alternative",
+        "new": false,
+        "zh_description": "一款轻巧快速的容器运行时，支持 macOS、Windows 和 Linux，并提供免费的 Ngrok 替代方案",
+        "tags": [
+          "全部"
+        ],
+        "tag_keys": [
+          "all"
+        ]
+      },
+      {
+        "repo": "Topkiflare74/ai--manus2.0",
+        "owner": "Topkiflare74",
+        "name": "ai--manus2.0",
+        "stars": 678,
+        "velocity": 678,
+        "delta": 1,
+        "age_days": 1.0,
+        "description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environmen",
+        "new": false,
+        "zh_description": "AI Manus 是一个通用 AI 智能体系统，支持在沙箱环境中运行各种工具和操作",
+        "tags": [
+          "全部",
+          "智能体/Agent",
+          "视觉/UI"
+        ],
+        "tag_keys": [
+          "all",
+          "agent",
+          "ui"
+        ]
+      },
+      {
+        "repo": "WarriorRemember/IPTV_Player_2.0",
+        "owner": "WarriorRemember",
+        "name": "IPTV_Player_2.0",
+        "stars": 673,
+        "velocity": 673,
+        "delta": 1,
+        "age_days": 1.0,
+        "description": "🎬 A powerful, intuitive IPTV streaming app supporting M3U playlists, EPG, and community lists. Available for Windows, ma",
+        "new": false,
+        "zh_description": "🎬 一款强大且易用的 IPTV 流媒体应用，支持 M3U 播放列表、EPG 和社区维护的列表。适用于 Windows、macOS 等平台",
+        "tags": [
+          "全部",
+          "视觉/UI",
+          "移动/系统"
+        ],
+        "tag_keys": [
+          "all",
+          "ui",
+          "mobile"
+        ]
+      },
+      {
+        "repo": "trackboatwrightplan/GitHub-Copilot-app",
+        "owner": "trackboatwrightplan",
+        "name": "GitHub-Copilot-app",
+        "stars": 672,
+        "velocity": 672,
+        "delta": 0,
+        "age_days": 1.0,
+        "description": "The GitHub Copilot app is an agent-native desktop experience for finding, running, steering, and landing software work a",
+        "new": false,
+        "zh_description": "GitHub Copilot 应用采用智能体原生桌面体验，可用于发现、运行、引导和完成软件任务",
+        "tags": [
+          "全部",
+          "智能体/Agent"
+        ],
+        "tag_keys": [
+          "all",
+          "agent"
+        ]
+      },
+      {
+        "repo": "TrapAccountant/GitHub-Copilot-app",
+        "owner": "TrapAccountant",
+        "name": "GitHub-Copilot-app",
+        "stars": 670,
+        "velocity": 670,
+        "delta": 0,
+        "age_days": 1.0,
+        "description": "The GitHub Copilot app is an agent-native desktop experience for finding, running, steering, and landing software work a",
+        "new": false,
+        "zh_description": "GitHub Copilot 应用采用智能体原生桌面体验，可用于发现、运行、引导和完成软件任务",
+        "tags": [
+          "全部",
+          "智能体/Agent"
+        ],
+        "tag_keys": [
+          "all",
+          "agent"
+        ]
+      },
+      {
+        "repo": "TurquoiseDetective/IPTV_Player_2.0",
+        "owner": "TurquoiseDetective",
+        "name": "IPTV_Player_2.0",
+        "stars": 669,
+        "velocity": 669,
+        "delta": 0,
+        "age_days": 1.0,
+        "description": "🎬 A powerful, intuitive IPTV streaming app supporting M3U playlists, EPG, and community lists. Available for Windows, ma",
+        "new": false,
+        "zh_description": "🎬 一款强大且易用的 IPTV 流媒体应用，支持 M3U 播放列表、EPG 和社区维护的列表。适用于 Windows、macOS 等平台",
+        "tags": [
+          "全部",
+          "视觉/UI",
+          "移动/系统"
+        ],
+        "tag_keys": [
+          "all",
+          "ui",
+          "mobile"
+        ]
+      },
+      {
+        "repo": "tornadonovicewhirl40/IPTV_Player_2.0",
+        "owner": "tornadonovicewhirl40",
+        "name": "IPTV_Player_2.0",
+        "stars": 669,
+        "velocity": 669,
+        "delta": 0,
+        "age_days": 1.0,
+        "description": "🎬 A powerful, intuitive IPTV streaming app supporting M3U playlists, EPG, and community lists. Available for Windows, ma",
+        "new": false,
+        "zh_description": "🎬 一款强大且易用的 IPTV 流媒体应用，支持 M3U 播放列表、EPG 和社区维护的列表。适用于 Windows、macOS 等平台",
+        "tags": [
+          "全部",
+          "视觉/UI",
+          "移动/系统"
+        ],
+        "tag_keys": [
+          "all",
+          "ui",
+          "mobile"
+        ]
+      },
+      {
+        "repo": "WattBeetleLearn/IPTV_Player_2.0",
+        "owner": "WattBeetleLearn",
+        "name": "IPTV_Player_2.0",
+        "stars": 667,
+        "velocity": 667,
+        "delta": 0,
+        "age_days": 1.0,
+        "description": "🎬 A powerful, intuitive IPTV streaming app supporting M3U playlists, EPG, and community lists. Available for Windows, ma",
+        "new": false,
+        "zh_description": "🎬 一款强大且易用的 IPTV 流媒体应用，支持 M3U 播放列表、EPG 和社区维护的列表。适用于 Windows、macOS 等平台",
+        "tags": [
+          "全部",
+          "视觉/UI",
+          "移动/系统"
+        ],
+        "tag_keys": [
+          "all",
+          "ui",
+          "mobile"
+        ]
+      },
+      {
+        "repo": "topapothecarycanal/ai--manus2.0",
+        "owner": "topapothecarycanal",
+        "name": "ai--manus2.0",
+        "stars": 666,
+        "velocity": 666,
+        "delta": 0,
+        "age_days": 1.0,
+        "description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environmen",
+        "new": false,
+        "zh_description": "AI Manus 是一个通用 AI 智能体系统，支持在沙箱环境中运行各种工具和操作",
+        "tags": [
+          "全部",
+          "智能体/Agent",
+          "视觉/UI"
+        ],
+        "tag_keys": [
+          "all",
+          "agent",
+          "ui"
+        ]
+      },
+      {
+        "repo": "toppatronweave/GitHub-Copilot-app",
+        "owner": "toppatronweave",
+        "name": "GitHub-Copilot-app",
+        "stars": 666,
+        "velocity": 666,
+        "delta": 1,
+        "age_days": 1.0,
+        "description": "The GitHub Copilot app is an agent-native desktop experience for finding, running, steering, and landing software work a",
+        "new": true,
+        "variants": [
+          "github copilot app",
+          "toppatronweave github copilot app"
+        ],
+        "zh_description": "GitHub Copilot 应用采用智能体原生桌面体验，可用于发现、运行、引导和完成软件任务",
+        "tags": [
+          "全部",
+          "今日新入榜",
+          "智能体/Agent"
+        ],
+        "tag_keys": [
+          "all",
+          "new",
+          "agent"
+        ]
+      },
+      {
+        "repo": "Trapbraneedle/IPTV_Player_2.0",
+        "owner": "Trapbraneedle",
+        "name": "IPTV_Player_2.0",
+        "stars": 666,
+        "velocity": 666,
+        "delta": 0,
+        "age_days": 1.0,
+        "description": "🎬 A powerful, intuitive IPTV streaming app supporting M3U playlists, EPG, and community lists. Available for Windows, ma",
+        "new": false,
+        "zh_description": "🎬 一款强大且易用的 IPTV 流媒体应用，支持 M3U 播放列表、EPG 和社区维护的列表。适用于 Windows、macOS 等平台",
+        "tags": [
+          "全部",
+          "视觉/UI",
+          "移动/系统"
+        ],
+        "tag_keys": [
+          "all",
+          "ui",
+          "mobile"
+        ]
+      },
+      {
+        "repo": "trackersnailgrip/GitHub-Copilot-app",
+        "owner": "trackersnailgrip",
+        "name": "GitHub-Copilot-app",
+        "stars": 666,
+        "velocity": 666,
+        "delta": 0,
+        "age_days": 1.0,
+        "description": "The GitHub Copilot app is an agent-native desktop experience for finding, running, steering, and landing software work a",
+        "new": false,
+        "zh_description": "GitHub Copilot 应用采用智能体原生桌面体验，可用于发现、运行、引导和完成软件任务",
+        "tags": [
+          "全部",
+          "智能体/Agent"
+        ],
+        "tag_keys": [
+          "all",
+          "agent"
+        ]
+      }
+    ],
+    "leads_data": [
+      {
+        "term": "ai image upscaler",
+        "kinds": [
+          "hf"
+        ],
+        "signals": [
+          "Hugging Face Spaces: new at #40"
+        ],
+        "examples": [
+          "MegaPotatoAI/AI-Image-Upscaler (static, ♥25)"
+        ],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "image",
+        "one_click": null,
+        "zh_examples": [
+          "MegaPotatoAI/AI-Image-Upscaler (static, ♥25)"
+        ]
+      },
+      {
+        "term": "imagegen",
+        "kinds": [
+          "hf"
+        ],
+        "signals": [
+          "Hugging Face Spaces: new at #49"
+        ],
+        "examples": [
+          "RioShiina/ImageGen (gradio, ♥281)"
+        ],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": [
+          "RioShiina/ImageGen (gradio, ♥281)"
+        ]
+      },
+      {
+        "term": "github copilot app",
+        "kinds": [
+          "breakout"
+        ],
+        "signals": [
+          "GitHub breakout toppatronweave/GitHub-Copilot-app ★666 (666/day, +1 in a day)"
+        ],
+        "examples": [
+          "toppatronweave/GitHub-Copilot-app: The GitHub Copilot app is an agent-native desktop experience for finding, running, steering, and landing software work a"
+        ],
+        "variants": [
+          "github copilot app",
+          "toppatronweave github copilot app"
+        ],
+        "posts": [],
+        "repo": "toppatronweave/GitHub-Copilot-app",
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": [
+          "toppatronweave/GitHub-Copilot-app: GitHub Copilot 应用采用智能体原生桌面体验，可用于发现、运行、引导和完成软件任务"
+        ]
+      },
+      {
+        "term": "cotlet connect",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 13 places (×11.0)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "connect",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 15 places (×9.2)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "io.github.adamgraymon",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 8 places (×8.0)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "connectors io.github.adamgraymon",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 8 places (×8.0)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "escrow",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 7 places (×6.8)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "law",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 8 places (×5.8)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "escrow auditor",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 5 places (×5.0)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "center studio",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 4 places (×4.0)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "roykollensvendsen",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 4 places (×4.0)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "core",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 6 places (×3.9)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "echopai",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 3 places (×3.0)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "gmpsignal",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 3 places (×3.0)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "io.github.alfa",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 3 places (×3.0)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "blok",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 3 places (×3.0)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "io.github.alfablok",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 3 places (×3.0)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "connectors io.github.alfablok",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 3 places (×3.0)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "vpn",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 3 places (×3.0)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "elh",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 3 places (×3.0)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "elh vpn",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 3 places (×3.0)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "kit",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 4 places (×2.3)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "studio",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 6 places (×2.2)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "pipeworx",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 10 places (×2.1)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "real",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 3 places (×2.1)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "grok",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 3 places (×2.1)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "tech",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 4 places (×1.9)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      }
+    ]
+  },
+  {
     "id": "2026-11-15_morning",
     "date": "2026-11-15",
     "slot": "morning",
