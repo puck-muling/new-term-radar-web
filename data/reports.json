@@ -1,5 +1,946 @@
 [
   {
+    "id": "2026-11-15_morning",
+    "date": "2026-11-15",
+    "slot": "morning",
+    "label": "2026-11-15 早场 (10:00)",
+    "breakouts": 15,
+    "new_breakouts": 12,
+    "leads": 29,
+    "max_velocity": 1292,
+    "max_velocity_repo": "huamidev/GestaltX",
+    "repos": [
+      {
+        "repo": "huamidev/GestaltX",
+        "owner": "huamidev",
+        "name": "GestaltX",
+        "stars": 7576,
+        "velocity": 1292,
+        "delta": 108,
+        "age_days": 5.9,
+        "description": "An MobileGestalt editor for iOS 27.x, featuring region-code tweaks, device presets, backups.",
+        "new": false,
+        "zh_description": "一款面向 iOS 27.x 的 MobileGestalt 编辑器，支持地区代码调整、设备预设和备份。",
+        "tags": [
+          "全部",
+          "超高爆发",
+          "移动/系统"
+        ],
+        "tag_keys": [
+          "all",
+          "high_velocity",
+          "mobile"
+        ]
+      },
+      {
+        "repo": "libracoder/kiri",
+        "owner": "libracoder",
+        "name": "kiri",
+        "stars": 3821,
+        "velocity": 308,
+        "delta": 1237,
+        "age_days": 12.4,
+        "description": "A small, fast container runtime for macOS, Windows and Linux with free Ngrok alternative",
+        "new": true,
+        "variants": [
+          "kiri",
+          "libracoder kiri",
+          "precious kiri"
+        ],
+        "zh_description": "一款轻巧快速的容器运行时，支持 macOS、Windows 和 Linux，并提供免费的 Ngrok 替代方案",
+        "tags": [
+          "全部",
+          "今日新入榜"
+        ],
+        "tag_keys": [
+          "all",
+          "new"
+        ]
+      },
+      {
+        "repo": "Minireel/HGhub",
+        "owner": "Minireel",
+        "name": "HGhub",
+        "stars": 8851,
+        "velocity": 770,
+        "delta": 16,
+        "age_days": 11.5,
+        "description": "YellowFruit third-party client",
+        "new": false,
+        "zh_description": "YellowFruit 第三方客户端",
+        "tags": [
+          "全部",
+          "视觉/UI"
+        ],
+        "tag_keys": [
+          "all",
+          "ui"
+        ]
+      },
+      {
+        "repo": "janestreet/agent_skills",
+        "owner": "janestreet",
+        "name": "agent_skills",
+        "stars": 8643,
+        "velocity": 759,
+        "delta": 235,
+        "age_days": 11.4,
+        "description": "Agent skills",
+        "new": false,
+        "zh_description": "智能体技能",
+        "tags": [
+          "全部",
+          "智能体/Agent"
+        ],
+        "tag_keys": [
+          "all",
+          "agent"
+        ]
+      },
+      {
+        "repo": "Topkiflare74/ai--manus2.0",
+        "owner": "Topkiflare74",
+        "name": "ai--manus2.0",
+        "stars": 677,
+        "velocity": 677,
+        "delta": null,
+        "age_days": 1.0,
+        "description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environmen",
+        "new": true,
+        "variants": [
+          "ai manus2 0",
+          "topkiflare74 ai manus2 0"
+        ],
+        "zh_description": "AI Manus 是一个通用 AI 智能体系统，支持在沙箱环境中运行各种工具和操作",
+        "tags": [
+          "全部",
+          "今日新入榜",
+          "智能体/Agent",
+          "视觉/UI"
+        ],
+        "tag_keys": [
+          "all",
+          "new",
+          "agent",
+          "ui"
+        ]
+      },
+      {
+        "repo": "WarriorRemember/IPTV_Player_2.0",
+        "owner": "WarriorRemember",
+        "name": "IPTV_Player_2.0",
+        "stars": 672,
+        "velocity": 672,
+        "delta": null,
+        "age_days": 1.0,
+        "description": "🎬 A powerful, intuitive IPTV streaming app supporting M3U playlists, EPG, and community lists. Available for Windows, ma",
+        "new": true,
+        "variants": [
+          "iptv player 2 0",
+          "warriorremember iptv player 2 0"
+        ],
+        "zh_description": "🎬 一款强大且易用的 IPTV 流媒体应用，支持 M3U 播放列表、EPG 和社区维护的列表。适用于 Windows、macOS 等平台",
+        "tags": [
+          "全部",
+          "今日新入榜",
+          "视觉/UI",
+          "移动/系统"
+        ],
+        "tag_keys": [
+          "all",
+          "new",
+          "ui",
+          "mobile"
+        ]
+      },
+      {
+        "repo": "trackboatwrightplan/GitHub-Copilot-app",
+        "owner": "trackboatwrightplan",
+        "name": "GitHub-Copilot-app",
+        "stars": 672,
+        "velocity": 672,
+        "delta": null,
+        "age_days": 1.0,
+        "description": "The GitHub Copilot app is an agent-native desktop experience for finding, running, steering, and landing software work a",
+        "new": true,
+        "variants": [
+          "github copilot app",
+          "trackboatwrightplan github copilot app"
+        ],
+        "zh_description": "GitHub Copilot 应用采用智能体原生桌面体验，可用于发现、运行、引导和完成软件任务",
+        "tags": [
+          "全部",
+          "今日新入榜",
+          "智能体/Agent"
+        ],
+        "tag_keys": [
+          "all",
+          "new",
+          "agent"
+        ]
+      },
+      {
+        "repo": "TrapAccountant/GitHub-Copilot-app",
+        "owner": "TrapAccountant",
+        "name": "GitHub-Copilot-app",
+        "stars": 670,
+        "velocity": 670,
+        "delta": null,
+        "age_days": 1.0,
+        "description": "The GitHub Copilot app is an agent-native desktop experience for finding, running, steering, and landing software work a",
+        "new": true,
+        "variants": [
+          "github copilot app",
+          "trapaccountant github copilot app"
+        ],
+        "zh_description": "GitHub Copilot 应用采用智能体原生桌面体验，可用于发现、运行、引导和完成软件任务",
+        "tags": [
+          "全部",
+          "今日新入榜",
+          "智能体/Agent"
+        ],
+        "tag_keys": [
+          "all",
+          "new",
+          "agent"
+        ]
+      },
+      {
+        "repo": "TurquoiseDetective/IPTV_Player_2.0",
+        "owner": "TurquoiseDetective",
+        "name": "IPTV_Player_2.0",
+        "stars": 669,
+        "velocity": 669,
+        "delta": null,
+        "age_days": 1.0,
+        "description": "🎬 A powerful, intuitive IPTV streaming app supporting M3U playlists, EPG, and community lists. Available for Windows, ma",
+        "new": true,
+        "variants": [
+          "iptv player 2 0",
+          "turquoisedetective iptv player 2 0"
+        ],
+        "zh_description": "🎬 一款强大且易用的 IPTV 流媒体应用，支持 M3U 播放列表、EPG 和社区维护的列表。适用于 Windows、macOS 等平台",
+        "tags": [
+          "全部",
+          "今日新入榜",
+          "视觉/UI",
+          "移动/系统"
+        ],
+        "tag_keys": [
+          "all",
+          "new",
+          "ui",
+          "mobile"
+        ]
+      },
+      {
+        "repo": "tornadonovicewhirl40/IPTV_Player_2.0",
+        "owner": "tornadonovicewhirl40",
+        "name": "IPTV_Player_2.0",
+        "stars": 669,
+        "velocity": 669,
+        "delta": null,
+        "age_days": 1.0,
+        "description": "🎬 A powerful, intuitive IPTV streaming app supporting M3U playlists, EPG, and community lists. Available for Windows, ma",
+        "new": true,
+        "variants": [
+          "iptv player 2 0",
+          "tornadonovicewhirl40 iptv player 2 0"
+        ],
+        "zh_description": "🎬 一款强大且易用的 IPTV 流媒体应用，支持 M3U 播放列表、EPG 和社区维护的列表。适用于 Windows、macOS 等平台",
+        "tags": [
+          "全部",
+          "今日新入榜",
+          "视觉/UI",
+          "移动/系统"
+        ],
+        "tag_keys": [
+          "all",
+          "new",
+          "ui",
+          "mobile"
+        ]
+      },
+      {
+        "repo": "WattBeetleLearn/IPTV_Player_2.0",
+        "owner": "WattBeetleLearn",
+        "name": "IPTV_Player_2.0",
+        "stars": 667,
+        "velocity": 667,
+        "delta": null,
+        "age_days": 1.0,
+        "description": "🎬 A powerful, intuitive IPTV streaming app supporting M3U playlists, EPG, and community lists. Available for Windows, ma",
+        "new": true,
+        "variants": [
+          "iptv player 2 0",
+          "wattbeetlelearn iptv player 2 0"
+        ],
+        "zh_description": "🎬 一款强大且易用的 IPTV 流媒体应用，支持 M3U 播放列表、EPG 和社区维护的列表。适用于 Windows、macOS 等平台",
+        "tags": [
+          "全部",
+          "今日新入榜",
+          "视觉/UI",
+          "移动/系统"
+        ],
+        "tag_keys": [
+          "all",
+          "new",
+          "ui",
+          "mobile"
+        ]
+      },
+      {
+        "repo": "topapothecarycanal/ai--manus2.0",
+        "owner": "topapothecarycanal",
+        "name": "ai--manus2.0",
+        "stars": 666,
+        "velocity": 666,
+        "delta": null,
+        "age_days": 1.0,
+        "description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environmen",
+        "new": true,
+        "variants": [
+          "ai manus2 0",
+          "topapothecarycanal ai manus2 0"
+        ],
+        "zh_description": "AI Manus 是一个通用 AI 智能体系统，支持在沙箱环境中运行各种工具和操作",
+        "tags": [
+          "全部",
+          "今日新入榜",
+          "智能体/Agent",
+          "视觉/UI"
+        ],
+        "tag_keys": [
+          "all",
+          "new",
+          "agent",
+          "ui"
+        ]
+      },
+      {
+        "repo": "Trapbraneedle/IPTV_Player_2.0",
+        "owner": "Trapbraneedle",
+        "name": "IPTV_Player_2.0",
+        "stars": 666,
+        "velocity": 666,
+        "delta": null,
+        "age_days": 1.0,
+        "description": "🎬 A powerful, intuitive IPTV streaming app supporting M3U playlists, EPG, and community lists. Available for Windows, ma",
+        "new": true,
+        "variants": [
+          "iptv player 2 0",
+          "trapbraneedle iptv player 2 0"
+        ],
+        "zh_description": "🎬 一款强大且易用的 IPTV 流媒体应用，支持 M3U 播放列表、EPG 和社区维护的列表。适用于 Windows、macOS 等平台",
+        "tags": [
+          "全部",
+          "今日新入榜",
+          "视觉/UI",
+          "移动/系统"
+        ],
+        "tag_keys": [
+          "all",
+          "new",
+          "ui",
+          "mobile"
+        ]
+      },
+      {
+        "repo": "trackersnailgrip/GitHub-Copilot-app",
+        "owner": "trackersnailgrip",
+        "name": "GitHub-Copilot-app",
+        "stars": 666,
+        "velocity": 666,
+        "delta": null,
+        "age_days": 1.0,
+        "description": "The GitHub Copilot app is an agent-native desktop experience for finding, running, steering, and landing software work a",
+        "new": true,
+        "variants": [
+          "github copilot app",
+          "trackersnailgrip github copilot app"
+        ],
+        "zh_description": "GitHub Copilot 应用采用智能体原生桌面体验，可用于发现、运行、引导和完成软件任务",
+        "tags": [
+          "全部",
+          "今日新入榜",
+          "智能体/Agent"
+        ],
+        "tag_keys": [
+          "all",
+          "new",
+          "agent"
+        ]
+      },
+      {
+        "repo": "Titanlushrink/IPTV_Player_2.0",
+        "owner": "Titanlushrink",
+        "name": "IPTV_Player_2.0",
+        "stars": 665,
+        "velocity": 665,
+        "delta": null,
+        "age_days": 1.0,
+        "description": "🎬 A powerful, intuitive IPTV streaming app supporting M3U playlists, EPG, and community lists. Available for Windows, ma",
+        "new": true,
+        "variants": [
+          "iptv player 2 0",
+          "titanlushrink iptv player 2 0"
+        ],
+        "zh_description": "🎬 一款强大且易用的 IPTV 流媒体应用，支持 M3U 播放列表、EPG 和社区维护的列表。适用于 Windows、macOS 等平台",
+        "tags": [
+          "全部",
+          "今日新入榜",
+          "视觉/UI",
+          "移动/系统"
+        ],
+        "tag_keys": [
+          "all",
+          "new",
+          "ui",
+          "mobile"
+        ]
+      }
+    ],
+    "leads_data": [
+      {
+        "term": "iptv player 2 0",
+        "kinds": [
+          "breakout",
+          "breakout",
+          "breakout",
+          "breakout",
+          "breakout",
+          "breakout"
+        ],
+        "signals": [
+          "GitHub breakout WarriorRemember/IPTV_Player_2.0 ★672 (672/day)",
+          "GitHub breakout TurquoiseDetective/IPTV_Player_2.0 ★669 (669/day)",
+          "GitHub breakout tornadonovicewhirl40/IPTV_Player_2.0 ★669 (669/day)",
+          "GitHub breakout WattBeetleLearn/IPTV_Player_2.0 ★667 (667/day)",
+          "GitHub breakout Trapbraneedle/IPTV_Player_2.0 ★666 (666/day)",
+          "GitHub breakout Titanlushrink/IPTV_Player_2.0 ★665 (665/day)"
+        ],
+        "examples": [
+          "WarriorRemember/IPTV_Player_2.0: 🎬 A powerful, intuitive IPTV streaming app supporting M3U playlists, EPG, and community lists. Available for Windows, ma",
+          "TurquoiseDetective/IPTV_Player_2.0: 🎬 A powerful, intuitive IPTV streaming app supporting M3U playlists, EPG, and community lists. Available for Windows, ma",
+          "tornadonovicewhirl40/IPTV_Player_2.0: 🎬 A powerful, intuitive IPTV streaming app supporting M3U playlists, EPG, and community lists. Available for Windows, ma",
+          "WattBeetleLearn/IPTV_Player_2.0: 🎬 A powerful, intuitive IPTV streaming app supporting M3U playlists, EPG, and community lists. Available for Windows, ma",
+          "Trapbraneedle/IPTV_Player_2.0: 🎬 A powerful, intuitive IPTV streaming app supporting M3U playlists, EPG, and community lists. Available for Windows, ma",
+          "Titanlushrink/IPTV_Player_2.0: 🎬 A powerful, intuitive IPTV streaming app supporting M3U playlists, EPG, and community lists. Available for Windows, ma"
+        ],
+        "variants": [
+          "iptv player 2 0",
+          "warriorremember iptv player 2 0",
+          "turquoisedetective iptv player 2 0",
+          "tornadonovicewhirl40 iptv player 2 0",
+          "wattbeetlelearn iptv player 2 0",
+          "trapbraneedle iptv player 2 0",
+          "titanlushrink iptv player 2 0"
+        ],
+        "posts": [],
+        "repo": "Titanlushrink/IPTV_Player_2.0",
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": [
+          "WarriorRemember/IPTV_Player_2.0: 🎬 一款强大且易用的 IPTV 流媒体应用，支持 M3U 播放列表、EPG 和社区维护的列表。适用于 Windows、macOS 等平台",
+          "TurquoiseDetective/IPTV_Player_2.0: 🎬 一款强大且易用的 IPTV 流媒体应用，支持 M3U 播放列表、EPG 和社区维护的列表。适用于 Windows、macOS 等平台",
+          "tornadonovicewhirl40/IPTV_Player_2.0: 🎬 一款强大且易用的 IPTV 流媒体应用，支持 M3U 播放列表、EPG 和社区维护的列表。适用于 Windows、macOS 等平台",
+          "WattBeetleLearn/IPTV_Player_2.0: 🎬 一款强大且易用的 IPTV 流媒体应用，支持 M3U 播放列表、EPG 和社区维护的列表。适用于 Windows、macOS 等平台",
+          "Trapbraneedle/IPTV_Player_2.0: 🎬 一款强大且易用的 IPTV 流媒体应用，支持 M3U 播放列表、EPG 和社区维护的列表。适用于 Windows、macOS 等平台",
+          "Titanlushrink/IPTV_Player_2.0: 🎬 一款强大且易用的 IPTV 流媒体应用，支持 M3U 播放列表、EPG 和社区维护的列表。适用于 Windows、macOS 等平台"
+        ]
+      },
+      {
+        "term": "github copilot app",
+        "kinds": [
+          "breakout",
+          "breakout",
+          "breakout"
+        ],
+        "signals": [
+          "GitHub breakout trackboatwrightplan/GitHub-Copilot-app ★672 (672/day)",
+          "GitHub breakout TrapAccountant/GitHub-Copilot-app ★670 (670/day)",
+          "GitHub breakout trackersnailgrip/GitHub-Copilot-app ★666 (666/day)"
+        ],
+        "examples": [
+          "trackboatwrightplan/GitHub-Copilot-app: The GitHub Copilot app is an agent-native desktop experience for finding, running, steering, and landing software work a",
+          "TrapAccountant/GitHub-Copilot-app: The GitHub Copilot app is an agent-native desktop experience for finding, running, steering, and landing software work a",
+          "trackersnailgrip/GitHub-Copilot-app: The GitHub Copilot app is an agent-native desktop experience for finding, running, steering, and landing software work a"
+        ],
+        "variants": [
+          "github copilot app",
+          "trackboatwrightplan github copilot app",
+          "trapaccountant github copilot app",
+          "trackersnailgrip github copilot app"
+        ],
+        "posts": [],
+        "repo": "trackersnailgrip/GitHub-Copilot-app",
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": [
+          "trackboatwrightplan/GitHub-Copilot-app: GitHub Copilot 应用采用智能体原生桌面体验，可用于发现、运行、引导和完成软件任务",
+          "TrapAccountant/GitHub-Copilot-app: GitHub Copilot 应用采用智能体原生桌面体验，可用于发现、运行、引导和完成软件任务",
+          "trackersnailgrip/GitHub-Copilot-app: GitHub Copilot 应用采用智能体原生桌面体验，可用于发现、运行、引导和完成软件任务"
+        ]
+      },
+      {
+        "term": "ai manus2 0",
+        "kinds": [
+          "breakout",
+          "breakout"
+        ],
+        "signals": [
+          "GitHub breakout Topkiflare74/ai--manus2.0 ★677 (677/day)",
+          "GitHub breakout topapothecarycanal/ai--manus2.0 ★666 (666/day)"
+        ],
+        "examples": [
+          "Topkiflare74/ai--manus2.0: AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environmen",
+          "topapothecarycanal/ai--manus2.0: AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environmen"
+        ],
+        "variants": [
+          "ai manus2 0",
+          "topkiflare74 ai manus2 0",
+          "topapothecarycanal ai manus2 0"
+        ],
+        "posts": [],
+        "repo": "topapothecarycanal/ai--manus2.0",
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": [
+          "Topkiflare74/ai--manus2.0: AI Manus 是一个通用 AI 智能体系统，支持在沙箱环境中运行各种工具和操作",
+          "topapothecarycanal/ai--manus2.0: AI Manus 是一个通用 AI 智能体系统，支持在沙箱环境中运行各种工具和操作"
+        ]
+      },
+      {
+        "term": "kiri",
+        "kinds": [
+          "breakout"
+        ],
+        "signals": [
+          "GitHub breakout libracoder/kiri ★3821 (308/day, +1237 in a day)"
+        ],
+        "examples": [
+          "libracoder/kiri: A small, fast container runtime for macOS, Windows and Linux with free Ngrok alternative"
+        ],
+        "variants": [
+          "kiri",
+          "libracoder kiri",
+          "precious kiri"
+        ],
+        "posts": [],
+        "repo": "libracoder/kiri",
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": [
+          "libracoder/kiri: 一款轻巧快速的容器运行时，支持 macOS、Windows 和 Linux，并提供免费的 Ngrok 替代方案"
+        ]
+      },
+      {
+        "term": "cotlet",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 11 places (×8.7)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "cotlet connect",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 11 places (×8.7)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "connectors space.unhandled",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 7 places (×7.0)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "cloud.kubana",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 6 places (×6.0)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "connectors cloud.kubana",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 6 places (×6.0)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "tools.cybermax",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 5 places (×4.2)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "dev.workers.cybermax",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 5 places (×4.2)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "connectors dev.workers.cybermax",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 5 places (×4.2)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "dev.workers.cybermax tools.cybermax",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 5 places (×4.2)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "space.usocial",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 4 places (×4.0)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "connectors space.usocial",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 4 places (×4.0)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "daoudandiaye98 alt",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 4 places (×4.0)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "residentevilrenz",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 4 places (×4.0)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "leouofa",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 4 places (×3.9)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "guard",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 7 places (×3.6)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "com.oroboros design.angel",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 3 places (×3.0)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "connectors com.oroboros",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 3 places (×3.0)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "tools.cybermax youtube",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 3 places (×3.0)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "io.github.corsur",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 3 places (×3.0)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "connectors io.github.corsur",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 3 places (×3.0)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "space.usocial vector",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 3 places (×3.0)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "duong hub",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 3 places (×3.0)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "connectors io.github.nutshell2000",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 3 places (×2.9)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "trw123123",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 3 places (×2.9)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "swarm",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 3 places (×2.6)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      }
+    ]
+  },
+  {
     "id": "2026-11-14_evening",
     "date": "2026-11-14",
     "slot": "evening",
