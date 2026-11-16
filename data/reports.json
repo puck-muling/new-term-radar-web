@@ -1,5 +1,835 @@
 [
   {
+    "id": "2026-11-16_morning",
+    "date": "2026-11-16",
+    "slot": "morning",
+    "label": "2026-11-16 早场 (10:00)",
+    "breakouts": 15,
+    "new_breakouts": 9,
+    "leads": 27,
+    "max_velocity": 1128,
+    "max_velocity_repo": "huamidev/GestaltX",
+    "repos": [
+      {
+        "repo": "libracoder/kiri",
+        "owner": "libracoder",
+        "name": "kiri",
+        "stars": 6563,
+        "velocity": 489,
+        "delta": 2032,
+        "age_days": 13.4,
+        "description": "A small, fast container runtime for macOS, Windows and Linux with free Ngrok alternative",
+        "new": false,
+        "zh_description": "一款轻巧快速的容器运行时，支持 macOS、Windows 和 Linux，并提供免费的 Ngrok 替代方案",
+        "tags": [
+          "全部"
+        ],
+        "tag_keys": [
+          "all"
+        ]
+      },
+      {
+        "repo": "huamidev/GestaltX",
+        "owner": "huamidev",
+        "name": "GestaltX",
+        "stars": 7746,
+        "velocity": 1128,
+        "delta": 84,
+        "age_days": 6.9,
+        "description": "An MobileGestalt editor for iOS 27.x, featuring region-code tweaks, device presets, backups.",
+        "new": false,
+        "zh_description": "一款面向 iOS 27.x 的 MobileGestalt 编辑器，支持地区代码调整、设备预设和备份。",
+        "tags": [
+          "全部",
+          "超高爆发",
+          "移动/系统"
+        ],
+        "tag_keys": [
+          "all",
+          "high_velocity",
+          "mobile"
+        ]
+      },
+      {
+        "repo": "deepseek-ai/chat-demo",
+        "owner": "deepseek-ai",
+        "name": "chat-demo",
+        "stars": 3092,
+        "velocity": 826,
+        "delta": 1119,
+        "age_days": 3.7,
+        "description": "Chat Demo",
+        "new": false,
+        "zh_description": "聊天演示",
+        "tags": [
+          "全部"
+        ],
+        "tag_keys": [
+          "all"
+        ]
+      },
+      {
+        "repo": "janestreet/agent_skills",
+        "owner": "janestreet",
+        "name": "agent_skills",
+        "stars": 9015,
+        "velocity": 728,
+        "delta": 263,
+        "age_days": 12.4,
+        "description": "Agent skills",
+        "new": false,
+        "zh_description": "智能体技能",
+        "tags": [
+          "全部",
+          "智能体/Agent"
+        ],
+        "tag_keys": [
+          "all",
+          "agent"
+        ]
+      },
+      {
+        "repo": "Minireel/HGhub",
+        "owner": "Minireel",
+        "name": "HGhub",
+        "stars": 9019,
+        "velocity": 722,
+        "delta": 133,
+        "age_days": 12.5,
+        "description": "Plug-in media player",
+        "new": false,
+        "zh_description": "插件媒体播放器",
+        "tags": [
+          "全部"
+        ],
+        "tag_keys": [
+          "all"
+        ]
+      },
+      {
+        "repo": "duwqijlk/muse-protocol",
+        "owner": "duwqijlk",
+        "name": "muse-protocol",
+        "stars": 1049,
+        "velocity": 518,
+        "delta": 325,
+        "age_days": 2.0,
+        "description": "muse.ai 注册与邀请码兑换协议研究（纯 HTTP Python 实现）",
+        "new": true,
+        "variants": [
+          "muse protocol",
+          "duwqijlk muse protocol",
+          "xcrun muse protocol"
+        ],
+        "zh_description": "muse.ai 注册与邀请码兑换协议研究（纯 HTTP Python 实现）",
+        "tags": [
+          "全部",
+          "今日新入榜"
+        ],
+        "tag_keys": [
+          "all",
+          "new"
+        ]
+      },
+      {
+        "repo": "tangerineturtle1/NX2navi",
+        "owner": "tangerineturtle1",
+        "name": "NX2navi",
+        "stars": 4230,
+        "velocity": 488,
+        "delta": 69,
+        "age_days": 8.7,
+        "description": "",
+        "new": false,
+        "zh_description": "暂无项目描述",
+        "tags": [
+          "全部"
+        ],
+        "tag_keys": [
+          "all"
+        ]
+      },
+      {
+        "repo": "YellowLaborerMarket/Gemini-Config-Checker-",
+        "owner": "YellowLaborerMarket",
+        "name": "Gemini-Config-Checker-",
+        "stars": 473,
+        "velocity": 473,
+        "delta": null,
+        "age_days": 1.0,
+        "description": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DP",
+        "new": true,
+        "variants": [
+          "gemini config checker",
+          "yellowlaborermarket gemini config checker"
+        ],
+        "zh_description": "链上区域扫描器：检测可访问 Google AI Studio 和 Gemini 的代理配置（需在浏览器中登录，并具备反 DP 能力）",
+        "tags": [
+          "全部",
+          "今日新入榜"
+        ],
+        "tag_keys": [
+          "all",
+          "new"
+        ]
+      },
+      {
+        "repo": "WindGatorRise37/Gemini-Config-Checker-",
+        "owner": "WindGatorRise37",
+        "name": "Gemini-Config-Checker-",
+        "stars": 473,
+        "velocity": 473,
+        "delta": null,
+        "age_days": 1.0,
+        "description": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DP",
+        "new": true,
+        "variants": [
+          "gemini config checker",
+          "windgatorrise37 gemini config checker"
+        ],
+        "zh_description": "链上区域扫描器：检测可访问 Google AI Studio 和 Gemini 的代理配置（需在浏览器中登录，并具备反 DP 能力）",
+        "tags": [
+          "全部",
+          "今日新入榜"
+        ],
+        "tag_keys": [
+          "all",
+          "new"
+        ]
+      },
+      {
+        "repo": "WyrmClimberManacle/Gemini-Config-Checker-",
+        "owner": "WyrmClimberManacle",
+        "name": "Gemini-Config-Checker-",
+        "stars": 473,
+        "velocity": 473,
+        "delta": null,
+        "age_days": 1.0,
+        "description": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DP",
+        "new": true,
+        "variants": [
+          "gemini config checker",
+          "wyrmclimbermanacle gemini config checker"
+        ],
+        "zh_description": "链上区域扫描器：检测可访问 Google AI Studio 和 Gemini 的代理配置（需在浏览器中登录，并具备反 DP 能力）",
+        "tags": [
+          "全部",
+          "今日新入榜"
+        ],
+        "tag_keys": [
+          "all",
+          "new"
+        ]
+      },
+      {
+        "repo": "TurtleReside/Gemini-Config-Checker-",
+        "owner": "TurtleReside",
+        "name": "Gemini-Config-Checker-",
+        "stars": 473,
+        "velocity": 473,
+        "delta": null,
+        "age_days": 1.0,
+        "description": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DP",
+        "new": true,
+        "variants": [
+          "gemini config checker",
+          "turtlereside gemini config checker"
+        ],
+        "zh_description": "链上区域扫描器：检测可访问 Google AI Studio 和 Gemini 的代理配置（需在浏览器中登录，并具备反 DP 能力）",
+        "tags": [
+          "全部",
+          "今日新入榜"
+        ],
+        "tag_keys": [
+          "all",
+          "new"
+        ]
+      },
+      {
+        "repo": "weldbladesmithwharf/Gemini-Config-Checker-",
+        "owner": "weldbladesmithwharf",
+        "name": "Gemini-Config-Checker-",
+        "stars": 473,
+        "velocity": 473,
+        "delta": null,
+        "age_days": 1.0,
+        "description": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DP",
+        "new": true,
+        "variants": [
+          "gemini config checker",
+          "weldbladesmithwharf gemini config checker"
+        ],
+        "zh_description": "链上区域扫描器：检测可访问 Google AI Studio 和 Gemini 的代理配置（需在浏览器中登录，并具备反 DP 能力）",
+        "tags": [
+          "全部",
+          "今日新入榜"
+        ],
+        "tag_keys": [
+          "all",
+          "new"
+        ]
+      },
+      {
+        "repo": "WindowStaffGate11/Gemini-Config-Checker-",
+        "owner": "WindowStaffGate11",
+        "name": "Gemini-Config-Checker-",
+        "stars": 473,
+        "velocity": 473,
+        "delta": null,
+        "age_days": 1.0,
+        "description": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DP",
+        "new": true,
+        "variants": [
+          "gemini config checker",
+          "windowstaffgate11 gemini config checker"
+        ],
+        "zh_description": "链上区域扫描器：检测可访问 Google AI Studio 和 Gemini 的代理配置（需在浏览器中登录，并具备反 DP 能力）",
+        "tags": [
+          "全部",
+          "今日新入榜"
+        ],
+        "tag_keys": [
+          "all",
+          "new"
+        ]
+      },
+      {
+        "repo": "WerewolfEmuHub/Gemini-Config-Checker-",
+        "owner": "WerewolfEmuHub",
+        "name": "Gemini-Config-Checker-",
+        "stars": 473,
+        "velocity": 473,
+        "delta": null,
+        "age_days": 1.0,
+        "description": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DP",
+        "new": true,
+        "variants": [
+          "gemini config checker",
+          "werewolfemuhub gemini config checker"
+        ],
+        "zh_description": "链上区域扫描器：检测可访问 Google AI Studio 和 Gemini 的代理配置（需在浏览器中登录，并具备反 DP 能力）",
+        "tags": [
+          "全部",
+          "今日新入榜"
+        ],
+        "tag_keys": [
+          "all",
+          "new"
+        ]
+      },
+      {
+        "repo": "Violetnyudress/Gemini-Config-Checker-",
+        "owner": "Violetnyudress",
+        "name": "Gemini-Config-Checker-",
+        "stars": 473,
+        "velocity": 473,
+        "delta": null,
+        "age_days": 1.0,
+        "description": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DP",
+        "new": true,
+        "variants": [
+          "gemini config checker",
+          "violetnyudress gemini config checker"
+        ],
+        "zh_description": "链上区域扫描器：检测可访问 Google AI Studio 和 Gemini 的代理配置（需在浏览器中登录，并具备反 DP 能力）",
+        "tags": [
+          "全部",
+          "今日新入榜"
+        ],
+        "tag_keys": [
+          "all",
+          "new"
+        ]
+      }
+    ],
+    "leads_data": [
+      {
+        "term": "gemini config checker",
+        "kinds": [
+          "breakout",
+          "breakout",
+          "breakout",
+          "breakout",
+          "breakout",
+          "breakout",
+          "breakout",
+          "breakout"
+        ],
+        "signals": [
+          "GitHub breakout YellowLaborerMarket/Gemini-Config-Checker- ★473 (473/day)",
+          "GitHub breakout WindGatorRise37/Gemini-Config-Checker- ★473 (473/day)",
+          "GitHub breakout WyrmClimberManacle/Gemini-Config-Checker- ★473 (473/day)",
+          "GitHub breakout TurtleReside/Gemini-Config-Checker- ★473 (473/day)",
+          "GitHub breakout weldbladesmithwharf/Gemini-Config-Checker- ★473 (473/day)",
+          "GitHub breakout WindowStaffGate11/Gemini-Config-Checker- ★473 (473/day)",
+          "GitHub breakout WerewolfEmuHub/Gemini-Config-Checker- ★473 (473/day)",
+          "GitHub breakout Violetnyudress/Gemini-Config-Checker- ★473 (473/day)"
+        ],
+        "examples": [
+          "YellowLaborerMarket/Gemini-Config-Checker-: Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DP",
+          "WindGatorRise37/Gemini-Config-Checker-: Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DP",
+          "WyrmClimberManacle/Gemini-Config-Checker-: Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DP",
+          "TurtleReside/Gemini-Config-Checker-: Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DP",
+          "weldbladesmithwharf/Gemini-Config-Checker-: Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DP",
+          "WindowStaffGate11/Gemini-Config-Checker-: Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DP",
+          "WerewolfEmuHub/Gemini-Config-Checker-: Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DP",
+          "Violetnyudress/Gemini-Config-Checker-: Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DP"
+        ],
+        "variants": [
+          "gemini config checker",
+          "yellowlaborermarket gemini config checker",
+          "windgatorrise37 gemini config checker",
+          "wyrmclimbermanacle gemini config checker",
+          "turtlereside gemini config checker",
+          "weldbladesmithwharf gemini config checker",
+          "windowstaffgate11 gemini config checker",
+          "werewolfemuhub gemini config checker",
+          "violetnyudress gemini config checker"
+        ],
+        "posts": [],
+        "repo": "Violetnyudress/Gemini-Config-Checker-",
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": [
+          "YellowLaborerMarket/Gemini-Config-Checker-: 链上区域扫描器：检测可访问 Google AI Studio 和 Gemini 的代理配置（需在浏览器中登录，并具备反 DP 能力）",
+          "WindGatorRise37/Gemini-Config-Checker-: 链上区域扫描器：检测可访问 Google AI Studio 和 Gemini 的代理配置（需在浏览器中登录，并具备反 DP 能力）",
+          "WyrmClimberManacle/Gemini-Config-Checker-: 链上区域扫描器：检测可访问 Google AI Studio 和 Gemini 的代理配置（需在浏览器中登录，并具备反 DP 能力）",
+          "TurtleReside/Gemini-Config-Checker-: 链上区域扫描器：检测可访问 Google AI Studio 和 Gemini 的代理配置（需在浏览器中登录，并具备反 DP 能力）",
+          "weldbladesmithwharf/Gemini-Config-Checker-: 链上区域扫描器：检测可访问 Google AI Studio 和 Gemini 的代理配置（需在浏览器中登录，并具备反 DP 能力）",
+          "WindowStaffGate11/Gemini-Config-Checker-: 链上区域扫描器：检测可访问 Google AI Studio 和 Gemini 的代理配置（需在浏览器中登录，并具备反 DP 能力）",
+          "WerewolfEmuHub/Gemini-Config-Checker-: 链上区域扫描器：检测可访问 Google AI Studio 和 Gemini 的代理配置（需在浏览器中登录，并具备反 DP 能力）",
+          "Violetnyudress/Gemini-Config-Checker-: 链上区域扫描器：检测可访问 Google AI Studio 和 Gemini 的代理配置（需在浏览器中登录，并具备反 DP 能力）"
+        ]
+      },
+      {
+        "term": "muse protocol",
+        "kinds": [
+          "breakout"
+        ],
+        "signals": [
+          "GitHub breakout duwqijlk/muse-protocol ★1049 (518/day, +325 in a day)"
+        ],
+        "examples": [
+          "duwqijlk/muse-protocol: muse.ai 注册与邀请码兑换协议研究（纯 HTTP Python 实现）"
+        ],
+        "variants": [
+          "muse protocol",
+          "duwqijlk muse protocol",
+          "xcrun muse protocol"
+        ],
+        "posts": [],
+        "repo": "duwqijlk/muse-protocol",
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": [
+          "duwqijlk/muse-protocol: muse.ai 注册与邀请码兑换协议研究（纯 HTTP Python 实现）"
+        ]
+      },
+      {
+        "term": "org.aimlds atom",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 64 places (×63.8)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "connectors org.aimlds",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 64 places (×63.4)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "io.github.arpit",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 12 places (×11.6)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "connectors io.github.arpitgandhi1934",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 12 places (×11.6)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "yugenox",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 12 places (×11.6)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "gandhi1934",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 12 places (×11.6)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "io.github.arpitgandhi1934 yugenox",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 12 places (×11.6)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "cloudcorprecords",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 28 places (×11.5)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "records",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 28 places (×10.9)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "corp",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 28 places (×10.5)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "connectors fr.amacunia",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 9 places (×9.0)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "lex grid",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 9 places (×9.0)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "connectors com.writerslogic.agents",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 7 places (×7.0)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "com.writerslogic.agents writerslogic",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 7 places (×7.0)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "cloud",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 31 places (×6.3)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "audit",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 12 places (×5.5)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "claim",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 6 places (×5.4)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "cotlet connect",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 7 places (×5.1)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "connectors io.github.uplinkswitch",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 5 places (×5.0)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "check",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 10 places (×4.2)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "dev.workers.cybermax",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 5 places (×4.1)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "tools.cybermax",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 5 places (×4.1)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "dev.workers.cybermax tools.cybermax",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 5 places (×4.1)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "connectors dev.workers.cybermax",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 5 places (×4.1)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "cpas",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 4 places (×4.0)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      }
+    ]
+  },
+  {
     "id": "2026-11-15_evening",
     "date": "2026-11-15",
     "slot": "evening",
