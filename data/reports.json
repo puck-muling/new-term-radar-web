@@ -1,5 +1,756 @@
 [
   {
+    "id": "2026-11-17_morning",
+    "date": "2026-11-17",
+    "slot": "morning",
+    "label": "2026-11-17 早场 (10:00)",
+    "breakouts": 15,
+    "new_breakouts": 1,
+    "leads": 27,
+    "max_velocity": 1004,
+    "max_velocity_repo": "huamidev/GestaltX",
+    "repos": [
+      {
+        "repo": "huamidev/GestaltX",
+        "owner": "huamidev",
+        "name": "GestaltX",
+        "stars": 7892,
+        "velocity": 1004,
+        "delta": 84,
+        "age_days": 7.9,
+        "description": "An MobileGestalt editor for iOS 27.x, featuring region-code tweaks, device presets, backups.",
+        "new": false,
+        "zh_description": "一款面向 iOS 27.x 的 MobileGestalt 编辑器，支持地区代码调整、设备预设和备份。",
+        "tags": [
+          "全部",
+          "超高爆发",
+          "移动/系统"
+        ],
+        "tag_keys": [
+          "all",
+          "high_velocity",
+          "mobile"
+        ]
+      },
+      {
+        "repo": "deepseek-ai/chat-demo",
+        "owner": "deepseek-ai",
+        "name": "chat-demo",
+        "stars": 4118,
+        "velocity": 868,
+        "delta": 350,
+        "age_days": 4.7,
+        "description": "Chat Demo",
+        "new": false,
+        "zh_description": "聊天演示",
+        "tags": [
+          "全部"
+        ],
+        "tag_keys": [
+          "all"
+        ]
+      },
+      {
+        "repo": "janestreet/agent_skills",
+        "owner": "janestreet",
+        "name": "agent_skills",
+        "stars": 9597,
+        "velocity": 717,
+        "delta": 311,
+        "age_days": 13.4,
+        "description": "Agent skills",
+        "new": false,
+        "zh_description": "智能体技能",
+        "tags": [
+          "全部",
+          "智能体/Agent"
+        ],
+        "tag_keys": [
+          "all",
+          "agent"
+        ]
+      },
+      {
+        "repo": "Minireel/HGhub",
+        "owner": "Minireel",
+        "name": "HGhub",
+        "stars": 9517,
+        "velocity": 705,
+        "delta": 181,
+        "age_days": 13.5,
+        "description": "Plug-in media player",
+        "new": false,
+        "zh_description": "插件媒体播放器",
+        "tags": [
+          "全部"
+        ],
+        "tag_keys": [
+          "all"
+        ]
+      },
+      {
+        "repo": "hitkeeen/blender-ai-mcp-addon",
+        "owner": "hitkeeen",
+        "name": "blender-ai-mcp-addon",
+        "stars": 2216,
+        "velocity": 495,
+        "delta": 301,
+        "age_days": 4.5,
+        "description": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with ChatGPT/GPT, Claude",
+        "new": false,
+        "zh_description": "面向 Blender 的 AI 助手与 MCP 服务器：支持可视化对话、场景工具和多智能体工作流，可与 ChatGPT/GPT、Claude 协同使用",
+        "tags": [
+          "全部",
+          "智能体/Agent"
+        ],
+        "tag_keys": [
+          "all",
+          "agent"
+        ]
+      },
+      {
+        "repo": "duwqijlk/muse-protocol",
+        "owner": "duwqijlk",
+        "name": "muse-protocol",
+        "stars": 1456,
+        "velocity": 481,
+        "delta": 176,
+        "age_days": 3.0,
+        "description": "muse.ai 注册与邀请码兑换协议研究（纯 HTTP Python 实现）",
+        "new": false,
+        "zh_description": "muse.ai 注册与邀请码兑换协议研究（纯 HTTP Python 实现）",
+        "tags": [
+          "全部"
+        ],
+        "tag_keys": [
+          "all"
+        ]
+      },
+      {
+        "repo": "tangerineturtle1/NX2navi",
+        "owner": "tangerineturtle1",
+        "name": "NX2navi",
+        "stars": 4286,
+        "velocity": 443,
+        "delta": 31,
+        "age_days": 9.7,
+        "description": "",
+        "new": false,
+        "zh_description": "暂无项目描述",
+        "tags": [
+          "全部"
+        ],
+        "tag_keys": [
+          "all"
+        ]
+      },
+      {
+        "repo": "apex-compute/ANR",
+        "owner": "apex-compute",
+        "name": "ANR",
+        "stars": 2474,
+        "velocity": 419,
+        "delta": 141,
+        "age_days": 5.9,
+        "description": "Apex Neural Rendering (ANR) by Apex Compute",
+        "new": false,
+        "zh_description": "Apex Compute 推出的 Apex Neural Rendering（ANR）",
+        "tags": [
+          "全部"
+        ],
+        "tag_keys": [
+          "all"
+        ]
+      },
+      {
+        "repo": "KKKKhazix/agent-autoloop",
+        "owner": "KKKKhazix",
+        "name": "agent-autoloop",
+        "stars": 5696,
+        "velocity": 414,
+        "delta": 74,
+        "age_days": 13.7,
+        "description": "让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。",
+        "new": false,
+        "zh_description": "让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。",
+        "tags": [
+          "全部",
+          "智能体/Agent"
+        ],
+        "tag_keys": [
+          "all",
+          "agent"
+        ]
+      },
+      {
+        "repo": "Noniv/abyssal-garden",
+        "owner": "Noniv",
+        "name": "abyssal-garden",
+        "stars": 1733,
+        "velocity": 385,
+        "delta": 404,
+        "age_days": 4.5,
+        "description": "A dreamy underwater world you can swim through in your browser: swaying kelp forests, sunbeams, a sunken ship and manta ",
+        "new": false,
+        "zh_description": "可在浏览器中畅游的梦幻海底世界：摇曳的海带林、穿透水面的阳光、沉船和蝠鲼",
+        "tags": [
+          "全部"
+        ],
+        "tag_keys": [
+          "all"
+        ]
+      },
+      {
+        "repo": "jhaizhou-ops/S2Arm",
+        "owner": "jhaizhou-ops",
+        "name": "S2Arm",
+        "stars": 3371,
+        "velocity": 381,
+        "delta": 52,
+        "age_days": 8.8,
+        "description": "Run your own Switch games natively on iPhone, iPad and Mac: game code rewritten to ARM64, graphics direct to Metal, one ",
+        "new": false,
+        "zh_description": "在 iPhone、iPad 和 Mac 上原生运行自己的 Switch 游戏：游戏代码重写为 ARM64，图形直接通过 Metal 渲染，",
+        "tags": [
+          "全部",
+          "移动/系统"
+        ],
+        "tag_keys": [
+          "all",
+          "mobile"
+        ]
+      },
+      {
+        "repo": "ersinkoc/phonebox",
+        "owner": "ersinkoc",
+        "name": "phonebox",
+        "stars": 1893,
+        "velocity": 202,
+        "delta": 363,
+        "age_days": 9.4,
+        "description": "Turn an old Android phone into a customizable desk panel and touch control deck for Windows, Linux and macOS. 115 widget",
+        "new": true,
+        "variants": [
+          "phonebox",
+          "ersinkoc phonebox",
+          "ersin phonebox"
+        ],
+        "zh_description": "将旧 Android 手机改造成适用于 Windows、Linux 和 macOS 的可自定义桌面面板及触控控制台，内置 115 个小组件。",
+        "tags": [
+          "全部",
+          "今日新入榜",
+          "移动/系统"
+        ],
+        "tag_keys": [
+          "all",
+          "new",
+          "mobile"
+        ]
+      },
+      {
+        "repo": "YellowLaborerMarket/Gemini-Config-Checker-",
+        "owner": "YellowLaborerMarket",
+        "name": "Gemini-Config-Checker-",
+        "stars": 474,
+        "velocity": 343,
+        "delta": 0,
+        "age_days": 1.4,
+        "description": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DP",
+        "new": false,
+        "zh_description": "链上区域扫描器：检测可访问 Google AI Studio 和 Gemini 的代理配置（需在浏览器中登录，并具备反 DP 能力）",
+        "tags": [
+          "全部"
+        ],
+        "tag_keys": [
+          "all"
+        ]
+      },
+      {
+        "repo": "WindGatorRise37/Gemini-Config-Checker-",
+        "owner": "WindGatorRise37",
+        "name": "Gemini-Config-Checker-",
+        "stars": 473,
+        "velocity": 342,
+        "delta": null,
+        "age_days": 1.4,
+        "description": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DP",
+        "new": false,
+        "zh_description": "链上区域扫描器：检测可访问 Google AI Studio 和 Gemini 的代理配置（需在浏览器中登录，并具备反 DP 能力）",
+        "tags": [
+          "全部"
+        ],
+        "tag_keys": [
+          "all"
+        ]
+      },
+      {
+        "repo": "WyrmClimberManacle/Gemini-Config-Checker-",
+        "owner": "WyrmClimberManacle",
+        "name": "Gemini-Config-Checker-",
+        "stars": 473,
+        "velocity": 342,
+        "delta": null,
+        "age_days": 1.4,
+        "description": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DP",
+        "new": false,
+        "zh_description": "链上区域扫描器：检测可访问 Google AI Studio 和 Gemini 的代理配置（需在浏览器中登录，并具备反 DP 能力）",
+        "tags": [
+          "全部"
+        ],
+        "tag_keys": [
+          "all"
+        ]
+      }
+    ],
+    "leads_data": [
+      {
+        "term": "longcat video avatar 1.6",
+        "kinds": [
+          "hf"
+        ],
+        "signals": [
+          "Hugging Face: new at #45"
+        ],
+        "examples": [
+          "meituan-longcat/LongCat-Video-Avatar-1.6 (?, ♥105)"
+        ],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "video",
+        "one_click": null,
+        "zh_examples": [
+          "meituan-longcat/LongCat-Video-Avatar-1.6 (?, ♥105)"
+        ]
+      },
+      {
+        "term": "phonebox",
+        "kinds": [
+          "breakout"
+        ],
+        "signals": [
+          "GitHub breakout ersinkoc/phonebox ★1893 (202/day, +363 in a day)"
+        ],
+        "examples": [
+          "ersinkoc/phonebox: Turn an old Android phone into a customizable desk panel and touch control deck for Windows, Linux and macOS. 115 widget"
+        ],
+        "variants": [
+          "phonebox",
+          "ersinkoc phonebox",
+          "ersin phonebox"
+        ],
+        "posts": [],
+        "repo": "ersinkoc/phonebox",
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": [
+          "ersinkoc/phonebox: 将旧 Android 手机改造成适用于 Windows、Linux 和 macOS 的可自定义桌面面板及触控控制台，内置 115 个小组件。"
+        ]
+      },
+      {
+        "term": "sites",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 695 places (×594.5)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "io.github.j0401",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 41 places (×40.7)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "connectors io.github.j0401",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 41 places (×40.7)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "org.aimlds atom",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 16 places (×8.8)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "connectors org.aimlds",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 16 places (×8.7)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "pack",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 10 places (×7.4)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "connectors dev.workers.architect",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 7 places (×7.0)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "connectors io.github.brunopompeo1",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 7 places (×7.0)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "connectors io.github.memeanalyst",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 6 places (×6.0)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "x402 brazil",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 5 places (×5.0)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "dev.workers.architect x402.br",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 5 places (×5.0)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "licenses",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 5 places (×4.9)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "core clone",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 5 places (×4.7)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "cotlet",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 8 places (×4.3)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "cotlet connect",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 8 places (×4.3)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "io.github.theharrisontruong",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 4 places (×3.9)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "connectors io.github.theharrisontruong",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 4 places (×3.9)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "tax",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 6 places (×3.4)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "theluckystrike",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 4 places (×3.1)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "connectors ai.exceedloop",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 3 places (×3.0)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "connectors com.guruling",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 3 places (×3.0)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "io.github.j0401 nyc",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 3 places (×3.0)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "quantledger",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 3 places (×3.0)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "connectors io.github.tenhaw",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 3 places (×3.0)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "bilu",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 3 places (×3.0)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      }
+    ]
+  },
+  {
     "id": "2026-11-16_evening",
     "date": "2026-11-16",
     "slot": "evening",
