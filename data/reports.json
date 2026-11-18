@@ -1,5 +1,920 @@
 [
   {
+    "id": "2026-11-18_morning",
+    "date": "2026-11-18",
+    "slot": "morning",
+    "label": "2026-11-18 早场 (10:00)",
+    "breakouts": 15,
+    "new_breakouts": 5,
+    "leads": 33,
+    "max_velocity": 2175,
+    "max_velocity_repo": "krisgfx9/Wireless-Device-Battery-Monitor",
+    "repos": [
+      {
+        "repo": "krisgfx9/Wireless-Device-Battery-Monitor",
+        "owner": "krisgfx9",
+        "name": "Wireless-Device-Battery-Monitor",
+        "stars": 2768,
+        "velocity": 2175,
+        "delta": 1838,
+        "age_days": 1.3,
+        "description": "Show the battery level of wireless mice, headsets, keyboards and controllers on the Windows 10/11 taskbar. Lightweight t",
+        "new": false,
+        "zh_description": "在 Windows 10/11 任务栏上显示无线鼠标、耳机、键盘和游戏手柄的电池电量。轻量级",
+        "tags": [
+          "全部",
+          "超高爆发"
+        ],
+        "tag_keys": [
+          "all",
+          "high_velocity"
+        ]
+      },
+      {
+        "repo": "gylive/google-ultra",
+        "owner": "gylive",
+        "name": "google-ultra",
+        "stars": 1674,
+        "velocity": 1674,
+        "delta": null,
+        "age_days": 1.0,
+        "description": "",
+        "new": true,
+        "variants": [
+          "google ultra",
+          "gylive google ultra"
+        ],
+        "zh_description": "暂无项目描述",
+        "tags": [
+          "全部",
+          "今日新入榜",
+          "超高爆发"
+        ],
+        "tag_keys": [
+          "all",
+          "new",
+          "high_velocity"
+        ]
+      },
+      {
+        "repo": "huamidev/GestaltX",
+        "owner": "huamidev",
+        "name": "GestaltX",
+        "stars": 8138,
+        "velocity": 918,
+        "delta": 167,
+        "age_days": 8.9,
+        "description": "An MobileGestalt editor for iOS 27.x, featuring region-code tweaks, device presets, backups.",
+        "new": false,
+        "zh_description": "一款面向 iOS 27.x 的 MobileGestalt 编辑器，支持地区代码调整、设备预设和备份。",
+        "tags": [
+          "全部",
+          "移动/系统"
+        ],
+        "tag_keys": [
+          "all",
+          "mobile"
+        ]
+      },
+      {
+        "repo": "erkamyaman/rust-anything",
+        "owner": "erkamyaman",
+        "name": "rust-anything",
+        "stars": 1417,
+        "velocity": 899,
+        "delta": null,
+        "age_days": 1.6,
+        "description": "Rewrite your whole app in Rust, one piece at a time, checked against the original's recorded behavior at every step. CLI",
+        "new": true,
+        "variants": [
+          "rust anything",
+          "erkamyaman rust anything",
+          "erkam rust anything"
+        ],
+        "zh_description": "逐步将整个应用重写为 Rust，每一步都与原应用记录的行为进行核对。命令行工具",
+        "tags": [
+          "全部",
+          "今日新入榜"
+        ],
+        "tag_keys": [
+          "all",
+          "new"
+        ]
+      },
+      {
+        "repo": "deepseek-ai/chat-demo",
+        "owner": "deepseek-ai",
+        "name": "chat-demo",
+        "stars": 4549,
+        "velocity": 792,
+        "delta": 181,
+        "age_days": 5.7,
+        "description": "Chat Demo",
+        "new": false,
+        "zh_description": "聊天演示",
+        "tags": [
+          "全部"
+        ],
+        "tag_keys": [
+          "all"
+        ]
+      },
+      {
+        "repo": "Immortal-Protocols/lastbook",
+        "owner": "Immortal-Protocols",
+        "name": "lastbook",
+        "stars": 1812,
+        "velocity": 356,
+        "delta": 740,
+        "age_days": 5.1,
+        "description": "Offline knowledge AI, maps and videos for survival and rebuilding",
+        "new": true,
+        "variants": [
+          "lastbook",
+          "immortal-protocols lastbook"
+        ],
+        "zh_description": "面向生存与重建的离线知识 AI、地图和视频",
+        "tags": [
+          "全部",
+          "今日新入榜",
+          "视觉/UI"
+        ],
+        "tag_keys": [
+          "all",
+          "new",
+          "ui"
+        ]
+      },
+      {
+        "repo": "sybil-solutions/inference-optimisation-skill",
+        "owner": "sybil-solutions",
+        "name": "inference-optimisation-skill",
+        "stars": 932,
+        "velocity": 713,
+        "delta": 419,
+        "age_days": 1.3,
+        "description": "Agent skill for hill-climbing local LLM serving speed (decode, speculative decoding, prefill, KV, startup, TTFT) on any ",
+        "new": false,
+        "zh_description": "用于优化本地 LLM 服务性能的智能体技能，涵盖解码、推测解码、预填充、KV 缓存、启动速度和 TTFT，适用于任何",
+        "tags": [
+          "全部",
+          "智能体/Agent",
+          "视觉/UI"
+        ],
+        "tag_keys": [
+          "all",
+          "agent",
+          "ui"
+        ]
+      },
+      {
+        "repo": "chuanqisun/spaceship",
+        "owner": "chuanqisun",
+        "name": "spaceship",
+        "stars": 713,
+        "velocity": 485,
+        "delta": null,
+        "age_days": 1.5,
+        "description": "Steer your ideas in realtime",
+        "new": true,
+        "variants": [
+          "spaceship",
+          "chuanqisun spaceship",
+          "sun spaceship"
+        ],
+        "zh_description": "实时引导你的创意",
+        "tags": [
+          "全部",
+          "今日新入榜"
+        ],
+        "tag_keys": [
+          "all",
+          "new"
+        ]
+      },
+      {
+        "repo": "ersinkoc/phonebox",
+        "owner": "ersinkoc",
+        "name": "phonebox",
+        "stars": 2684,
+        "velocity": 258,
+        "delta": 455,
+        "age_days": 10.4,
+        "description": "Turn an old Android phone into a customizable desk panel and touch control deck for Windows, Linux and macOS. 115 widget",
+        "new": false,
+        "zh_description": "将旧 Android 手机改造成适用于 Windows、Linux 和 macOS 的可自定义桌面面板及触控控制台，内置 115 个小组件。",
+        "tags": [
+          "全部",
+          "移动/系统"
+        ],
+        "tag_keys": [
+          "all",
+          "mobile"
+        ]
+      },
+      {
+        "repo": "tangerineturtle1/NX2navi",
+        "owner": "tangerineturtle1",
+        "name": "NX2navi",
+        "stars": 4298,
+        "velocity": 403,
+        "delta": 3,
+        "age_days": 10.7,
+        "description": "",
+        "new": false,
+        "zh_description": "暂无项目描述",
+        "tags": [
+          "全部"
+        ],
+        "tag_keys": [
+          "all"
+        ]
+      },
+      {
+        "repo": "duwqijlk/muse-protocol",
+        "owner": "duwqijlk",
+        "name": "muse-protocol",
+        "stars": 1592,
+        "velocity": 396,
+        "delta": 48,
+        "age_days": 4.0,
+        "description": "muse.ai 注册与邀请码兑换协议研究（纯 HTTP Python 实现）",
+        "new": false,
+        "zh_description": "muse.ai 注册与邀请码兑换协议研究（纯 HTTP Python 实现）",
+        "tags": [
+          "全部"
+        ],
+        "tag_keys": [
+          "all"
+        ]
+      },
+      {
+        "repo": "Noniv/abyssal-garden",
+        "owner": "Noniv",
+        "name": "abyssal-garden",
+        "stars": 2174,
+        "velocity": 395,
+        "delta": 234,
+        "age_days": 5.5,
+        "description": "A dreamy underwater world you can swim through in your browser: swaying kelp forests, sunbeams, a sunken ship and manta ",
+        "new": false,
+        "zh_description": "可在浏览器中畅游的梦幻海底世界：摇曳的海带林、穿透水面的阳光、沉船和蝠鲼",
+        "tags": [
+          "全部"
+        ],
+        "tag_keys": [
+          "all"
+        ]
+      },
+      {
+        "repo": "joshpuckett/allo",
+        "owner": "joshpuckett",
+        "name": "allo",
+        "stars": 889,
+        "velocity": 378,
+        "delta": 246,
+        "age_days": 2.4,
+        "description": "Allo is your friendly neighborhood typeface, free and open source",
+        "new": false,
+        "zh_description": "Allo 是一款亲切友好的字体，免费且开源",
+        "tags": [
+          "全部"
+        ],
+        "tag_keys": [
+          "all"
+        ]
+      },
+      {
+        "repo": "apex-compute/ANR",
+        "owner": "apex-compute",
+        "name": "ANR",
+        "stars": 2598,
+        "velocity": 377,
+        "delta": 67,
+        "age_days": 6.9,
+        "description": "Apex Neural Rendering (ANR) by Apex Compute",
+        "new": false,
+        "zh_description": "Apex Compute 推出的 Apex Neural Rendering（ANR）",
+        "tags": [
+          "全部"
+        ],
+        "tag_keys": [
+          "all"
+        ]
+      },
+      {
+        "repo": "boringmarketer/boring-marketing-skills",
+        "owner": "boringmarketer",
+        "name": "boring-marketing-skills",
+        "stars": 537,
+        "velocity": 370,
+        "delta": null,
+        "age_days": 1.5,
+        "description": "32 free marketing skills for your AI agent: research, positioning, copy, pages, SEO, AI search, ads, email and content, ",
+        "new": true,
+        "variants": [
+          "boring marketing skills",
+          "boringmarketer boring marketing skills"
+        ],
+        "zh_description": "为你的 AI 智能体提供 32 项免费营销技能：市场调研、定位、文案、网页、SEO、AI 搜索、广告、邮件和内容营销等",
+        "tags": [
+          "全部",
+          "今日新入榜",
+          "智能体/Agent"
+        ],
+        "tag_keys": [
+          "all",
+          "new",
+          "agent"
+        ]
+      }
+    ],
+    "leads_data": [
+      {
+        "term": "sensenova loop",
+        "kinds": [
+          "hf"
+        ],
+        "signals": [
+          "Hugging Face: new at #10"
+        ],
+        "examples": [
+          "sensenova/SenseNova-Loop-9B (image-text-to-text, ♥193)"
+        ],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "image",
+        "one_click": null,
+        "zh_examples": [
+          "sensenova/SenseNova-Loop-9B (image-text-to-text, ♥193)"
+        ]
+      },
+      {
+        "term": "qwen3.8 pi adapted",
+        "kinds": [
+          "hf"
+        ],
+        "signals": [
+          "Hugging Face: new at #15"
+        ],
+        "examples": [
+          "harness-hub/Qwen3.8-27B-pi-adapted (?, ♥145)"
+        ],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": [
+          "harness-hub/Qwen3.8-27B-pi-adapted (?, ♥145)"
+        ]
+      },
+      {
+        "term": "slack moji",
+        "kinds": [
+          "hf"
+        ],
+        "signals": [
+          "Hugging Face Spaces: new at #50"
+        ],
+        "examples": [
+          "cfahlgren1/slack-moji (static, ♥13)"
+        ],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": [
+          "cfahlgren1/slack-moji (static, ♥13)"
+        ]
+      },
+      {
+        "term": "lastbook",
+        "kinds": [
+          "breakout"
+        ],
+        "signals": [
+          "GitHub breakout Immortal-Protocols/lastbook ★1812 (356/day, +740 in a day)"
+        ],
+        "examples": [
+          "Immortal-Protocols/lastbook: Offline knowledge AI, maps and videos for survival and rebuilding"
+        ],
+        "variants": [
+          "lastbook",
+          "immortal-protocols lastbook"
+        ],
+        "posts": [],
+        "repo": "Immortal-Protocols/lastbook",
+        "known": "",
+        "format": "video",
+        "one_click": null,
+        "zh_examples": [
+          "Immortal-Protocols/lastbook: 面向生存与重建的离线知识 AI、地图和视频"
+        ]
+      },
+      {
+        "term": "google ultra",
+        "kinds": [
+          "breakout"
+        ],
+        "signals": [
+          "GitHub breakout gylive/google-ultra ★1674 (1674/day)"
+        ],
+        "examples": [
+          "gylive/google-ultra: "
+        ],
+        "variants": [
+          "google ultra",
+          "gylive google ultra"
+        ],
+        "posts": [],
+        "repo": "gylive/google-ultra",
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": [
+          "gylive/google-ultra: "
+        ]
+      },
+      {
+        "term": "rust anything",
+        "kinds": [
+          "breakout"
+        ],
+        "signals": [
+          "GitHub breakout erkamyaman/rust-anything ★1417 (899/day)"
+        ],
+        "examples": [
+          "erkamyaman/rust-anything: Rewrite your whole app in Rust, one piece at a time, checked against the original's recorded behavior at every step. CLI"
+        ],
+        "variants": [
+          "rust anything",
+          "erkamyaman rust anything",
+          "erkam rust anything"
+        ],
+        "posts": [],
+        "repo": "erkamyaman/rust-anything",
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": [
+          "erkamyaman/rust-anything: 逐步将整个应用重写为 Rust，每一步都与原应用记录的行为进行核对。命令行工具"
+        ]
+      },
+      {
+        "term": "spaceship",
+        "kinds": [
+          "breakout"
+        ],
+        "signals": [
+          "GitHub breakout chuanqisun/spaceship ★713 (485/day)"
+        ],
+        "examples": [
+          "chuanqisun/spaceship: Steer your ideas in realtime"
+        ],
+        "variants": [
+          "spaceship",
+          "chuanqisun spaceship",
+          "sun spaceship"
+        ],
+        "posts": [],
+        "repo": "chuanqisun/spaceship",
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": [
+          "chuanqisun/spaceship: 实时引导你的创意"
+        ]
+      },
+      {
+        "term": "boring marketing skills",
+        "kinds": [
+          "breakout"
+        ],
+        "signals": [
+          "GitHub breakout boringmarketer/boring-marketing-skills ★537 (370/day)"
+        ],
+        "examples": [
+          "boringmarketer/boring-marketing-skills: 32 free marketing skills for your AI agent: research, positioning, copy, pages, SEO, AI search, ads, email and content, "
+        ],
+        "variants": [
+          "boring marketing skills",
+          "boringmarketer boring marketing skills"
+        ],
+        "posts": [],
+        "repo": "boringmarketer/boring-marketing-skills",
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": [
+          "boringmarketer/boring-marketing-skills: 为你的 AI 智能体提供 32 项免费营销技能：市场调研、定位、文案、网页、SEO、AI 搜索、广告、邮件和内容营销等"
+        ]
+      },
+      {
+        "term": "sites",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 697 places (×586.3)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "connectors io.github.monkeydscraping",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 47 places (×47.0)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "com.apify.mcp",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 47 places (×31.3)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "connectors com.apify.mcp",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 47 places (×31.3)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "scraper",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 63 places (×19.8)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "lex grid",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 10 places (×9.4)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "cloudcorprecords",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 42 places (×9.2)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "records",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 42 places (×8.6)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "corp",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 43 places (×8.5)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "grid",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 11 places (×7.7)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "io.github.monkeydscraping google",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 7 places (×7.0)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "com.apify.mcp google",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 7 places (×6.9)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "theluckystrike",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 9 places (×6.4)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "comments",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 7 places (×5.7)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "ratings",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 6 places (×5.7)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "facebook",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 9 places (×5.4)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "jobs scraper",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 6 places (×5.1)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "io.github.monkeydscraping facebook",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 5 places (×5.0)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "connectors io.github.lucaspissaia",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 5 places (×5.0)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "datax oracles",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 5 places (×5.0)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "cloud",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 49 places (×4.9)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "comments scraper",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 5 places (×4.9)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "posts",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 5 places (×4.4)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "com.apify.mcp facebook",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 4 places (×4.0)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "com.apify.mcp linked",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 4 places (×4.0)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      }
+    ]
+  },
+  {
     "id": "2026-11-17_evening",
     "date": "2026-11-17",
     "slot": "evening",
