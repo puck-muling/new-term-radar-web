@@ -1,5 +1,848 @@
 [
   {
+    "id": "2026-11-18_evening",
+    "date": "2026-11-18",
+    "slot": "evening",
+    "label": "2026-11-18 晚场 (19:00)",
+    "breakouts": 15,
+    "new_breakouts": 2,
+    "leads": 31,
+    "max_velocity": 2071,
+    "max_velocity_repo": "krisgfx9/Wireless-Device-Battery-Monitor",
+    "repos": [
+      {
+        "repo": "krisgfx9/Wireless-Device-Battery-Monitor",
+        "owner": "krisgfx9",
+        "name": "Wireless-Device-Battery-Monitor",
+        "stars": 3412,
+        "velocity": 2071,
+        "delta": 644,
+        "age_days": 1.6,
+        "description": "Show the battery level of wireless mice, headsets, keyboards and controllers on the Windows 10/11 taskbar. Lightweight t",
+        "new": false,
+        "zh_description": "在 Windows 10/11 任务栏上显示无线鼠标、耳机、键盘和游戏手柄的电池电量。轻量级",
+        "tags": [
+          "全部",
+          "超高爆发"
+        ],
+        "tag_keys": [
+          "all",
+          "high_velocity"
+        ]
+      },
+      {
+        "repo": "erkamyaman/rust-anything",
+        "owner": "erkamyaman",
+        "name": "rust-anything",
+        "stars": 2298,
+        "velocity": 1178,
+        "delta": 881,
+        "age_days": 2.0,
+        "description": "Rewrite your whole app in Rust, one piece at a time, checked against the original's recorded behavior at every step. CLI",
+        "new": false,
+        "zh_description": "逐步将整个应用重写为 Rust，每一步都与原应用记录的行为进行核对。命令行工具",
+        "tags": [
+          "全部",
+          "超高爆发"
+        ],
+        "tag_keys": [
+          "all",
+          "high_velocity"
+        ]
+      },
+      {
+        "repo": "huami-dev/GestaltX",
+        "owner": "huami-dev",
+        "name": "GestaltX",
+        "stars": 8231,
+        "velocity": 891,
+        "delta": null,
+        "age_days": 9.2,
+        "description": "An MobileGestalt editor for iOS 27.x, featuring region-code tweaks, device presets, backups.",
+        "new": true,
+        "variants": [
+          "gestaltx",
+          "huami-dev gestaltx",
+          "huamidev gestaltx"
+        ],
+        "zh_description": "一款面向 iOS 27.x 的 MobileGestalt 编辑器，支持地区代码调整、设备预设和备份。",
+        "tags": [
+          "全部",
+          "今日新入榜",
+          "移动/系统"
+        ],
+        "tag_keys": [
+          "all",
+          "new",
+          "mobile"
+        ]
+      },
+      {
+        "repo": "deepseek-ai/chat-demo",
+        "owner": "deepseek-ai",
+        "name": "chat-demo",
+        "stars": 4679,
+        "velocity": 765,
+        "delta": 130,
+        "age_days": 6.1,
+        "description": "Chat Demo",
+        "new": false,
+        "zh_description": "聊天演示",
+        "tags": [
+          "全部"
+        ],
+        "tag_keys": [
+          "all"
+        ]
+      },
+      {
+        "repo": "sybil-solutions/inference-optimisation-skill",
+        "owner": "sybil-solutions",
+        "name": "inference-optimisation-skill",
+        "stars": 1011,
+        "velocity": 602,
+        "delta": 79,
+        "age_days": 1.7,
+        "description": "Agent skill for hill-climbing local LLM serving speed (decode, speculative decoding, prefill, KV, startup, TTFT) on any ",
+        "new": false,
+        "zh_description": "用于优化本地 LLM 服务性能的智能体技能，涵盖解码、推测解码、预填充、KV 缓存、启动速度和 TTFT，适用于任何",
+        "tags": [
+          "全部",
+          "智能体/Agent",
+          "视觉/UI"
+        ],
+        "tag_keys": [
+          "all",
+          "agent",
+          "ui"
+        ]
+      },
+      {
+        "repo": "chuanqisun/spaceship",
+        "owner": "chuanqisun",
+        "name": "spaceship",
+        "stars": 812,
+        "velocity": 440,
+        "delta": 99,
+        "age_days": 1.8,
+        "description": "Steer your ideas in realtime",
+        "new": false,
+        "zh_description": "实时引导你的创意",
+        "tags": [
+          "全部"
+        ],
+        "tag_keys": [
+          "all"
+        ]
+      },
+      {
+        "repo": "tangerineturtle1/NX2navi",
+        "owner": "tangerineturtle1",
+        "name": "NX2navi",
+        "stars": 4314,
+        "velocity": 391,
+        "delta": 16,
+        "age_days": 11.0,
+        "description": "",
+        "new": false,
+        "zh_description": "暂无项目描述",
+        "tags": [
+          "全部"
+        ],
+        "tag_keys": [
+          "all"
+        ]
+      },
+      {
+        "repo": "Noniv/abyssal-garden",
+        "owner": "Noniv",
+        "name": "abyssal-garden",
+        "stars": 2288,
+        "velocity": 389,
+        "delta": 114,
+        "age_days": 5.9,
+        "description": "A dreamy underwater world you can swim through in your browser: swaying kelp forests, sunbeams, a sunken ship and manta ",
+        "new": false,
+        "zh_description": "可在浏览器中畅游的梦幻海底世界：摇曳的海带林、穿透水面的阳光、沉船和蝠鲼",
+        "tags": [
+          "全部"
+        ],
+        "tag_keys": [
+          "all"
+        ]
+      },
+      {
+        "repo": "duwqijlk/muse-protocol",
+        "owner": "duwqijlk",
+        "name": "muse-protocol",
+        "stars": 1615,
+        "velocity": 367,
+        "delta": 23,
+        "age_days": 4.4,
+        "description": "muse.ai 注册与邀请码兑换协议研究（纯 HTTP Python 实现）",
+        "new": false,
+        "zh_description": "muse.ai 注册与邀请码兑换协议研究（纯 HTTP Python 实现）",
+        "tags": [
+          "全部"
+        ],
+        "tag_keys": [
+          "all"
+        ]
+      },
+      {
+        "repo": "Hut-hzf/ung220z-tool",
+        "owner": "Hut-hzf",
+        "name": "ung220z-tool",
+        "stars": 781,
+        "velocity": 261,
+        "delta": 362,
+        "age_days": 3.0,
+        "description": "ung220z-tool 是一个针对 UNG220Z（九联/Unionman 中国移动光猫）的一键凭据提取工具，仅限在你自己的设备上用于找回忘记的管理密码、迁移宽带配置或安全自查。",
+        "new": true,
+        "variants": [
+          "ung220z tool",
+          "hut-hzf ung220z tool"
+        ],
+        "zh_description": "ung220z-tool 是一个针对 UNG220Z（九联/Unionman 中国移动光猫）的一键凭据提取工具，仅限在你自己的设备上用于找回忘记的管理密码、迁移宽带配置或安全自查。",
+        "tags": [
+          "全部",
+          "今日新入榜"
+        ],
+        "tag_keys": [
+          "all",
+          "new"
+        ]
+      },
+      {
+        "repo": "apex-compute/ANR",
+        "owner": "apex-compute",
+        "name": "ANR",
+        "stars": 2618,
+        "velocity": 360,
+        "delta": 20,
+        "age_days": 7.3,
+        "description": "Apex Neural Rendering (ANR) by Apex Compute",
+        "new": false,
+        "zh_description": "Apex Compute 推出的 Apex Neural Rendering（ANR）",
+        "tags": [
+          "全部"
+        ],
+        "tag_keys": [
+          "all"
+        ]
+      },
+      {
+        "repo": "Immortal-Protocols/lastbook",
+        "owner": "Immortal-Protocols",
+        "name": "lastbook",
+        "stars": 1963,
+        "velocity": 359,
+        "delta": 151,
+        "age_days": 5.5,
+        "description": "Offline knowledge AI, maps and videos for survival and rebuilding",
+        "new": false,
+        "zh_description": "面向生存与重建的离线知识 AI、地图和视频",
+        "tags": [
+          "全部",
+          "视觉/UI"
+        ],
+        "tag_keys": [
+          "all",
+          "ui"
+        ]
+      },
+      {
+        "repo": "joshpuckett/allo",
+        "owner": "joshpuckett",
+        "name": "allo",
+        "stars": 968,
+        "velocity": 355,
+        "delta": 79,
+        "age_days": 2.7,
+        "description": "Allo is your friendly neighborhood typeface, free and open source",
+        "new": false,
+        "zh_description": "Allo 是一款亲切友好的字体，免费且开源",
+        "tags": [
+          "全部"
+        ],
+        "tag_keys": [
+          "all"
+        ]
+      },
+      {
+        "repo": "jhaizhou-ops/S2Arm",
+        "owner": "jhaizhou-ops",
+        "name": "S2Arm",
+        "stars": 3555,
+        "velocity": 348,
+        "delta": 52,
+        "age_days": 10.2,
+        "description": "Run your own Switch games natively on iPhone, iPad and Mac: game code rewritten to ARM64, graphics direct to Metal, one ",
+        "new": false,
+        "zh_description": "在 iPhone、iPad 和 Mac 上原生运行自己的 Switch 游戏：游戏代码重写为 ARM64，图形直接通过 Metal 渲染，",
+        "tags": [
+          "全部",
+          "移动/系统"
+        ],
+        "tag_keys": [
+          "all",
+          "mobile"
+        ]
+      },
+      {
+        "repo": "boringmarketer/boring-marketing-skills",
+        "owner": "boringmarketer",
+        "name": "boring-marketing-skills",
+        "stars": 607,
+        "velocity": 332,
+        "delta": 70,
+        "age_days": 1.8,
+        "description": "32 free marketing skills for your AI agent: research, positioning, copy, pages, SEO, AI search, ads, email and content, ",
+        "new": false,
+        "zh_description": "为你的 AI 智能体提供 32 项免费营销技能：市场调研、定位、文案、网页、SEO、AI 搜索、广告、邮件和内容营销等",
+        "tags": [
+          "全部",
+          "智能体/Agent"
+        ],
+        "tag_keys": [
+          "all",
+          "agent"
+        ]
+      }
+    ],
+    "leads_data": [
+      {
+        "term": "hy4 flash",
+        "kinds": [
+          "hf"
+        ],
+        "signals": [
+          "Hugging Face: new at #16"
+        ],
+        "examples": [
+          "tencent/Hy4-flash (image-text-to-text, ♥143)"
+        ],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "image",
+        "one_click": null,
+        "zh_examples": [
+          "tencent/Hy4-flash (image-text-to-text, ♥143)"
+        ]
+      },
+      {
+        "term": "openthai2.1 ocr text 20261118",
+        "kinds": [
+          "hf"
+        ],
+        "signals": [
+          "Hugging Face: new at #46"
+        ],
+        "examples": [
+          "iapp/OpenThai2.1-OCR-Text-20261118 (image-to-text, ♥95)"
+        ],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "image",
+        "one_click": null,
+        "zh_examples": [
+          "iapp/OpenThai2.1-OCR-Text-20261118 (image-to-text, ♥95)"
+        ]
+      },
+      {
+        "term": "ai image upscaler",
+        "kinds": [
+          "hf"
+        ],
+        "signals": [
+          "Hugging Face Spaces: new at #49"
+        ],
+        "examples": [
+          "MegaPotatoAI/AI-Image-Upscaler (static, ♥24)"
+        ],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "image",
+        "one_click": null,
+        "zh_examples": [
+          "MegaPotatoAI/AI-Image-Upscaler (static, ♥24)"
+        ]
+      },
+      {
+        "term": "wan2 2 fp8da aoti faster",
+        "kinds": [
+          "hf"
+        ],
+        "signals": [
+          "Hugging Face Spaces: new at #41"
+        ],
+        "examples": [
+          "zerogpu-aoti/wan2-2-fp8da-aoti-faster (gradio, ♥3886)"
+        ],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": [
+          "zerogpu-aoti/wan2-2-fp8da-aoti-faster (gradio, ♥3886)"
+        ]
+      },
+      {
+        "term": "gestaltx",
+        "kinds": [
+          "breakout"
+        ],
+        "signals": [
+          "GitHub breakout huami-dev/GestaltX ★8231 (891/day)"
+        ],
+        "examples": [
+          "huami-dev/GestaltX: An MobileGestalt editor for iOS 27.x, featuring region-code tweaks, device presets, backups."
+        ],
+        "variants": [
+          "gestaltx",
+          "huami-dev gestaltx",
+          "huamidev gestaltx"
+        ],
+        "posts": [],
+        "repo": "huami-dev/GestaltX",
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": [
+          "huami-dev/GestaltX: 一款面向 iOS 27.x 的 MobileGestalt 编辑器，支持地区代码调整、设备预设和备份。"
+        ]
+      },
+      {
+        "term": "ung220z tool",
+        "kinds": [
+          "breakout"
+        ],
+        "signals": [
+          "GitHub breakout Hut-hzf/ung220z-tool ★781 (261/day, +362 in a day)"
+        ],
+        "examples": [
+          "Hut-hzf/ung220z-tool: ung220z-tool 是一个针对 UNG220Z（九联/Unionman 中国移动光猫）的一键凭据提取工具，仅限在你自己的设备上用于找回忘记的管理密码、迁移宽带配置或安全自查。"
+        ],
+        "variants": [
+          "ung220z tool",
+          "hut-hzf ung220z tool"
+        ],
+        "posts": [],
+        "repo": "Hut-hzf/ung220z-tool",
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": [
+          "Hut-hzf/ung220z-tool: ung220z-tool 是一个针对 UNG220Z（九联/Unionman 中国移动光猫）的一键凭据提取工具，仅限在你自己的设备上用于找回忘记的管理密码、迁移宽带配置或安全自查。"
+        ]
+      },
+      {
+        "term": "santex85",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 8 places (×8.0)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "cotlet connect",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 10 places (×7.5)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "storefront",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 8 places (×7.4)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "radar",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 10 places (×7.0)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "connect",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 12 places (×6.5)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "connectors io.github.dheerajitbhu",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 5 places (×5.0)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "ceosuh",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 5 places (×5.0)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "connectors com.apify.mcp",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 6 places (×4.8)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "connectors io.github.sumitrmardy",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 5 places (×4.8)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "ankur1911",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 4 places (×4.0)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "mambalabsdev",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 5 places (×3.9)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "qompassai",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 4 places (×3.9)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "jobs",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 6 places (×3.4)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "scraper",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 6 places (×3.4)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "io.github.nick353",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 3 places (×3.0)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "connectors io.github.nick353",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 3 places (×3.0)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "dir calculadora",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 3 places (×3.0)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "nick353",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 3 places (×3.0)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "fsa",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 3 places (×3.0)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "davised",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 3 places (×2.9)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "abigail",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 3 places (×2.9)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "abigaildavised",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 3 places (×2.9)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "lab",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 7 places (×2.8)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "tollbooth",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 3 places (×2.8)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "dsh",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 5 places (×2.7)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      }
+    ]
+  },
+  {
     "id": "2026-11-18_morning",
     "date": "2026-11-18",
     "slot": "morning",
