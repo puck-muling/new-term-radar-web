@@ -1,5 +1,928 @@
 [
   {
+    "id": "2026-11-20_evening",
+    "date": "2026-11-20",
+    "slot": "evening",
+    "label": "2026-11-20 晚场 (19:00)",
+    "breakouts": 15,
+    "new_breakouts": 5,
+    "leads": 33,
+    "max_velocity": 1493,
+    "max_velocity_repo": "erkamyaman/rust-anything",
+    "repos": [
+      {
+        "repo": "erkamyaman/rust-anything",
+        "owner": "erkamyaman",
+        "name": "rust-anything",
+        "stars": 5898,
+        "velocity": 1493,
+        "delta": 1759,
+        "age_days": 4.0,
+        "description": "Rewrite your whole app in Rust, one piece at a time, checked against the original's recorded behavior at every step. CLI",
+        "new": false,
+        "zh_description": "逐步将整个应用重写为 Rust，每一步都与原应用记录的行为进行核对。命令行工具",
+        "tags": [
+          "全部",
+          "超高爆发"
+        ],
+        "tag_keys": [
+          "all",
+          "high_velocity"
+        ]
+      },
+      {
+        "repo": "simplexai-labs/linger",
+        "owner": "simplexai-labs",
+        "name": "linger",
+        "stars": 2433,
+        "velocity": 236,
+        "delta": 1473,
+        "age_days": 10.3,
+        "description": "Linger is An Open-Source Personal Agent That Runs Fully on Your PC.  We aim to break Big Tech’s grip on AI by bringing p",
+        "new": false,
+        "zh_description": "Linger 是一款完全在你的电脑上运行的开源个人智能体。我们的目标是打破大型科技公司对 AI 的掌控，让个人能够拥有自己的……",
+        "tags": [
+          "全部",
+          "智能体/Agent"
+        ],
+        "tag_keys": [
+          "all",
+          "agent"
+        ]
+      },
+      {
+        "repo": "krisgfx9/Wireless-Device-Battery-Monitor",
+        "owner": "krisgfx9",
+        "name": "Wireless-Device-Battery-Monitor",
+        "stars": 4920,
+        "velocity": 1349,
+        "delta": 643,
+        "age_days": 3.6,
+        "description": "Show the battery level of wireless mice, headsets, keyboards and controllers on the Windows 10/11 taskbar. Lightweight t",
+        "new": false,
+        "zh_description": "在 Windows 10/11 任务栏上显示无线鼠标、耳机、键盘和游戏手柄的电池电量。轻量级",
+        "tags": [
+          "全部",
+          "超高爆发"
+        ],
+        "tag_keys": [
+          "all",
+          "high_velocity"
+        ]
+      },
+      {
+        "repo": "imxieyi/Kernarium",
+        "owner": "imxieyi",
+        "name": "Kernarium",
+        "stars": 1686,
+        "velocity": 131,
+        "delta": 1036,
+        "age_days": 12.9,
+        "description": "Run real Linux kernel natively on iOS",
+        "new": true,
+        "variants": [
+          "kernarium",
+          "imxieyi kernarium",
+          "yi kernarium"
+        ],
+        "zh_description": "在 iOS 上原生运行真正的 Linux 内核",
+        "tags": [
+          "全部",
+          "今日新入榜"
+        ],
+        "tag_keys": [
+          "all",
+          "new"
+        ]
+      },
+      {
+        "repo": "bookwjitchieni1986/blender-ai-mcp-addon",
+        "owner": "bookwjitchieni1986",
+        "name": "blender-ai-mcp-addon",
+        "stars": 1014,
+        "velocity": 1014,
+        "delta": null,
+        "age_days": 1.0,
+        "description": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with ChatGPT/GPT, Claude",
+        "new": true,
+        "variants": [
+          "blender ai mcp addon",
+          "bookwjitchieni1986 blender ai mcp addon"
+        ],
+        "zh_description": "面向 Blender 的 AI 助手与 MCP 服务器：支持可视化对话、场景工具和多智能体工作流，可与 ChatGPT/GPT、Claude 协同使用",
+        "tags": [
+          "全部",
+          "今日新入榜",
+          "超高爆发",
+          "智能体/Agent"
+        ],
+        "tag_keys": [
+          "all",
+          "new",
+          "high_velocity",
+          "agent"
+        ]
+      },
+      {
+        "repo": "gylive/google-ultra",
+        "owner": "gylive",
+        "name": "google-ultra",
+        "stars": 2500,
+        "velocity": 826,
+        "delta": null,
+        "age_days": 3.0,
+        "description": "",
+        "new": false,
+        "zh_description": "暂无项目描述",
+        "tags": [
+          "全部"
+        ],
+        "tag_keys": [
+          "all"
+        ]
+      },
+      {
+        "repo": "iamajmeena/neonclipping",
+        "owner": "iamajmeena",
+        "name": "neonclipping",
+        "stars": 857,
+        "velocity": 823,
+        "delta": null,
+        "age_days": 1.0,
+        "description": "Paste a link, get captioned 9:16 clips in ~2 min. Free, local, open-source clipping engine (audio-first, YouTube caption",
+        "new": true,
+        "variants": [
+          "neonclipping",
+          "iamajmeena neonclipping"
+        ],
+        "zh_description": "粘贴链接，约 2 分钟即可生成带字幕的 9:16 短视频。免费、本地运行、开源的剪辑引擎（音频优先，支持 YouTube 字幕",
+        "tags": [
+          "全部",
+          "今日新入榜"
+        ],
+        "tag_keys": [
+          "all",
+          "new"
+        ]
+      },
+      {
+        "repo": "huami1314/GestaltX",
+        "owner": "huami1314",
+        "name": "GestaltX",
+        "stars": 8605,
+        "velocity": 766,
+        "delta": 138,
+        "age_days": 11.2,
+        "description": "An MobileGestalt editor for iOS 27.x, featuring region-code tweaks, device presets, backups.",
+        "new": false,
+        "zh_description": "一款面向 iOS 27.x 的 MobileGestalt 编辑器，支持地区代码调整、设备预设和备份。",
+        "tags": [
+          "全部",
+          "移动/系统"
+        ],
+        "tag_keys": [
+          "all",
+          "mobile"
+        ]
+      },
+      {
+        "repo": "deepseek-ai/chat-demo",
+        "owner": "deepseek-ai",
+        "name": "chat-demo",
+        "stars": 5089,
+        "velocity": 627,
+        "delta": 125,
+        "age_days": 8.1,
+        "description": "Chat Demo",
+        "new": false,
+        "zh_description": "聊天演示",
+        "tags": [
+          "全部"
+        ],
+        "tag_keys": [
+          "all"
+        ]
+      },
+      {
+        "repo": "ersinkoc/phonebox",
+        "owner": "ersinkoc",
+        "name": "phonebox",
+        "stars": 4030,
+        "velocity": 316,
+        "delta": 557,
+        "age_days": 12.8,
+        "description": "Turn an old Android phone into a customizable desk panel and touch control deck for Windows, Linux and macOS. 124 widget",
+        "new": false,
+        "zh_description": "将闲置 Android 手机变成可自定义的桌面面板和触控控制台，支持 Windows、Linux 和 macOS。内置 124 个小组件",
+        "tags": [
+          "全部",
+          "移动/系统"
+        ],
+        "tag_keys": [
+          "all",
+          "mobile"
+        ]
+      },
+      {
+        "repo": "MSNightmare/FastUnlock",
+        "owner": "MSNightmare",
+        "name": "FastUnlock",
+        "stars": 476,
+        "velocity": 476,
+        "delta": null,
+        "age_days": 1.0,
+        "description": "FastUnlock : Windows Narrator LockScreen Bypass 0day Vulnerability",
+        "new": true,
+        "variants": [
+          "fastunlock",
+          "msnightmare fastunlock",
+          "birb fastunlock"
+        ],
+        "zh_description": "FastUnlock：Windows  Narrator 锁屏界面绕过 0day 漏洞",
+        "tags": [
+          "全部",
+          "今日新入榜"
+        ],
+        "tag_keys": [
+          "all",
+          "new"
+        ]
+      },
+      {
+        "repo": "0marContreras/gta6recomp",
+        "owner": "0marContreras",
+        "name": "gta6recomp",
+        "stars": 724,
+        "velocity": 412,
+        "delta": null,
+        "age_days": 1.8,
+        "description": "A GTA VI PC Port",
+        "new": true,
+        "variants": [
+          "gta6recomp",
+          "0marcontreras gta6recomp",
+          "omar gta6recomp"
+        ],
+        "zh_description": "GTA VI PC 版移植项目",
+        "tags": [
+          "全部",
+          "今日新入榜",
+          "移动/系统"
+        ],
+        "tag_keys": [
+          "all",
+          "new",
+          "mobile"
+        ]
+      },
+      {
+        "repo": "Immortal-Protocols/lastbook",
+        "owner": "Immortal-Protocols",
+        "name": "lastbook",
+        "stars": 2662,
+        "velocity": 357,
+        "delta": 408,
+        "age_days": 7.5,
+        "description": "Offline knowledge AI, maps and videos for survival and rebuilding",
+        "new": false,
+        "zh_description": "面向生存与重建的离线知识 AI、地图和视频",
+        "tags": [
+          "全部",
+          "视觉/UI"
+        ],
+        "tag_keys": [
+          "all",
+          "ui"
+        ]
+      },
+      {
+        "repo": "Hut-hzf/ung220z-tool",
+        "owner": "Hut-hzf",
+        "name": "ung220z-tool",
+        "stars": 1888,
+        "velocity": 378,
+        "delta": 314,
+        "age_days": 5.0,
+        "description": "ung220z-tool 是一个针对 UNG220Z（九联/Unionman 中国移动光猫）的一键凭据提取工具，仅限在你自己的设备上用于找回忘记的管理密码、迁移宽带配置或安全自查。",
+        "new": false,
+        "zh_description": "ung220z-tool 是一个针对 UNG220Z（九联/Unionman 中国移动光猫）的一键凭据提取工具，仅限在你自己的设备上用于找回忘记的管理密码、迁移宽带配置或安全自查。",
+        "tags": [
+          "全部"
+        ],
+        "tag_keys": [
+          "all"
+        ]
+      },
+      {
+        "repo": "sybil-solutions/inference-optimisation-skill",
+        "owner": "sybil-solutions",
+        "name": "inference-optimisation-skill",
+        "stars": 1285,
+        "velocity": 349,
+        "delta": 105,
+        "age_days": 3.7,
+        "description": "Agent skill for hill-climbing local LLM serving speed (decode, speculative decoding, prefill, KV, startup, TTFT) on any ",
+        "new": false,
+        "zh_description": "用于优化本地 LLM 服务性能的智能体技能，涵盖解码、推测解码、预填充、KV 缓存、启动速度和 TTFT，适用于任何",
+        "tags": [
+          "全部",
+          "智能体/Agent",
+          "视觉/UI"
+        ],
+        "tag_keys": [
+          "all",
+          "agent",
+          "ui"
+        ]
+      }
+    ],
+    "leads_data": [
+      {
+        "term": "hy4",
+        "kinds": [
+          "hf"
+        ],
+        "signals": [
+          "Hugging Face: new at #32"
+        ],
+        "examples": [
+          "tencent/Hy4 (image-text-to-text, ♥74)"
+        ],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "image",
+        "one_click": null,
+        "zh_examples": [
+          "tencent/Hy4 (image-text-to-text, ♥74)"
+        ]
+      },
+      {
+        "term": "qwen3.8 pi adapted",
+        "kinds": [
+          "hf"
+        ],
+        "signals": [
+          "Hugging Face: new at #48"
+        ],
+        "examples": [
+          "harness-hub/Qwen3.8-27B-pi-adapted-GGUF (?, ♥70)"
+        ],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": [
+          "harness-hub/Qwen3.8-27B-pi-adapted-GGUF (?, ♥70)"
+        ]
+      },
+      {
+        "term": "leaderboard",
+        "kinds": [
+          "hf"
+        ],
+        "signals": [
+          "Hugging Face Spaces: new at #13"
+        ],
+        "examples": [
+          "agent-memory-leaderboard/leaderboard (static, ♥911)"
+        ],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": [
+          "agent-memory-leaderboard/leaderboard (static, ♥911)"
+        ]
+      },
+      {
+        "term": "neonclipping",
+        "kinds": [
+          "breakout"
+        ],
+        "signals": [
+          "GitHub breakout iamajmeena/neonclipping ★857 (823/day)"
+        ],
+        "examples": [
+          "iamajmeena/neonclipping: Paste a link, get captioned 9:16 clips in ~2 min. Free, local, open-source clipping engine (audio-first, YouTube caption"
+        ],
+        "variants": [
+          "neonclipping",
+          "iamajmeena neonclipping"
+        ],
+        "posts": [],
+        "repo": "iamajmeena/neonclipping",
+        "known": "",
+        "format": "video",
+        "one_click": null,
+        "zh_examples": [
+          "iamajmeena/neonclipping: 粘贴链接，约 2 分钟即可生成带字幕的 9:16 短视频。免费、本地运行、开源的剪辑引擎（音频优先，支持 YouTube 字幕"
+        ]
+      },
+      {
+        "term": "kernarium",
+        "kinds": [
+          "breakout"
+        ],
+        "signals": [
+          "GitHub breakout imxieyi/Kernarium ★1686 (131/day, +1036 in a day)"
+        ],
+        "examples": [
+          "imxieyi/Kernarium: Run real Linux kernel natively on iOS"
+        ],
+        "variants": [
+          "kernarium",
+          "imxieyi kernarium",
+          "yi kernarium"
+        ],
+        "posts": [],
+        "repo": "imxieyi/Kernarium",
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": [
+          "imxieyi/Kernarium: 在 iOS 上原生运行真正的 Linux 内核"
+        ]
+      },
+      {
+        "term": "blender ai mcp addon",
+        "kinds": [
+          "breakout"
+        ],
+        "signals": [
+          "GitHub breakout bookwjitchieni1986/blender-ai-mcp-addon ★1014 (1014/day)"
+        ],
+        "examples": [
+          "bookwjitchieni1986/blender-ai-mcp-addon: AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with ChatGPT/GPT, Claude"
+        ],
+        "variants": [
+          "blender ai mcp addon",
+          "bookwjitchieni1986 blender ai mcp addon"
+        ],
+        "posts": [],
+        "repo": "bookwjitchieni1986/blender-ai-mcp-addon",
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": [
+          "bookwjitchieni1986/blender-ai-mcp-addon: 面向 Blender 的 AI 助手与 MCP 服务器：支持可视化对话、场景工具和多智能体工作流，可与 ChatGPT/GPT、Claude 协同使用"
+        ]
+      },
+      {
+        "term": "fastunlock",
+        "kinds": [
+          "breakout"
+        ],
+        "signals": [
+          "GitHub breakout MSNightmare/FastUnlock ★476 (476/day)"
+        ],
+        "examples": [
+          "MSNightmare/FastUnlock: FastUnlock : Windows Narrator LockScreen Bypass 0day Vulnerability"
+        ],
+        "variants": [
+          "fastunlock",
+          "msnightmare fastunlock",
+          "birb fastunlock"
+        ],
+        "posts": [],
+        "repo": "MSNightmare/FastUnlock",
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": [
+          "MSNightmare/FastUnlock: FastUnlock：Windows  Narrator 锁屏界面绕过 0day 漏洞"
+        ]
+      },
+      {
+        "term": "gta6recomp",
+        "kinds": [
+          "breakout"
+        ],
+        "signals": [
+          "GitHub breakout 0marContreras/gta6recomp ★724 (412/day)"
+        ],
+        "examples": [
+          "0marContreras/gta6recomp: A GTA VI PC Port"
+        ],
+        "variants": [
+          "gta6recomp",
+          "0marcontreras gta6recomp",
+          "omar gta6recomp"
+        ],
+        "posts": [],
+        "repo": "0marContreras/gta6recomp",
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": [
+          "0marContreras/gta6recomp: GTA VI PC 版移植项目"
+        ]
+      },
+      {
+        "term": "tutorials",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 27 places (×15.6)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "tutorials deepseek",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 12 places (×12.0)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "ai.agentapigate",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 10 places (×10.0)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "connectors ai.agentapigate",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 10 places (×10.0)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "connectors ai.agentapihub",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 10 places (×10.0)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "deepseek",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 18 places (×9.0)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "r1",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 10 places (×8.9)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "cotlet connect",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 12 places (×6.2)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "io.github.whosman",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 5 places (×5.0)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "connectors io.github.whosman",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 5 places (×5.0)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "zhejiang",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 5 places (×5.0)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "connectors work.agentexchange",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 5 places (×4.7)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "series",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 5 places (×4.7)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "profile",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 7 places (×4.5)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "b2b",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 6 places (×4.3)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "listings",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 5 places (×4.2)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "dev.workers.b2bintel",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 4 places (×4.0)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "connectors dev.workers.b2bintel",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 4 places (×4.0)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "connectors io.github.cerebrixos",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 4 places (×4.0)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "io.github.cerebrixos org",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 4 places (×4.0)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "well huawei",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 4 places (×4.0)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "key well",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 4 places (×4.0)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "courseware series",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 4 places (×4.0)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "deepseek courseware",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 4 places (×4.0)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "zhejiang deepseek",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 4 places (×4.0)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      }
+    ]
+  },
+  {
     "id": "2026-11-20_morning",
     "date": "2026-11-20",
     "slot": "morning",
