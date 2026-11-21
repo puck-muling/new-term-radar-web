@@ -1,5 +1,752 @@
 [
   {
+    "id": "2026-11-21_morning",
+    "date": "2026-11-21",
+    "slot": "morning",
+    "label": "2026-11-21 早场 (10:00)",
+    "breakouts": 15,
+    "new_breakouts": 0,
+    "leads": 27,
+    "max_velocity": 1460,
+    "max_velocity_repo": "erkamyaman/rust-anything",
+    "repos": [
+      {
+        "repo": "erkamyaman/rust-anything",
+        "owner": "erkamyaman",
+        "name": "rust-anything",
+        "stars": 6682,
+        "velocity": 1460,
+        "delta": 784,
+        "age_days": 4.6,
+        "description": "Rewrite your whole app in Rust, one piece at a time, checked against the original's recorded behavior at every step. CLI",
+        "new": false,
+        "zh_description": "逐步将整个应用重写为 Rust，每一步都与原应用记录的行为进行核对。命令行工具",
+        "tags": [
+          "全部",
+          "超高爆发"
+        ],
+        "tag_keys": [
+          "all",
+          "high_velocity"
+        ]
+      },
+      {
+        "repo": "krisgfx9/Wireless-Device-Battery-Monitor",
+        "owner": "krisgfx9",
+        "name": "Wireless-Device-Battery-Monitor",
+        "stars": 5328,
+        "velocity": 1247,
+        "delta": 408,
+        "age_days": 4.3,
+        "description": "Show the battery level of wireless mice, headsets, keyboards and controllers on the Windows 10/11 taskbar. Lightweight t",
+        "new": false,
+        "zh_description": "在 Windows 10/11 任务栏上显示无线鼠标、耳机、键盘和游戏手柄的电池电量。轻量级",
+        "tags": [
+          "全部",
+          "超高爆发"
+        ],
+        "tag_keys": [
+          "all",
+          "high_velocity"
+        ]
+      },
+      {
+        "repo": "bookwjitchieni1986/blender-ai-mcp-addon",
+        "owner": "bookwjitchieni1986",
+        "name": "blender-ai-mcp-addon",
+        "stars": 1795,
+        "velocity": 1221,
+        "delta": 781,
+        "age_days": 1.5,
+        "description": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with ChatGPT/GPT, Claude",
+        "new": false,
+        "zh_description": "面向 Blender 的 AI 助手与 MCP 服务器：支持可视化对话、场景工具和多智能体工作流，可与 ChatGPT/GPT、Claude 协同使用",
+        "tags": [
+          "全部",
+          "超高爆发",
+          "智能体/Agent"
+        ],
+        "tag_keys": [
+          "all",
+          "high_velocity",
+          "agent"
+        ]
+      },
+      {
+        "repo": "iamajmeena/neonclipping",
+        "owner": "iamajmeena",
+        "name": "neonclipping",
+        "stars": 1253,
+        "velocity": 752,
+        "delta": 396,
+        "age_days": 1.7,
+        "description": "Paste a link, get captioned 9:16 clips in ~2 min. Free, local, open-source clipping engine (audio-first, YouTube caption",
+        "new": false,
+        "zh_description": "粘贴链接，约 2 分钟即可生成带字幕的 9:16 短视频。免费、本地运行、开源的剪辑引擎（音频优先，支持 YouTube 字幕",
+        "tags": [
+          "全部"
+        ],
+        "tag_keys": [
+          "all"
+        ]
+      },
+      {
+        "repo": "huami1314/GestaltX",
+        "owner": "huami1314",
+        "name": "GestaltX",
+        "stars": 8645,
+        "velocity": 729,
+        "delta": 40,
+        "age_days": 11.9,
+        "description": "An MobileGestalt editor for iOS 27.x, featuring region-code tweaks, device presets, backups.",
+        "new": false,
+        "zh_description": "一款面向 iOS 27.x 的 MobileGestalt 编辑器，支持地区代码调整、设备预设和备份。",
+        "tags": [
+          "全部",
+          "移动/系统"
+        ],
+        "tag_keys": [
+          "all",
+          "mobile"
+        ]
+      },
+      {
+        "repo": "gylive/google-ultra",
+        "owner": "gylive",
+        "name": "google-ultra",
+        "stars": 2537,
+        "velocity": 695,
+        "delta": 37,
+        "age_days": 3.7,
+        "description": "",
+        "new": false,
+        "zh_description": "暂无项目描述",
+        "tags": [
+          "全部"
+        ],
+        "tag_keys": [
+          "all"
+        ]
+      },
+      {
+        "repo": "deepseek-ai/chat-demo",
+        "owner": "deepseek-ai",
+        "name": "chat-demo",
+        "stars": 5126,
+        "velocity": 586,
+        "delta": 37,
+        "age_days": 8.7,
+        "description": "Chat Demo",
+        "new": false,
+        "zh_description": "聊天演示",
+        "tags": [
+          "全部"
+        ],
+        "tag_keys": [
+          "all"
+        ]
+      },
+      {
+        "repo": "simplexai-labs/linger",
+        "owner": "simplexai-labs",
+        "name": "linger",
+        "stars": 2922,
+        "velocity": 267,
+        "delta": 489,
+        "age_days": 10.9,
+        "description": "Linger is An Open-Source Personal Agent That Runs Fully on Your PC.  We aim to break Big Tech’s grip on AI by bringing p",
+        "new": false,
+        "zh_description": "Linger 是一款完全在你的电脑上运行的开源个人智能体。我们的目标是打破大型科技公司对 AI 的掌控，让个人能够拥有自己的……",
+        "tags": [
+          "全部",
+          "智能体/Agent"
+        ],
+        "tag_keys": [
+          "all",
+          "agent"
+        ]
+      },
+      {
+        "repo": "MSNightmare/FastUnlock",
+        "owner": "MSNightmare",
+        "name": "FastUnlock",
+        "stars": 582,
+        "velocity": 374,
+        "delta": 106,
+        "age_days": 1.6,
+        "description": "FastUnlock : Windows Narrator LockScreen Bypass 0day Vulnerability",
+        "new": false,
+        "zh_description": "FastUnlock：Windows  Narrator 锁屏界面绕过 0day 漏洞",
+        "tags": [
+          "全部"
+        ],
+        "tag_keys": [
+          "all"
+        ]
+      },
+      {
+        "repo": "Hut-hzf/ung220z-tool",
+        "owner": "Hut-hzf",
+        "name": "ung220z-tool",
+        "stars": 2020,
+        "velocity": 360,
+        "delta": 132,
+        "age_days": 5.6,
+        "description": "ung220z-tool 是一个针对 UNG220Z（九联/Unionman 中国移动光猫）的一键凭据提取工具，仅限在你自己的设备上用于找回忘记的管理密码、迁移宽带配置或安全自查。",
+        "new": false,
+        "zh_description": "ung220z-tool 是一个针对 UNG220Z（九联/Unionman 中国移动光猫）的一键凭据提取工具，仅限在你自己的设备上用于找回忘记的管理密码、迁移宽带配置或安全自查。",
+        "tags": [
+          "全部"
+        ],
+        "tag_keys": [
+          "all"
+        ]
+      },
+      {
+        "repo": "Immortal-Protocols/lastbook",
+        "owner": "Immortal-Protocols",
+        "name": "lastbook",
+        "stars": 2750,
+        "velocity": 340,
+        "delta": 88,
+        "age_days": 8.1,
+        "description": "Offline knowledge AI, maps and videos for survival and rebuilding",
+        "new": false,
+        "zh_description": "面向生存与重建的离线知识 AI、地图和视频",
+        "tags": [
+          "全部",
+          "视觉/UI"
+        ],
+        "tag_keys": [
+          "all",
+          "ui"
+        ]
+      },
+      {
+        "repo": "tangerineturtle1/NX2navi",
+        "owner": "tangerineturtle1",
+        "name": "NX2navi",
+        "stars": 4340,
+        "velocity": 318,
+        "delta": 3,
+        "age_days": 13.7,
+        "description": "",
+        "new": false,
+        "zh_description": "暂无项目描述",
+        "tags": [
+          "全部"
+        ],
+        "tag_keys": [
+          "all"
+        ]
+      },
+      {
+        "repo": "ersinkoc/phonebox",
+        "owner": "ersinkoc",
+        "name": "phonebox",
+        "stars": 4249,
+        "velocity": 317,
+        "delta": 219,
+        "age_days": 13.4,
+        "description": "Turn an old Android phone into a customizable desk panel and touch control deck for Windows, Linux and macOS. 124 widget",
+        "new": false,
+        "zh_description": "将闲置 Android 手机变成可自定义的桌面面板和触控控制台，支持 Windows、Linux 和 macOS。内置 124 个小组件",
+        "tags": [
+          "全部",
+          "移动/系统"
+        ],
+        "tag_keys": [
+          "all",
+          "mobile"
+        ]
+      },
+      {
+        "repo": "sybil-solutions/inference-optimisation-skill",
+        "owner": "sybil-solutions",
+        "name": "inference-optimisation-skill",
+        "stars": 1340,
+        "velocity": 311,
+        "delta": 55,
+        "age_days": 4.3,
+        "description": "Agent skill for hill-climbing local LLM serving speed (decode, speculative decoding, prefill, KV, startup, TTFT) on any ",
+        "new": false,
+        "zh_description": "用于优化本地 LLM 服务性能的智能体技能，涵盖解码、推测解码、预填充、KV 缓存、启动速度和 TTFT，适用于任何",
+        "tags": [
+          "全部",
+          "智能体/Agent",
+          "视觉/UI"
+        ],
+        "tag_keys": [
+          "all",
+          "agent",
+          "ui"
+        ]
+      },
+      {
+        "repo": "Noniv/abyssal-garden",
+        "owner": "Noniv",
+        "name": "abyssal-garden",
+        "stars": 2610,
+        "velocity": 307,
+        "delta": 67,
+        "age_days": 8.5,
+        "description": "A dreamy underwater world you can swim through in your browser: swaying kelp forests, sunbeams, a sunken ship and manta ",
+        "new": false,
+        "zh_description": "可在浏览器中畅游的梦幻海底世界：摇曳的海带林、穿透水面的阳光、沉船和蝠鲼",
+        "tags": [
+          "全部"
+        ],
+        "tag_keys": [
+          "all"
+        ]
+      }
+    ],
+    "leads_data": [
+      {
+        "term": "reverb tts runntime",
+        "kinds": [
+          "hf"
+        ],
+        "signals": [
+          "Hugging Face Spaces: new at #43"
+        ],
+        "examples": [
+          "software-mansion/Reverb-TTS-runntime (static, ♥17)"
+        ],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "voice",
+        "one_click": null,
+        "zh_examples": [
+          "software-mansion/Reverb-TTS-runntime (static, ♥17)"
+        ]
+      },
+      {
+        "term": "inkling 2 mini",
+        "kinds": [
+          "hf"
+        ],
+        "signals": [
+          "Hugging Face: new at #1, 2 versions"
+        ],
+        "examples": [
+          "thinkingmachines/Inkling-2-Mini (image-text-to-text, ♥690)",
+          "unsloth/Inkling-2-Mini-GGUF (image-text-to-text, ♥217)"
+        ],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "image",
+        "one_click": null,
+        "zh_examples": [
+          "thinkingmachines/Inkling-2-Mini (image-text-to-text, ♥690)",
+          "unsloth/Inkling-2-Mini-GGUF (image-text-to-text, ♥217)"
+        ]
+      },
+      {
+        "term": "connectors work.agentexchange",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 31 places (×29.4)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "connectors io.github.tudorlane",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 12 places (×12.0)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "tudorlane",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 12 places (×12.0)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "io.github.tudor",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 12 places (×12.0)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "io.github.tudorlane tudorlane",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 12 places (×12.0)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "lane",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 12 places (×11.5)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "io.sslip.149",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 11 places (×11.0)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "connectors io.sslip.149",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 11 places (×11.0)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "connectors ai.agentapigate",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 10 places (×9.7)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "connectors ai.agentapihub",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 10 places (×9.7)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "connectors io.github.mettini",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 8 places (×8.0)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "dev.workers.b2bintel",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 7 places (×6.9)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "connectors dev.workers.b2bintel",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 7 places (×6.9)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "io.github.lergassy",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 6 places (×6.0)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "connectors io.github.lergassy",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 6 places (×6.0)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "cotlet connect",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 9 places (×5.2)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "henrycrawl",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 5 places (×5.0)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "connectors io.github.tidyware",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 5 places (×5.0)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "connectors io.github.memeanalyst",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 5 places (×4.7)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "io.github.srigenmedia",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 4 places (×4.0)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "connectors io.github.srigenmedia",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 4 places (×4.0)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "srigenmedia",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 4 places (×4.0)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "connect",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 10 places (×3.9)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "berntpopp",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 4 places (×3.8)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "market",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 9 places (×3.7)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      }
+    ]
+  },
+  {
     "id": "2026-11-20_evening",
     "date": "2026-11-20",
     "slot": "evening",
