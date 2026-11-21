@@ -1,5 +1,838 @@
 [
   {
+    "id": "2026-11-21_evening",
+    "date": "2026-11-21",
+    "slot": "evening",
+    "label": "2026-11-21 晚场 (19:00)",
+    "breakouts": 15,
+    "new_breakouts": 3,
+    "leads": 30,
+    "max_velocity": 1409,
+    "max_velocity_repo": "erkamyaman/rust-anything",
+    "repos": [
+      {
+        "repo": "erkamyaman/rust-anything",
+        "owner": "erkamyaman",
+        "name": "rust-anything",
+        "stars": 6977,
+        "velocity": 1409,
+        "delta": 295,
+        "age_days": 5.0,
+        "description": "Rewrite your whole app in Rust, one piece at a time, checked against the original's recorded behavior at every step. CLI",
+        "new": false,
+        "zh_description": "逐步将整个应用重写为 Rust，每一步都与原应用记录的行为进行核对。命令行工具",
+        "tags": [
+          "全部",
+          "超高爆发"
+        ],
+        "tag_keys": [
+          "all",
+          "high_velocity"
+        ]
+      },
+      {
+        "repo": "krisgfx9/Wireless-Device-Battery-Monitor",
+        "owner": "krisgfx9",
+        "name": "Wireless-Device-Battery-Monitor",
+        "stars": 5549,
+        "velocity": 1194,
+        "delta": 221,
+        "age_days": 4.6,
+        "description": "Show the battery level of wireless mice, headsets, keyboards and controllers on the Windows 10/11 taskbar. Lightweight t",
+        "new": false,
+        "zh_description": "在 Windows 10/11 任务栏上显示无线鼠标、耳机、键盘和游戏手柄的电池电量。轻量级",
+        "tags": [
+          "全部",
+          "超高爆发"
+        ],
+        "tag_keys": [
+          "all",
+          "high_velocity"
+        ]
+      },
+      {
+        "repo": "bookwjitchieni1986/blender-ai-mcp-addon",
+        "owner": "bookwjitchieni1986",
+        "name": "blender-ai-mcp-addon",
+        "stars": 1910,
+        "velocity": 1035,
+        "delta": 115,
+        "age_days": 1.8,
+        "description": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with ChatGPT/GPT, Claude",
+        "new": false,
+        "zh_description": "面向 Blender 的 AI 助手与 MCP 服务器：支持可视化对话、场景工具和多智能体工作流，可与 ChatGPT/GPT、Claude 协同使用",
+        "tags": [
+          "全部",
+          "超高爆发",
+          "智能体/Agent"
+        ],
+        "tag_keys": [
+          "all",
+          "high_velocity",
+          "agent"
+        ]
+      },
+      {
+        "repo": "iamajmeena/neonclipping",
+        "owner": "iamajmeena",
+        "name": "neonclipping",
+        "stars": 1476,
+        "velocity": 723,
+        "delta": 223,
+        "age_days": 2.0,
+        "description": "Paste a link, get captioned 9:16 clips in ~2 min. Free, local, open-source clipping engine (audio-first, YouTube caption",
+        "new": false,
+        "zh_description": "粘贴链接，约 2 分钟即可生成带字幕的 9:16 短视频。免费、本地运行、开源的剪辑引擎（音频优先，支持 YouTube 字幕",
+        "tags": [
+          "全部"
+        ],
+        "tag_keys": [
+          "all"
+        ]
+      },
+      {
+        "repo": "huami1314/GestaltX",
+        "owner": "huami1314",
+        "name": "GestaltX",
+        "stars": 8687,
+        "velocity": 710,
+        "delta": 42,
+        "age_days": 12.2,
+        "description": "An MobileGestalt editor for iOS 27.x, featuring region-code tweaks, device presets, backups.",
+        "new": false,
+        "zh_description": "一款面向 iOS 27.x 的 MobileGestalt 编辑器，支持地区代码调整、设备预设和备份。",
+        "tags": [
+          "全部",
+          "移动/系统"
+        ],
+        "tag_keys": [
+          "all",
+          "mobile"
+        ]
+      },
+      {
+        "repo": "gylive/google-ultra",
+        "owner": "gylive",
+        "name": "google-ultra",
+        "stars": 2561,
+        "velocity": 636,
+        "delta": 24,
+        "age_days": 4.0,
+        "description": "",
+        "new": false,
+        "zh_description": "暂无项目描述",
+        "tags": [
+          "全部"
+        ],
+        "tag_keys": [
+          "all"
+        ]
+      },
+      {
+        "repo": "hatsunemiku-ai/google-one-tools",
+        "owner": "hatsunemiku-ai",
+        "name": "google-one-tools",
+        "stars": 604,
+        "velocity": 604,
+        "delta": null,
+        "age_days": 1.0,
+        "description": "",
+        "new": true,
+        "variants": [
+          "google one tools",
+          "hatsunemiku-ai google one tools"
+        ],
+        "zh_description": "暂无项目描述",
+        "tags": [
+          "全部",
+          "今日新入榜"
+        ],
+        "tag_keys": [
+          "all",
+          "new"
+        ]
+      },
+      {
+        "repo": "deepseek-ai/chat-demo",
+        "owner": "deepseek-ai",
+        "name": "chat-demo",
+        "stars": 5178,
+        "velocity": 568,
+        "delta": 52,
+        "age_days": 9.1,
+        "description": "Chat Demo",
+        "new": false,
+        "zh_description": "聊天演示",
+        "tags": [
+          "全部"
+        ],
+        "tag_keys": [
+          "all"
+        ]
+      },
+      {
+        "repo": "XinaTian/MROffice",
+        "owner": "XinaTian",
+        "name": "MROffice",
+        "stars": 1323,
+        "velocity": 123,
+        "delta": 492,
+        "age_days": 10.7,
+        "description": "MR Office: open-source document, spreadsheet, presentation, PDF, handwriting and code editors. https://mroffice.ai",
+        "new": true,
+        "variants": [
+          "mroffice",
+          "xinatian mroffice",
+          "xina mroffice"
+        ],
+        "zh_description": "MR Office：开源的文档、电子表格、演示文稿、PDF、手写和代码编辑器。https://mroffice.ai",
+        "tags": [
+          "全部",
+          "今日新入榜",
+          "智能体/Agent"
+        ],
+        "tag_keys": [
+          "all",
+          "new",
+          "agent"
+        ]
+      },
+      {
+        "repo": "CocoSgt/riemann-hypothesis-lean",
+        "owner": "CocoSgt",
+        "name": "riemann-hypothesis-lean",
+        "stars": 372,
+        "velocity": 372,
+        "delta": null,
+        "age_days": 1.0,
+        "description": "Mirror of Levent Alpöge's Lean proof of the Riemann Hypothesis (with Claude). All credit to Levent Alpöge. Source: alpo.",
+        "new": true,
+        "variants": [
+          "riemann hypothesis lean",
+          "cocosgt riemann hypothesis lean"
+        ],
+        "zh_description": "Levent Alpöge 的黎曼猜想 Lean 证明镜像（借助 Claude 完成）。鸣谢 Levent Alpöge。来源：alpo。",
+        "tags": [
+          "全部",
+          "今日新入榜"
+        ],
+        "tag_keys": [
+          "all",
+          "new"
+        ]
+      },
+      {
+        "repo": "Hut-hzf/ung220z-tool",
+        "owner": "Hut-hzf",
+        "name": "ung220z-tool",
+        "stars": 2143,
+        "velocity": 358,
+        "delta": 123,
+        "age_days": 6.0,
+        "description": "ung220z-tool 是一个针对 UNG220Z（九联/Unionman 中国移动光猫）的一键凭据提取工具，仅限在你自己的设备上用于找回忘记的管理密码、迁移宽带配置或安全自查。",
+        "new": false,
+        "zh_description": "ung220z-tool 是一个针对 UNG220Z（九联/Unionman 中国移动光猫）的一键凭据提取工具，仅限在你自己的设备上用于找回忘记的管理密码、迁移宽带配置或安全自查。",
+        "tags": [
+          "全部"
+        ],
+        "tag_keys": [
+          "all"
+        ]
+      },
+      {
+        "repo": "Immortal-Protocols/lastbook",
+        "owner": "Immortal-Protocols",
+        "name": "lastbook",
+        "stars": 2804,
+        "velocity": 331,
+        "delta": 54,
+        "age_days": 8.5,
+        "description": "Offline knowledge AI, maps and videos for survival and rebuilding",
+        "new": false,
+        "zh_description": "面向生存与重建的离线知识 AI、地图和视频",
+        "tags": [
+          "全部",
+          "视觉/UI"
+        ],
+        "tag_keys": [
+          "all",
+          "ui"
+        ]
+      },
+      {
+        "repo": "MSNightmare/FastUnlock",
+        "owner": "MSNightmare",
+        "name": "FastUnlock",
+        "stars": 619,
+        "velocity": 320,
+        "delta": 37,
+        "age_days": 1.9,
+        "description": "FastUnlock : Windows Narrator LockScreen Bypass 0day Vulnerability",
+        "new": false,
+        "zh_description": "FastUnlock：Windows  Narrator 锁屏界面绕过 0day 漏洞",
+        "tags": [
+          "全部"
+        ],
+        "tag_keys": [
+          "all"
+        ]
+      },
+      {
+        "repo": "ersinkoc/phonebox",
+        "owner": "ersinkoc",
+        "name": "phonebox",
+        "stars": 4384,
+        "velocity": 319,
+        "delta": 135,
+        "age_days": 13.8,
+        "description": "Turn an old Android phone into a customizable desk panel and touch control deck for Windows, Linux and macOS. 124 widget",
+        "new": false,
+        "zh_description": "将闲置 Android 手机变成可自定义的桌面面板和触控控制台，支持 Windows、Linux 和 macOS。内置 124 个小组件",
+        "tags": [
+          "全部",
+          "移动/系统"
+        ],
+        "tag_keys": [
+          "all",
+          "mobile"
+        ]
+      },
+      {
+        "repo": "tangerineturtle1/NX2navi",
+        "owner": "tangerineturtle1",
+        "name": "NX2navi",
+        "stars": 4344,
+        "velocity": 309,
+        "delta": 4,
+        "age_days": 14.0,
+        "description": "",
+        "new": false,
+        "zh_description": "暂无项目描述",
+        "tags": [
+          "全部"
+        ],
+        "tag_keys": [
+          "all"
+        ]
+      }
+    ],
+    "leads_data": [
+      {
+        "term": "seedreamstyle h3 6k",
+        "kinds": [
+          "hf"
+        ],
+        "signals": [
+          "Hugging Face: new at #47"
+        ],
+        "examples": [
+          "Nebsh/Seedreamstyle-H3-6K (text-to-image, ♥81)"
+        ],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "image",
+        "one_click": null,
+        "zh_examples": [
+          "Nebsh/Seedreamstyle-H3-6K (text-to-image, ♥81)"
+        ]
+      },
+      {
+        "term": "clairic flash",
+        "kinds": [
+          "hf"
+        ],
+        "signals": [
+          "Hugging Face: new at #50"
+        ],
+        "examples": [
+          "Cloudflare/clairic-flash (image-text-to-text, ♥76)"
+        ],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "image",
+        "one_click": null,
+        "zh_examples": [
+          "Cloudflare/clairic-flash (image-text-to-text, ♥76)"
+        ]
+      },
+      {
+        "term": "google one tools",
+        "kinds": [
+          "breakout"
+        ],
+        "signals": [
+          "GitHub breakout hatsunemiku-ai/google-one-tools ★604 (604/day)"
+        ],
+        "examples": [
+          "hatsunemiku-ai/google-one-tools: "
+        ],
+        "variants": [
+          "google one tools",
+          "hatsunemiku-ai google one tools"
+        ],
+        "posts": [],
+        "repo": "hatsunemiku-ai/google-one-tools",
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": [
+          "hatsunemiku-ai/google-one-tools: "
+        ]
+      },
+      {
+        "term": "mroffice",
+        "kinds": [
+          "breakout"
+        ],
+        "signals": [
+          "GitHub breakout XinaTian/MROffice ★1323 (123/day, +492 in a day)"
+        ],
+        "examples": [
+          "XinaTian/MROffice: MR Office: open-source document, spreadsheet, presentation, PDF, handwriting and code editors. https://mroffice.ai"
+        ],
+        "variants": [
+          "mroffice",
+          "xinatian mroffice",
+          "xina mroffice"
+        ],
+        "posts": [],
+        "repo": "XinaTian/MROffice",
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": [
+          "XinaTian/MROffice: MR Office：开源的文档、电子表格、演示文稿、PDF、手写和代码编辑器。https://mroffice.ai"
+        ]
+      },
+      {
+        "term": "riemann hypothesis lean",
+        "kinds": [
+          "breakout"
+        ],
+        "signals": [
+          "GitHub breakout CocoSgt/riemann-hypothesis-lean ★372 (372/day)"
+        ],
+        "examples": [
+          "CocoSgt/riemann-hypothesis-lean: Mirror of Levent Alpöge's Lean proof of the Riemann Hypothesis (with Claude). All credit to Levent Alpöge. Source: alpo."
+        ],
+        "variants": [
+          "riemann hypothesis lean",
+          "cocosgt riemann hypothesis lean"
+        ],
+        "posts": [],
+        "repo": "CocoSgt/riemann-hypothesis-lean",
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": [
+          "CocoSgt/riemann-hypothesis-lean: Levent Alpöge 的黎曼猜想 Lean 证明镜像（借助 Claude 完成）。鸣谢 Levent Alpöge。来源：alpo。"
+        ]
+      },
+      {
+        "term": "sites",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 696 places (×618.5)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "connectors dev.workers.b2bintel",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 16 places (×15.2)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "connectors ai.opencurrent",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 10 places (×10.0)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "dev.workers.b2bintel edge.agent",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 7 places (×7.0)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "edge.agent spend",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 7 places (×7.0)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "spend guard",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 7 places (×6.8)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "cotlet connect",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 12 places (×6.1)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "edge.defi",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 6 places (×5.9)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "edge.defi route",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 6 places (×5.9)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "route intel",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 6 places (×5.9)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "dev.workers.b2bintel edge.defi",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 6 places (×5.9)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "pie527645 cloud",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 5 places (×5.0)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "arena",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 6 places (×4.4)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "connect",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 13 places (×4.2)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "key",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 5 places (×4.1)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "dev.workers.agent arena",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 4 places (×4.0)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "intel",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 9 places (×3.9)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "connectors dev.workers.agent",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 4 places (×3.9)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "guard",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 8 places (×3.2)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "key safety",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 3 places (×3.0)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "priorart",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 3 places (×3.0)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "dev.workers.b2bintel edge.sec",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 3 places (×3.0)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "edge.sec biotech",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 3 places (×3.0)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "priorart gateway",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 3 places (×3.0)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "biotech priorart",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 3 places (×3.0)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      }
+    ]
+  },
+  {
     "id": "2026-11-21_morning",
     "date": "2026-11-21",
     "slot": "morning",
