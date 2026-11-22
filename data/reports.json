@@ -1,5 +1,930 @@
 [
   {
+    "id": "2026-11-22_morning",
+    "date": "2026-11-22",
+    "slot": "morning",
+    "label": "2026-11-22 早场 (10:00)",
+    "breakouts": 15,
+    "new_breakouts": 7,
+    "leads": 32,
+    "max_velocity": 4830,
+    "max_velocity_repo": "ItsNotRexed/Leonida",
+    "repos": [
+      {
+        "repo": "ItsNotRexed/Leonida",
+        "owner": "ItsNotRexed",
+        "name": "Leonida",
+        "stars": 6016,
+        "velocity": 4830,
+        "delta": null,
+        "age_days": 1.2,
+        "description": "Leonida Is A Native PC Recompilation Of The Xbox Version Of Grand Theft Auto 6",
+        "new": true,
+        "variants": [
+          "leonida",
+          "itsnotrexed leonida",
+          "notrexed leonida"
+        ],
+        "zh_description": "Leonida：将 Xbox 版《Grand Theft Auto 6》原生移植至 PC 的重编译项目",
+        "tags": [
+          "全部",
+          "今日新入榜",
+          "超高爆发",
+          "移动/系统"
+        ],
+        "tag_keys": [
+          "all",
+          "new",
+          "high_velocity",
+          "mobile"
+        ]
+      },
+      {
+        "repo": "erkamyaman/rust-anything",
+        "owner": "erkamyaman",
+        "name": "rust-anything",
+        "stars": 7454,
+        "velocity": 1337,
+        "delta": 477,
+        "age_days": 5.6,
+        "description": "Rewrite your whole app in Rust, one piece at a time, checked against the original's recorded behavior at every step. CLI",
+        "new": false,
+        "zh_description": "逐步将整个应用重写为 Rust，每一步都与原应用记录的行为进行核对。命令行工具",
+        "tags": [
+          "全部",
+          "超高爆发"
+        ],
+        "tag_keys": [
+          "all",
+          "high_velocity"
+        ]
+      },
+      {
+        "repo": "krisgfx9/Wireless-Device-Battery-Monitor",
+        "owner": "krisgfx9",
+        "name": "Wireless-Device-Battery-Monitor",
+        "stars": 5828,
+        "velocity": 1105,
+        "delta": 279,
+        "age_days": 5.3,
+        "description": "Show the battery level of wireless mice, headsets, keyboards and controllers on the Windows 10/11 taskbar. Lightweight t",
+        "new": false,
+        "zh_description": "在 Windows 10/11 任务栏上显示无线鼠标、耳机、键盘和游戏手柄的电池电量。轻量级",
+        "tags": [
+          "全部",
+          "超高爆发"
+        ],
+        "tag_keys": [
+          "all",
+          "high_velocity"
+        ]
+      },
+      {
+        "repo": "bookwjitchieni1986/blender-ai-mcp-addon",
+        "owner": "bookwjitchieni1986",
+        "name": "blender-ai-mcp-addon",
+        "stars": 2475,
+        "velocity": 1002,
+        "delta": 565,
+        "age_days": 2.5,
+        "description": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with ChatGPT/GPT, Claude",
+        "new": false,
+        "zh_description": "面向 Blender 的 AI 助手与 MCP 服务器：支持可视化对话、场景工具和多智能体工作流，可与 ChatGPT/GPT、Claude 协同使用",
+        "tags": [
+          "全部",
+          "超高爆发",
+          "智能体/Agent"
+        ],
+        "tag_keys": [
+          "all",
+          "high_velocity",
+          "agent"
+        ]
+      },
+      {
+        "repo": "hatsunemiku-ai/google-one-tools",
+        "owner": "hatsunemiku-ai",
+        "name": "google-one-tools",
+        "stars": 1061,
+        "velocity": 916,
+        "delta": 457,
+        "age_days": 1.2,
+        "description": "",
+        "new": false,
+        "zh_description": "暂无项目描述",
+        "tags": [
+          "全部"
+        ],
+        "tag_keys": [
+          "all"
+        ]
+      },
+      {
+        "repo": "omonkeyz/xbox-emulator",
+        "owner": "omonkeyz",
+        "name": "xbox-emulator",
+        "stars": 810,
+        "velocity": 810,
+        "delta": null,
+        "age_days": 1.0,
+        "description": "Progress notes for running Xbox Series X|S builds on PC (TomBox + rage9)",
+        "new": true,
+        "variants": [
+          "xbox emulator",
+          "omonkeyz xbox emulator"
+        ],
+        "zh_description": "在 PC 上运行 Xbox Series X|S 版本的进度记录（TomBox + rage9）",
+        "tags": [
+          "全部",
+          "今日新入榜",
+          "视觉/UI"
+        ],
+        "tag_keys": [
+          "all",
+          "new",
+          "ui"
+        ]
+      },
+      {
+        "repo": "R0Y00/Xbox2Windows",
+        "owner": "R0Y00",
+        "name": "Xbox2Windows",
+        "stars": 947,
+        "velocity": 704,
+        "delta": null,
+        "age_days": 1.3,
+        "description": "Static recompilation research for Xbox Series X|S (Scarlett) on x64 Windows, including shader translation, BC7 textures,",
+        "new": true,
+        "variants": [
+          "xbox2windows",
+          "r0y00 xbox2windows",
+          "royoo xbox2windows"
+        ],
+        "zh_description": "面向 x64 Windows 的 Xbox Series X|S（Scarlett）静态重编译研究，涵盖着色器转换、BC7 纹理等",
+        "tags": [
+          "全部",
+          "今日新入榜",
+          "移动/系统"
+        ],
+        "tag_keys": [
+          "all",
+          "new",
+          "mobile"
+        ]
+      },
+      {
+        "repo": "huami1314/GestaltX",
+        "owner": "huami1314",
+        "name": "GestaltX",
+        "stars": 8737,
+        "velocity": 679,
+        "delta": 50,
+        "age_days": 12.9,
+        "description": "An MobileGestalt editor for iOS 27.x, featuring region-code tweaks, device presets, backups.",
+        "new": false,
+        "zh_description": "一款面向 iOS 27.x 的 MobileGestalt 编辑器，支持地区代码调整、设备预设和备份。",
+        "tags": [
+          "全部",
+          "移动/系统"
+        ],
+        "tag_keys": [
+          "all",
+          "mobile"
+        ]
+      },
+      {
+        "repo": "iamajmeena/neonclipping",
+        "owner": "iamajmeena",
+        "name": "neonclipping",
+        "stars": 1743,
+        "velocity": 654,
+        "delta": 267,
+        "age_days": 2.7,
+        "description": "Paste a link, get captioned 9:16 clips in ~2 min. Free, local, open-source clipping engine (audio-first, YouTube caption",
+        "new": false,
+        "zh_description": "粘贴链接，约 2 分钟即可生成带字幕的 9:16 短视频。免费、本地运行、开源的剪辑引擎（音频优先，支持 YouTube 字幕",
+        "tags": [
+          "全部"
+        ],
+        "tag_keys": [
+          "all"
+        ]
+      },
+      {
+        "repo": "gylive/google-ultra",
+        "owner": "gylive",
+        "name": "google-ultra",
+        "stars": 2601,
+        "velocity": 559,
+        "delta": 40,
+        "age_days": 4.7,
+        "description": "",
+        "new": false,
+        "zh_description": "暂无项目描述",
+        "tags": [
+          "全部"
+        ],
+        "tag_keys": [
+          "all"
+        ]
+      },
+      {
+        "repo": "deepseek-ai/chat-demo",
+        "owner": "deepseek-ai",
+        "name": "chat-demo",
+        "stars": 5218,
+        "velocity": 535,
+        "delta": 40,
+        "age_days": 9.7,
+        "description": "Chat Demo",
+        "new": false,
+        "zh_description": "聊天演示",
+        "tags": [
+          "全部"
+        ],
+        "tag_keys": [
+          "all"
+        ]
+      },
+      {
+        "repo": "kyle-millerx2098t3/daw-synth-fl-studio-2026-producer-portable-x64",
+        "owner": "kyle-millerx2098t3",
+        "name": "daw-synth-fl-studio-2026-producer-portable-x64",
+        "stars": 374,
+        "velocity": 374,
+        "delta": null,
+        "age_days": 1.0,
+        "description": "DAW & Synth Studio Suite FL Studio 2026.1 Producer All-Plugins Edition Runtime: native 64-bit Windows 10/11 portable x64",
+        "new": true,
+        "variants": [
+          "daw synth fl studio 2026 producer portable x64",
+          "kyle-millerx2098t3 daw synth fl studio 2026 producer portable x64"
+        ],
+        "zh_description": "DAW 与合成器工作室套件 FL Studio 2026.1 Producer 全插件版：原生 64 位 Windows 10/11 便携版 x64",
+        "tags": [
+          "全部",
+          "今日新入榜",
+          "视觉/UI"
+        ],
+        "tag_keys": [
+          "all",
+          "new",
+          "ui"
+        ]
+      },
+      {
+        "repo": "danielrops99q3/deadlock-minimap-cooldown-jungle-timer-portable-x64",
+        "owner": "danielrops99q3",
+        "name": "deadlock-minimap-cooldown-jungle-timer-portable-x64",
+        "stars": 366,
+        "velocity": 366,
+        "delta": null,
+        "age_days": 1.0,
+        "description": "Deadlock Minimap Cooldown & Jungle Timer Overlay: native 64-bit Windows 10/11 portable x64 build with hot-reloadable JSO",
+        "new": true,
+        "variants": [
+          "deadlock minimap cooldown jungle timer portable x64",
+          "danielrops99q3 deadlock minimap cooldown jungle timer portable x64"
+        ],
+        "zh_description": "《Deadlock》小地图冷却计时与丛林计时叠加层：原生 64 位 Windows 10/11 便携版 x64，支持热重载 JSO",
+        "tags": [
+          "全部",
+          "今日新入榜",
+          "视觉/UI"
+        ],
+        "tag_keys": [
+          "all",
+          "new",
+          "ui"
+        ]
+      },
+      {
+        "repo": "markdevx1901r4/shadps4-bloodborne-pc-60fps-patch-vertex-explosion-portabl",
+        "owner": "markdevx1901r4",
+        "name": "shadps4-bloodborne-pc-60fps-patch-vertex-explosion-portabl",
+        "stars": 366,
+        "velocity": 366,
+        "delta": null,
+        "age_days": 1.0,
+        "description": "ShadPS4 Bloodborne PC 60FPS Patch, Vertex Explosion Fix & SysModules Pack: native 64-bit Windows 10/11 portable x64 buil",
+        "new": true,
+        "variants": [
+          "shadps4 bloodborne pc 60fps patch vertex explosion portabl",
+          "markdevx1901r4 shadps4 bloodborne pc 60fps patch vertex explosion portabl"
+        ],
+        "zh_description": "ShadPS4《Bloodborne》PC 60 FPS 补丁、顶点爆炸修复与 SysModules 合集：原生 64 位 Windows 10/11 便携版 x64 构建",
+        "tags": [
+          "全部",
+          "今日新入榜",
+          "视觉/UI"
+        ],
+        "tag_keys": [
+          "all",
+          "new",
+          "ui"
+        ]
+      },
+      {
+        "repo": "danx1905k8/war-thunder-realistic-tank-outline-thermal-portable-x64",
+        "owner": "danx1905k8",
+        "name": "war-thunder-realistic-tank-outline-thermal-portable-x64",
+        "stars": 366,
+        "velocity": 366,
+        "delta": null,
+        "age_days": 1.0,
+        "description": "War Thunder Realistic Tank Outline & Thermal Sight Mod: native 64-bit Windows 10/11 portable x64 build with hot-reloadab",
+        "new": true,
+        "variants": [
+          "war thunder realistic tank outline thermal portable x64",
+          "danx1905k8 war thunder realistic tank outline thermal portable x64"
+        ],
+        "zh_description": "《War Thunder》真实坦克轮廓与热成像瞄准镜模组：原生 64 位 Windows 10/11 便携版 x64 构建，支持热重载",
+        "tags": [
+          "全部",
+          "今日新入榜",
+          "视觉/UI"
+        ],
+        "tag_keys": [
+          "all",
+          "new",
+          "ui"
+        ]
+      }
+    ],
+    "leads_data": [
+      {
+        "term": "leonida",
+        "kinds": [
+          "breakout"
+        ],
+        "signals": [
+          "GitHub breakout ItsNotRexed/Leonida ★6016 (4830/day)"
+        ],
+        "examples": [
+          "ItsNotRexed/Leonida: Leonida Is A Native PC Recompilation Of The Xbox Version Of Grand Theft Auto 6"
+        ],
+        "variants": [
+          "leonida",
+          "itsnotrexed leonida",
+          "notrexed leonida"
+        ],
+        "posts": [],
+        "repo": "ItsNotRexed/Leonida",
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": [
+          "ItsNotRexed/Leonida: Leonida：将 Xbox 版《Grand Theft Auto 6》原生移植至 PC 的重编译项目"
+        ]
+      },
+      {
+        "term": "xbox emulator",
+        "kinds": [
+          "breakout"
+        ],
+        "signals": [
+          "GitHub breakout omonkeyz/xbox-emulator ★810 (810/day)"
+        ],
+        "examples": [
+          "omonkeyz/xbox-emulator: Progress notes for running Xbox Series X|S builds on PC (TomBox + rage9)"
+        ],
+        "variants": [
+          "xbox emulator",
+          "omonkeyz xbox emulator"
+        ],
+        "posts": [],
+        "repo": "omonkeyz/xbox-emulator",
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": [
+          "omonkeyz/xbox-emulator: 在 PC 上运行 Xbox Series X|S 版本的进度记录（TomBox + rage9）"
+        ]
+      },
+      {
+        "term": "xbox2windows",
+        "kinds": [
+          "breakout"
+        ],
+        "signals": [
+          "GitHub breakout R0Y00/Xbox2Windows ★947 (704/day)"
+        ],
+        "examples": [
+          "R0Y00/Xbox2Windows: Static recompilation research for Xbox Series X|S (Scarlett) on x64 Windows, including shader translation, BC7 textures,"
+        ],
+        "variants": [
+          "xbox2windows",
+          "r0y00 xbox2windows",
+          "royoo xbox2windows"
+        ],
+        "posts": [],
+        "repo": "R0Y00/Xbox2Windows",
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": [
+          "R0Y00/Xbox2Windows: 面向 x64 Windows 的 Xbox Series X|S（Scarlett）静态重编译研究，涵盖着色器转换、BC7 纹理等"
+        ]
+      },
+      {
+        "term": "daw synth fl studio 2026 producer portable x64",
+        "kinds": [
+          "breakout"
+        ],
+        "signals": [
+          "GitHub breakout kyle-millerx2098t3/daw-synth-fl-studio-2026-producer-portable-x64 ★374 (374/day)"
+        ],
+        "examples": [
+          "kyle-millerx2098t3/daw-synth-fl-studio-2026-producer-portable-x64: DAW & Synth Studio Suite FL Studio 2026.1 Producer All-Plugins Edition Runtime: native 64-bit Windows 10/11 portable x64"
+        ],
+        "variants": [
+          "daw synth fl studio 2026 producer portable x64",
+          "kyle-millerx2098t3 daw synth fl studio 2026 producer portable x64"
+        ],
+        "posts": [],
+        "repo": "kyle-millerx2098t3/daw-synth-fl-studio-2026-producer-portable-x64",
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": [
+          "kyle-millerx2098t3/daw-synth-fl-studio-2026-producer-portable-x64: DAW 与合成器工作室套件 FL Studio 2026.1 Producer 全插件版：原生 64 位 Windows 10/11 便携版 x64"
+        ]
+      },
+      {
+        "term": "deadlock minimap cooldown jungle timer portable x64",
+        "kinds": [
+          "breakout"
+        ],
+        "signals": [
+          "GitHub breakout danielrops99q3/deadlock-minimap-cooldown-jungle-timer-portable-x64 ★366 (366/day)"
+        ],
+        "examples": [
+          "danielrops99q3/deadlock-minimap-cooldown-jungle-timer-portable-x64: Deadlock Minimap Cooldown & Jungle Timer Overlay: native 64-bit Windows 10/11 portable x64 build with hot-reloadable JSO"
+        ],
+        "variants": [
+          "deadlock minimap cooldown jungle timer portable x64",
+          "danielrops99q3 deadlock minimap cooldown jungle timer portable x64"
+        ],
+        "posts": [],
+        "repo": "danielrops99q3/deadlock-minimap-cooldown-jungle-timer-portable-x64",
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": [
+          "danielrops99q3/deadlock-minimap-cooldown-jungle-timer-portable-x64: 《Deadlock》小地图冷却计时与丛林计时叠加层：原生 64 位 Windows 10/11 便携版 x64，支持热重载 JSO"
+        ]
+      },
+      {
+        "term": "shadps4 bloodborne pc 60fps patch vertex explosion portabl",
+        "kinds": [
+          "breakout"
+        ],
+        "signals": [
+          "GitHub breakout markdevx1901r4/shadps4-bloodborne-pc-60fps-patch-vertex-explosion-portabl ★366 (366/day)"
+        ],
+        "examples": [
+          "markdevx1901r4/shadps4-bloodborne-pc-60fps-patch-vertex-explosion-portabl: ShadPS4 Bloodborne PC 60FPS Patch, Vertex Explosion Fix & SysModules Pack: native 64-bit Windows 10/11 portable x64 buil"
+        ],
+        "variants": [
+          "shadps4 bloodborne pc 60fps patch vertex explosion portabl",
+          "markdevx1901r4 shadps4 bloodborne pc 60fps patch vertex explosion portabl"
+        ],
+        "posts": [],
+        "repo": "markdevx1901r4/shadps4-bloodborne-pc-60fps-patch-vertex-explosion-portabl",
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": [
+          "markdevx1901r4/shadps4-bloodborne-pc-60fps-patch-vertex-explosion-portabl: ShadPS4《Bloodborne》PC 60 FPS 补丁、顶点爆炸修复与 SysModules 合集：原生 64 位 Windows 10/11 便携版 x64 构建"
+        ]
+      },
+      {
+        "term": "war thunder realistic tank outline thermal portable x64",
+        "kinds": [
+          "breakout"
+        ],
+        "signals": [
+          "GitHub breakout danx1905k8/war-thunder-realistic-tank-outline-thermal-portable-x64 ★366 (366/day)"
+        ],
+        "examples": [
+          "danx1905k8/war-thunder-realistic-tank-outline-thermal-portable-x64: War Thunder Realistic Tank Outline & Thermal Sight Mod: native 64-bit Windows 10/11 portable x64 build with hot-reloadab"
+        ],
+        "variants": [
+          "war thunder realistic tank outline thermal portable x64",
+          "danx1905k8 war thunder realistic tank outline thermal portable x64"
+        ],
+        "posts": [],
+        "repo": "danx1905k8/war-thunder-realistic-tank-outline-thermal-portable-x64",
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": [
+          "danx1905k8/war-thunder-realistic-tank-outline-thermal-portable-x64: 《War Thunder》真实坦克轮廓与热成像瞄准镜模组：原生 64 位 Windows 10/11 便携版 x64 构建，支持热重载"
+        ]
+      },
+      {
+        "term": "connectors io.github.berrkaydev",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 12 places (×12.0)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "dev.workers.agent arena",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 9 places (×8.9)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "connectors dev.workers.agent",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 9 places (×8.7)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "connectors de.innov",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 6 places (×6.0)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "zongwei",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 6 places (×6.0)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "zongwei tang",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 6 places (×6.0)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "door",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 5 places (×4.5)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "finder",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 7 places (×4.0)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "adnan",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 4 places (×4.0)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "kutay yuksel",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 4 places (×4.0)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "adnan kutay",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 4 places (×4.0)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "cinderblock",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 4 places (×4.0)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "rico",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 4 places (×3.9)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "connectors io.github.memeanalyst",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 4 places (×3.7)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "cotlet",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 6 places (×3.3)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "cotlet connect",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 6 places (×3.3)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "ch.visin.mcp",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 3 places (×3.0)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "connectors ch.visin.mcp",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 3 places (×3.0)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "matic",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 3 places (×3.0)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "com.olavital",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 3 places (×3.0)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "connectors com.olavital",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 3 places (×3.0)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "com.olavital ola",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 3 places (×3.0)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "connectors com.webmasterbench",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 3 places (×3.0)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "minerals",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 3 places (×3.0)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "mailbase",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 3 places (×3.0)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      }
+    ]
+  },
+  {
     "id": "2026-11-21_evening",
     "date": "2026-11-21",
     "slot": "evening",
