@@ -1,5 +1,684 @@
 [
   {
+    "id": "2026-11-22_evening",
+    "date": "2026-11-22",
+    "slot": "evening",
+    "label": "2026-11-22 晚场 (19:00)",
+    "breakouts": 15,
+    "new_breakouts": 2,
+    "leads": 21,
+    "max_velocity": 5604,
+    "max_velocity_repo": "ItsNotRexed/Leonida",
+    "repos": [
+      {
+        "repo": "ItsNotRexed/Leonida",
+        "owner": "ItsNotRexed",
+        "name": "Leonida",
+        "stars": 9079,
+        "velocity": 5604,
+        "delta": 3063,
+        "age_days": 1.6,
+        "description": "Leonida Is A Native PC Recompilation Of The Xbox Version Of Grand Theft Auto 6",
+        "new": false,
+        "zh_description": "Leonida：将 Xbox 版《Grand Theft Auto 6》原生移植至 PC 的重编译项目",
+        "tags": [
+          "全部",
+          "超高爆发",
+          "移动/系统"
+        ],
+        "tag_keys": [
+          "all",
+          "high_velocity",
+          "mobile"
+        ]
+      },
+      {
+        "repo": "erkamyaman/rust-anything",
+        "owner": "erkamyaman",
+        "name": "rust-anything",
+        "stars": 7672,
+        "velocity": 1289,
+        "delta": 218,
+        "age_days": 6.0,
+        "description": "Rewrite your whole app in Rust, one piece at a time, checked against the original's recorded behavior at every step. CLI",
+        "new": false,
+        "zh_description": "逐步将整个应用重写为 Rust，每一步都与原应用记录的行为进行核对。命令行工具",
+        "tags": [
+          "全部",
+          "超高爆发"
+        ],
+        "tag_keys": [
+          "all",
+          "high_velocity"
+        ]
+      },
+      {
+        "repo": "krisgfx9/Wireless-Device-Battery-Monitor",
+        "owner": "krisgfx9",
+        "name": "Wireless-Device-Battery-Monitor",
+        "stars": 5956,
+        "velocity": 1055,
+        "delta": 128,
+        "age_days": 5.6,
+        "description": "Show the battery level of wireless mice, headsets, keyboards and controllers on the Windows 10/11 taskbar. Lightweight t",
+        "new": false,
+        "zh_description": "在 Windows 10/11 任务栏上显示无线鼠标、耳机、键盘和游戏手柄的电池电量。轻量级",
+        "tags": [
+          "全部",
+          "超高爆发"
+        ],
+        "tag_keys": [
+          "all",
+          "high_velocity"
+        ]
+      },
+      {
+        "repo": "bookwjitchieni1986/blender-ai-mcp-addon",
+        "owner": "bookwjitchieni1986",
+        "name": "blender-ai-mcp-addon",
+        "stars": 2724,
+        "velocity": 957,
+        "delta": 249,
+        "age_days": 2.8,
+        "description": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with ChatGPT/GPT, Claude",
+        "new": false,
+        "zh_description": "面向 Blender 的 AI 助手与 MCP 服务器：支持可视化对话、场景工具和多智能体工作流，可与 ChatGPT/GPT、Claude 协同使用",
+        "tags": [
+          "全部",
+          "智能体/Agent"
+        ],
+        "tag_keys": [
+          "all",
+          "agent"
+        ]
+      },
+      {
+        "repo": "omonkeyz/xbox-emulator",
+        "owner": "omonkeyz",
+        "name": "xbox-emulator",
+        "stars": 1008,
+        "velocity": 901,
+        "delta": 198,
+        "age_days": 1.1,
+        "description": "Progress notes for running Xbox Series X|S builds on PC (TomBox + rage9)",
+        "new": false,
+        "zh_description": "在 PC 上运行 Xbox Series X|S 版本的进度记录（TomBox + rage9）",
+        "tags": [
+          "全部",
+          "视觉/UI"
+        ],
+        "tag_keys": [
+          "all",
+          "ui"
+        ]
+      },
+      {
+        "repo": "hatsunemiku-ai/google-one-tools",
+        "owner": "hatsunemiku-ai",
+        "name": "google-one-tools",
+        "stars": 1189,
+        "velocity": 776,
+        "delta": 128,
+        "age_days": 1.5,
+        "description": "",
+        "new": false,
+        "zh_description": "暂无项目描述",
+        "tags": [
+          "全部"
+        ],
+        "tag_keys": [
+          "all"
+        ]
+      },
+      {
+        "repo": "huami1314/GestaltX",
+        "owner": "huami1314",
+        "name": "GestaltX",
+        "stars": 8771,
+        "velocity": 663,
+        "delta": 34,
+        "age_days": 13.2,
+        "description": "An MobileGestalt editor for iOS 27.x, featuring region-code tweaks, device presets, backups.",
+        "new": false,
+        "zh_description": "一款面向 iOS 27.x 的 MobileGestalt 编辑器，支持地区代码调整、设备预设和备份。",
+        "tags": [
+          "全部",
+          "移动/系统"
+        ],
+        "tag_keys": [
+          "all",
+          "mobile"
+        ]
+      },
+      {
+        "repo": "R0Y00/Xbox2Windows",
+        "owner": "R0Y00",
+        "name": "Xbox2Windows",
+        "stars": 1100,
+        "velocity": 640,
+        "delta": 153,
+        "age_days": 1.7,
+        "description": "GTA VI static recompilation research for x64 Windows. Source-built EXEs run on Windows, and two translated pixel shaders",
+        "new": false,
+        "zh_description": "面向 x64 Windows 的 GTA VI 静态重编译研究。源码构建的 EXE 可在 Windows 上运行，并包含两个已翻译的像素着色器",
+        "tags": [
+          "全部",
+          "视觉/UI",
+          "移动/系统"
+        ],
+        "tag_keys": [
+          "all",
+          "ui",
+          "mobile"
+        ]
+      },
+      {
+        "repo": "iamajmeena/neonclipping",
+        "owner": "iamajmeena",
+        "name": "neonclipping",
+        "stars": 1922,
+        "velocity": 632,
+        "delta": 179,
+        "age_days": 3.0,
+        "description": "Paste a link, get captioned 9:16 clips in ~2 min. Free, local, open-source clipping engine (audio-first, YouTube caption",
+        "new": false,
+        "zh_description": "粘贴链接，约 2 分钟即可生成带字幕的 9:16 短视频。免费、本地运行、开源的剪辑引擎（音频优先，支持 YouTube 字幕",
+        "tags": [
+          "全部"
+        ],
+        "tag_keys": [
+          "all"
+        ]
+      },
+      {
+        "repo": "EL4CTEO/fast-anything",
+        "owner": "EL4CTEO",
+        "name": "fast-anything",
+        "stars": 604,
+        "velocity": 604,
+        "delta": null,
+        "age_days": 1.0,
+        "description": "Don't rewrite it in Rust. Rewrite the 5% that's slow: profile Python, Node or Ruby apps, port the hot functions with you",
+        "new": true,
+        "variants": [
+          "fast anything",
+          "el4cteo fast anything"
+        ],
+        "zh_description": "别用 Rust 重写整个项目，只重写其中最慢的 5%：分析 Python、Node 或 Ruby 应用的性能瓶颈，并与你一起将热点函数迁移到 Rust",
+        "tags": [
+          "全部",
+          "今日新入榜"
+        ],
+        "tag_keys": [
+          "all",
+          "new"
+        ]
+      },
+      {
+        "repo": "gylive/google-ultra",
+        "owner": "gylive",
+        "name": "google-ultra",
+        "stars": 2656,
+        "velocity": 528,
+        "delta": 55,
+        "age_days": 5.0,
+        "description": "",
+        "new": false,
+        "zh_description": "暂无项目描述",
+        "tags": [
+          "全部"
+        ],
+        "tag_keys": [
+          "all"
+        ]
+      },
+      {
+        "repo": "deepseek-ai/chat-demo",
+        "owner": "deepseek-ai",
+        "name": "chat-demo",
+        "stars": 5253,
+        "velocity": 519,
+        "delta": 35,
+        "age_days": 10.1,
+        "description": "Chat Demo",
+        "new": false,
+        "zh_description": "聊天演示",
+        "tags": [
+          "全部"
+        ],
+        "tag_keys": [
+          "all"
+        ]
+      },
+      {
+        "repo": "XinaTian/MROffice",
+        "owner": "XinaTian",
+        "name": "MROffice",
+        "stars": 2004,
+        "velocity": 171,
+        "delta": 459,
+        "age_days": 11.7,
+        "description": "MR Office: open-source document, spreadsheet, presentation, PDF, handwriting and code editors. https://mroffice.ai",
+        "new": false,
+        "zh_description": "MR Office：开源的文档、电子表格、演示文稿、PDF、手写和代码编辑器。https://mroffice.ai",
+        "tags": [
+          "全部",
+          "智能体/Agent"
+        ],
+        "tag_keys": [
+          "all",
+          "agent"
+        ]
+      },
+      {
+        "repo": "opokukopoku/gta-6-pc-release",
+        "owner": "opokukopoku",
+        "name": "gta-6-pc-release",
+        "stars": 442,
+        "velocity": 442,
+        "delta": null,
+        "age_days": 1.0,
+        "description": "GTA 6 PC Release: Full Access, Zero Hassle",
+        "new": true,
+        "variants": [
+          "gta 6 pc release",
+          "opokukopoku gta 6 pc release"
+        ],
+        "zh_description": "GTA 6 PC 正式版：完整功能，畅玩无忧",
+        "tags": [
+          "全部",
+          "今日新入榜"
+        ],
+        "tag_keys": [
+          "all",
+          "new"
+        ]
+      },
+      {
+        "repo": "kyle-millerx2098t3/daw-synth-fl-studio-2026-producer-portable-x64",
+        "owner": "kyle-millerx2098t3",
+        "name": "daw-synth-fl-studio-2026-producer-portable-x64",
+        "stars": 350,
+        "velocity": 350,
+        "delta": -24,
+        "age_days": 1.0,
+        "description": "DAW & Synth Studio Suite FL Studio 2026.1 Producer All-Plugins Edition Runtime: native 64-bit Windows 10/11 portable x64",
+        "new": false,
+        "zh_description": "DAW 与合成器工作室套件 FL Studio 2026.1 Producer 全插件版：原生 64 位 Windows 10/11 便携版 x64",
+        "tags": [
+          "全部",
+          "视觉/UI"
+        ],
+        "tag_keys": [
+          "all",
+          "ui"
+        ]
+      }
+    ],
+    "leads_data": [
+      {
+        "term": "omni videos custom",
+        "kinds": [
+          "hf"
+        ],
+        "signals": [
+          "Hugging Face Spaces: new at #48"
+        ],
+        "examples": [
+          "CumaSystem/Omni-videos-custom (gradio, ♥115)"
+        ],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "video",
+        "one_click": null,
+        "zh_examples": [
+          "CumaSystem/Omni-videos-custom (gradio, ♥115)"
+        ]
+      },
+      {
+        "term": "jeveration",
+        "kinds": [
+          "hf"
+        ],
+        "signals": [
+          "Hugging Face: new at #48"
+        ],
+        "examples": [
+          "linlinlinlinsdada/Jeveration (text-to-image, ♥71)"
+        ],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "image",
+        "one_click": null,
+        "zh_examples": [
+          "linlinlinlinsdada/Jeveration (text-to-image, ♥71)"
+        ]
+      },
+      {
+        "term": "fast anything",
+        "kinds": [
+          "breakout"
+        ],
+        "signals": [
+          "GitHub breakout EL4CTEO/fast-anything ★604 (604/day)"
+        ],
+        "examples": [
+          "EL4CTEO/fast-anything: Don't rewrite it in Rust. Rewrite the 5% that's slow: profile Python, Node or Ruby apps, port the hot functions with you"
+        ],
+        "variants": [
+          "fast anything",
+          "el4cteo fast anything"
+        ],
+        "posts": [],
+        "repo": "EL4CTEO/fast-anything",
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": [
+          "EL4CTEO/fast-anything: 别用 Rust 重写整个项目，只重写其中最慢的 5%：分析 Python、Node 或 Ruby 应用的性能瓶颈，并与你一起将热点函数迁移到 Rust"
+        ]
+      },
+      {
+        "term": "gta 6 pc release",
+        "kinds": [
+          "breakout"
+        ],
+        "signals": [
+          "GitHub breakout opokukopoku/gta-6-pc-release ★442 (442/day)"
+        ],
+        "examples": [
+          "opokukopoku/gta-6-pc-release: GTA 6 PC Release: Full Access, Zero Hassle"
+        ],
+        "variants": [
+          "gta 6 pc release",
+          "opokukopoku gta 6 pc release"
+        ],
+        "posts": [],
+        "repo": "opokukopoku/gta-6-pc-release",
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": [
+          "opokukopoku/gta-6-pc-release: GTA 6 PC 正式版：完整功能，畅玩无忧"
+        ]
+      },
+      {
+        "term": "connectors io.github.slepp",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 8 places (×8.0)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "raydeoliveira",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 6 places (×6.0)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "channel",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 6 places (×5.5)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "connectors io.github.spase",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 5 places (×5.0)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "scu",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 5 places (×5.0)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "io.github.spase scu",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 5 places (×5.0)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "olegsher",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 4 places (×4.0)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "connectors com.digitalbusinessportal",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 3 places (×3.0)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "payment",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 3 places (×2.7)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "pipeworx",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 10 places (×2.6)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "scraper",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 4 places (×2.6)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "connectors",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 148 places (×2.1)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "company",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 3 places (×2.0)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "dsh",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 3 places (×1.9)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "x402",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 3 places (×1.5)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "hub",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 3 places (×1.3)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "search",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 3 places (×0.9)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      }
+    ]
+  },
+  {
     "id": "2026-11-22_morning",
     "date": "2026-11-22",
     "slot": "morning",
