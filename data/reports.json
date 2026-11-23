@@ -1,5 +1,794 @@
 [
   {
+    "id": "2026-11-23_evening",
+    "date": "2026-11-23",
+    "slot": "evening",
+    "label": "2026-11-23 晚场 (19:00)",
+    "breakouts": 15,
+    "new_breakouts": 1,
+    "leads": 28,
+    "max_velocity": 7089,
+    "max_velocity_repo": "ItsNotRexed/Leonida",
+    "repos": [
+      {
+        "repo": "ItsNotRexed/Leonida",
+        "owner": "ItsNotRexed",
+        "name": "Leonida",
+        "stars": 18576,
+        "velocity": 7089,
+        "delta": 3083,
+        "age_days": 2.6,
+        "description": "Leonida Is A Native PC Recompilation Of The Xbox Version Of Grand Theft Auto 6",
+        "new": false,
+        "zh_description": "Leonida：将 Xbox 版《Grand Theft Auto 6》原生移植至 PC 的重编译项目",
+        "tags": [
+          "全部",
+          "超高爆发",
+          "移动/系统"
+        ],
+        "tag_keys": [
+          "all",
+          "high_velocity",
+          "mobile"
+        ]
+      },
+      {
+        "repo": "EL4CTEO/fast-anything",
+        "owner": "EL4CTEO",
+        "name": "fast-anything",
+        "stars": 2572,
+        "velocity": 1392,
+        "delta": 603,
+        "age_days": 1.8,
+        "description": "Don't rewrite it in Rust. Rewrite the 5% that's slow: profile Python, Node or Ruby apps, port the hot functions with you",
+        "new": false,
+        "zh_description": "别用 Rust 重写整个项目，只重写其中最慢的 5%：分析 Python、Node 或 Ruby 应用的性能瓶颈，并与你一起将热点函数迁移到 Rust",
+        "tags": [
+          "全部",
+          "超高爆发"
+        ],
+        "tag_keys": [
+          "all",
+          "high_velocity"
+        ]
+      },
+      {
+        "repo": "erkamyaman/rust-anything",
+        "owner": "erkamyaman",
+        "name": "rust-anything",
+        "stars": 8390,
+        "velocity": 1207,
+        "delta": 360,
+        "age_days": 7.0,
+        "description": "Rewrite your whole app in Rust, one piece at a time, checked against the original's recorded behavior at every step. CLI",
+        "new": false,
+        "zh_description": "逐步将整个应用重写为 Rust，每一步都与原应用记录的行为进行核对。命令行工具",
+        "tags": [
+          "全部",
+          "超高爆发"
+        ],
+        "tag_keys": [
+          "all",
+          "high_velocity"
+        ]
+      },
+      {
+        "repo": "os6/nospeaker",
+        "owner": "os6",
+        "name": "nospeaker",
+        "stars": 828,
+        "velocity": 828,
+        "delta": 375,
+        "age_days": 1.0,
+        "description": "make your macbook's trackpad talk using its haptic motor",
+        "new": false,
+        "zh_description": "让你的 MacBook 触控板通过触觉马达“说话”",
+        "tags": [
+          "全部"
+        ],
+        "tag_keys": [
+          "all"
+        ]
+      },
+      {
+        "repo": "bookwjitchieni1986/blender-ai-mcp-addon",
+        "owner": "bookwjitchieni1986",
+        "name": "blender-ai-mcp-addon",
+        "stars": 2760,
+        "velocity": 718,
+        "delta": 11,
+        "age_days": 3.8,
+        "description": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with ChatGPT/GPT, Claude",
+        "new": false,
+        "zh_description": "面向 Blender 的 AI 助手与 MCP 服务器：支持可视化对话、场景工具和多智能体工作流，可与 ChatGPT/GPT、Claude 协同使用",
+        "tags": [
+          "全部",
+          "智能体/Agent"
+        ],
+        "tag_keys": [
+          "all",
+          "agent"
+        ]
+      },
+      {
+        "repo": "omonkeyz/xbox-emulator",
+        "owner": "omonkeyz",
+        "name": "xbox-emulator",
+        "stars": 1467,
+        "velocity": 692,
+        "delta": 131,
+        "age_days": 2.1,
+        "description": "Progress notes for running Xbox Series X|S builds on PC (TomBox + rage9)",
+        "new": false,
+        "zh_description": "在 PC 上运行 Xbox Series X|S 版本的进度记录（TomBox + rage9）",
+        "tags": [
+          "全部",
+          "视觉/UI"
+        ],
+        "tag_keys": [
+          "all",
+          "ui"
+        ]
+      },
+      {
+        "repo": "huami1314/GestaltX",
+        "owner": "huami1314",
+        "name": "GestaltX",
+        "stars": 8836,
+        "velocity": 621,
+        "delta": 26,
+        "age_days": 14.2,
+        "description": "An MobileGestalt editor for iOS 27.x, featuring region-code tweaks, device presets, backups.",
+        "new": false,
+        "zh_description": "一款面向 iOS 27.x 的 MobileGestalt 编辑器，支持地区代码调整、设备预设和备份。",
+        "tags": [
+          "全部",
+          "移动/系统"
+        ],
+        "tag_keys": [
+          "all",
+          "mobile"
+        ]
+      },
+      {
+        "repo": "iamajmeena/neonclipping",
+        "owner": "iamajmeena",
+        "name": "neonclipping",
+        "stars": 2213,
+        "velocity": 548,
+        "delta": 114,
+        "age_days": 4.0,
+        "description": "Paste a link, get captioned 9:16 clips in ~2 min. Free, local, open-source clipping engine (audio-first, YouTube caption",
+        "new": false,
+        "zh_description": "粘贴链接，约 2 分钟即可生成带字幕的 9:16 短视频。免费、本地运行、开源的剪辑引擎（音频优先，支持 YouTube 字幕",
+        "tags": [
+          "全部"
+        ],
+        "tag_keys": [
+          "all"
+        ]
+      },
+      {
+        "repo": "R0Y00/Xbox2Windows",
+        "owner": "R0Y00",
+        "name": "Xbox2Windows",
+        "stars": 1388,
+        "velocity": 510,
+        "delta": 69,
+        "age_days": 2.7,
+        "description": "GTA VI static recompilation research for x64 Windows. Source-built EXEs run on Windows, and two translated pixel shaders",
+        "new": false,
+        "zh_description": "面向 x64 Windows 的 GTA VI 静态重编译研究。源码构建的 EXE 可在 Windows 上运行，并包含两个已翻译的像素着色器",
+        "tags": [
+          "全部",
+          "视觉/UI",
+          "移动/系统"
+        ],
+        "tag_keys": [
+          "all",
+          "ui",
+          "mobile"
+        ]
+      },
+      {
+        "repo": "pierridotite/mobile-agent-testers",
+        "owner": "pierridotite",
+        "name": "mobile-agent-testers",
+        "stars": 1069,
+        "velocity": 161,
+        "delta": 488,
+        "age_days": 6.7,
+        "description": "20 AI testers on 20 different phones, in parallel, on GitHub's free runners: Claude Code agents on iOS Simulators and An",
+        "new": true,
+        "variants": [
+          "mobile agent testers",
+          "pierridotite mobile agent testers",
+          "pierre mobile agent testers"
+        ],
+        "zh_description": "在 GitHub 免费托管运行器上，让 20 个 AI 测试器同时在 20 部不同手机上运行：iOS Simulator 中的 Claude Code 智能体，以及 Android……",
+        "tags": [
+          "全部",
+          "今日新入榜",
+          "智能体/Agent",
+          "移动/系统"
+        ],
+        "tag_keys": [
+          "all",
+          "new",
+          "agent",
+          "mobile"
+        ]
+      },
+      {
+        "repo": "deepseek-ai/chat-demo",
+        "owner": "deepseek-ai",
+        "name": "chat-demo",
+        "stars": 5324,
+        "velocity": 479,
+        "delta": 38,
+        "age_days": 11.1,
+        "description": "Chat Demo",
+        "new": false,
+        "zh_description": "聊天演示",
+        "tags": [
+          "全部"
+        ],
+        "tag_keys": [
+          "all"
+        ]
+      },
+      {
+        "repo": "XinaTian/MROffice",
+        "owner": "XinaTian",
+        "name": "MROffice",
+        "stars": 2641,
+        "velocity": 208,
+        "delta": 465,
+        "age_days": 12.7,
+        "description": "MR Office — the open-source editors of the AI office suite closest to Microsoft Office: documents, spreadsheets, present",
+        "new": false,
+        "zh_description": "MR Office——开源 AI 办公套件中最接近 Microsoft Office 的编辑器：文档、电子表格、演示文稿……",
+        "tags": [
+          "全部",
+          "智能体/Agent",
+          "视觉/UI"
+        ],
+        "tag_keys": [
+          "all",
+          "agent",
+          "ui"
+        ]
+      },
+      {
+        "repo": "Hut-hzf/ung220z-tool",
+        "owner": "Hut-hzf",
+        "name": "ung220z-tool",
+        "stars": 2494,
+        "velocity": 312,
+        "delta": 120,
+        "age_days": 8.0,
+        "description": "ung220z-tool 是一个针对 UNG220Z，另含中兴/烽火/华为/九联多厂商适配、固件指纹识别与分家族排障建议的一键凭据提取工具，仅限在你自己的设备上用于找回忘记的管理密码、迁移宽带配置或安全自查。",
+        "new": false,
+        "zh_description": "ung220z-tool 是一个针对 UNG220Z，另含中兴/烽火/华为/九联多厂商适配、固件指纹识别与分家族排障建议的一键凭据提取工具，仅限在你自己的设备上用于找回忘记的管理密码、迁移宽带配置或安全自查。",
+        "tags": [
+          "全部"
+        ],
+        "tag_keys": [
+          "all"
+        ]
+      },
+      {
+        "repo": "simplexai-labs/linger",
+        "owner": "simplexai-labs",
+        "name": "linger",
+        "stars": 4069,
+        "velocity": 306,
+        "delta": 199,
+        "age_days": 13.3,
+        "description": "Linger is An Open-Source Personal Agent That Runs Fully on Your PC.  We aim to break Big Tech’s grip on AI by bringing p",
+        "new": false,
+        "zh_description": "Linger 是一款完全在你的电脑上运行的开源个人智能体。我们的目标是打破大型科技公司对 AI 的掌控，让个人能够拥有自己的……",
+        "tags": [
+          "全部",
+          "智能体/Agent"
+        ],
+        "tag_keys": [
+          "all",
+          "agent"
+        ]
+      },
+      {
+        "repo": "sybil-solutions/inference-optimisation-skill",
+        "owner": "sybil-solutions",
+        "name": "inference-optimisation-skill",
+        "stars": 2026,
+        "velocity": 303,
+        "delta": 61,
+        "age_days": 6.7,
+        "description": "Agent skill for hill-climbing local LLM serving speed (decode, speculative decoding, prefill, KV, startup, TTFT) on any ",
+        "new": false,
+        "zh_description": "用于优化本地 LLM 服务性能的智能体技能，涵盖解码、推测解码、预填充、KV 缓存、启动速度和 TTFT，适用于任何",
+        "tags": [
+          "全部",
+          "智能体/Agent",
+          "视觉/UI"
+        ],
+        "tag_keys": [
+          "all",
+          "agent",
+          "ui"
+        ]
+      }
+    ],
+    "leads_data": [
+      {
+        "term": "jeveration",
+        "kinds": [
+          "hf"
+        ],
+        "signals": [
+          "Hugging Face: new at #43"
+        ],
+        "examples": [
+          "linlinlinlinsdada/Jeveration (text-to-image, ♥82)"
+        ],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "image",
+        "one_click": null,
+        "zh_examples": [
+          "linlinlinlinsdada/Jeveration (text-to-image, ♥82)"
+        ]
+      },
+      {
+        "term": "hy4 flash strata",
+        "kinds": [
+          "hf"
+        ],
+        "signals": [
+          "Hugging Face: new at #50"
+        ],
+        "examples": [
+          "strata-engine/Hy4-Flash-Strata (image-text-to-text, ♥67)"
+        ],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "image",
+        "one_click": null,
+        "zh_examples": [
+          "strata-engine/Hy4-Flash-Strata (image-text-to-text, ♥67)"
+        ]
+      },
+      {
+        "term": "mobile agent testers",
+        "kinds": [
+          "breakout"
+        ],
+        "signals": [
+          "GitHub breakout pierridotite/mobile-agent-testers ★1069 (161/day, +488 in a day)"
+        ],
+        "examples": [
+          "pierridotite/mobile-agent-testers: 20 AI testers on 20 different phones, in parallel, on GitHub's free runners: Claude Code agents on iOS Simulators and An"
+        ],
+        "variants": [
+          "mobile agent testers",
+          "pierridotite mobile agent testers",
+          "pierre mobile agent testers"
+        ],
+        "posts": [],
+        "repo": "pierridotite/mobile-agent-testers",
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": [
+          "pierridotite/mobile-agent-testers: 在 GitHub 免费托管运行器上，让 20 个 AI 测试器同时在 20 部不同手机上运行：iOS Simulator 中的 Claude Code 智能体，以及 Android……"
+        ]
+      },
+      {
+        "term": "audio",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 3 places (×2.1)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "voice",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "com.eliteaiempire",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 46 places (×44.0)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "connectors com.eliteaiempire",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 46 places (×44.0)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "stillosdev",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 6 places (×6.0)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "osdev",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 6 places (×6.0)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "stillosdev stillos",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 6 places (×6.0)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "still",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 6 places (×5.9)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "mambalabsdev",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 5 places (×3.9)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "hackathon",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 4 places (×3.7)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "gemini",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 6 places (×3.2)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "linkly",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 3 places (×3.0)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "b2a",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 3 places (×3.0)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "sum",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 3 places (×3.0)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "strata",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 3 places (×2.9)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "gsa",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 3 places (×2.9)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "clean",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 3 places (×2.8)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "agy",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 3 places (×2.7)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "access",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 3 places (×2.6)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "arch",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 3 places (×2.6)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "prices",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 3 places (×2.4)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "connectors",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 209 places (×2.3)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "lite",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 3 places (×2.2)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "garmin",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 3 places (×2.0)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "scraper",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 3 places (×1.7)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "dsh",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 3 places (×1.7)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      }
+    ]
+  },
+  {
     "id": "2026-11-23_morning",
     "date": "2026-11-23",
     "slot": "morning",
