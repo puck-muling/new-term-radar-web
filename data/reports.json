@@ -1,5 +1,770 @@
 [
   {
+    "id": "2026-11-24_evening",
+    "date": "2026-11-24",
+    "slot": "evening",
+    "label": "2026-11-24 晚场 (19:00)",
+    "breakouts": 15,
+    "new_breakouts": 2,
+    "leads": 27,
+    "max_velocity": 7694,
+    "max_velocity_repo": "Marvisak/VIctory",
+    "repos": [
+      {
+        "repo": "Marvisak/VIctory",
+        "owner": "Marvisak",
+        "name": "VIctory",
+        "stars": 7694,
+        "velocity": 7694,
+        "delta": 4875,
+        "age_days": 1.0,
+        "description": "An attempt at running GTA VI on PC",
+        "new": false,
+        "zh_description": "尝试在 PC 上运行 GTA VI",
+        "tags": [
+          "全部",
+          "超高爆发"
+        ],
+        "tag_keys": [
+          "all",
+          "high_velocity"
+        ]
+      },
+      {
+        "repo": "ivall/xcl",
+        "owner": "ivall",
+        "name": "xcl",
+        "stars": 6098,
+        "velocity": 1683,
+        "delta": 2887,
+        "age_days": 3.6,
+        "description": "Xbox Series compatibility layer for Windows - runs console game code natively, reimplements the console system libraries",
+        "new": false,
+        "zh_description": "适用于 Windows 的 Xbox Series 兼容层——原生运行主机游戏代码，并重新实现主机系统库",
+        "tags": [
+          "全部",
+          "超高爆发"
+        ],
+        "tag_keys": [
+          "all",
+          "high_velocity"
+        ]
+      },
+      {
+        "repo": "EL4CTEO/fast-anything",
+        "owner": "EL4CTEO",
+        "name": "fast-anything",
+        "stars": 3405,
+        "velocity": 1196,
+        "delta": 250,
+        "age_days": 2.8,
+        "description": "Don't rewrite it in Rust. Rewrite the 5% that's slow: profile Python, Node or Ruby apps, port the hot functions with you",
+        "new": false,
+        "zh_description": "别用 Rust 重写整个项目，只重写其中最慢的 5%：分析 Python、Node 或 Ruby 应用的性能瓶颈，并与你一起将热点函数迁移到 Rust",
+        "tags": [
+          "全部",
+          "超高爆发"
+        ],
+        "tag_keys": [
+          "all",
+          "high_velocity"
+        ]
+      },
+      {
+        "repo": "erkamyaman/rust-anything",
+        "owner": "erkamyaman",
+        "name": "rust-anything",
+        "stars": 8992,
+        "velocity": 1131,
+        "delta": 233,
+        "age_days": 8.0,
+        "description": "Rewrite your whole app in Rust, one piece at a time, checked against the original's recorded behavior at every step. CLI",
+        "new": false,
+        "zh_description": "逐步将整个应用重写为 Rust，每一步都与原应用记录的行为进行核对。命令行工具",
+        "tags": [
+          "全部",
+          "超高爆发"
+        ],
+        "tag_keys": [
+          "all",
+          "high_velocity"
+        ]
+      },
+      {
+        "repo": "ubiquitarianism/leonida",
+        "owner": "ubiquitarianism",
+        "name": "leonida",
+        "stars": 977,
+        "velocity": 977,
+        "delta": null,
+        "age_days": 1.0,
+        "description": "A continuation of Leonida, the Xbox > PC port of GTA VI",
+        "new": true,
+        "variants": [
+          "leonida",
+          "ubiquitarianism leonida"
+        ],
+        "zh_description": "《Leonida》的续作，即 GTA VI 的 Xbox > PC 移植版",
+        "tags": [
+          "全部",
+          "今日新入榜"
+        ],
+        "tag_keys": [
+          "all",
+          "new"
+        ]
+      },
+      {
+        "repo": "os6/nospeaker",
+        "owner": "os6",
+        "name": "nospeaker",
+        "stars": 1613,
+        "velocity": 825,
+        "delta": 155,
+        "age_days": 2.0,
+        "description": "make your macbook's trackpad talk using its haptic motor",
+        "new": false,
+        "zh_description": "让你的 MacBook 触控板通过触觉马达“说话”",
+        "tags": [
+          "全部"
+        ],
+        "tag_keys": [
+          "all"
+        ]
+      },
+      {
+        "repo": "4lwayz/portwatch-vi",
+        "owner": "4lwayz",
+        "name": "portwatch-vi",
+        "stars": 1513,
+        "velocity": 608,
+        "delta": 798,
+        "age_days": 2.5,
+        "description": "Does GTA VI run on PC yet? A live tracker of community recompilation and emulation efforts, updated daily.",
+        "new": false,
+        "zh_description": "GTA VI 能在 PC 上运行了吗？实时追踪社区的重编译与模拟 efforts，每日更新。",
+        "tags": [
+          "全部",
+          "移动/系统"
+        ],
+        "tag_keys": [
+          "all",
+          "mobile"
+        ]
+      },
+      {
+        "repo": "AFK-surf/xnulinux",
+        "owner": "AFK-surf",
+        "name": "xnulinux",
+        "stars": 2777,
+        "velocity": 689,
+        "delta": 619,
+        "age_days": 4.0,
+        "description": "XNU as a loadable kernel module inside Linux (macOS personality for arm64 Linux)",
+        "new": false,
+        "zh_description": "将 XNU 作为可加载内核模块运行在 Linux 内（让 arm64 Linux 拥有 macOS 风格）",
+        "tags": [
+          "全部"
+        ],
+        "tag_keys": [
+          "all"
+        ]
+      },
+      {
+        "repo": "Hut-hzf/ung220z-tool",
+        "owner": "Hut-hzf",
+        "name": "ung220z-tool",
+        "stars": 4043,
+        "velocity": 450,
+        "delta": 627,
+        "age_days": 9.0,
+        "description": "ung220z-tool 是一个针对 UNG220Z，另含中兴/烽火/华为/九联多厂商适配、固件指纹识别与分家族排障建议的一键凭据提取工具，仅限在你自己的设备上用于找回忘记的管理密码、迁移宽带配置或安全自查。",
+        "new": false,
+        "zh_description": "ung220z-tool 是一个针对 UNG220Z，另含中兴/烽火/华为/九联多厂商适配、固件指纹识别与分家族排障建议的一键凭据提取工具，仅限在你自己的设备上用于找回忘记的管理密码、迁移宽带配置或安全自查。",
+        "tags": [
+          "全部"
+        ],
+        "tag_keys": [
+          "all"
+        ]
+      },
+      {
+        "repo": "XinaTian/MROffice",
+        "owner": "XinaTian",
+        "name": "MROffice",
+        "stars": 3472,
+        "velocity": 253,
+        "delta": 613,
+        "age_days": 13.7,
+        "description": "MR Office — the open-source editors of the AI office suite closest to Microsoft Office: documents, spreadsheets, present",
+        "new": false,
+        "zh_description": "MR Office——开源 AI 办公套件中最接近 Microsoft Office 的编辑器：文档、电子表格、演示文稿……",
+        "tags": [
+          "全部",
+          "智能体/Agent",
+          "视觉/UI"
+        ],
+        "tag_keys": [
+          "all",
+          "agent",
+          "ui"
+        ]
+      },
+      {
+        "repo": "omonkeyz/xbox-emulator",
+        "owner": "omonkeyz",
+        "name": "xbox-emulator",
+        "stars": 1738,
+        "velocity": 557,
+        "delta": 50,
+        "age_days": 3.1,
+        "description": "Progress notes for running Xbox Series X|S builds on PC (TomBox + rage9)",
+        "new": false,
+        "zh_description": "在 PC 上运行 Xbox Series X|S 版本的进度记录（TomBox + rage9）",
+        "tags": [
+          "全部",
+          "视觉/UI"
+        ],
+        "tag_keys": [
+          "all",
+          "ui"
+        ]
+      },
+      {
+        "repo": "RyanLebedev6104/robrun-cheat",
+        "owner": "RyanLebedev6104",
+        "name": "robrun-cheat",
+        "stars": 534,
+        "velocity": 534,
+        "delta": null,
+        "age_days": 1.0,
+        "description": "ROB RUN external-overlay & External runtime-mod — Spatial Bone ESP, Loot Radar & frame-unlocker: native 64-bit Windows 1",
+        "new": true,
+        "variants": [
+          "robrun cheat",
+          "ryanlebedev6104 robrun cheat"
+        ],
+        "zh_description": "ROB RUN 外部叠加层与外部运行时 Mod——空间骨骼 ESP、战利品雷达及帧解锁器：原生 64 位 Windows 1",
+        "tags": [
+          "全部",
+          "今日新入榜"
+        ],
+        "tag_keys": [
+          "all",
+          "new"
+        ]
+      },
+      {
+        "repo": "R0Y00/Xbox2Windows",
+        "owner": "R0Y00",
+        "name": "Xbox2Windows",
+        "stars": 1760,
+        "velocity": 473,
+        "delta": 195,
+        "age_days": 3.7,
+        "description": "Static recompilation research for Xbox Series X|S software on x64 Windows, with source-built CPU and GPU tests. Full-gam",
+        "new": false,
+        "zh_description": "面向 x64 Windows 的 Xbox Series X|S 软件静态重编译研究，包含自行构建的 CPU 与 GPU 测试。完整游戏……",
+        "tags": [
+          "全部",
+          "视觉/UI",
+          "移动/系统"
+        ],
+        "tag_keys": [
+          "all",
+          "ui",
+          "mobile"
+        ]
+      },
+      {
+        "repo": "iamajmeena/neonclipping",
+        "owner": "iamajmeena",
+        "name": "neonclipping",
+        "stars": 2376,
+        "velocity": 471,
+        "delta": 66,
+        "age_days": 5.0,
+        "description": "Paste a link, get captioned 9:16 clips in ~2 min. Free, local, open-source clipping engine (audio-first, YouTube caption",
+        "new": false,
+        "zh_description": "粘贴链接，约 2 分钟即可生成带字幕的 9:16 短视频。免费、本地运行、开源的剪辑引擎（音频优先，支持 YouTube 字幕",
+        "tags": [
+          "全部"
+        ],
+        "tag_keys": [
+          "all"
+        ]
+      },
+      {
+        "repo": "deepseek-ai/chat-demo",
+        "owner": "deepseek-ai",
+        "name": "chat-demo",
+        "stars": 5375,
+        "velocity": 443,
+        "delta": 26,
+        "age_days": 12.1,
+        "description": "Chat Demo",
+        "new": false,
+        "zh_description": "聊天演示",
+        "tags": [
+          "全部"
+        ],
+        "tag_keys": [
+          "all"
+        ]
+      }
+    ],
+    "leads_data": [
+      {
+        "term": "leonida",
+        "kinds": [
+          "breakout"
+        ],
+        "signals": [
+          "GitHub breakout ubiquitarianism/leonida ★977 (977/day)"
+        ],
+        "examples": [
+          "ubiquitarianism/leonida: A continuation of Leonida, the Xbox > PC port of GTA VI"
+        ],
+        "variants": [
+          "leonida",
+          "ubiquitarianism leonida"
+        ],
+        "posts": [],
+        "repo": "ubiquitarianism/leonida",
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": [
+          "ubiquitarianism/leonida: 《Leonida》的续作，即 GTA VI 的 Xbox > PC 移植版"
+        ]
+      },
+      {
+        "term": "robrun cheat",
+        "kinds": [
+          "breakout"
+        ],
+        "signals": [
+          "GitHub breakout RyanLebedev6104/robrun-cheat ★534 (534/day)"
+        ],
+        "examples": [
+          "RyanLebedev6104/robrun-cheat: ROB RUN external-overlay & External runtime-mod — Spatial Bone ESP, Loot Radar & frame-unlocker: native 64-bit Windows 1"
+        ],
+        "variants": [
+          "robrun cheat",
+          "ryanlebedev6104 robrun cheat"
+        ],
+        "posts": [],
+        "repo": "RyanLebedev6104/robrun-cheat",
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": [
+          "RyanLebedev6104/robrun-cheat: ROB RUN 外部叠加层与外部运行时 Mod——空间骨骼 ESP、战利品雷达及帧解锁器：原生 64 位 Windows 1"
+        ]
+      },
+      {
+        "term": "sprites",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 10 places (×9.8)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "connectors io.github.zz959397ghb",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 7 places (×7.0)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "io.github.shoomaii",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 6 places (×6.0)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "connectors io.github.shoomaii",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 6 places (×6.0)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "ads",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 9 places (×4.3)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "io.github.stand",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 4 places (×4.0)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "connectors io.github.stand",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 4 places (×4.0)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "io.github.stand out",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 4 places (×4.0)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "mambalabsdev",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 5 places (×3.9)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "diogenes",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 4 places (×3.9)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "out sun",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 4 places (×3.9)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "sun diogenes",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 4 places (×3.9)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "visibility",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 4 places (×3.3)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "visibility tracker",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 3 places (×3.0)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "oratis",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 3 places (×3.0)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "sprites google",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 3 places (×3.0)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "site",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 8 places (×2.6)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "audit",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 4 places (×2.4)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "company",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 4 places (×2.4)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "connector",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 4 places (×2.4)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "ledger",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 3 places (×2.4)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "dsh",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 4 places (×2.3)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "connectors",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 201 places (×2.2)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "commerce",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 3 places (×2.1)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "computer",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 3 places (×2.1)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      }
+    ]
+  },
+  {
     "id": "2026-11-24_morning",
     "date": "2026-11-24",
     "slot": "morning",
