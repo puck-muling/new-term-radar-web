@@ -1,5 +1,972 @@
 [
   {
+    "id": "2026-11-25_morning",
+    "date": "2026-11-25",
+    "slot": "morning",
+    "label": "2026-11-25 早场 (10:00)",
+    "breakouts": 15,
+    "new_breakouts": 8,
+    "leads": 34,
+    "max_velocity": 9727,
+    "max_velocity_repo": "Marvisak/VIctory",
+    "repos": [
+      {
+        "repo": "Marvisak/VIctory",
+        "owner": "Marvisak",
+        "name": "VIctory",
+        "stars": 11435,
+        "velocity": 9727,
+        "delta": 3741,
+        "age_days": 1.2,
+        "description": "An attempt at running GTA VI on PC",
+        "new": false,
+        "zh_description": "尝试在 PC 上运行 GTA VI",
+        "tags": [
+          "全部",
+          "超高爆发"
+        ],
+        "tag_keys": [
+          "all",
+          "high_velocity"
+        ]
+      },
+      {
+        "repo": "fxceless/victory-fork",
+        "owner": "fxceless",
+        "name": "victory-fork",
+        "stars": 2030,
+        "velocity": 2030,
+        "delta": null,
+        "age_days": 1.0,
+        "description": "Work-in-progress fork of VIctory: getting an Xbox Series title to render and run on a Windows PC. No game files.",
+        "new": true,
+        "variants": [
+          "victory fork",
+          "fxceless victory fork",
+          "hyphen victory fork"
+        ],
+        "zh_description": "VIctory 的开发中分支：让 Xbox Series 游戏能够在 Windows PC 上渲染并运行。不含游戏文件。",
+        "tags": [
+          "全部",
+          "今日新入榜",
+          "超高爆发"
+        ],
+        "tag_keys": [
+          "all",
+          "new",
+          "high_velocity"
+        ]
+      },
+      {
+        "repo": "xcl-dev/xcl",
+        "owner": "xcl-dev",
+        "name": "xcl",
+        "stars": 7876,
+        "velocity": 1854,
+        "delta": null,
+        "age_days": 4.2,
+        "description": "Xbox Series compatibility layer for Windows - runs console game code natively, reimplements the console system libraries",
+        "new": true,
+        "variants": [
+          "xcl",
+          "xcl-dev xcl",
+          "xcl xcl"
+        ],
+        "zh_description": "适用于 Windows 的 Xbox Series 兼容层——原生运行主机游戏代码，并重新实现主机系统库",
+        "tags": [
+          "全部",
+          "今日新入榜",
+          "超高爆发"
+        ],
+        "tag_keys": [
+          "all",
+          "new",
+          "high_velocity"
+        ]
+      },
+      {
+        "repo": "ubiquitarianism/leonida",
+        "owner": "ubiquitarianism",
+        "name": "leonida",
+        "stars": 1908,
+        "velocity": 1755,
+        "delta": 931,
+        "age_days": 1.1,
+        "description": "A continuation of Leonida, the Xbox > PC port interface for GTA VI",
+        "new": false,
+        "zh_description": "Leonida 的后续项目；Leonida 是一款将 GTA VI 从 Xbox 移植至 PC 的界面工具",
+        "tags": [
+          "全部",
+          "超高爆发"
+        ],
+        "tag_keys": [
+          "all",
+          "high_velocity"
+        ]
+      },
+      {
+        "repo": "4lwayz/portwatch-vi",
+        "owner": "4lwayz",
+        "name": "portwatch-vi",
+        "stars": 2938,
+        "velocity": 944,
+        "delta": 1425,
+        "age_days": 3.1,
+        "description": "Does GTA VI run on PC yet? A live tracker of community recompilation and emulation efforts, updated daily.",
+        "new": false,
+        "zh_description": "GTA VI 能在 PC 上运行了吗？实时追踪社区的重编译与模拟 efforts，每日更新。",
+        "tags": [
+          "全部",
+          "移动/系统"
+        ],
+        "tag_keys": [
+          "all",
+          "mobile"
+        ]
+      },
+      {
+        "repo": "erkamyaman/rust-anything",
+        "owner": "erkamyaman",
+        "name": "rust-anything",
+        "stars": 9234,
+        "velocity": 1077,
+        "delta": 242,
+        "age_days": 8.6,
+        "description": "Rewrite your whole app in Rust, one piece at a time, checked against the original's recorded behavior at every step. CLI",
+        "new": false,
+        "zh_description": "逐步将整个应用重写为 Rust，每一步都与原应用记录的行为进行核对。命令行工具",
+        "tags": [
+          "全部",
+          "超高爆发"
+        ],
+        "tag_keys": [
+          "all",
+          "high_velocity"
+        ]
+      },
+      {
+        "repo": "EL4CTEO/fast-anything",
+        "owner": "EL4CTEO",
+        "name": "fast-anything",
+        "stars": 3626,
+        "velocity": 1044,
+        "delta": 221,
+        "age_days": 3.5,
+        "description": "Don't rewrite it in Rust. Rewrite the 5% that's slow: profile Python, Node or Ruby apps, port the hot functions with you",
+        "new": false,
+        "zh_description": "别用 Rust 重写整个项目，只重写其中最慢的 5%：分析 Python、Node 或 Ruby 应用的性能瓶颈，并与你一起将热点函数迁移到 Rust",
+        "tags": [
+          "全部",
+          "超高爆发"
+        ],
+        "tag_keys": [
+          "all",
+          "high_velocity"
+        ]
+      },
+      {
+        "repo": "AFK-surf/xnulinux",
+        "owner": "AFK-surf",
+        "name": "xnulinux",
+        "stars": 3409,
+        "velocity": 732,
+        "delta": 632,
+        "age_days": 4.7,
+        "description": "XNU as a loadable kernel module inside Linux (macOS personality for arm64 Linux)",
+        "new": false,
+        "zh_description": "将 XNU 作为可加载内核模块运行在 Linux 内（让 arm64 Linux 拥有 macOS 风格）",
+        "tags": [
+          "全部"
+        ],
+        "tag_keys": [
+          "all"
+        ]
+      },
+      {
+        "repo": "os6/nospeaker",
+        "owner": "os6",
+        "name": "nospeaker",
+        "stars": 1766,
+        "velocity": 685,
+        "delta": 153,
+        "age_days": 2.6,
+        "description": "make your macbook's trackpad talk using its haptic motor",
+        "new": false,
+        "zh_description": "让你的 MacBook 触控板通过触觉马达“说话”",
+        "tags": [
+          "全部"
+        ],
+        "tag_keys": [
+          "all"
+        ]
+      },
+      {
+        "repo": "Indigo-0167/universal-game-mod-manager",
+        "owner": "Indigo-0167",
+        "name": "universal-game-mod-manager",
+        "stars": 646,
+        "velocity": 544,
+        "delta": null,
+        "age_days": 1.2,
+        "description": "Free Windows game mod manager to discover, install, update and manage universal Unity and Unreal Engine mods.",
+        "new": true,
+        "variants": [
+          "universal game mod manager",
+          "indigo-0167 universal game mod manager"
+        ],
+        "zh_description": "免费的 Windows 游戏模组管理器，可发现、安装、更新和管理通用 Unity 与 Unreal Engine 模组。",
+        "tags": [
+          "全部",
+          "今日新入榜"
+        ],
+        "tag_keys": [
+          "all",
+          "new"
+        ]
+      },
+      {
+        "repo": "zero5122/offline-file-converter-windows",
+        "owner": "zero5122",
+        "name": "offline-file-converter-windows",
+        "stars": 640,
+        "velocity": 542,
+        "delta": null,
+        "age_days": 1.2,
+        "description": "Free offline file converter for Windows – convert PDF, documents, images, audio and video privately.",
+        "new": true,
+        "variants": [
+          "offline file converter windows",
+          "zero5122 offline file converter windows"
+        ],
+        "zh_description": "免费的 Windows 离线文件转换器，可私密地转换 PDF、文档、图片、音频和视频。",
+        "tags": [
+          "全部",
+          "今日新入榜",
+          "视觉/UI"
+        ],
+        "tag_keys": [
+          "all",
+          "new",
+          "ui"
+        ]
+      },
+      {
+        "repo": "rowanbyte3329/stardew-valley-mod-manager",
+        "owner": "rowanbyte3329",
+        "name": "stardew-valley-mod-manager",
+        "stars": 637,
+        "velocity": 534,
+        "delta": null,
+        "age_days": 1.2,
+        "description": "Free open-source Stardew Valley mod manager for Windows with SMAPI support, mod updates, and custom mod profiles.",
+        "new": true,
+        "variants": [
+          "stardew valley mod manager",
+          "rowanbyte3329 stardew valley mod manager"
+        ],
+        "zh_description": "免费开源的 Windows 版 Stardew Valley 模组管理器，支持 SMAPI、模组更新和自定义模组配置。",
+        "tags": [
+          "全部",
+          "今日新入榜"
+        ],
+        "tag_keys": [
+          "all",
+          "new"
+        ]
+      },
+      {
+        "repo": "Umbra9179/clipboard-history-manager-windows",
+        "owner": "Umbra9179",
+        "name": "clipboard-history-manager-windows",
+        "stars": 625,
+        "velocity": 529,
+        "delta": null,
+        "age_days": 1.2,
+        "description": "Free open-source Windows clipboard manager with searchable history, image previews, tags, editing and backup.",
+        "new": true,
+        "variants": [
+          "clipboard history manager windows",
+          "umbra9179 clipboard history manager windows"
+        ],
+        "zh_description": "免费开源的 Windows 剪贴板管理器，支持搜索历史记录、图片预览、标签、编辑和备份。",
+        "tags": [
+          "全部",
+          "今日新入榜",
+          "视觉/UI"
+        ],
+        "tag_keys": [
+          "all",
+          "new",
+          "ui"
+        ]
+      },
+      {
+        "repo": "solv4626/steam-achievement-manager-windows",
+        "owner": "solv4626",
+        "name": "steam-achievement-manager-windows",
+        "stars": 625,
+        "velocity": 527,
+        "delta": null,
+        "age_days": 1.2,
+        "description": "Free open-source Steam Achievement Manager for Windows to manage game achievements and edit Steam game statistics.",
+        "new": true,
+        "variants": [
+          "steam achievement manager windows",
+          "solv4626 steam achievement manager windows"
+        ],
+        "zh_description": "免费开源的 Windows Steam 成就管理器，可管理游戏成就并编辑 Steam 游戏统计信息。",
+        "tags": [
+          "全部",
+          "今日新入榜"
+        ],
+        "tag_keys": [
+          "all",
+          "new"
+        ]
+      },
+      {
+        "repo": "Basil0879/steam-game-idler",
+        "owner": "Basil0879",
+        "name": "steam-game-idler",
+        "stars": 629,
+        "velocity": 526,
+        "delta": null,
+        "age_days": 1.2,
+        "description": "Free Steam idler for trading card farming, achievement management, playtime boosting and multi-account automation on Win",
+        "new": true,
+        "variants": [
+          "steam game idler",
+          "basil0879 steam game idler"
+        ],
+        "zh_description": "免费的 Steam 挂机工具，可在 Windows 上刷集换式卡牌、管理成就、增加游戏时长并实现多账号自动化",
+        "tags": [
+          "全部",
+          "今日新入榜"
+        ],
+        "tag_keys": [
+          "all",
+          "new"
+        ]
+      }
+    ],
+    "leads_data": [
+      {
+        "term": "ternary bonsai 2.5",
+        "kinds": [
+          "hf"
+        ],
+        "signals": [
+          "Hugging Face: new at #22"
+        ],
+        "examples": [
+          "prism-ml/Ternary-Bonsai-2.5-27B-GGUF (text-generation, ♥108)"
+        ],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": [
+          "prism-ml/Ternary-Bonsai-2.5-27B-GGUF (text-generation, ♥108)"
+        ]
+      },
+      {
+        "term": "offline file converter windows",
+        "kinds": [
+          "breakout"
+        ],
+        "signals": [
+          "GitHub breakout zero5122/offline-file-converter-windows ★640 (542/day)"
+        ],
+        "examples": [
+          "zero5122/offline-file-converter-windows: Free offline file converter for Windows – convert PDF, documents, images, audio and video privately."
+        ],
+        "variants": [
+          "offline file converter windows",
+          "zero5122 offline file converter windows"
+        ],
+        "posts": [],
+        "repo": "zero5122/offline-file-converter-windows",
+        "known": "",
+        "format": "video",
+        "one_click": null,
+        "zh_examples": [
+          "zero5122/offline-file-converter-windows: 免费的 Windows 离线文件转换器，可私密地转换 PDF、文档、图片、音频和视频。"
+        ]
+      },
+      {
+        "term": "clipboard history manager windows",
+        "kinds": [
+          "breakout"
+        ],
+        "signals": [
+          "GitHub breakout Umbra9179/clipboard-history-manager-windows ★625 (529/day)"
+        ],
+        "examples": [
+          "Umbra9179/clipboard-history-manager-windows: Free open-source Windows clipboard manager with searchable history, image previews, tags, editing and backup."
+        ],
+        "variants": [
+          "clipboard history manager windows",
+          "umbra9179 clipboard history manager windows"
+        ],
+        "posts": [],
+        "repo": "Umbra9179/clipboard-history-manager-windows",
+        "known": "",
+        "format": "image",
+        "one_click": null,
+        "zh_examples": [
+          "Umbra9179/clipboard-history-manager-windows: 免费开源的 Windows 剪贴板管理器，支持搜索历史记录、图片预览、标签、编辑和备份。"
+        ]
+      },
+      {
+        "term": "victory fork",
+        "kinds": [
+          "breakout"
+        ],
+        "signals": [
+          "GitHub breakout fxceless/victory-fork ★2030 (2030/day)"
+        ],
+        "examples": [
+          "fxceless/victory-fork: Work-in-progress fork of VIctory: getting an Xbox Series title to render and run on a Windows PC. No game files."
+        ],
+        "variants": [
+          "victory fork",
+          "fxceless victory fork",
+          "hyphen victory fork"
+        ],
+        "posts": [],
+        "repo": "fxceless/victory-fork",
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": [
+          "fxceless/victory-fork: VIctory 的开发中分支：让 Xbox Series 游戏能够在 Windows PC 上渲染并运行。不含游戏文件。"
+        ]
+      },
+      {
+        "term": "xcl",
+        "kinds": [
+          "breakout"
+        ],
+        "signals": [
+          "GitHub breakout xcl-dev/xcl ★7876 (1854/day)"
+        ],
+        "examples": [
+          "xcl-dev/xcl: Xbox Series compatibility layer for Windows - runs console game code natively, reimplements the console system libraries"
+        ],
+        "variants": [
+          "xcl",
+          "xcl-dev xcl",
+          "xcl xcl"
+        ],
+        "posts": [],
+        "repo": "xcl-dev/xcl",
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": [
+          "xcl-dev/xcl: 适用于 Windows 的 Xbox Series 兼容层——原生运行主机游戏代码，并重新实现主机系统库"
+        ]
+      },
+      {
+        "term": "universal game mod manager",
+        "kinds": [
+          "breakout"
+        ],
+        "signals": [
+          "GitHub breakout Indigo-0167/universal-game-mod-manager ★646 (544/day)"
+        ],
+        "examples": [
+          "Indigo-0167/universal-game-mod-manager: Free Windows game mod manager to discover, install, update and manage universal Unity and Unreal Engine mods."
+        ],
+        "variants": [
+          "universal game mod manager",
+          "indigo-0167 universal game mod manager"
+        ],
+        "posts": [],
+        "repo": "Indigo-0167/universal-game-mod-manager",
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": [
+          "Indigo-0167/universal-game-mod-manager: 免费的 Windows 游戏模组管理器，可发现、安装、更新和管理通用 Unity 与 Unreal Engine 模组。"
+        ]
+      },
+      {
+        "term": "stardew valley mod manager",
+        "kinds": [
+          "breakout"
+        ],
+        "signals": [
+          "GitHub breakout rowanbyte3329/stardew-valley-mod-manager ★637 (534/day)"
+        ],
+        "examples": [
+          "rowanbyte3329/stardew-valley-mod-manager: Free open-source Stardew Valley mod manager for Windows with SMAPI support, mod updates, and custom mod profiles."
+        ],
+        "variants": [
+          "stardew valley mod manager",
+          "rowanbyte3329 stardew valley mod manager"
+        ],
+        "posts": [],
+        "repo": "rowanbyte3329/stardew-valley-mod-manager",
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": [
+          "rowanbyte3329/stardew-valley-mod-manager: 免费开源的 Windows 版 Stardew Valley 模组管理器，支持 SMAPI、模组更新和自定义模组配置。"
+        ]
+      },
+      {
+        "term": "steam achievement manager windows",
+        "kinds": [
+          "breakout"
+        ],
+        "signals": [
+          "GitHub breakout solv4626/steam-achievement-manager-windows ★625 (527/day)"
+        ],
+        "examples": [
+          "solv4626/steam-achievement-manager-windows: Free open-source Steam Achievement Manager for Windows to manage game achievements and edit Steam game statistics."
+        ],
+        "variants": [
+          "steam achievement manager windows",
+          "solv4626 steam achievement manager windows"
+        ],
+        "posts": [],
+        "repo": "solv4626/steam-achievement-manager-windows",
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": [
+          "solv4626/steam-achievement-manager-windows: 免费开源的 Windows Steam 成就管理器，可管理游戏成就并编辑 Steam 游戏统计信息。"
+        ]
+      },
+      {
+        "term": "steam game idler",
+        "kinds": [
+          "breakout"
+        ],
+        "signals": [
+          "GitHub breakout Basil0879/steam-game-idler ★629 (526/day)"
+        ],
+        "examples": [
+          "Basil0879/steam-game-idler: Free Steam idler for trading card farming, achievement management, playtime boosting and multi-account automation on Win"
+        ],
+        "variants": [
+          "steam game idler",
+          "basil0879 steam game idler"
+        ],
+        "posts": [],
+        "repo": "Basil0879/steam-game-idler",
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": [
+          "Basil0879/steam-game-idler: 免费的 Steam 挂机工具，可在 Windows 上刷集换式卡牌、管理成就、增加游戏时长并实现多账号自动化"
+        ]
+      },
+      {
+        "term": "george22",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 32 places (×26.9)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "io.github.gemini",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 24 places (×21.0)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "io.github.geminigeorge22",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 24 places (×21.0)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "connectors io.github.geminigeorge22",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 24 places (×21.0)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "io.github.geminigeorge22 fmf",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 15 places (×15.0)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "sim",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 18 places (×13.2)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "booking",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 22 places (×10.7)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "io.github.zz959397ghb",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 9 places (×8.7)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "connectors io.github.zz959397ghb",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 9 places (×8.7)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "io.github.storewatch",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 8 places (×8.0)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "connectors io.github.storewatch",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 8 places (×8.0)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "geminigeorge22",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 8 places (×7.6)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "connectors io.github.musama000",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 7 places (×7.0)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "wolf dev",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 5 places (×5.0)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "xbt",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 5 places (×5.0)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "xbtmelchizedek",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 5 places (×5.0)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "melchizedek",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 5 places (×4.9)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "connectors dev.workers.pomlabs.pom",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 5 places (×4.8)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "connectors io.webz",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 5 places (×4.8)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "antigravity",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 8 places (×4.5)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "connectors com.eliteaiempire",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 7 places (×4.5)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "svg",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 7 places (×4.2)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "connectors ai.llpro",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 4 places (×4.0)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "bank health",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 4 places (×4.0)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "fdic bank",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 4 places (×4.0)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      }
+    ]
+  },
+  {
     "id": "2026-11-24_evening",
     "date": "2026-11-24",
     "slot": "evening",
