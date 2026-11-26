@@ -1,5 +1,812 @@
 [
   {
+    "id": "2026-11-26_evening",
+    "date": "2026-11-26",
+    "slot": "evening",
+    "label": "2026-11-26 晚场 (19:00)",
+    "breakouts": 15,
+    "new_breakouts": 2,
+    "leads": 29,
+    "max_velocity": 5056,
+    "max_velocity_repo": "Marvisak/VIctory",
+    "repos": [
+      {
+        "repo": "Marvisak/VIctory",
+        "owner": "Marvisak",
+        "name": "VIctory",
+        "stars": 12895,
+        "velocity": 5056,
+        "delta": 254,
+        "age_days": 2.6,
+        "description": "An attempt at running GTA VI on PC",
+        "new": false,
+        "zh_description": "尝试在 PC 上运行 GTA VI",
+        "tags": [
+          "全部",
+          "超高爆发"
+        ],
+        "tag_keys": [
+          "all",
+          "high_velocity"
+        ]
+      },
+      {
+        "repo": "fxceless/victory-fork",
+        "owner": "fxceless",
+        "name": "victory-fork",
+        "stars": 3183,
+        "velocity": 1865,
+        "delta": 98,
+        "age_days": 1.7,
+        "description": "Work-in-progress fork of VIctory: getting an Xbox Series title to render and run on a Windows PC. No game files.",
+        "new": false,
+        "zh_description": "VIctory 的开发中分支：让 Xbox Series 游戏能够在 Windows PC 上渲染并运行。不含游戏文件。",
+        "tags": [
+          "全部",
+          "超高爆发"
+        ],
+        "tag_keys": [
+          "all",
+          "high_velocity"
+        ]
+      },
+      {
+        "repo": "Belobug/VIctory-Belobug-AMD",
+        "owner": "Belobug",
+        "name": "VIctory-Belobug-AMD",
+        "stars": 1714,
+        "velocity": 1625,
+        "delta": 58,
+        "age_days": 1.1,
+        "description": "",
+        "new": false,
+        "zh_description": "暂无项目描述",
+        "tags": [
+          "全部",
+          "超高爆发"
+        ],
+        "tag_keys": [
+          "all",
+          "high_velocity"
+        ]
+      },
+      {
+        "repo": "xcl-dev/xcl",
+        "owner": "xcl-dev",
+        "name": "xcl",
+        "stars": 8418,
+        "velocity": 1497,
+        "delta": 91,
+        "age_days": 5.6,
+        "description": "Xbox Series compatibility layer for Windows - runs console game code natively, reimplements the console system libraries",
+        "new": false,
+        "zh_description": "适用于 Windows 的 Xbox Series 兼容层——原生运行主机游戏代码，并重新实现主机系统库",
+        "tags": [
+          "全部",
+          "超高爆发"
+        ],
+        "tag_keys": [
+          "all",
+          "high_velocity"
+        ]
+      },
+      {
+        "repo": "avatarmanz/VIctory-7900XTX",
+        "owner": "avatarmanz",
+        "name": "VIctory-7900XTX",
+        "stars": 1452,
+        "velocity": 1452,
+        "delta": 628,
+        "age_days": 1.0,
+        "description": "Goal: an Xbox Series title (your own dump) at a stable 30+ fps on PC without ray tracing, then higher. Porting, not emul",
+        "new": false,
+        "zh_description": "目标：将 Xbox Series 游戏（使用你自己dump的镜像）移植到 PC，在不启用光线追踪的情况下稳定达到 30+ FPS，之后再提升。这是移植，不是模拟。",
+        "tags": [
+          "全部",
+          "超高爆发"
+        ],
+        "tag_keys": [
+          "all",
+          "high_velocity"
+        ]
+      },
+      {
+        "repo": "4lwayz/portwatch-vi",
+        "owner": "4lwayz",
+        "name": "portwatch-vi",
+        "stars": 4821,
+        "velocity": 1074,
+        "delta": 601,
+        "age_days": 4.5,
+        "description": "Does GTA VI run on PC yet? A live tracker of community recompilation and emulation efforts, updated daily.",
+        "new": false,
+        "zh_description": "GTA VI 能在 PC 上运行了吗？实时追踪社区的重编译与模拟 efforts，每日更新。",
+        "tags": [
+          "全部",
+          "超高爆发",
+          "移动/系统"
+        ],
+        "tag_keys": [
+          "all",
+          "high_velocity",
+          "mobile"
+        ]
+      },
+      {
+        "repo": "erkamyaman/rust-anything",
+        "owner": "erkamyaman",
+        "name": "rust-anything",
+        "stars": 9810,
+        "velocity": 986,
+        "delta": 173,
+        "age_days": 10.0,
+        "description": "Rewrite your whole app in Rust, one piece at a time, checked against the original's recorded behavior at every step. CLI",
+        "new": false,
+        "zh_description": "逐步将整个应用重写为 Rust，每一步都与原应用记录的行为进行核对。命令行工具",
+        "tags": [
+          "全部"
+        ],
+        "tag_keys": [
+          "all"
+        ]
+      },
+      {
+        "repo": "ubiquitarianism/leonida",
+        "owner": "ubiquitarianism",
+        "name": "leonida",
+        "stars": 2416,
+        "velocity": 981,
+        "delta": 70,
+        "age_days": 2.5,
+        "description": "A continuation of Leonida, the Xbox > PC port interface for GTA VI",
+        "new": false,
+        "zh_description": "Leonida 的后续项目；Leonida 是一款将 GTA VI 从 Xbox 移植至 PC 的界面工具",
+        "tags": [
+          "全部"
+        ],
+        "tag_keys": [
+          "all"
+        ]
+      },
+      {
+        "repo": "EL4CTEO/fast-anything",
+        "owner": "EL4CTEO",
+        "name": "fast-anything",
+        "stars": 4108,
+        "velocity": 848,
+        "delta": 120,
+        "age_days": 4.8,
+        "description": "Don't rewrite it in Rust. Rewrite the 5% that's slow: profile Python, Node or Ruby apps, port the hot functions with you",
+        "new": false,
+        "zh_description": "别用 Rust 重写整个项目，只重写其中最慢的 5%：分析 Python、Node 或 Ruby 应用的性能瓶颈，并与你一起将热点函数迁移到 Rust",
+        "tags": [
+          "全部"
+        ],
+        "tag_keys": [
+          "all"
+        ]
+      },
+      {
+        "repo": "alesha-pro/llm.asm",
+        "owner": "alesha-pro",
+        "name": "llm.asm",
+        "stars": 887,
+        "velocity": 773,
+        "delta": null,
+        "age_days": 1.1,
+        "description": "Qwen3-0.6B inference (12 KB), bare-metal bootable OS (22 KB), and from-scratch Mini-GPT trainer with live Braille TUI (3",
+        "new": true,
+        "variants": [
+          "llm asm",
+          "alesha-pro llm asm",
+          "alexey llm asm"
+        ],
+        "zh_description": "Qwen3-0.6B 推理（12 KB）、可裸机启动的操作系统（22 KB），以及从零实现的 Mini-GPT 训练器，配备实时盲文终端界面（3",
+        "tags": [
+          "全部",
+          "今日新入榜",
+          "视觉/UI"
+        ],
+        "tag_keys": [
+          "all",
+          "new",
+          "ui"
+        ]
+      },
+      {
+        "repo": "RMvdesi/obsidian-prism",
+        "owner": "RMvdesi",
+        "name": "obsidian-prism",
+        "stars": 1733,
+        "velocity": 186,
+        "delta": 693,
+        "age_days": 9.3,
+        "description": "Optical UI, damped-spring choreography, 512K shallow-water vial, pixel mascots & dual-mode thought suite for Antigravity",
+        "new": false,
+        "zh_description": "面向 Antigravity 的光学 UI、阻尼弹簧动效、512K 浅水容器、像素吉祥物及双模式思维套件",
+        "tags": [
+          "全部",
+          "视觉/UI"
+        ],
+        "tag_keys": [
+          "all",
+          "ui"
+        ]
+      },
+      {
+        "repo": "AFK-surf/xnulinux",
+        "owner": "AFK-surf",
+        "name": "xnulinux",
+        "stars": 4094,
+        "velocity": 679,
+        "delta": 132,
+        "age_days": 6.0,
+        "description": "XNU as a loadable kernel module inside Linux (macOS personality for arm64 Linux)",
+        "new": false,
+        "zh_description": "将 XNU 作为可加载内核模块运行在 Linux 内（让 arm64 Linux 拥有 macOS 风格）",
+        "tags": [
+          "全部"
+        ],
+        "tag_keys": [
+          "all"
+        ]
+      },
+      {
+        "repo": "lsernau/grh-lean",
+        "owner": "lsernau",
+        "name": "grh-lean",
+        "stars": 674,
+        "velocity": 674,
+        "delta": null,
+        "age_days": 1.0,
+        "description": "A short Lean 4 proof of the Generalized Riemann Hypothesis",
+        "new": true,
+        "variants": [
+          "grh lean",
+          "lsernau grh lean"
+        ],
+        "zh_description": "用 Lean 4 简明证明广义黎曼猜想",
+        "tags": [
+          "全部",
+          "今日新入榜"
+        ],
+        "tag_keys": [
+          "all",
+          "new"
+        ]
+      },
+      {
+        "repo": "Indigo-0167/universal-game-mod-manager",
+        "owner": "Indigo-0167",
+        "name": "universal-game-mod-manager",
+        "stars": 1300,
+        "velocity": 507,
+        "delta": 2,
+        "age_days": 2.6,
+        "description": "Free Windows game mod manager to discover, install, update and manage universal Unity and Unreal Engine mods.",
+        "new": false,
+        "zh_description": "免费的 Windows 游戏模组管理器，可发现、安装、更新和管理通用 Unity 与 Unreal Engine 模组。",
+        "tags": [
+          "全部"
+        ],
+        "tag_keys": [
+          "all"
+        ]
+      },
+      {
+        "repo": "Umbra9179/clipboard-history-manager-windows",
+        "owner": "Umbra9179",
+        "name": "clipboard-history-manager-windows",
+        "stars": 1262,
+        "velocity": 494,
+        "delta": 0,
+        "age_days": 2.6,
+        "description": "Free open-source Windows clipboard manager with searchable history, image previews, tags, editing and backup.",
+        "new": false,
+        "zh_description": "免费开源的 Windows 剪贴板管理器，支持搜索历史记录、图片预览、标签、编辑和备份。",
+        "tags": [
+          "全部",
+          "视觉/UI"
+        ],
+        "tag_keys": [
+          "all",
+          "ui"
+        ]
+      }
+    ],
+    "leads_data": [
+      {
+        "term": "kandinsky imagesr 2.0",
+        "kinds": [
+          "hf"
+        ],
+        "signals": [
+          "Hugging Face: new at #48"
+        ],
+        "examples": [
+          "kandinskylab/Kandinsky-ImageSR-2.0 (image-to-image, ♥56)"
+        ],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "image",
+        "one_click": null,
+        "zh_examples": [
+          "kandinskylab/Kandinsky-ImageSR-2.0 (image-to-image, ♥56)"
+        ]
+      },
+      {
+        "term": "h3 vae mt",
+        "kinds": [
+          "hf"
+        ],
+        "signals": [
+          "Hugging Face: new at #49"
+        ],
+        "examples": [
+          "lovartai/H3-VAE-MT (?, ♥77)"
+        ],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": [
+          "lovartai/H3-VAE-MT (?, ♥77)"
+        ]
+      },
+      {
+        "term": "llm asm",
+        "kinds": [
+          "breakout"
+        ],
+        "signals": [
+          "GitHub breakout alesha-pro/llm.asm ★887 (773/day)"
+        ],
+        "examples": [
+          "alesha-pro/llm.asm: Qwen3-0.6B inference (12 KB), bare-metal bootable OS (22 KB), and from-scratch Mini-GPT trainer with live Braille TUI (3"
+        ],
+        "variants": [
+          "llm asm",
+          "alesha-pro llm asm",
+          "alexey llm asm"
+        ],
+        "posts": [],
+        "repo": "alesha-pro/llm.asm",
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": [
+          "alesha-pro/llm.asm: Qwen3-0.6B 推理（12 KB）、可裸机启动的操作系统（22 KB），以及从零实现的 Mini-GPT 训练器，配备实时盲文终端界面（3"
+        ]
+      },
+      {
+        "term": "grh lean",
+        "kinds": [
+          "breakout"
+        ],
+        "signals": [
+          "GitHub breakout lsernau/grh-lean ★674 (674/day)"
+        ],
+        "examples": [
+          "lsernau/grh-lean: A short Lean 4 proof of the Generalized Riemann Hypothesis"
+        ],
+        "variants": [
+          "grh lean",
+          "lsernau grh lean"
+        ],
+        "posts": [],
+        "repo": "lsernau/grh-lean",
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": [
+          "lsernau/grh-lean: 用 Lean 4 简明证明广义黎曼猜想"
+        ]
+      },
+      {
+        "term": "io.usefulapi",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 88 places (×19.3)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "connectors io.usefulapi",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 88 places (×19.3)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "cloudcorprecords",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 38 places (×15.5)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "records",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 38 places (×14.8)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "corp",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 38 places (×14.4)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "connectors io.github.deepakshe",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 12 places (×12.0)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "deepakshe",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 11 places (×11.0)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "cloud",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 38 places (×8.3)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "connectors io.github.char5742",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 6 places (×6.0)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "connectors ai.sidetrip.connect",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 5 places (×5.0)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "kr.bluebutton",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 5 places (×5.0)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "connectors kr.bluebutton",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 5 places (×5.0)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "tordagaz ops",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 5 places (×5.0)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "anh",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 5 places (×4.9)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "b2b",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 6 places (×4.7)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "lead",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 6 places (×4.6)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "connectors dev.workers.nr",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 4 places (×4.0)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "8492.nullroute",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 4 places (×4.0)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "8492.nullroute x402",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 4 places (×4.0)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "dev.workers.nr edge",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 4 places (×4.0)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "edge 8492.nullroute",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 4 places (×4.0)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "connectors io.github.slizer138",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 4 places (×4.0)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "khoap1220",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 4 places (×4.0)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "khoap1220 hue",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 4 places (×4.0)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "bulk",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 4 places (×3.6)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      }
+    ]
+  },
+  {
     "id": "2026-11-26_morning",
     "date": "2026-11-26",
     "slot": "morning",
