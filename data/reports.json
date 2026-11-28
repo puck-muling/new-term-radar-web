@@ -1,5 +1,1078 @@
 [
   {
+    "id": "2026-11-28_evening",
+    "date": "2026-11-28",
+    "slot": "evening",
+    "label": "2026-11-28 晚场 (19:00)",
+    "breakouts": 15,
+    "new_breakouts": 11,
+    "leads": 37,
+    "max_velocity": 3067,
+    "max_velocity_repo": "Marvisak/VIctory",
+    "repos": [
+      {
+        "repo": "Marvisak/VIctory",
+        "owner": "Marvisak",
+        "name": "VIctory",
+        "stars": 13957,
+        "velocity": 3067,
+        "delta": 128,
+        "age_days": 4.6,
+        "description": "An attempt at running GTA VI on PC",
+        "new": false,
+        "zh_description": "尝试在 PC 上运行 GTA VI",
+        "tags": [
+          "全部",
+          "超高爆发"
+        ],
+        "tag_keys": [
+          "all",
+          "high_velocity"
+        ]
+      },
+      {
+        "repo": "trustno1-coder/VIctory-NVIDIA",
+        "owner": "trustno1-coder",
+        "name": "VIctory-NVIDIA",
+        "stars": 4945,
+        "velocity": 1998,
+        "delta": 1455,
+        "age_days": 2.5,
+        "description": "VIctory (Xbox Series compatibility layer) tuned for NVIDIA RTX cards: Series X at 2560x1440 with DLSS, about 26-30 fps o",
+        "new": false,
+        "zh_description": "VIctory（Xbox Series 兼容层），针对 NVIDIA RTX 显卡优化：Series X 可在 2560x1440 分辨率下开启 DLSS，帧率约 26–30 fps",
+        "tags": [
+          "全部",
+          "超高爆发"
+        ],
+        "tag_keys": [
+          "all",
+          "high_velocity"
+        ]
+      },
+      {
+        "repo": "xcl-dev/xcl",
+        "owner": "xcl-dev",
+        "name": "xcl",
+        "stars": 8773,
+        "velocity": 1151,
+        "delta": 30,
+        "age_days": 7.6,
+        "description": "Xbox Series compatibility layer for Windows - runs console game code natively, reimplements the console system libraries",
+        "new": false,
+        "zh_description": "适用于 Windows 的 Xbox Series 兼容层——原生运行主机游戏代码，并重新实现主机系统库",
+        "tags": [
+          "全部",
+          "超高爆发"
+        ],
+        "tag_keys": [
+          "all",
+          "high_velocity"
+        ]
+      },
+      {
+        "repo": "riveran0226/windows-explorer-blur-mica",
+        "owner": "riveran0226",
+        "name": "windows-explorer-blur-mica",
+        "stars": 1131,
+        "velocity": 1131,
+        "delta": 531,
+        "age_days": 1.0,
+        "description": "Free Windows 10 & 11 Explorer customization tool for Acrylic, Mica, transparency and background blur effects.",
+        "new": false,
+        "zh_description": "免费的 Windows 10 与 11 资源管理器自定义工具，支持 Acrylic、Mica、透明度和背景模糊效果。",
+        "tags": [
+          "全部",
+          "超高爆发"
+        ],
+        "tag_keys": [
+          "all",
+          "high_velocity"
+        ]
+      },
+      {
+        "repo": "flint63-code/gitdesk-windows",
+        "owner": "flint63-code",
+        "name": "gitdesk-windows",
+        "stars": 1130,
+        "velocity": 1130,
+        "delta": 543,
+        "age_days": 1.0,
+        "description": "Free open-source Git GUI client for Windows with visual commit history, branch management, SSH, Git LFS and more.",
+        "new": true,
+        "variants": [
+          "gitdesk windows",
+          "flint63-code gitdesk windows"
+        ],
+        "zh_description": "免费开源的 Windows Git 图形界面客户端，支持可视化提交历史、分支管理、SSH、Git LFS 等功能。",
+        "tags": [
+          "全部",
+          "今日新入榜",
+          "超高爆发",
+          "视觉/UI"
+        ],
+        "tag_keys": [
+          "all",
+          "new",
+          "high_velocity",
+          "ui"
+        ]
+      },
+      {
+        "repo": "mist-8659/windows-mouse-keyboard-sharing-kvm",
+        "owner": "mist-8659",
+        "name": "windows-mouse-keyboard-sharing-kvm",
+        "stars": 1124,
+        "velocity": 1124,
+        "delta": 533,
+        "age_days": 1.0,
+        "description": "Free open-source KVM software to share one keyboard and mouse across multiple Windows, macOS and Linux computers.",
+        "new": true,
+        "variants": [
+          "windows mouse keyboard sharing kvm",
+          "mist-8659 windows mouse keyboard sharing kvm"
+        ],
+        "zh_description": "免费开源的 KVM 软件，可在多台 Windows、macOS 和 Linux 计算机间共享一套键盘和鼠标。",
+        "tags": [
+          "全部",
+          "今日新入榜",
+          "超高爆发"
+        ],
+        "tag_keys": [
+          "all",
+          "new",
+          "high_velocity"
+        ]
+      },
+      {
+        "repo": "nocta1554/windows-video-downloader-gui",
+        "owner": "nocta1554",
+        "name": "windows-video-downloader-gui",
+        "stars": 1122,
+        "velocity": 1122,
+        "delta": 541,
+        "age_days": 1.0,
+        "description": "Free open-source Windows video downloader GUI for YouTube and 1,000+ websites, powered by yt-dlp.",
+        "new": true,
+        "variants": [
+          "windows video downloader gui",
+          "nocta1554 windows video downloader gui"
+        ],
+        "zh_description": "免费开源的 Windows 视频下载图形界面工具，由 yt-dlp 驱动，支持 YouTube 及 1000 多个网站。",
+        "tags": [
+          "全部",
+          "今日新入榜",
+          "超高爆发",
+          "视觉/UI"
+        ],
+        "tag_keys": [
+          "all",
+          "new",
+          "high_velocity",
+          "ui"
+        ]
+      },
+      {
+        "repo": "leaf7684/windows-modern-media-player",
+        "owner": "leaf7684",
+        "name": "windows-modern-media-player",
+        "stars": 1120,
+        "velocity": 1120,
+        "delta": 535,
+        "age_days": 1.0,
+        "description": "Free open-source Windows media player with VLC playback, video streaming, subtitles and picture-in-picture.",
+        "new": true,
+        "variants": [
+          "windows modern media player",
+          "leaf7684 windows modern media player"
+        ],
+        "zh_description": "免费开源的 Windows 媒体播放器，支持 VLC 播放、视频流、字幕和画中画。",
+        "tags": [
+          "全部",
+          "今日新入榜",
+          "超高爆发"
+        ],
+        "tag_keys": [
+          "all",
+          "new",
+          "high_velocity"
+        ]
+      },
+      {
+        "repo": "hollow-445/windows-keyboard-manager",
+        "owner": "hollow-445",
+        "name": "windows-keyboard-manager",
+        "stars": 1117,
+        "velocity": 1117,
+        "delta": 534,
+        "age_days": 1.0,
+        "description": "Free open-source keyboard remapping software for Windows with custom layouts, programmable keys, layers and tap-hold act",
+        "new": true,
+        "variants": [
+          "windows keyboard manager",
+          "hollow-445 windows keyboard manager"
+        ],
+        "zh_description": "免费开源的 Windows 键盘重映射软件，支持自定义布局、可编程按键、按键层以及长按与短按功能。",
+        "tags": [
+          "全部",
+          "今日新入榜",
+          "超高爆发"
+        ],
+        "tag_keys": [
+          "all",
+          "new",
+          "high_velocity"
+        ]
+      },
+      {
+        "repo": "Red2076-arch/waifu2x-image-upscaler-windows",
+        "owner": "Red2076-arch",
+        "name": "waifu2x-image-upscaler-windows",
+        "stars": 1116,
+        "velocity": 1116,
+        "delta": 532,
+        "age_days": 1.0,
+        "description": "Free AI image upscaler and photo denoiser for Windows powered by Vulkan GPU acceleration and ncnn neural networks.",
+        "new": true,
+        "variants": [
+          "waifu2x image upscaler windows",
+          "red2076-arch waifu2x image upscaler windows"
+        ],
+        "zh_description": "免费的人工智能图像放大与照片降噪工具，支持 Windows，依托 Vulkan GPU 加速和 ncnn 神经网络运行。",
+        "tags": [
+          "全部",
+          "今日新入榜",
+          "超高爆发",
+          "视觉/UI"
+        ],
+        "tag_keys": [
+          "all",
+          "new",
+          "high_velocity",
+          "ui"
+        ]
+      },
+      {
+        "repo": "Quill400/windows-image-viewer",
+        "owner": "Quill400",
+        "name": "windows-image-viewer",
+        "stars": 1109,
+        "velocity": 1109,
+        "delta": 543,
+        "age_days": 1.0,
+        "description": "Fast, free Windows image viewer with photo browsing, editing, folder management, and optional video playback.",
+        "new": true,
+        "variants": [
+          "windows image viewer",
+          "quill400 windows image viewer"
+        ],
+        "zh_description": "快速、免费的 Windows 图片查看器，支持照片浏览、编辑、文件夹管理以及可选的视频播放。",
+        "tags": [
+          "全部",
+          "今日新入榜",
+          "超高爆发",
+          "视觉/UI"
+        ],
+        "tag_keys": [
+          "all",
+          "new",
+          "high_velocity",
+          "ui"
+        ]
+      },
+      {
+        "repo": "Riven-639/windows-dwm-blur-glass-customizer",
+        "owner": "Riven-639",
+        "name": "windows-dwm-blur-glass-customizer",
+        "stars": 1107,
+        "velocity": 1107,
+        "delta": 532,
+        "age_days": 1.0,
+        "description": "Free Windows 10 & 11 DWM customization tool for Aero, Acrylic, Mica, blur and transparent title bar effects.",
+        "new": true,
+        "variants": [
+          "windows dwm blur glass customizer",
+          "riven-639 windows dwm blur glass customizer"
+        ],
+        "zh_description": "免费的 Windows 10 和 Windows 11 DWM 自定义工具，可实现 Aero、Acrylic、Mica、模糊和透明标题栏等视觉效果。",
+        "tags": [
+          "全部",
+          "今日新入榜",
+          "超高爆发"
+        ],
+        "tag_keys": [
+          "all",
+          "new",
+          "high_velocity"
+        ]
+      },
+      {
+        "repo": "Ash793318/windows-hardware-monitor",
+        "owner": "Ash793318",
+        "name": "windows-hardware-monitor",
+        "stars": 1107,
+        "velocity": 1107,
+        "delta": 536,
+        "age_days": 1.0,
+        "description": "Free open-source Windows hardware monitoring app for CPU, GPU, RAM, SSD temperatures, fan speeds and system performance.",
+        "new": true,
+        "variants": [
+          "windows hardware monitor",
+          "ash793318 windows hardware monitor"
+        ],
+        "zh_description": "免费开源的 Windows 硬件监控应用，可监测 CPU、GPU、RAM、SSD 温度、风扇转速和系统性能。",
+        "tags": [
+          "全部",
+          "今日新入榜",
+          "超高爆发"
+        ],
+        "tag_keys": [
+          "all",
+          "new",
+          "high_velocity"
+        ]
+      },
+      {
+        "repo": "quartzdev666/windows-pdf-editor",
+        "owner": "quartzdev666",
+        "name": "windows-pdf-editor",
+        "stars": 1106,
+        "velocity": 1106,
+        "delta": 536,
+        "age_days": 1.0,
+        "description": "Free open-source Windows PDF editor to merge, split, rotate, crop, reorder and organize PDF pages with a visual interfac",
+        "new": true,
+        "variants": [
+          "windows pdf editor",
+          "quartzdev666 windows pdf editor"
+        ],
+        "zh_description": "免费开源的 Windows PDF 编辑器，通过可视化界面合并、拆分、旋转、裁剪、重新排序和整理 PDF 页面。",
+        "tags": [
+          "全部",
+          "今日新入榜",
+          "超高爆发"
+        ],
+        "tag_keys": [
+          "all",
+          "new",
+          "high_velocity"
+        ]
+      },
+      {
+        "repo": "Loris-593/notebook-fan-control-windows",
+        "owner": "Loris-593",
+        "name": "notebook-fan-control-windows",
+        "stars": 1102,
+        "velocity": 1102,
+        "delta": 537,
+        "age_days": 1.0,
+        "description": "Free open-source Windows laptop fan control software with custom cooling profiles and notebook temperature management.",
+        "new": true,
+        "variants": [
+          "notebook fan control windows",
+          "loris-593 notebook fan control windows"
+        ],
+        "zh_description": "免费开源的 Windows 笔记本风扇控制软件，支持自定义散热配置和笔记本温度管理。",
+        "tags": [
+          "全部",
+          "今日新入榜",
+          "超高爆发"
+        ],
+        "tag_keys": [
+          "all",
+          "new",
+          "high_velocity"
+        ]
+      }
+    ],
+    "leads_data": [
+      {
+        "term": "te pk minimax h3",
+        "kinds": [
+          "hf"
+        ],
+        "signals": [
+          "Hugging Face: new at #38"
+        ],
+        "examples": [
+          "Alissonerdx/TE-PK-Minimax-H3 (?, ♥88)"
+        ],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": [
+          "Alissonerdx/TE-PK-Minimax-H3 (?, ♥88)"
+        ]
+      },
+      {
+        "term": "windows video downloader gui",
+        "kinds": [
+          "breakout"
+        ],
+        "signals": [
+          "GitHub breakout nocta1554/windows-video-downloader-gui ★1122 (1122/day, +541 in a day)"
+        ],
+        "examples": [
+          "nocta1554/windows-video-downloader-gui: Free open-source Windows video downloader GUI for YouTube and 1,000+ websites, powered by yt-dlp."
+        ],
+        "variants": [
+          "windows video downloader gui",
+          "nocta1554 windows video downloader gui"
+        ],
+        "posts": [],
+        "repo": "nocta1554/windows-video-downloader-gui",
+        "known": "",
+        "format": "video",
+        "one_click": null,
+        "zh_examples": [
+          "nocta1554/windows-video-downloader-gui: 免费开源的 Windows 视频下载图形界面工具，由 yt-dlp 驱动，支持 YouTube 及 1000 多个网站。"
+        ]
+      },
+      {
+        "term": "windows modern media player",
+        "kinds": [
+          "breakout"
+        ],
+        "signals": [
+          "GitHub breakout leaf7684/windows-modern-media-player ★1120 (1120/day, +535 in a day)"
+        ],
+        "examples": [
+          "leaf7684/windows-modern-media-player: Free open-source Windows media player with VLC playback, video streaming, subtitles and picture-in-picture."
+        ],
+        "variants": [
+          "windows modern media player",
+          "leaf7684 windows modern media player"
+        ],
+        "posts": [],
+        "repo": "leaf7684/windows-modern-media-player",
+        "known": "",
+        "format": "video",
+        "one_click": null,
+        "zh_examples": [
+          "leaf7684/windows-modern-media-player: 免费开源的 Windows 媒体播放器，支持 VLC 播放、视频流、字幕和画中画。"
+        ]
+      },
+      {
+        "term": "windows image viewer",
+        "kinds": [
+          "breakout"
+        ],
+        "signals": [
+          "GitHub breakout Quill400/windows-image-viewer ★1109 (1109/day, +543 in a day)"
+        ],
+        "examples": [
+          "Quill400/windows-image-viewer: Fast, free Windows image viewer with photo browsing, editing, folder management, and optional video playback."
+        ],
+        "variants": [
+          "windows image viewer",
+          "quill400 windows image viewer"
+        ],
+        "posts": [],
+        "repo": "Quill400/windows-image-viewer",
+        "known": "",
+        "format": "video",
+        "one_click": null,
+        "zh_examples": [
+          "Quill400/windows-image-viewer: 快速、免费的 Windows 图片查看器，支持照片浏览、编辑、文件夹管理以及可选的视频播放。"
+        ]
+      },
+      {
+        "term": "waifu2x image upscaler windows",
+        "kinds": [
+          "breakout"
+        ],
+        "signals": [
+          "GitHub breakout Red2076-arch/waifu2x-image-upscaler-windows ★1116 (1116/day, +532 in a day)"
+        ],
+        "examples": [
+          "Red2076-arch/waifu2x-image-upscaler-windows: Free AI image upscaler and photo denoiser for Windows powered by Vulkan GPU acceleration and ncnn neural networks."
+        ],
+        "variants": [
+          "waifu2x image upscaler windows",
+          "red2076-arch waifu2x image upscaler windows"
+        ],
+        "posts": [],
+        "repo": "Red2076-arch/waifu2x-image-upscaler-windows",
+        "known": "",
+        "format": "image",
+        "one_click": null,
+        "zh_examples": [
+          "Red2076-arch/waifu2x-image-upscaler-windows: 免费的人工智能图像放大与照片降噪工具，支持 Windows，依托 Vulkan GPU 加速和 ncnn 神经网络运行。"
+        ]
+      },
+      {
+        "term": "gitdesk windows",
+        "kinds": [
+          "breakout"
+        ],
+        "signals": [
+          "GitHub breakout flint63-code/gitdesk-windows ★1130 (1130/day, +543 in a day)"
+        ],
+        "examples": [
+          "flint63-code/gitdesk-windows: Free open-source Git GUI client for Windows with visual commit history, branch management, SSH, Git LFS and more."
+        ],
+        "variants": [
+          "gitdesk windows",
+          "flint63-code gitdesk windows"
+        ],
+        "posts": [],
+        "repo": "flint63-code/gitdesk-windows",
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": [
+          "flint63-code/gitdesk-windows: 免费开源的 Windows Git 图形界面客户端，支持可视化提交历史、分支管理、SSH、Git LFS 等功能。"
+        ]
+      },
+      {
+        "term": "windows mouse keyboard sharing kvm",
+        "kinds": [
+          "breakout"
+        ],
+        "signals": [
+          "GitHub breakout mist-8659/windows-mouse-keyboard-sharing-kvm ★1124 (1124/day, +533 in a day)"
+        ],
+        "examples": [
+          "mist-8659/windows-mouse-keyboard-sharing-kvm: Free open-source KVM software to share one keyboard and mouse across multiple Windows, macOS and Linux computers."
+        ],
+        "variants": [
+          "windows mouse keyboard sharing kvm",
+          "mist-8659 windows mouse keyboard sharing kvm"
+        ],
+        "posts": [],
+        "repo": "mist-8659/windows-mouse-keyboard-sharing-kvm",
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": [
+          "mist-8659/windows-mouse-keyboard-sharing-kvm: 免费开源的 KVM 软件，可在多台 Windows、macOS 和 Linux 计算机间共享一套键盘和鼠标。"
+        ]
+      },
+      {
+        "term": "windows keyboard manager",
+        "kinds": [
+          "breakout"
+        ],
+        "signals": [
+          "GitHub breakout hollow-445/windows-keyboard-manager ★1117 (1117/day, +534 in a day)"
+        ],
+        "examples": [
+          "hollow-445/windows-keyboard-manager: Free open-source keyboard remapping software for Windows with custom layouts, programmable keys, layers and tap-hold act"
+        ],
+        "variants": [
+          "windows keyboard manager",
+          "hollow-445 windows keyboard manager"
+        ],
+        "posts": [],
+        "repo": "hollow-445/windows-keyboard-manager",
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": [
+          "hollow-445/windows-keyboard-manager: 免费开源的 Windows 键盘重映射软件，支持自定义布局、可编程按键、按键层以及长按与短按功能。"
+        ]
+      },
+      {
+        "term": "windows dwm blur glass customizer",
+        "kinds": [
+          "breakout"
+        ],
+        "signals": [
+          "GitHub breakout Riven-639/windows-dwm-blur-glass-customizer ★1107 (1107/day, +532 in a day)"
+        ],
+        "examples": [
+          "Riven-639/windows-dwm-blur-glass-customizer: Free Windows 10 & 11 DWM customization tool for Aero, Acrylic, Mica, blur and transparent title bar effects."
+        ],
+        "variants": [
+          "windows dwm blur glass customizer",
+          "riven-639 windows dwm blur glass customizer"
+        ],
+        "posts": [],
+        "repo": "Riven-639/windows-dwm-blur-glass-customizer",
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": [
+          "Riven-639/windows-dwm-blur-glass-customizer: 免费的 Windows 10 和 Windows 11 DWM 自定义工具，可实现 Aero、Acrylic、Mica、模糊和透明标题栏等视觉效果。"
+        ]
+      },
+      {
+        "term": "windows hardware monitor",
+        "kinds": [
+          "breakout"
+        ],
+        "signals": [
+          "GitHub breakout Ash793318/windows-hardware-monitor ★1107 (1107/day, +536 in a day)"
+        ],
+        "examples": [
+          "Ash793318/windows-hardware-monitor: Free open-source Windows hardware monitoring app for CPU, GPU, RAM, SSD temperatures, fan speeds and system performance."
+        ],
+        "variants": [
+          "windows hardware monitor",
+          "ash793318 windows hardware monitor"
+        ],
+        "posts": [],
+        "repo": "Ash793318/windows-hardware-monitor",
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": [
+          "Ash793318/windows-hardware-monitor: 免费开源的 Windows 硬件监控应用，可监测 CPU、GPU、RAM、SSD 温度、风扇转速和系统性能。"
+        ]
+      },
+      {
+        "term": "windows pdf editor",
+        "kinds": [
+          "breakout"
+        ],
+        "signals": [
+          "GitHub breakout quartzdev666/windows-pdf-editor ★1106 (1106/day, +536 in a day)"
+        ],
+        "examples": [
+          "quartzdev666/windows-pdf-editor: Free open-source Windows PDF editor to merge, split, rotate, crop, reorder and organize PDF pages with a visual interfac"
+        ],
+        "variants": [
+          "windows pdf editor",
+          "quartzdev666 windows pdf editor"
+        ],
+        "posts": [],
+        "repo": "quartzdev666/windows-pdf-editor",
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": [
+          "quartzdev666/windows-pdf-editor: 免费开源的 Windows PDF 编辑器，通过可视化界面合并、拆分、旋转、裁剪、重新排序和整理 PDF 页面。"
+        ]
+      },
+      {
+        "term": "notebook fan control windows",
+        "kinds": [
+          "breakout"
+        ],
+        "signals": [
+          "GitHub breakout Loris-593/notebook-fan-control-windows ★1102 (1102/day, +537 in a day)"
+        ],
+        "examples": [
+          "Loris-593/notebook-fan-control-windows: Free open-source Windows laptop fan control software with custom cooling profiles and notebook temperature management."
+        ],
+        "variants": [
+          "notebook fan control windows",
+          "loris-593 notebook fan control windows"
+        ],
+        "posts": [],
+        "repo": "Loris-593/notebook-fan-control-windows",
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": [
+          "Loris-593/notebook-fan-control-windows: 免费开源的 Windows 笔记本风扇控制软件，支持自定义散热配置和笔记本温度管理。"
+        ]
+      },
+      {
+        "term": "tts",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 6 places (×3.7)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "voice",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "tutorials",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 25 places (×15.1)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "tutorials deepseek",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 9 places (×9.0)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "deepseek",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 16 places (×8.3)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "r1",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 8 places (×7.2)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "connectors io.github.abangdwie",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 7 places (×7.0)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "connectors io.github.christurtleday",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 6 places (×5.7)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "io.github.christurtleday hue",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 6 places (×5.7)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "hue",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 7 places (×5.1)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "io.github.epinto1000",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 5 places (×5.0)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "connectors io.github.epinto1000",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 5 places (×5.0)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "io.github.epinto1000 a11y",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 5 places (×5.0)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "cito",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 5 places (×4.9)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "series",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 5 places (×4.7)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "address parser",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 4 places (×4.0)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "zhejiang",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 4 places (×4.0)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "zhejiang deepseek",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 4 places (×4.0)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "courseware",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 4 places (×4.0)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "courseware series",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 4 places (×4.0)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "deepseek courseware",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 4 places (×4.0)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "what",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 5 places (×3.8)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "aigc",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 4 places (×3.7)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "hue global",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 3 places (×3.0)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "parser geocoder",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 3 places (×3.0)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "argoness prime",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 3 places (×3.0)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      }
+    ]
+  },
+  {
     "id": "2026-11-28_morning",
     "date": "2026-11-28",
     "slot": "morning",
