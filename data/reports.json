@@ -1,5 +1,868 @@
 [
   {
+    "id": "2026-11-28_morning",
+    "date": "2026-11-28",
+    "slot": "morning",
+    "label": "2026-11-28 早场 (10:00)",
+    "breakouts": 15,
+    "new_breakouts": 5,
+    "leads": 30,
+    "max_velocity": 3312,
+    "max_velocity_repo": "Marvisak/VIctory",
+    "repos": [
+      {
+        "repo": "Marvisak/VIctory",
+        "owner": "Marvisak",
+        "name": "VIctory",
+        "stars": 13829,
+        "velocity": 3312,
+        "delta": 441,
+        "age_days": 4.2,
+        "description": "An attempt at running GTA VI on PC",
+        "new": false,
+        "zh_description": "尝试在 PC 上运行 GTA VI",
+        "tags": [
+          "全部",
+          "超高爆发"
+        ],
+        "tag_keys": [
+          "all",
+          "high_velocity"
+        ]
+      },
+      {
+        "repo": "trustno1-coder/VIctory-NVIDIA",
+        "owner": "trustno1-coder",
+        "name": "VIctory-NVIDIA",
+        "stars": 3490,
+        "velocity": 1661,
+        "delta": null,
+        "age_days": 2.1,
+        "description": "VIctory (Xbox Series compatibility layer) tuned for NVIDIA RTX cards: Series X at 2560x1440 with DLSS, about 26-30 fps o",
+        "new": true,
+        "variants": [
+          "victory nvidia",
+          "trustno1-coder victory nvidia"
+        ],
+        "zh_description": "VIctory（Xbox Series 兼容层），针对 NVIDIA RTX 显卡优化：Series X 可在 2560x1440 分辨率下开启 DLSS，帧率约 26–30 fps",
+        "tags": [
+          "全部",
+          "今日新入榜",
+          "超高爆发"
+        ],
+        "tag_keys": [
+          "all",
+          "new",
+          "high_velocity"
+        ]
+      },
+      {
+        "repo": "nexu-io/opengame",
+        "owner": "nexu-io",
+        "name": "opengame",
+        "stars": 2287,
+        "velocity": 866,
+        "delta": 1274,
+        "age_days": 2.6,
+        "description": "The Super Game Agent — the Unity & Unreal for AI agents, with 100+ viral games to remix. Turn 20+ coding agents (Claude ",
+        "new": false,
+        "zh_description": "Super Game Agent——面向 AI 智能体的 Unity 与 Unreal，内置 100 多款热门游戏供二次创作。调用 20 多个编程智能体（Claude",
+        "tags": [
+          "全部",
+          "智能体/Agent"
+        ],
+        "tag_keys": [
+          "all",
+          "agent"
+        ]
+      },
+      {
+        "repo": "Pixel679-cmyk/windows-titlebar-blur-customizer",
+        "owner": "Pixel679-cmyk",
+        "name": "windows-titlebar-blur-customizer",
+        "stars": 1505,
+        "velocity": 1265,
+        "delta": null,
+        "age_days": 1.2,
+        "description": "Customize Windows 10 and 11 title bar effects with Aero, Acrylic, Mica and advanced DWM blur effects.",
+        "new": true,
+        "variants": [
+          "windows titlebar blur customizer",
+          "pixel679-cmyk windows titlebar blur customizer"
+        ],
+        "zh_description": "使用 Aero、Acrylic、Mica 以及高级 DWM 模糊效果，自定义 Windows 10 和 11 的标题栏效果。",
+        "tags": [
+          "全部",
+          "今日新入榜",
+          "超高爆发"
+        ],
+        "tag_keys": [
+          "all",
+          "new",
+          "high_velocity"
+        ]
+      },
+      {
+        "repo": "xcl-dev/xcl",
+        "owner": "xcl-dev",
+        "name": "xcl",
+        "stars": 8743,
+        "velocity": 1206,
+        "delta": 125,
+        "age_days": 7.2,
+        "description": "Xbox Series compatibility layer for Windows - runs console game code natively, reimplements the console system libraries",
+        "new": false,
+        "zh_description": "适用于 Windows 的 Xbox Series 兼容层——原生运行主机游戏代码，并重新实现主机系统库",
+        "tags": [
+          "全部",
+          "超高爆发"
+        ],
+        "tag_keys": [
+          "all",
+          "high_velocity"
+        ]
+      },
+      {
+        "repo": "4lwayz/portwatch-vi",
+        "owner": "4lwayz",
+        "name": "portwatch-vi",
+        "stars": 6777,
+        "velocity": 1109,
+        "delta": 911,
+        "age_days": 6.1,
+        "description": "Does GTA VI run on PC yet? A live tracker of community recompilation and emulation efforts, updated daily.",
+        "new": false,
+        "zh_description": "GTA VI 能在 PC 上运行了吗？实时追踪社区的重编译与模拟 efforts，每日更新。",
+        "tags": [
+          "全部",
+          "超高爆发",
+          "移动/系统"
+        ],
+        "tag_keys": [
+          "all",
+          "high_velocity",
+          "mobile"
+        ]
+      },
+      {
+        "repo": "fxceless/victory-fork",
+        "owner": "fxceless",
+        "name": "victory-fork",
+        "stars": 3362,
+        "velocity": 1009,
+        "delta": 78,
+        "age_days": 3.3,
+        "description": "Work-in-progress fork of VIctory: getting an Xbox Series title to render and run on a Windows PC. No game files.",
+        "new": false,
+        "zh_description": "VIctory 的开发中分支：让 Xbox Series 游戏能够在 Windows PC 上渲染并运行。不含游戏文件。",
+        "tags": [
+          "全部",
+          "超高爆发"
+        ],
+        "tag_keys": [
+          "all",
+          "high_velocity"
+        ]
+      },
+      {
+        "repo": "erkamyaman/rust-anything",
+        "owner": "erkamyaman",
+        "name": "rust-anything",
+        "stars": 10806,
+        "velocity": 933,
+        "delta": 566,
+        "age_days": 11.6,
+        "description": "Rewrite your app in Rust, piece by piece, checked against the original at every step. Works with TypeScript, JavaScript,",
+        "new": false,
+        "zh_description": "用 Rust 逐步重写你的应用，每一步都与原版进行核对。支持 TypeScript、JavaScript，",
+        "tags": [
+          "全部"
+        ],
+        "tag_keys": [
+          "all"
+        ]
+      },
+      {
+        "repo": "Reukix/Reloc",
+        "owner": "Reukix",
+        "name": "Reloc",
+        "stars": 1680,
+        "velocity": 714,
+        "delta": 829,
+        "age_days": 2.4,
+        "description": "iOS accessory-level location simulator over local loopback (iAP2 / MFi-v3 / NMEA)",
+        "new": false,
+        "zh_description": "基于本地回环的 iOS 配件级位置模拟器（iAP2 / MFi-v3 / NMEA）",
+        "tags": [
+          "全部"
+        ],
+        "tag_keys": [
+          "all"
+        ]
+      },
+      {
+        "repo": "alesha-pro/llm.asm",
+        "owner": "alesha-pro",
+        "name": "llm.asm",
+        "stars": 2241,
+        "velocity": 808,
+        "delta": 669,
+        "age_days": 2.8,
+        "description": "Qwen3-0.6B inference (12 KB), bare-metal bootable OS (22 KB), and from-scratch Mini-GPT trainer with live Braille TUI (3",
+        "new": false,
+        "zh_description": "Qwen3-0.6B 推理（12 KB）、可裸机启动的操作系统（22 KB），以及从零实现的 Mini-GPT 训练器，配备实时盲文终端界面（3",
+        "tags": [
+          "全部",
+          "视觉/UI"
+        ],
+        "tag_keys": [
+          "all",
+          "ui"
+        ]
+      },
+      {
+        "repo": "ProjectLeonida/mandy",
+        "owner": "ProjectLeonida",
+        "name": "mandy",
+        "stars": 2907,
+        "velocity": 711,
+        "delta": null,
+        "age_days": 4.1,
+        "description": "A continuation of Leonida, the Xbox > PC port interface for GTA VI",
+        "new": true,
+        "variants": [
+          "mandy",
+          "projectleonida mandy",
+          "mandy mandy"
+        ],
+        "zh_description": "Leonida 的后续项目；Leonida 是一款将 GTA VI 从 Xbox 移植至 PC 的界面工具",
+        "tags": [
+          "全部",
+          "今日新入榜"
+        ],
+        "tag_keys": [
+          "all",
+          "new"
+        ]
+      },
+      {
+        "repo": "EL4CTEO/fast-anything",
+        "owner": "EL4CTEO",
+        "name": "fast-anything",
+        "stars": 4481,
+        "velocity": 692,
+        "delta": 234,
+        "age_days": 6.5,
+        "description": "Don't rewrite it in Rust. Rewrite the 5% that's slow: profile your app, port the hot functions with your coding agent, p",
+        "new": false,
+        "zh_description": "别用 Rust 重写整个项目。只重写其中运行缓慢的 5%：先分析应用性能，再借助编程智能体重写热点函数，p",
+        "tags": [
+          "全部",
+          "智能体/Agent"
+        ],
+        "tag_keys": [
+          "all",
+          "agent"
+        ]
+      },
+      {
+        "repo": "ZigZagBoi1/ScarlettPort",
+        "owner": "ZigZagBoi1",
+        "name": "ScarlettPort",
+        "stars": 1323,
+        "velocity": 359,
+        "delta": 684,
+        "age_days": 3.7,
+        "description": "Native PC port layer for an Xbox Series X|S title: the game's x64 code runs on your CPU and its RDNA2 GPU code is recomp",
+        "new": true,
+        "variants": [
+          "scarlettport",
+          "zigzagboi1 scarlettport",
+          "marwan scarlettport"
+        ],
+        "zh_description": "为 Xbox Series X|S 游戏提供的原生 PC 移植层：游戏的 x64 代码可运行在 CPU 上，其 RDNA2 GPU 代码会重新编译",
+        "tags": [
+          "全部",
+          "今日新入榜",
+          "移动/系统"
+        ],
+        "tag_keys": [
+          "all",
+          "new",
+          "mobile"
+        ]
+      },
+      {
+        "repo": "RMvdesi/obsidian-prism",
+        "owner": "RMvdesi",
+        "name": "obsidian-prism",
+        "stars": 2940,
+        "velocity": 268,
+        "delta": 655,
+        "age_days": 11.0,
+        "description": "Optical UI, damped-spring choreography, 512K shallow-water vial, pixel mascots & dual-mode thought suite for Antigravity",
+        "new": false,
+        "zh_description": "面向 Antigravity 的光学 UI、阻尼弹簧动效、512K 浅水容器、像素吉祥物及双模式思维套件",
+        "tags": [
+          "全部",
+          "视觉/UI"
+        ],
+        "tag_keys": [
+          "all",
+          "ui"
+        ]
+      },
+      {
+        "repo": "riveran0226/windows-explorer-blur-mica",
+        "owner": "riveran0226",
+        "name": "windows-explorer-blur-mica",
+        "stars": 600,
+        "velocity": 600,
+        "delta": null,
+        "age_days": 1.0,
+        "description": "Free Windows 10 & 11 Explorer customization tool for Acrylic, Mica, transparency and background blur effects.",
+        "new": true,
+        "variants": [
+          "windows explorer blur mica",
+          "riveran0226 windows explorer blur mica"
+        ],
+        "zh_description": "免费的 Windows 10 与 11 资源管理器自定义工具，支持 Acrylic、Mica、透明度和背景模糊效果。",
+        "tags": [
+          "全部",
+          "今日新入榜"
+        ],
+        "tag_keys": [
+          "all",
+          "new"
+        ]
+      }
+    ],
+    "leads_data": [
+      {
+        "term": "windows explorer blur mica",
+        "kinds": [
+          "breakout"
+        ],
+        "signals": [
+          "GitHub breakout riveran0226/windows-explorer-blur-mica ★600 (600/day)"
+        ],
+        "examples": [
+          "riveran0226/windows-explorer-blur-mica: Free Windows 10 & 11 Explorer customization tool for Acrylic, Mica, transparency and background blur effects."
+        ],
+        "variants": [
+          "windows explorer blur mica",
+          "riveran0226 windows explorer blur mica"
+        ],
+        "posts": [],
+        "repo": "riveran0226/windows-explorer-blur-mica",
+        "known": "",
+        "format": "image",
+        "one_click": null,
+        "zh_examples": [
+          "riveran0226/windows-explorer-blur-mica: 免费的 Windows 10 与 11 资源管理器自定义工具，支持 Acrylic、Mica、透明度和背景模糊效果。"
+        ]
+      },
+      {
+        "term": "victory nvidia",
+        "kinds": [
+          "breakout"
+        ],
+        "signals": [
+          "GitHub breakout trustno1-coder/VIctory-NVIDIA ★3490 (1661/day)"
+        ],
+        "examples": [
+          "trustno1-coder/VIctory-NVIDIA: VIctory (Xbox Series compatibility layer) tuned for NVIDIA RTX cards: Series X at 2560x1440 with DLSS, about 26-30 fps o"
+        ],
+        "variants": [
+          "victory nvidia",
+          "trustno1-coder victory nvidia"
+        ],
+        "posts": [],
+        "repo": "trustno1-coder/VIctory-NVIDIA",
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": [
+          "trustno1-coder/VIctory-NVIDIA: VIctory（Xbox Series 兼容层），针对 NVIDIA RTX 显卡优化：Series X 可在 2560x1440 分辨率下开启 DLSS，帧率约 26–30 fps"
+        ]
+      },
+      {
+        "term": "windows titlebar blur customizer",
+        "kinds": [
+          "breakout"
+        ],
+        "signals": [
+          "GitHub breakout Pixel679-cmyk/windows-titlebar-blur-customizer ★1505 (1265/day)"
+        ],
+        "examples": [
+          "Pixel679-cmyk/windows-titlebar-blur-customizer: Customize Windows 10 and 11 title bar effects with Aero, Acrylic, Mica and advanced DWM blur effects."
+        ],
+        "variants": [
+          "windows titlebar blur customizer",
+          "pixel679-cmyk windows titlebar blur customizer"
+        ],
+        "posts": [],
+        "repo": "Pixel679-cmyk/windows-titlebar-blur-customizer",
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": [
+          "Pixel679-cmyk/windows-titlebar-blur-customizer: 使用 Aero、Acrylic、Mica 以及高级 DWM 模糊效果，自定义 Windows 10 和 11 的标题栏效果。"
+        ]
+      },
+      {
+        "term": "mandy",
+        "kinds": [
+          "breakout"
+        ],
+        "signals": [
+          "GitHub breakout ProjectLeonida/mandy ★2907 (711/day)"
+        ],
+        "examples": [
+          "ProjectLeonida/mandy: A continuation of Leonida, the Xbox > PC port interface for GTA VI"
+        ],
+        "variants": [
+          "mandy",
+          "projectleonida mandy",
+          "mandy mandy"
+        ],
+        "posts": [],
+        "repo": "ProjectLeonida/mandy",
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": [
+          "ProjectLeonida/mandy: Leonida 的后续项目；Leonida 是一款将 GTA VI 从 Xbox 移植至 PC 的界面工具"
+        ]
+      },
+      {
+        "term": "scarlettport",
+        "kinds": [
+          "breakout"
+        ],
+        "signals": [
+          "GitHub breakout ZigZagBoi1/ScarlettPort ★1323 (359/day, +684 in a day)"
+        ],
+        "examples": [
+          "ZigZagBoi1/ScarlettPort: Native PC port layer for an Xbox Series X|S title: the game's x64 code runs on your CPU and its RDNA2 GPU code is recomp"
+        ],
+        "variants": [
+          "scarlettport",
+          "zigzagboi1 scarlettport",
+          "marwan scarlettport"
+        ],
+        "posts": [],
+        "repo": "ZigZagBoi1/ScarlettPort",
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": [
+          "ZigZagBoi1/ScarlettPort: 为 Xbox Series X|S 游戏提供的原生 PC 移植层：游戏的 x64 代码可运行在 CPU 上，其 RDNA2 GPU 代码会重新编译"
+        ]
+      },
+      {
+        "term": "munseo",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 15 places (×15.0)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "ahmedsaeed1 eng",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 11 places (×11.0)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "connectors com.mr",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 11 places (×10.9)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "com.mr bridge",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 11 places (×10.9)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "cotlet",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 26 places (×9.6)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "cotlet connect",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 26 places (×9.6)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "eng",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 12 places (×8.0)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "connectors io.github.datagoosedev",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 8 places (×8.0)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "connectors io.github.on",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 8 places (×8.0)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "io.github.on munseo",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 8 places (×8.0)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "dev.cotlet",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 26 places (×7.2)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "connectors dev.cotlet",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 26 places (×7.2)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "connectors im.starport",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 7 places (×7.0)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "kalmardani",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 7 places (×7.0)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "udondan",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 7 places (×7.0)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "antigravity",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 14 places (×6.8)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "tordagaz ops",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 7 places (×6.8)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "connect",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 27 places (×6.4)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "actor.apify.eurocomply",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 5 places (×5.0)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "connectors actor.apify.eurocomply",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 5 places (×5.0)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "euro comply",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 5 places (×5.0)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "connectors com.tolinku",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 5 places (×5.0)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "tolinku",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 5 places (×5.0)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "com.tolinku tolinku",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 5 places (×5.0)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      },
+      {
+        "term": "im.starport satellite",
+        "kinds": [
+          "sitemap"
+        ],
+        "signals": [
+          "③ sitemaps: 5 places (×5.0)"
+        ],
+        "examples": [],
+        "variants": [],
+        "posts": [],
+        "known": "",
+        "format": "text",
+        "one_click": null,
+        "zh_examples": []
+      }
+    ]
+  },
+  {
     "id": "2026-11-27_morning",
     "date": "2026-11-27",
     "slot": "morning",
